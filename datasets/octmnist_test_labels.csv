@@ -1,0 +1,912 @@
+image_index,label_index,label_name,split
+9159,3,normal,test
+94101,1,diabetic macular edema,test
+8554,3,normal,test
+40658,3,normal,test
+45058,3,normal,test
+77643,2,drusen,test
+19079,3,normal,test
+49894,3,normal,test
+25123,0,choroidal neovascularization,test
+7238,0,choroidal neovascularization,test
+8669,3,normal,test
+89186,1,diabetic macular edema,test
+68489,3,normal,test
+6615,0,choroidal neovascularization,test
+38846,3,normal,test
+2842,0,choroidal neovascularization,test
+74854,3,normal,test
+52987,3,normal,test
+87240,3,normal,test
+49104,0,choroidal neovascularization,test
+92669,2,drusen,test
+66227,3,normal,test
+90681,3,normal,test
+3431,1,diabetic macular edema,test
+94690,0,choroidal neovascularization,test
+83439,0,choroidal neovascularization,test
+4765,3,normal,test
+44413,1,diabetic macular edema,test
+10678,3,normal,test
+34220,1,diabetic macular edema,test
+4589,3,normal,test
+1018,3,normal,test
+41680,3,normal,test
+32744,3,normal,test
+28171,2,drusen,test
+15569,0,choroidal neovascularization,test
+67632,0,choroidal neovascularization,test
+74547,3,normal,test
+34371,3,normal,test
+42320,0,choroidal neovascularization,test
+12994,2,drusen,test
+41088,3,normal,test
+70992,3,normal,test
+97022,3,normal,test
+60790,3,normal,test
+93782,3,normal,test
+37867,1,diabetic macular edema,test
+5177,0,choroidal neovascularization,test
+17614,0,choroidal neovascularization,test
+3223,3,normal,test
+29816,3,normal,test
+91401,3,normal,test
+10197,0,choroidal neovascularization,test
+47547,3,normal,test
+72412,0,choroidal neovascularization,test
+19423,0,choroidal neovascularization,test
+9841,2,drusen,test
+84730,0,choroidal neovascularization,test
+19626,3,normal,test
+90010,3,normal,test
+69175,0,choroidal neovascularization,test
+56893,0,choroidal neovascularization,test
+6166,3,normal,test
+61505,1,diabetic macular edema,test
+90876,1,diabetic macular edema,test
+86004,0,choroidal neovascularization,test
+60170,3,normal,test
+88872,3,normal,test
+81386,3,normal,test
+58762,3,normal,test
+2854,0,choroidal neovascularization,test
+55669,3,normal,test
+40731,0,choroidal neovascularization,test
+66513,2,drusen,test
+84912,3,normal,test
+99,0,choroidal neovascularization,test
+84723,3,normal,test
+22518,3,normal,test
+84887,2,drusen,test
+87122,3,normal,test
+70320,0,choroidal neovascularization,test
+62446,0,choroidal neovascularization,test
+7226,3,normal,test
+29528,0,choroidal neovascularization,test
+11889,3,normal,test
+17903,0,choroidal neovascularization,test
+38820,0,choroidal neovascularization,test
+5831,3,normal,test
+94847,0,choroidal neovascularization,test
+51842,0,choroidal neovascularization,test
+84952,3,normal,test
+45263,3,normal,test
+53458,2,drusen,test
+20762,3,normal,test
+78468,3,normal,test
+96801,3,normal,test
+17837,0,choroidal neovascularization,test
+80298,0,choroidal neovascularization,test
+73197,3,normal,test
+7200,0,choroidal neovascularization,test
+95983,0,choroidal neovascularization,test
+47441,0,choroidal neovascularization,test
+22899,1,diabetic macular edema,test
+7307,3,normal,test
+66162,3,normal,test
+47811,3,normal,test
+20299,3,normal,test
+50962,0,choroidal neovascularization,test
+80547,0,choroidal neovascularization,test
+14689,3,normal,test
+10077,3,normal,test
+16174,0,choroidal neovascularization,test
+80235,3,normal,test
+36611,3,normal,test
+73270,0,choroidal neovascularization,test
+93724,3,normal,test
+5117,3,normal,test
+6389,3,normal,test
+394,1,diabetic macular edema,test
+9279,3,normal,test
+90721,2,drusen,test
+34747,0,choroidal neovascularization,test
+63897,3,normal,test
+91751,0,choroidal neovascularization,test
+53081,3,normal,test
+46642,0,choroidal neovascularization,test
+26374,3,normal,test
+5247,3,normal,test
+88575,3,normal,test
+79981,0,choroidal neovascularization,test
+25038,3,normal,test
+5024,3,normal,test
+12538,3,normal,test
+53603,1,diabetic macular edema,test
+9223,3,normal,test
+22111,3,normal,test
+2843,3,normal,test
+25493,0,choroidal neovascularization,test
+60315,1,diabetic macular edema,test
+74065,0,choroidal neovascularization,test
+84580,3,normal,test
+66543,3,normal,test
+8442,0,choroidal neovascularization,test
+7004,2,drusen,test
+17596,3,normal,test
+76472,0,choroidal neovascularization,test
+69286,1,diabetic macular edema,test
+10678,0,choroidal neovascularization,test
+10687,3,normal,test
+97113,3,normal,test
+48498,2,drusen,test
+10071,0,choroidal neovascularization,test
+39711,1,diabetic macular edema,test
+97128,0,choroidal neovascularization,test
+40782,0,choroidal neovascularization,test
+69015,3,normal,test
+76219,3,normal,test
+6037,3,normal,test
+66573,2,drusen,test
+26530,0,choroidal neovascularization,test
+90521,0,choroidal neovascularization,test
+53981,3,normal,test
+5157,0,choroidal neovascularization,test
+51428,0,choroidal neovascularization,test
+93290,3,normal,test
+4556,3,normal,test
+9938,3,normal,test
+94204,0,choroidal neovascularization,test
+62694,3,normal,test
+50556,1,diabetic macular edema,test
+73836,0,choroidal neovascularization,test
+26166,0,choroidal neovascularization,test
+25681,3,normal,test
+95119,3,normal,test
+2507,3,normal,test
+70847,3,normal,test
+12380,0,choroidal neovascularization,test
+74074,0,choroidal neovascularization,test
+93755,3,normal,test
+16165,3,normal,test
+54969,2,drusen,test
+36712,3,normal,test
+96042,1,diabetic macular edema,test
+49635,0,choroidal neovascularization,test
+7482,0,choroidal neovascularization,test
+75339,0,choroidal neovascularization,test
+84884,3,normal,test
+76024,2,drusen,test
+28808,3,normal,test
+35455,3,normal,test
+8308,1,diabetic macular edema,test
+66171,0,choroidal neovascularization,test
+84295,0,choroidal neovascularization,test
+748,3,normal,test
+2188,0,choroidal neovascularization,test
+92484,0,choroidal neovascularization,test
+2791,3,normal,test
+43808,0,choroidal neovascularization,test
+10345,3,normal,test
+83473,0,choroidal neovascularization,test
+83489,0,choroidal neovascularization,test
+36451,3,normal,test
+82013,0,choroidal neovascularization,test
+5070,1,diabetic macular edema,test
+16135,3,normal,test
+20695,3,normal,test
+73714,2,drusen,test
+69911,1,diabetic macular edema,test
+88233,0,choroidal neovascularization,test
+27931,3,normal,test
+51400,3,normal,test
+56473,0,choroidal neovascularization,test
+72526,3,normal,test
+7036,3,normal,test
+85267,2,drusen,test
+92705,2,drusen,test
+75592,3,normal,test
+380,1,diabetic macular edema,test
+3934,3,normal,test
+56890,0,choroidal neovascularization,test
+28377,3,normal,test
+37381,1,diabetic macular edema,test
+79822,1,diabetic macular edema,test
+67166,3,normal,test
+77354,3,normal,test
+79988,0,choroidal neovascularization,test
+4034,0,choroidal neovascularization,test
+92760,0,choroidal neovascularization,test
+81948,0,choroidal neovascularization,test
+2038,3,normal,test
+33250,3,normal,test
+91604,0,choroidal neovascularization,test
+30830,0,choroidal neovascularization,test
+62274,3,normal,test
+14939,3,normal,test
+9710,0,choroidal neovascularization,test
+33902,3,normal,test
+51080,0,choroidal neovascularization,test
+56184,3,normal,test
+84731,3,normal,test
+59868,3,normal,test
+71167,0,choroidal neovascularization,test
+59429,3,normal,test
+73041,3,normal,test
+43404,1,diabetic macular edema,test
+83265,2,drusen,test
+62848,0,choroidal neovascularization,test
+80622,3,normal,test
+35716,2,drusen,test
+70940,3,normal,test
+27552,3,normal,test
+73687,3,normal,test
+43443,3,normal,test
+39606,3,normal,test
+1065,3,normal,test
+3000,3,normal,test
+8419,3,normal,test
+89087,3,normal,test
+33417,2,drusen,test
+71375,3,normal,test
+47004,3,normal,test
+25630,0,choroidal neovascularization,test
+65669,0,choroidal neovascularization,test
+96425,0,choroidal neovascularization,test
+17169,0,choroidal neovascularization,test
+71817,3,normal,test
+6488,0,choroidal neovascularization,test
+51874,3,normal,test
+10263,0,choroidal neovascularization,test
+34283,0,choroidal neovascularization,test
+24613,3,normal,test
+52457,1,diabetic macular edema,test
+48962,3,normal,test
+80914,3,normal,test
+68917,3,normal,test
+41840,2,drusen,test
+33864,0,choroidal neovascularization,test
+68299,3,normal,test
+85488,2,drusen,test
+5028,3,normal,test
+65463,0,choroidal neovascularization,test
+70984,3,normal,test
+79434,3,normal,test
+22706,1,diabetic macular edema,test
+33300,2,drusen,test
+201,0,choroidal neovascularization,test
+39736,2,drusen,test
+48561,0,choroidal neovascularization,test
+70038,3,normal,test
+183,1,diabetic macular edema,test
+15351,0,choroidal neovascularization,test
+89536,0,choroidal neovascularization,test
+10694,0,choroidal neovascularization,test
+31833,3,normal,test
+3331,1,diabetic macular edema,test
+21962,0,choroidal neovascularization,test
+39381,0,choroidal neovascularization,test
+38759,0,choroidal neovascularization,test
+45159,3,normal,test
+41055,0,choroidal neovascularization,test
+49308,3,normal,test
+8471,3,normal,test
+71233,0,choroidal neovascularization,test
+73,3,normal,test
+25351,0,choroidal neovascularization,test
+54115,0,choroidal neovascularization,test
+6070,0,choroidal neovascularization,test
+92961,2,drusen,test
+31377,3,normal,test
+34868,0,choroidal neovascularization,test
+28112,3,normal,test
+1357,3,normal,test
+92954,3,normal,test
+96872,0,choroidal neovascularization,test
+49892,0,choroidal neovascularization,test
+49637,0,choroidal neovascularization,test
+3083,3,normal,test
+43384,3,normal,test
+17146,0,choroidal neovascularization,test
+23171,2,drusen,test
+8915,3,normal,test
+7797,0,choroidal neovascularization,test
+72126,0,choroidal neovascularization,test
+87992,3,normal,test
+5049,0,choroidal neovascularization,test
+3547,3,normal,test
+1416,0,choroidal neovascularization,test
+21449,3,normal,test
+54707,3,normal,test
+20045,3,normal,test
+41443,0,choroidal neovascularization,test
+58619,3,normal,test
+24698,3,normal,test
+80673,3,normal,test
+66486,0,choroidal neovascularization,test
+36163,3,normal,test
+43655,1,diabetic macular edema,test
+20337,3,normal,test
+80972,0,choroidal neovascularization,test
+37696,3,normal,test
+93912,3,normal,test
+77402,3,normal,test
+51960,2,drusen,test
+92946,0,choroidal neovascularization,test
+25659,3,normal,test
+51854,3,normal,test
+13326,3,normal,test
+10575,0,choroidal neovascularization,test
+6094,0,choroidal neovascularization,test
+9380,0,choroidal neovascularization,test
+1233,0,choroidal neovascularization,test
+36907,3,normal,test
+29855,3,normal,test
+68122,0,choroidal neovascularization,test
+52524,0,choroidal neovascularization,test
+1981,3,normal,test
+11283,1,diabetic macular edema,test
+85432,0,choroidal neovascularization,test
+69218,3,normal,test
+63447,3,normal,test
+3710,1,diabetic macular edema,test
+80771,2,drusen,test
+89613,3,normal,test
+3799,3,normal,test
+31427,0,choroidal neovascularization,test
+34681,3,normal,test
+57689,1,diabetic macular edema,test
+39569,3,normal,test
+47818,0,choroidal neovascularization,test
+9893,0,choroidal neovascularization,test
+67320,2,drusen,test
+11720,1,diabetic macular edema,test
+60575,0,choroidal neovascularization,test
+25092,0,choroidal neovascularization,test
+26739,3,normal,test
+58244,2,drusen,test
+93779,0,choroidal neovascularization,test
+13389,0,choroidal neovascularization,test
+78273,3,normal,test
+83242,0,choroidal neovascularization,test
+75925,3,normal,test
+13677,0,choroidal neovascularization,test
+66025,3,normal,test
+40093,2,drusen,test
+36102,1,diabetic macular edema,test
+50349,2,drusen,test
+57459,3,normal,test
+72860,3,normal,test
+84720,3,normal,test
+79478,0,choroidal neovascularization,test
+7290,0,choroidal neovascularization,test
+95623,3,normal,test
+39273,0,choroidal neovascularization,test
+64464,0,choroidal neovascularization,test
+6972,3,normal,test
+44896,0,choroidal neovascularization,test
+27778,1,diabetic macular edema,test
+17608,1,diabetic macular edema,test
+14307,3,normal,test
+83650,0,choroidal neovascularization,test
+73959,0,choroidal neovascularization,test
+35406,1,diabetic macular edema,test
+437,1,diabetic macular edema,test
+54429,3,normal,test
+7819,0,choroidal neovascularization,test
+68736,3,normal,test
+73788,3,normal,test
+43622,3,normal,test
+65587,1,diabetic macular edema,test
+24726,3,normal,test
+74478,0,choroidal neovascularization,test
+53082,3,normal,test
+90997,3,normal,test
+75566,2,drusen,test
+51634,0,choroidal neovascularization,test
+8568,0,choroidal neovascularization,test
+35794,3,normal,test
+87862,0,choroidal neovascularization,test
+63201,3,normal,test
+2972,3,normal,test
+21445,3,normal,test
+58743,3,normal,test
+7270,0,choroidal neovascularization,test
+57014,0,choroidal neovascularization,test
+75034,3,normal,test
+7141,2,drusen,test
+63017,3,normal,test
+26009,3,normal,test
+55694,0,choroidal neovascularization,test
+65787,0,choroidal neovascularization,test
+9318,0,choroidal neovascularization,test
+49081,3,normal,test
+6454,0,choroidal neovascularization,test
+25437,3,normal,test
+22699,1,diabetic macular edema,test
+10276,2,drusen,test
+10893,3,normal,test
+66374,3,normal,test
+80698,3,normal,test
+43109,1,diabetic macular edema,test
+62600,3,normal,test
+3847,0,choroidal neovascularization,test
+15462,0,choroidal neovascularization,test
+71534,0,choroidal neovascularization,test
+14700,2,drusen,test
+28455,2,drusen,test
+93118,3,normal,test
+70262,0,choroidal neovascularization,test
+3633,0,choroidal neovascularization,test
+40324,3,normal,test
+16882,3,normal,test
+6721,3,normal,test
+50827,0,choroidal neovascularization,test
+9957,0,choroidal neovascularization,test
+14402,3,normal,test
+60894,3,normal,test
+44651,3,normal,test
+2498,0,choroidal neovascularization,test
+97066,0,choroidal neovascularization,test
+52216,3,normal,test
+90370,1,diabetic macular edema,test
+86115,0,choroidal neovascularization,test
+10070,0,choroidal neovascularization,test
+14505,3,normal,test
+70586,2,drusen,test
+72642,0,choroidal neovascularization,test
+31734,0,choroidal neovascularization,test
+9920,1,diabetic macular edema,test
+17631,0,choroidal neovascularization,test
+73561,0,choroidal neovascularization,test
+40916,1,diabetic macular edema,test
+22410,0,choroidal neovascularization,test
+36433,0,choroidal neovascularization,test
+49657,0,choroidal neovascularization,test
+10756,2,drusen,test
+87844,3,normal,test
+42349,1,diabetic macular edema,test
+76359,3,normal,test
+6308,3,normal,test
+24781,0,choroidal neovascularization,test
+82938,0,choroidal neovascularization,test
+43677,3,normal,test
+33001,0,choroidal neovascularization,test
+51015,3,normal,test
+63856,0,choroidal neovascularization,test
+22279,3,normal,test
+10250,3,normal,test
+21274,0,choroidal neovascularization,test
+88385,3,normal,test
+86548,0,choroidal neovascularization,test
+16721,3,normal,test
+86382,3,normal,test
+16916,0,choroidal neovascularization,test
+54120,1,diabetic macular edema,test
+40558,3,normal,test
+1173,1,diabetic macular edema,test
+80168,3,normal,test
+2058,3,normal,test
+4278,0,choroidal neovascularization,test
+1260,3,normal,test
+70046,0,choroidal neovascularization,test
+13768,3,normal,test
+38533,0,choroidal neovascularization,test
+1810,3,normal,test
+4114,0,choroidal neovascularization,test
+45826,3,normal,test
+37372,3,normal,test
+62263,3,normal,test
+59266,3,normal,test
+15414,0,choroidal neovascularization,test
+50529,0,choroidal neovascularization,test
+84726,2,drusen,test
+90575,1,diabetic macular edema,test
+27939,3,normal,test
+62786,0,choroidal neovascularization,test
+63181,3,normal,test
+14843,3,normal,test
+5431,0,choroidal neovascularization,test
+6081,3,normal,test
+73766,2,drusen,test
+15268,0,choroidal neovascularization,test
+19393,0,choroidal neovascularization,test
+93984,3,normal,test
+97444,0,choroidal neovascularization,test
+51475,3,normal,test
+45185,2,drusen,test
+51609,0,choroidal neovascularization,test
+27196,3,normal,test
+8252,3,normal,test
+24742,3,normal,test
+85221,3,normal,test
+27628,0,choroidal neovascularization,test
+95635,3,normal,test
+32792,1,diabetic macular edema,test
+8138,3,normal,test
+1485,3,normal,test
+64838,2,drusen,test
+9821,0,choroidal neovascularization,test
+59900,0,choroidal neovascularization,test
+41742,0,choroidal neovascularization,test
+7462,1,diabetic macular edema,test
+36085,3,normal,test
+8090,3,normal,test
+59341,1,diabetic macular edema,test
+95177,0,choroidal neovascularization,test
+85302,0,choroidal neovascularization,test
+21823,3,normal,test
+59423,0,choroidal neovascularization,test
+5765,0,choroidal neovascularization,test
+75882,3,normal,test
+66924,0,choroidal neovascularization,test
+95455,3,normal,test
+95502,2,drusen,test
+5250,0,choroidal neovascularization,test
+88703,0,choroidal neovascularization,test
+88065,3,normal,test
+32491,0,choroidal neovascularization,test
+70431,0,choroidal neovascularization,test
+68139,1,diabetic macular edema,test
+59639,3,normal,test
+85044,3,normal,test
+56797,3,normal,test
+60051,3,normal,test
+73012,3,normal,test
+60111,2,drusen,test
+56720,0,choroidal neovascularization,test
+96874,1,diabetic macular edema,test
+10815,0,choroidal neovascularization,test
+15610,1,diabetic macular edema,test
+92739,0,choroidal neovascularization,test
+10449,0,choroidal neovascularization,test
+54338,3,normal,test
+60229,0,choroidal neovascularization,test
+6145,2,drusen,test
+7852,1,diabetic macular edema,test
+86097,3,normal,test
+15446,3,normal,test
+21064,3,normal,test
+4665,0,choroidal neovascularization,test
+10108,3,normal,test
+26179,0,choroidal neovascularization,test
+14614,0,choroidal neovascularization,test
+5316,3,normal,test
+80450,3,normal,test
+47257,2,drusen,test
+17660,3,normal,test
+93851,0,choroidal neovascularization,test
+8005,0,choroidal neovascularization,test
+62957,2,drusen,test
+23566,3,normal,test
+22552,3,normal,test
+22081,2,drusen,test
+88173,1,diabetic macular edema,test
+7503,3,normal,test
+24422,0,choroidal neovascularization,test
+59209,1,diabetic macular edema,test
+18701,1,diabetic macular edema,test
+53697,3,normal,test
+41092,2,drusen,test
+62269,1,diabetic macular edema,test
+44763,3,normal,test
+193,2,drusen,test
+63356,0,choroidal neovascularization,test
+39967,3,normal,test
+74139,0,choroidal neovascularization,test
+77539,3,normal,test
+32650,1,diabetic macular edema,test
+83931,2,drusen,test
+48480,0,choroidal neovascularization,test
+1807,0,choroidal neovascularization,test
+2297,3,normal,test
+10254,0,choroidal neovascularization,test
+4820,3,normal,test
+88672,3,normal,test
+32688,3,normal,test
+83656,0,choroidal neovascularization,test
+14592,0,choroidal neovascularization,test
+8076,0,choroidal neovascularization,test
+36,3,normal,test
+34573,2,drusen,test
+29420,0,choroidal neovascularization,test
+81293,1,diabetic macular edema,test
+81320,3,normal,test
+5021,0,choroidal neovascularization,test
+84179,3,normal,test
+66697,0,choroidal neovascularization,test
+40606,3,normal,test
+54044,0,choroidal neovascularization,test
+2551,0,choroidal neovascularization,test
+93963,3,normal,test
+49886,3,normal,test
+42098,3,normal,test
+41645,1,diabetic macular edema,test
+44021,3,normal,test
+68071,0,choroidal neovascularization,test
+83028,3,normal,test
+78570,0,choroidal neovascularization,test
+72336,3,normal,test
+13112,0,choroidal neovascularization,test
+47405,3,normal,test
+60828,2,drusen,test
+10502,3,normal,test
+335,3,normal,test
+66475,3,normal,test
+9676,0,choroidal neovascularization,test
+44979,0,choroidal neovascularization,test
+91231,3,normal,test
+3592,2,drusen,test
+79645,3,normal,test
+32306,3,normal,test
+82349,3,normal,test
+88725,3,normal,test
+69517,0,choroidal neovascularization,test
+79726,0,choroidal neovascularization,test
+55060,1,diabetic macular edema,test
+15366,3,normal,test
+39166,0,choroidal neovascularization,test
+76682,2,drusen,test
+52836,0,choroidal neovascularization,test
+61760,3,normal,test
+15481,0,choroidal neovascularization,test
+43313,0,choroidal neovascularization,test
+1420,3,normal,test
+4719,0,choroidal neovascularization,test
+3262,0,choroidal neovascularization,test
+10941,0,choroidal neovascularization,test
+22730,3,normal,test
+2032,0,choroidal neovascularization,test
+65673,3,normal,test
+10197,1,diabetic macular edema,test
+90892,0,choroidal neovascularization,test
+7276,3,normal,test
+28058,3,normal,test
+44003,3,normal,test
+369,1,diabetic macular edema,test
+22515,1,diabetic macular edema,test
+86111,0,choroidal neovascularization,test
+80584,3,normal,test
+31298,1,diabetic macular edema,test
+81154,2,drusen,test
+53710,1,diabetic macular edema,test
+35175,3,normal,test
+95945,1,diabetic macular edema,test
+65404,3,normal,test
+41247,3,normal,test
+84553,2,drusen,test
+84115,3,normal,test
+26418,0,choroidal neovascularization,test
+87182,1,diabetic macular edema,test
+2780,3,normal,test
+7184,3,normal,test
+64088,0,choroidal neovascularization,test
+76088,3,normal,test
+11707,0,choroidal neovascularization,test
+28078,1,diabetic macular edema,test
+4996,3,normal,test
+82183,3,normal,test
+22866,3,normal,test
+25881,2,drusen,test
+78728,1,diabetic macular edema,test
+90766,0,choroidal neovascularization,test
+96898,3,normal,test
+45282,3,normal,test
+43604,3,normal,test
+34348,3,normal,test
+41137,3,normal,test
+8254,1,diabetic macular edema,test
+55914,3,normal,test
+40123,0,choroidal neovascularization,test
+66582,3,normal,test
+4340,3,normal,test
+29303,0,choroidal neovascularization,test
+56658,3,normal,test
+6731,3,normal,test
+61384,0,choroidal neovascularization,test
+1224,2,drusen,test
+82623,1,diabetic macular edema,test
+2197,3,normal,test
+19639,3,normal,test
+17575,3,normal,test
+8654,3,normal,test
+61009,2,drusen,test
+28923,2,drusen,test
+81972,1,diabetic macular edema,test
+84549,3,normal,test
+14541,1,diabetic macular edema,test
+63651,3,normal,test
+86982,1,diabetic macular edema,test
+24859,3,normal,test
+44831,2,drusen,test
+84010,3,normal,test
+88692,0,choroidal neovascularization,test
+47681,0,choroidal neovascularization,test
+7750,3,normal,test
+5071,0,choroidal neovascularization,test
+9445,3,normal,test
+4362,0,choroidal neovascularization,test
+3992,3,normal,test
+78978,0,choroidal neovascularization,test
+71425,3,normal,test
+3915,1,diabetic macular edema,test
+29260,2,drusen,test
+405,2,drusen,test
+25813,3,normal,test
+4202,0,choroidal neovascularization,test
+74191,3,normal,test
+93252,0,choroidal neovascularization,test
+2698,1,diabetic macular edema,test
+3451,3,normal,test
+42584,3,normal,test
+15376,3,normal,test
+36841,3,normal,test
+75394,1,diabetic macular edema,test
+8567,0,choroidal neovascularization,test
+51108,3,normal,test
+46413,3,normal,test
+40692,1,diabetic macular edema,test
+2095,0,choroidal neovascularization,test
+47639,0,choroidal neovascularization,test
+83857,3,normal,test
+16215,1,diabetic macular edema,test
+58086,3,normal,test
+4065,3,normal,test
+88160,3,normal,test
+39541,3,normal,test
+91561,3,normal,test
+62904,0,choroidal neovascularization,test
+80539,3,normal,test
+31590,3,normal,test
+13926,3,normal,test
+16141,3,normal,test
+50314,0,choroidal neovascularization,test
+34434,0,choroidal neovascularization,test
+40684,0,choroidal neovascularization,test
+56087,0,choroidal neovascularization,test
+56650,0,choroidal neovascularization,test
+4583,1,diabetic macular edema,test
+82674,0,choroidal neovascularization,test
+50055,3,normal,test
+76940,1,diabetic macular edema,test
+58452,3,normal,test
+2699,0,choroidal neovascularization,test
+2872,3,normal,test
+31371,3,normal,test
+61181,3,normal,test
+44856,3,normal,test
+78154,3,normal,test
+7766,0,choroidal neovascularization,test
+9257,0,choroidal neovascularization,test
+83012,3,normal,test
+6072,3,normal,test
+96784,0,choroidal neovascularization,test
+8729,2,drusen,test
+47344,3,normal,test
+14754,0,choroidal neovascularization,test
+70929,0,choroidal neovascularization,test
+53296,0,choroidal neovascularization,test
+25415,0,choroidal neovascularization,test
+88351,3,normal,test
+43956,3,normal,test
+51625,0,choroidal neovascularization,test
+60224,1,diabetic macular edema,test
+93338,0,choroidal neovascularization,test
+55435,1,diabetic macular edema,test
+8977,0,choroidal neovascularization,test
+40778,3,normal,test
+12814,1,diabetic macular edema,test
+66129,3,normal,test
+77128,3,normal,test
+2612,0,choroidal neovascularization,test
+19547,3,normal,test
+17652,0,choroidal neovascularization,test
+80844,3,normal,test
+10178,3,normal,test
+5814,3,normal,test
+39294,2,drusen,test
+31326,1,diabetic macular edema,test
+36545,0,choroidal neovascularization,test
+50051,0,choroidal neovascularization,test
+29652,0,choroidal neovascularization,test
+88055,3,normal,test
+2160,3,normal,test
+92349,3,normal,test
+93136,3,normal,test
+8882,3,normal,test
+89152,1,diabetic macular edema,test
+32301,1,diabetic macular edema,test
+34452,0,choroidal neovascularization,test
+48983,3,normal,test
+13004,3,normal,test
+39628,0,choroidal neovascularization,test
+10601,2,drusen,test
+596,3,normal,test
+68534,0,choroidal neovascularization,test
+2402,0,choroidal neovascularization,test
+73160,0,choroidal neovascularization,test
+94872,1,diabetic macular edema,test
+14408,3,normal,test
+8764,3,normal,test
+65147,3,normal,test
+5669,3,normal,test
+66064,0,choroidal neovascularization,test
+69464,3,normal,test
+38353,3,normal,test
+62873,3,normal,test
+6870,1,diabetic macular edema,test
+56724,0,choroidal neovascularization,test
+26216,0,choroidal neovascularization,test
+1913,3,normal,test
+49592,3,normal,test
+15728,3,normal,test
+79026,0,choroidal neovascularization,test
+923,0,choroidal neovascularization,test
+82314,2,drusen,test
+60557,2,drusen,test
+63111,3,normal,test
+87720,1,diabetic macular edema,test
+44044,3,normal,test
+25139,2,drusen,test
+10683,3,normal,test
+57158,1,diabetic macular edema,test
+82559,0,choroidal neovascularization,test
+40380,3,normal,test
+59204,3,normal,test
+70011,3,normal,test
+83447,0,choroidal neovascularization,test
+87074,1,diabetic macular edema,test
+6949,3,normal,test
+74601,3,normal,test
+90741,3,normal,test
+12320,3,normal,test
+83692,0,choroidal neovascularization,test
+22810,3,normal,test
+34141,3,normal,test
+63992,2,drusen,test
+9660,1,diabetic macular edema,test
+7130,0,choroidal neovascularization,test
+19225,0,choroidal neovascularization,test
+81833,3,normal,test
+33668,3,normal,test
+54766,0,choroidal neovascularization,test
+35086,0,choroidal neovascularization,test
+7965,0,choroidal neovascularization,test
+76163,3,normal,test
+41667,1,diabetic macular edema,test
+60197,3,normal,test
+1702,3,normal,test
+79729,3,normal,test
+58055,1,diabetic macular edema,test
+80668,0,choroidal neovascularization,test
+74659,3,normal,test
+76905,0,choroidal neovascularization,test
+41603,3,normal,test
+38917,2,drusen,test
+34984,0,choroidal neovascularization,test
+5935,3,normal,test
+39320,0,choroidal neovascularization,test
+92595,3,normal,test
+91188,3,normal,test
+26679,0,choroidal neovascularization,test
+42670,3,normal,test
+4526,0,choroidal neovascularization,test
+15770,3,normal,test
+16010,0,choroidal neovascularization,test
+58626,3,normal,test
+83904,0,choroidal neovascularization,test
+78828,0,choroidal neovascularization,test
+52198,0,choroidal neovascularization,test
+74254,2,drusen,test
+42875,3,normal,test
+62588,0,choroidal neovascularization,test

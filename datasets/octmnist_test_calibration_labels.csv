@@ -1,0 +1,982 @@
+image_index,label_index,label_name,split
+127883,3,Interstitial endothelial cells,test
+3847,6,Proximal Tubule Segments,test
+15292,0,"Collecting Duct, Connecting Tubule",test
+69192,7,Thick Ascending Limb,test
+46748,0,"Collecting Duct, Connecting Tubule",test
+18254,3,Interstitial endothelial cells,test
+126522,3,Interstitial endothelial cells,test
+19256,7,Thick Ascending Limb,test
+23570,2,Glomerular endothelial cells,test
+38959,0,"Collecting Duct, Connecting Tubule",test
+20970,6,Proximal Tubule Segments,test
+55239,0,"Collecting Duct, Connecting Tubule",test
+111493,6,Proximal Tubule Segments,test
+1274,7,Thick Ascending Limb,test
+72446,2,Glomerular endothelial cells,test
+65180,1,Distal Convoluted Tubule,test
+19921,0,"Collecting Duct, Connecting Tubule",test
+7908,6,Proximal Tubule Segments,test
+60916,6,Proximal Tubule Segments,test
+8579,1,Distal Convoluted Tubule,test
+8280,4,Leukocytes,test
+12594,7,Thick Ascending Limb,test
+4385,6,Proximal Tubule Segments,test
+40363,5,Podocytes,test
+22438,4,Leukocytes,test
+34609,6,Proximal Tubule Segments,test
+136941,3,Interstitial endothelial cells,test
+10311,0,"Collecting Duct, Connecting Tubule",test
+112216,6,Proximal Tubule Segments,test
+77085,4,Leukocytes,test
+154460,0,"Collecting Duct, Connecting Tubule",test
+4241,0,"Collecting Duct, Connecting Tubule",test
+36006,3,Interstitial endothelial cells,test
+39583,5,Podocytes,test
+19276,0,"Collecting Duct, Connecting Tubule",test
+100772,5,Podocytes,test
+152235,0,"Collecting Duct, Connecting Tubule",test
+117903,6,Proximal Tubule Segments,test
+42161,3,Interstitial endothelial cells,test
+18702,5,Podocytes,test
+111058,3,Interstitial endothelial cells,test
+36997,3,Interstitial endothelial cells,test
+53996,6,Proximal Tubule Segments,test
+29157,0,"Collecting Duct, Connecting Tubule",test
+138515,0,"Collecting Duct, Connecting Tubule",test
+154545,7,Thick Ascending Limb,test
+100211,4,Leukocytes,test
+46115,0,"Collecting Duct, Connecting Tubule",test
+65507,3,Interstitial endothelial cells,test
+139902,6,Proximal Tubule Segments,test
+13041,0,"Collecting Duct, Connecting Tubule",test
+4551,7,Thick Ascending Limb,test
+3516,0,"Collecting Duct, Connecting Tubule",test
+118117,3,Interstitial endothelial cells,test
+89657,0,"Collecting Duct, Connecting Tubule",test
+159012,0,"Collecting Duct, Connecting Tubule",test
+43276,4,Leukocytes,test
+64313,0,"Collecting Duct, Connecting Tubule",test
+41301,3,Interstitial endothelial cells,test
+87650,0,"Collecting Duct, Connecting Tubule",test
+30506,0,"Collecting Duct, Connecting Tubule",test
+12166,0,"Collecting Duct, Connecting Tubule",test
+85032,1,Distal Convoluted Tubule,test
+29987,6,Proximal Tubule Segments,test
+52461,0,"Collecting Duct, Connecting Tubule",test
+62931,7,Thick Ascending Limb,test
+4564,1,Distal Convoluted Tubule,test
+28377,0,"Collecting Duct, Connecting Tubule",test
+15969,7,Thick Ascending Limb,test
+1318,0,"Collecting Duct, Connecting Tubule",test
+5644,7,Thick Ascending Limb,test
+137293,0,"Collecting Duct, Connecting Tubule",test
+55140,7,Thick Ascending Limb,test
+8062,6,Proximal Tubule Segments,test
+18088,0,"Collecting Duct, Connecting Tubule",test
+8448,0,"Collecting Duct, Connecting Tubule",test
+14676,3,Interstitial endothelial cells,test
+151722,0,"Collecting Duct, Connecting Tubule",test
+14596,7,Thick Ascending Limb,test
+23207,6,Proximal Tubule Segments,test
+163267,6,Proximal Tubule Segments,test
+21897,6,Proximal Tubule Segments,test
+4126,7,Thick Ascending Limb,test
+46516,3,Interstitial endothelial cells,test
+14542,2,Glomerular endothelial cells,test
+43275,6,Proximal Tubule Segments,test
+26290,7,Thick Ascending Limb,test
+17506,2,Glomerular endothelial cells,test
+121602,0,"Collecting Duct, Connecting Tubule",test
+65525,0,"Collecting Duct, Connecting Tubule",test
+86097,0,"Collecting Duct, Connecting Tubule",test
+151742,7,Thick Ascending Limb,test
+131460,0,"Collecting Duct, Connecting Tubule",test
+31800,0,"Collecting Duct, Connecting Tubule",test
+103934,7,Thick Ascending Limb,test
+86250,6,Proximal Tubule Segments,test
+140900,6,Proximal Tubule Segments,test
+143538,6,Proximal Tubule Segments,test
+72176,3,Interstitial endothelial cells,test
+17570,7,Thick Ascending Limb,test
+127695,6,Proximal Tubule Segments,test
+98232,5,Podocytes,test
+7452,7,Thick Ascending Limb,test
+19705,5,Podocytes,test
+80400,4,Leukocytes,test
+104860,1,Distal Convoluted Tubule,test
+102801,2,Glomerular endothelial cells,test
+105927,4,Leukocytes,test
+85760,0,"Collecting Duct, Connecting Tubule",test
+111762,6,Proximal Tubule Segments,test
+112671,4,Leukocytes,test
+39264,0,"Collecting Duct, Connecting Tubule",test
+49723,0,"Collecting Duct, Connecting Tubule",test
+155742,0,"Collecting Duct, Connecting Tubule",test
+26335,0,"Collecting Duct, Connecting Tubule",test
+123465,0,"Collecting Duct, Connecting Tubule",test
+34534,0,"Collecting Duct, Connecting Tubule",test
+70131,7,Thick Ascending Limb,test
+117584,6,Proximal Tubule Segments,test
+68386,0,"Collecting Duct, Connecting Tubule",test
+16752,6,Proximal Tubule Segments,test
+15390,6,Proximal Tubule Segments,test
+2806,7,Thick Ascending Limb,test
+131410,7,Thick Ascending Limb,test
+97166,0,"Collecting Duct, Connecting Tubule",test
+139828,6,Proximal Tubule Segments,test
+154018,4,Leukocytes,test
+6839,7,Thick Ascending Limb,test
+25926,7,Thick Ascending Limb,test
+151208,0,"Collecting Duct, Connecting Tubule",test
+90386,6,Proximal Tubule Segments,test
+16227,1,Distal Convoluted Tubule,test
+84722,6,Proximal Tubule Segments,test
+7381,0,"Collecting Duct, Connecting Tubule",test
+1649,0,"Collecting Duct, Connecting Tubule",test
+54163,6,Proximal Tubule Segments,test
+83615,6,Proximal Tubule Segments,test
+125664,6,Proximal Tubule Segments,test
+50823,6,Proximal Tubule Segments,test
+40922,7,Thick Ascending Limb,test
+42117,0,"Collecting Duct, Connecting Tubule",test
+141213,6,Proximal Tubule Segments,test
+798,6,Proximal Tubule Segments,test
+39968,0,"Collecting Duct, Connecting Tubule",test
+75488,7,Thick Ascending Limb,test
+161214,0,"Collecting Duct, Connecting Tubule",test
+164796,6,Proximal Tubule Segments,test
+862,6,Proximal Tubule Segments,test
+63609,6,Proximal Tubule Segments,test
+21798,0,"Collecting Duct, Connecting Tubule",test
+10666,6,Proximal Tubule Segments,test
+163386,7,Thick Ascending Limb,test
+120427,4,Leukocytes,test
+100777,6,Proximal Tubule Segments,test
+6373,2,Glomerular endothelial cells,test
+67736,4,Leukocytes,test
+39012,0,"Collecting Duct, Connecting Tubule",test
+46168,0,"Collecting Duct, Connecting Tubule",test
+66704,6,Proximal Tubule Segments,test
+12242,6,Proximal Tubule Segments,test
+29724,7,Thick Ascending Limb,test
+146234,5,Podocytes,test
+76850,6,Proximal Tubule Segments,test
+151539,7,Thick Ascending Limb,test
+121479,3,Interstitial endothelial cells,test
+4128,6,Proximal Tubule Segments,test
+74644,7,Thick Ascending Limb,test
+6320,6,Proximal Tubule Segments,test
+161105,6,Proximal Tubule Segments,test
+58390,0,"Collecting Duct, Connecting Tubule",test
+22057,0,"Collecting Duct, Connecting Tubule",test
+163038,5,Podocytes,test
+157265,0,"Collecting Duct, Connecting Tubule",test
+117249,3,Interstitial endothelial cells,test
+73917,3,Interstitial endothelial cells,test
+47177,0,"Collecting Duct, Connecting Tubule",test
+14961,7,Thick Ascending Limb,test
+157118,6,Proximal Tubule Segments,test
+109382,0,"Collecting Duct, Connecting Tubule",test
+80913,0,"Collecting Duct, Connecting Tubule",test
+5842,0,"Collecting Duct, Connecting Tubule",test
+41291,6,Proximal Tubule Segments,test
+6318,0,"Collecting Duct, Connecting Tubule",test
+5158,7,Thick Ascending Limb,test
+37265,3,Interstitial endothelial cells,test
+114393,2,Glomerular endothelial cells,test
+45390,5,Podocytes,test
+128167,3,Interstitial endothelial cells,test
+5044,0,"Collecting Duct, Connecting Tubule",test
+72298,0,"Collecting Duct, Connecting Tubule",test
+41523,5,Podocytes,test
+134338,6,Proximal Tubule Segments,test
+21151,6,Proximal Tubule Segments,test
+6578,6,Proximal Tubule Segments,test
+74859,4,Leukocytes,test
+19471,6,Proximal Tubule Segments,test
+61088,6,Proximal Tubule Segments,test
+128242,2,Glomerular endothelial cells,test
+137141,7,Thick Ascending Limb,test
+6236,1,Distal Convoluted Tubule,test
+2965,0,"Collecting Duct, Connecting Tubule",test
+74482,0,"Collecting Duct, Connecting Tubule",test
+152429,3,Interstitial endothelial cells,test
+144631,0,"Collecting Duct, Connecting Tubule",test
+31492,1,Distal Convoluted Tubule,test
+103369,6,Proximal Tubule Segments,test
+34840,0,"Collecting Duct, Connecting Tubule",test
+112361,0,"Collecting Duct, Connecting Tubule",test
+21688,1,Distal Convoluted Tubule,test
+1572,0,"Collecting Duct, Connecting Tubule",test
+131351,0,"Collecting Duct, Connecting Tubule",test
+114878,4,Leukocytes,test
+73441,0,"Collecting Duct, Connecting Tubule",test
+7510,6,Proximal Tubule Segments,test
+23139,4,Leukocytes,test
+140352,0,"Collecting Duct, Connecting Tubule",test
+87139,3,Interstitial endothelial cells,test
+161335,6,Proximal Tubule Segments,test
+87487,6,Proximal Tubule Segments,test
+103235,6,Proximal Tubule Segments,test
+80148,7,Thick Ascending Limb,test
+2206,3,Interstitial endothelial cells,test
+4633,0,"Collecting Duct, Connecting Tubule",test
+23697,0,"Collecting Duct, Connecting Tubule",test
+22574,6,Proximal Tubule Segments,test
+106585,7,Thick Ascending Limb,test
+20282,0,"Collecting Duct, Connecting Tubule",test
+108828,0,"Collecting Duct, Connecting Tubule",test
+10778,6,Proximal Tubule Segments,test
+90598,0,"Collecting Duct, Connecting Tubule",test
+88165,0,"Collecting Duct, Connecting Tubule",test
+2535,7,Thick Ascending Limb,test
+28897,4,Leukocytes,test
+25156,6,Proximal Tubule Segments,test
+59398,6,Proximal Tubule Segments,test
+42628,0,"Collecting Duct, Connecting Tubule",test
+76235,7,Thick Ascending Limb,test
+152709,0,"Collecting Duct, Connecting Tubule",test
+64509,0,"Collecting Duct, Connecting Tubule",test
+162043,7,Thick Ascending Limb,test
+329,1,Distal Convoluted Tubule,test
+63741,6,Proximal Tubule Segments,test
+124734,6,Proximal Tubule Segments,test
+115216,4,Leukocytes,test
+23103,0,"Collecting Duct, Connecting Tubule",test
+115648,0,"Collecting Duct, Connecting Tubule",test
+97420,0,"Collecting Duct, Connecting Tubule",test
+155926,6,Proximal Tubule Segments,test
+69428,6,Proximal Tubule Segments,test
+138739,6,Proximal Tubule Segments,test
+45524,6,Proximal Tubule Segments,test
+139297,6,Proximal Tubule Segments,test
+113962,6,Proximal Tubule Segments,test
+109574,7,Thick Ascending Limb,test
+66372,0,"Collecting Duct, Connecting Tubule",test
+40531,0,"Collecting Duct, Connecting Tubule",test
+93314,1,Distal Convoluted Tubule,test
+46864,0,"Collecting Duct, Connecting Tubule",test
+126874,7,Thick Ascending Limb,test
+31884,6,Proximal Tubule Segments,test
+35528,0,"Collecting Duct, Connecting Tubule",test
+125900,7,Thick Ascending Limb,test
+15604,0,"Collecting Duct, Connecting Tubule",test
+112871,6,Proximal Tubule Segments,test
+138985,1,Distal Convoluted Tubule,test
+39152,5,Podocytes,test
+98694,0,"Collecting Duct, Connecting Tubule",test
+142577,6,Proximal Tubule Segments,test
+21160,0,"Collecting Duct, Connecting Tubule",test
+52593,5,Podocytes,test
+22029,6,Proximal Tubule Segments,test
+68558,6,Proximal Tubule Segments,test
+83556,0,"Collecting Duct, Connecting Tubule",test
+54693,4,Leukocytes,test
+41382,6,Proximal Tubule Segments,test
+1884,1,Distal Convoluted Tubule,test
+109217,6,Proximal Tubule Segments,test
+59012,6,Proximal Tubule Segments,test
+28308,4,Leukocytes,test
+38506,6,Proximal Tubule Segments,test
+118609,0,"Collecting Duct, Connecting Tubule",test
+13178,1,Distal Convoluted Tubule,test
+25907,0,"Collecting Duct, Connecting Tubule",test
+20526,0,"Collecting Duct, Connecting Tubule",test
+104724,6,Proximal Tubule Segments,test
+86173,6,Proximal Tubule Segments,test
+98235,3,Interstitial endothelial cells,test
+34285,6,Proximal Tubule Segments,test
+28923,3,Interstitial endothelial cells,test
+73175,7,Thick Ascending Limb,test
+39470,3,Interstitial endothelial cells,test
+47204,7,Thick Ascending Limb,test
+126676,1,Distal Convoluted Tubule,test
+131627,4,Leukocytes,test
+63639,6,Proximal Tubule Segments,test
+106797,7,Thick Ascending Limb,test
+94574,4,Leukocytes,test
+7443,1,Distal Convoluted Tubule,test
+16642,6,Proximal Tubule Segments,test
+29802,0,"Collecting Duct, Connecting Tubule",test
+14457,6,Proximal Tubule Segments,test
+56594,5,Podocytes,test
+156274,0,"Collecting Duct, Connecting Tubule",test
+5235,0,"Collecting Duct, Connecting Tubule",test
+37504,0,"Collecting Duct, Connecting Tubule",test
+150915,0,"Collecting Duct, Connecting Tubule",test
+32720,2,Glomerular endothelial cells,test
+115620,3,Interstitial endothelial cells,test
+29046,6,Proximal Tubule Segments,test
+143573,4,Leukocytes,test
+33085,6,Proximal Tubule Segments,test
+74590,0,"Collecting Duct, Connecting Tubule",test
+41059,6,Proximal Tubule Segments,test
+777,0,"Collecting Duct, Connecting Tubule",test
+99861,7,Thick Ascending Limb,test
+148097,6,Proximal Tubule Segments,test
+45891,0,"Collecting Duct, Connecting Tubule",test
+18366,6,Proximal Tubule Segments,test
+131438,5,Podocytes,test
+112461,6,Proximal Tubule Segments,test
+61127,4,Leukocytes,test
+99341,6,Proximal Tubule Segments,test
+53374,3,Interstitial endothelial cells,test
+54072,7,Thick Ascending Limb,test
+34133,0,"Collecting Duct, Connecting Tubule",test
+160895,0,"Collecting Duct, Connecting Tubule",test
+133618,7,Thick Ascending Limb,test
+59170,7,Thick Ascending Limb,test
+21828,4,Leukocytes,test
+21609,0,"Collecting Duct, Connecting Tubule",test
+45568,1,Distal Convoluted Tubule,test
+124435,0,"Collecting Duct, Connecting Tubule",test
+17054,0,"Collecting Duct, Connecting Tubule",test
+21172,4,Leukocytes,test
+21231,0,"Collecting Duct, Connecting Tubule",test
+24193,0,"Collecting Duct, Connecting Tubule",test
+37056,0,"Collecting Duct, Connecting Tubule",test
+126763,0,"Collecting Duct, Connecting Tubule",test
+26415,7,Thick Ascending Limb,test
+19410,6,Proximal Tubule Segments,test
+98108,0,"Collecting Duct, Connecting Tubule",test
+67298,5,Podocytes,test
+85621,7,Thick Ascending Limb,test
+88350,0,"Collecting Duct, Connecting Tubule",test
+539,4,Leukocytes,test
+10365,0,"Collecting Duct, Connecting Tubule",test
+161763,0,"Collecting Duct, Connecting Tubule",test
+26639,3,Interstitial endothelial cells,test
+18798,0,"Collecting Duct, Connecting Tubule",test
+105077,7,Thick Ascending Limb,test
+56378,2,Glomerular endothelial cells,test
+47560,0,"Collecting Duct, Connecting Tubule",test
+127821,2,Glomerular endothelial cells,test
+131092,0,"Collecting Duct, Connecting Tubule",test
+88652,0,"Collecting Duct, Connecting Tubule",test
+19993,0,"Collecting Duct, Connecting Tubule",test
+15204,7,Thick Ascending Limb,test
+151783,6,Proximal Tubule Segments,test
+34359,0,"Collecting Duct, Connecting Tubule",test
+5651,5,Podocytes,test
+148947,6,Proximal Tubule Segments,test
+26471,0,"Collecting Duct, Connecting Tubule",test
+41768,0,"Collecting Duct, Connecting Tubule",test
+164221,3,Interstitial endothelial cells,test
+101633,0,"Collecting Duct, Connecting Tubule",test
+56774,0,"Collecting Duct, Connecting Tubule",test
+138924,6,Proximal Tubule Segments,test
+83340,6,Proximal Tubule Segments,test
+601,0,"Collecting Duct, Connecting Tubule",test
+64767,2,Glomerular endothelial cells,test
+7104,3,Interstitial endothelial cells,test
+1270,0,"Collecting Duct, Connecting Tubule",test
+48922,0,"Collecting Duct, Connecting Tubule",test
+47955,1,Distal Convoluted Tubule,test
+59895,0,"Collecting Duct, Connecting Tubule",test
+124766,3,Interstitial endothelial cells,test
+85664,0,"Collecting Duct, Connecting Tubule",test
+126506,6,Proximal Tubule Segments,test
+44304,7,Thick Ascending Limb,test
+61774,7,Thick Ascending Limb,test
+13358,4,Leukocytes,test
+64441,0,"Collecting Duct, Connecting Tubule",test
+35092,6,Proximal Tubule Segments,test
+138500,6,Proximal Tubule Segments,test
+3409,7,Thick Ascending Limb,test
+5042,7,Thick Ascending Limb,test
+164542,1,Distal Convoluted Tubule,test
+21606,6,Proximal Tubule Segments,test
+24487,0,"Collecting Duct, Connecting Tubule",test
+114583,6,Proximal Tubule Segments,test
+17875,6,Proximal Tubule Segments,test
+697,1,Distal Convoluted Tubule,test
+110490,7,Thick Ascending Limb,test
+15221,0,"Collecting Duct, Connecting Tubule",test
+98163,6,Proximal Tubule Segments,test
+161447,7,Thick Ascending Limb,test
+51511,7,Thick Ascending Limb,test
+54942,1,Distal Convoluted Tubule,test
+139760,7,Thick Ascending Limb,test
+1228,0,"Collecting Duct, Connecting Tubule",test
+72568,5,Podocytes,test
+127507,4,Leukocytes,test
+20171,7,Thick Ascending Limb,test
+152487,5,Podocytes,test
+63178,6,Proximal Tubule Segments,test
+37716,0,"Collecting Duct, Connecting Tubule",test
+16114,0,"Collecting Duct, Connecting Tubule",test
+80099,6,Proximal Tubule Segments,test
+3897,0,"Collecting Duct, Connecting Tubule",test
+8076,0,"Collecting Duct, Connecting Tubule",test
+128432,6,Proximal Tubule Segments,test
+48467,6,Proximal Tubule Segments,test
+92422,2,Glomerular endothelial cells,test
+18211,0,"Collecting Duct, Connecting Tubule",test
+11306,0,"Collecting Duct, Connecting Tubule",test
+7794,0,"Collecting Duct, Connecting Tubule",test
+21126,6,Proximal Tubule Segments,test
+155028,7,Thick Ascending Limb,test
+125035,7,Thick Ascending Limb,test
+65137,0,"Collecting Duct, Connecting Tubule",test
+27379,3,Interstitial endothelial cells,test
+6243,7,Thick Ascending Limb,test
+139391,6,Proximal Tubule Segments,test
+32404,7,Thick Ascending Limb,test
+51564,3,Interstitial endothelial cells,test
+21837,7,Thick Ascending Limb,test
+25229,0,"Collecting Duct, Connecting Tubule",test
+5774,3,Interstitial endothelial cells,test
+138753,7,Thick Ascending Limb,test
+107819,7,Thick Ascending Limb,test
+27497,5,Podocytes,test
+49888,6,Proximal Tubule Segments,test
+12882,0,"Collecting Duct, Connecting Tubule",test
+56613,0,"Collecting Duct, Connecting Tubule",test
+128860,1,Distal Convoluted Tubule,test
+164611,4,Leukocytes,test
+125337,7,Thick Ascending Limb,test
+165429,6,Proximal Tubule Segments,test
+104699,6,Proximal Tubule Segments,test
+132174,0,"Collecting Duct, Connecting Tubule",test
+152303,0,"Collecting Duct, Connecting Tubule",test
+34286,1,Distal Convoluted Tubule,test
+102418,7,Thick Ascending Limb,test
+36628,6,Proximal Tubule Segments,test
+82529,0,"Collecting Duct, Connecting Tubule",test
+34159,0,"Collecting Duct, Connecting Tubule",test
+63795,6,Proximal Tubule Segments,test
+11605,6,Proximal Tubule Segments,test
+36185,6,Proximal Tubule Segments,test
+121064,0,"Collecting Duct, Connecting Tubule",test
+1084,3,Interstitial endothelial cells,test
+154808,0,"Collecting Duct, Connecting Tubule",test
+32308,6,Proximal Tubule Segments,test
+137167,2,Glomerular endothelial cells,test
+45154,1,Distal Convoluted Tubule,test
+11770,1,Distal Convoluted Tubule,test
+9368,7,Thick Ascending Limb,test
+17624,7,Thick Ascending Limb,test
+160678,7,Thick Ascending Limb,test
+93469,0,"Collecting Duct, Connecting Tubule",test
+12119,0,"Collecting Duct, Connecting Tubule",test
+161267,6,Proximal Tubule Segments,test
+2022,7,Thick Ascending Limb,test
+17902,0,"Collecting Duct, Connecting Tubule",test
+12998,0,"Collecting Duct, Connecting Tubule",test
+30121,6,Proximal Tubule Segments,test
+161083,0,"Collecting Duct, Connecting Tubule",test
+125015,6,Proximal Tubule Segments,test
+8035,4,Leukocytes,test
+155496,7,Thick Ascending Limb,test
+35743,2,Glomerular endothelial cells,test
+15897,0,"Collecting Duct, Connecting Tubule",test
+88039,6,Proximal Tubule Segments,test
+147679,0,"Collecting Duct, Connecting Tubule",test
+156161,6,Proximal Tubule Segments,test
+33839,6,Proximal Tubule Segments,test
+21984,3,Interstitial endothelial cells,test
+78531,4,Leukocytes,test
+43026,4,Leukocytes,test
+21266,0,"Collecting Duct, Connecting Tubule",test
+158552,6,Proximal Tubule Segments,test
+51112,7,Thick Ascending Limb,test
+12227,4,Leukocytes,test
+125393,1,Distal Convoluted Tubule,test
+34214,7,Thick Ascending Limb,test
+160070,6,Proximal Tubule Segments,test
+97105,1,Distal Convoluted Tubule,test
+106591,0,"Collecting Duct, Connecting Tubule",test
+96381,6,Proximal Tubule Segments,test
+133750,6,Proximal Tubule Segments,test
+106171,7,Thick Ascending Limb,test
+73028,0,"Collecting Duct, Connecting Tubule",test
+20330,0,"Collecting Duct, Connecting Tubule",test
+139854,4,Leukocytes,test
+115025,3,Interstitial endothelial cells,test
+127638,0,"Collecting Duct, Connecting Tubule",test
+90617,6,Proximal Tubule Segments,test
+128109,3,Interstitial endothelial cells,test
+7884,5,Podocytes,test
+41368,1,Distal Convoluted Tubule,test
+2977,6,Proximal Tubule Segments,test
+2076,0,"Collecting Duct, Connecting Tubule",test
+28915,0,"Collecting Duct, Connecting Tubule",test
+25528,0,"Collecting Duct, Connecting Tubule",test
+12843,2,Glomerular endothelial cells,test
+117043,6,Proximal Tubule Segments,test
+96464,7,Thick Ascending Limb,test
+60375,0,"Collecting Duct, Connecting Tubule",test
+4773,0,"Collecting Duct, Connecting Tubule",test
+48548,0,"Collecting Duct, Connecting Tubule",test
+136134,6,Proximal Tubule Segments,test
+109749,0,"Collecting Duct, Connecting Tubule",test
+33359,7,Thick Ascending Limb,test
+24859,4,Leukocytes,test
+8690,6,Proximal Tubule Segments,test
+131557,6,Proximal Tubule Segments,test
+10618,6,Proximal Tubule Segments,test
+45044,3,Interstitial endothelial cells,test
+34142,0,"Collecting Duct, Connecting Tubule",test
+26255,7,Thick Ascending Limb,test
+81243,0,"Collecting Duct, Connecting Tubule",test
+58914,7,Thick Ascending Limb,test
+25949,0,"Collecting Duct, Connecting Tubule",test
+109942,5,Podocytes,test
+96476,0,"Collecting Duct, Connecting Tubule",test
+59415,3,Interstitial endothelial cells,test
+75935,6,Proximal Tubule Segments,test
+160726,0,"Collecting Duct, Connecting Tubule",test
+10481,0,"Collecting Duct, Connecting Tubule",test
+94203,5,Podocytes,test
+51211,6,Proximal Tubule Segments,test
+131362,0,"Collecting Duct, Connecting Tubule",test
+163327,0,"Collecting Duct, Connecting Tubule",test
+151049,0,"Collecting Duct, Connecting Tubule",test
+7,6,Proximal Tubule Segments,test
+84175,0,"Collecting Duct, Connecting Tubule",test
+41236,3,Interstitial endothelial cells,test
+77286,6,Proximal Tubule Segments,test
+19662,6,Proximal Tubule Segments,test
+25322,7,Thick Ascending Limb,test
+22904,0,"Collecting Duct, Connecting Tubule",test
+63149,0,"Collecting Duct, Connecting Tubule",test
+119222,6,Proximal Tubule Segments,test
+57059,3,Interstitial endothelial cells,test
+103437,0,"Collecting Duct, Connecting Tubule",test
+6012,7,Thick Ascending Limb,test
+86340,4,Leukocytes,test
+130312,6,Proximal Tubule Segments,test
+44578,0,"Collecting Duct, Connecting Tubule",test
+5770,0,"Collecting Duct, Connecting Tubule",test
+107005,6,Proximal Tubule Segments,test
+145411,0,"Collecting Duct, Connecting Tubule",test
+148084,2,Glomerular endothelial cells,test
+141665,1,Distal Convoluted Tubule,test
+18738,5,Podocytes,test
+16454,0,"Collecting Duct, Connecting Tubule",test
+1481,6,Proximal Tubule Segments,test
+35843,3,Interstitial endothelial cells,test
+8614,0,"Collecting Duct, Connecting Tubule",test
+65924,6,Proximal Tubule Segments,test
+126846,2,Glomerular endothelial cells,test
+18692,0,"Collecting Duct, Connecting Tubule",test
+136338,0,"Collecting Duct, Connecting Tubule",test
+28059,4,Leukocytes,test
+3526,0,"Collecting Duct, Connecting Tubule",test
+108339,6,Proximal Tubule Segments,test
+40483,1,Distal Convoluted Tubule,test
+47544,0,"Collecting Duct, Connecting Tubule",test
+95865,6,Proximal Tubule Segments,test
+27364,6,Proximal Tubule Segments,test
+139135,7,Thick Ascending Limb,test
+81797,6,Proximal Tubule Segments,test
+69008,0,"Collecting Duct, Connecting Tubule",test
+45863,3,Interstitial endothelial cells,test
+94043,1,Distal Convoluted Tubule,test
+34622,3,Interstitial endothelial cells,test
+141246,6,Proximal Tubule Segments,test
+5557,6,Proximal Tubule Segments,test
+122828,7,Thick Ascending Limb,test
+124258,0,"Collecting Duct, Connecting Tubule",test
+14200,0,"Collecting Duct, Connecting Tubule",test
+22707,0,"Collecting Duct, Connecting Tubule",test
+2738,2,Glomerular endothelial cells,test
+6016,7,Thick Ascending Limb,test
+47644,3,Interstitial endothelial cells,test
+14077,4,Leukocytes,test
+96841,0,"Collecting Duct, Connecting Tubule",test
+83929,0,"Collecting Duct, Connecting Tubule",test
+118333,7,Thick Ascending Limb,test
+150226,7,Thick Ascending Limb,test
+62608,4,Leukocytes,test
+51375,0,"Collecting Duct, Connecting Tubule",test
+71876,0,"Collecting Duct, Connecting Tubule",test
+2716,6,Proximal Tubule Segments,test
+130112,0,"Collecting Duct, Connecting Tubule",test
+62857,1,Distal Convoluted Tubule,test
+46683,2,Glomerular endothelial cells,test
+49248,0,"Collecting Duct, Connecting Tubule",test
+23248,0,"Collecting Duct, Connecting Tubule",test
+3022,7,Thick Ascending Limb,test
+30022,0,"Collecting Duct, Connecting Tubule",test
+140843,0,"Collecting Duct, Connecting Tubule",test
+127841,3,Interstitial endothelial cells,test
+16393,2,Glomerular endothelial cells,test
+82130,5,Podocytes,test
+7874,7,Thick Ascending Limb,test
+57593,7,Thick Ascending Limb,test
+52392,6,Proximal Tubule Segments,test
+4287,2,Glomerular endothelial cells,test
+20832,0,"Collecting Duct, Connecting Tubule",test
+103414,4,Leukocytes,test
+56079,0,"Collecting Duct, Connecting Tubule",test
+26282,5,Podocytes,test
+9143,0,"Collecting Duct, Connecting Tubule",test
+18176,0,"Collecting Duct, Connecting Tubule",test
+6037,6,Proximal Tubule Segments,test
+80577,0,"Collecting Duct, Connecting Tubule",test
+80376,2,Glomerular endothelial cells,test
+15468,3,Interstitial endothelial cells,test
+5201,6,Proximal Tubule Segments,test
+43396,4,Leukocytes,test
+62796,6,Proximal Tubule Segments,test
+131370,0,"Collecting Duct, Connecting Tubule",test
+78286,5,Podocytes,test
+18868,7,Thick Ascending Limb,test
+17720,0,"Collecting Duct, Connecting Tubule",test
+142909,0,"Collecting Duct, Connecting Tubule",test
+16877,3,Interstitial endothelial cells,test
+78717,6,Proximal Tubule Segments,test
+11897,1,Distal Convoluted Tubule,test
+128676,6,Proximal Tubule Segments,test
+54447,0,"Collecting Duct, Connecting Tubule",test
+13562,0,"Collecting Duct, Connecting Tubule",test
+37150,2,Glomerular endothelial cells,test
+139937,6,Proximal Tubule Segments,test
+104938,6,Proximal Tubule Segments,test
+30351,2,Glomerular endothelial cells,test
+87311,4,Leukocytes,test
+18694,5,Podocytes,test
+41706,0,"Collecting Duct, Connecting Tubule",test
+6879,4,Leukocytes,test
+11917,4,Leukocytes,test
+64320,6,Proximal Tubule Segments,test
+120560,2,Glomerular endothelial cells,test
+114872,3,Interstitial endothelial cells,test
+144170,7,Thick Ascending Limb,test
+8328,2,Glomerular endothelial cells,test
+17835,0,"Collecting Duct, Connecting Tubule",test
+4802,3,Interstitial endothelial cells,test
+144221,0,"Collecting Duct, Connecting Tubule",test
+44957,7,Thick Ascending Limb,test
+72366,7,Thick Ascending Limb,test
+46969,3,Interstitial endothelial cells,test
+50755,0,"Collecting Duct, Connecting Tubule",test
+80548,0,"Collecting Duct, Connecting Tubule",test
+112357,3,Interstitial endothelial cells,test
+25956,0,"Collecting Duct, Connecting Tubule",test
+30484,6,Proximal Tubule Segments,test
+116562,6,Proximal Tubule Segments,test
+80648,5,Podocytes,test
+60156,7,Thick Ascending Limb,test
+76402,4,Leukocytes,test
+119629,0,"Collecting Duct, Connecting Tubule",test
+2744,0,"Collecting Duct, Connecting Tubule",test
+130717,0,"Collecting Duct, Connecting Tubule",test
+110683,6,Proximal Tubule Segments,test
+117490,1,Distal Convoluted Tubule,test
+80163,0,"Collecting Duct, Connecting Tubule",test
+97576,7,Thick Ascending Limb,test
+24752,3,Interstitial endothelial cells,test
+77254,3,Interstitial endothelial cells,test
+101028,0,"Collecting Duct, Connecting Tubule",test
+61618,4,Leukocytes,test
+72318,0,"Collecting Duct, Connecting Tubule",test
+11664,6,Proximal Tubule Segments,test
+51979,7,Thick Ascending Limb,test
+78722,0,"Collecting Duct, Connecting Tubule",test
+51255,0,"Collecting Duct, Connecting Tubule",test
+1853,5,Podocytes,test
+36572,7,Thick Ascending Limb,test
+87148,7,Thick Ascending Limb,test
+15715,5,Podocytes,test
+34190,5,Podocytes,test
+23680,0,"Collecting Duct, Connecting Tubule",test
+7298,7,Thick Ascending Limb,test
+14543,0,"Collecting Duct, Connecting Tubule",test
+110780,6,Proximal Tubule Segments,test
+158820,0,"Collecting Duct, Connecting Tubule",test
+81022,3,Interstitial endothelial cells,test
+29975,7,Thick Ascending Limb,test
+40078,4,Leukocytes,test
+95915,7,Thick Ascending Limb,test
+25046,3,Interstitial endothelial cells,test
+29562,6,Proximal Tubule Segments,test
+37750,0,"Collecting Duct, Connecting Tubule",test
+79837,0,"Collecting Duct, Connecting Tubule",test
+38032,5,Podocytes,test
+83599,1,Distal Convoluted Tubule,test
+132981,4,Leukocytes,test
+47197,7,Thick Ascending Limb,test
+46608,6,Proximal Tubule Segments,test
+23533,6,Proximal Tubule Segments,test
+156196,6,Proximal Tubule Segments,test
+94577,0,"Collecting Duct, Connecting Tubule",test
+13144,0,"Collecting Duct, Connecting Tubule",test
+37762,4,Leukocytes,test
+132555,7,Thick Ascending Limb,test
+71478,0,"Collecting Duct, Connecting Tubule",test
+6467,1,Distal Convoluted Tubule,test
+17204,0,"Collecting Duct, Connecting Tubule",test
+7069,7,Thick Ascending Limb,test
+101777,0,"Collecting Duct, Connecting Tubule",test
+12021,0,"Collecting Duct, Connecting Tubule",test
+31628,6,Proximal Tubule Segments,test
+49230,0,"Collecting Duct, Connecting Tubule",test
+6485,0,"Collecting Duct, Connecting Tubule",test
+20991,0,"Collecting Duct, Connecting Tubule",test
+123715,6,Proximal Tubule Segments,test
+25033,0,"Collecting Duct, Connecting Tubule",test
+29157,6,Proximal Tubule Segments,test
+147700,3,Interstitial endothelial cells,test
+135055,3,Interstitial endothelial cells,test
+71237,3,Interstitial endothelial cells,test
+4660,4,Leukocytes,test
+22786,0,"Collecting Duct, Connecting Tubule",test
+21195,7,Thick Ascending Limb,test
+150010,6,Proximal Tubule Segments,test
+331,3,Interstitial endothelial cells,test
+160846,3,Interstitial endothelial cells,test
+39964,4,Leukocytes,test
+5754,0,"Collecting Duct, Connecting Tubule",test
+83301,7,Thick Ascending Limb,test
+8859,1,Distal Convoluted Tubule,test
+158226,3,Interstitial endothelial cells,test
+102556,3,Interstitial endothelial cells,test
+23905,1,Distal Convoluted Tubule,test
+12313,7,Thick Ascending Limb,test
+5764,3,Interstitial endothelial cells,test
+4117,3,Interstitial endothelial cells,test
+114953,6,Proximal Tubule Segments,test
+164457,2,Glomerular endothelial cells,test
+110028,6,Proximal Tubule Segments,test
+79803,0,"Collecting Duct, Connecting Tubule",test
+17995,3,Interstitial endothelial cells,test
+11417,6,Proximal Tubule Segments,test
+50426,6,Proximal Tubule Segments,test
+45665,0,"Collecting Duct, Connecting Tubule",test
+10906,7,Thick Ascending Limb,test
+21751,0,"Collecting Duct, Connecting Tubule",test
+42398,4,Leukocytes,test
+23000,7,Thick Ascending Limb,test
+30616,7,Thick Ascending Limb,test
+4680,6,Proximal Tubule Segments,test
+130546,2,Glomerular endothelial cells,test
+4411,3,Interstitial endothelial cells,test
+19293,0,"Collecting Duct, Connecting Tubule",test
+16860,4,Leukocytes,test
+100559,7,Thick Ascending Limb,test
+36025,6,Proximal Tubule Segments,test
+58813,7,Thick Ascending Limb,test
+12378,6,Proximal Tubule Segments,test
+39982,4,Leukocytes,test
+67679,5,Podocytes,test
+155319,6,Proximal Tubule Segments,test
+86334,0,"Collecting Duct, Connecting Tubule",test
+83970,3,Interstitial endothelial cells,test
+153999,7,Thick Ascending Limb,test
+20454,7,Thick Ascending Limb,test
+12923,0,"Collecting Duct, Connecting Tubule",test
+22138,6,Proximal Tubule Segments,test
+142093,6,Proximal Tubule Segments,test
+122067,0,"Collecting Duct, Connecting Tubule",test
+50909,1,Distal Convoluted Tubule,test
+844,3,Interstitial endothelial cells,test
+38689,6,Proximal Tubule Segments,test
+73709,6,Proximal Tubule Segments,test
+3418,6,Proximal Tubule Segments,test
+5411,7,Thick Ascending Limb,test
+16544,2,Glomerular endothelial cells,test
+4450,1,Distal Convoluted Tubule,test
+124863,4,Leukocytes,test
+145989,7,Thick Ascending Limb,test
+70261,4,Leukocytes,test
+32712,7,Thick Ascending Limb,test
+13313,4,Leukocytes,test
+20845,7,Thick Ascending Limb,test
+22860,1,Distal Convoluted Tubule,test
+9464,7,Thick Ascending Limb,test
+68959,0,"Collecting Duct, Connecting Tubule",test
+83589,0,"Collecting Duct, Connecting Tubule",test
+20339,5,Podocytes,test
+96614,0,"Collecting Duct, Connecting Tubule",test
+70007,6,Proximal Tubule Segments,test
+104648,0,"Collecting Duct, Connecting Tubule",test
+45081,6,Proximal Tubule Segments,test
+111176,0,"Collecting Duct, Connecting Tubule",test
+44563,7,Thick Ascending Limb,test
+13818,4,Leukocytes,test
+13539,1,Distal Convoluted Tubule,test
+32210,1,Distal Convoluted Tubule,test
+1438,1,Distal Convoluted Tubule,test
+114452,5,Podocytes,test
+113546,0,"Collecting Duct, Connecting Tubule",test
+9917,7,Thick Ascending Limb,test
+28689,0,"Collecting Duct, Connecting Tubule",test
+25768,3,Interstitial endothelial cells,test
+69601,7,Thick Ascending Limb,test
+19,7,Thick Ascending Limb,test
+106676,6,Proximal Tubule Segments,test
+44870,7,Thick Ascending Limb,test
+2677,4,Leukocytes,test
+97480,0,"Collecting Duct, Connecting Tubule",test
+42258,6,Proximal Tubule Segments,test
+3891,3,Interstitial endothelial cells,test
+60678,6,Proximal Tubule Segments,test
+385,3,Interstitial endothelial cells,test
+65186,4,Leukocytes,test
+133737,0,"Collecting Duct, Connecting Tubule",test
+94388,0,"Collecting Duct, Connecting Tubule",test
+104201,3,Interstitial endothelial cells,test
+112602,7,Thick Ascending Limb,test
+4405,4,Leukocytes,test
+33142,7,Thick Ascending Limb,test
+92604,5,Podocytes,test
+61068,6,Proximal Tubule Segments,test
+17622,5,Podocytes,test
+100096,7,Thick Ascending Limb,test
+105121,0,"Collecting Duct, Connecting Tubule",test
+103119,3,Interstitial endothelial cells,test
+58350,5,Podocytes,test
+11395,7,Thick Ascending Limb,test
+115440,6,Proximal Tubule Segments,test
+150127,6,Proximal Tubule Segments,test
+14909,0,"Collecting Duct, Connecting Tubule",test
+33527,0,"Collecting Duct, Connecting Tubule",test
+35829,3,Interstitial endothelial cells,test
+59576,0,"Collecting Duct, Connecting Tubule",test
+136102,0,"Collecting Duct, Connecting Tubule",test
+102108,0,"Collecting Duct, Connecting Tubule",test
+20073,4,Leukocytes,test
+121872,0,"Collecting Duct, Connecting Tubule",test
+84185,6,Proximal Tubule Segments,test
+120332,3,Interstitial endothelial cells,test
+124196,6,Proximal Tubule Segments,test
+82916,0,"Collecting Duct, Connecting Tubule",test
+54934,6,Proximal Tubule Segments,test
+98180,7,Thick Ascending Limb,test
+152787,6,Proximal Tubule Segments,test
+31713,7,Thick Ascending Limb,test
+99724,6,Proximal Tubule Segments,test
+43804,0,"Collecting Duct, Connecting Tubule",test
+67089,0,"Collecting Duct, Connecting Tubule",test
+12956,6,Proximal Tubule Segments,test
+73304,7,Thick Ascending Limb,test
+67530,0,"Collecting Duct, Connecting Tubule",test
+94294,2,Glomerular endothelial cells,test
+162872,6,Proximal Tubule Segments,test
+46783,4,Leukocytes,test
+64623,1,Distal Convoluted Tubule,test
+38370,0,"Collecting Duct, Connecting Tubule",test
+25769,3,Interstitial endothelial cells,test
+3225,0,"Collecting Duct, Connecting Tubule",test
+23352,0,"Collecting Duct, Connecting Tubule",test
+8559,0,"Collecting Duct, Connecting Tubule",test
+14243,6,Proximal Tubule Segments,test
+31923,6,Proximal Tubule Segments,test
+87576,0,"Collecting Duct, Connecting Tubule",test
+112704,3,Interstitial endothelial cells,test
+100726,0,"Collecting Duct, Connecting Tubule",test
+80187,3,Interstitial endothelial cells,test
+74927,0,"Collecting Duct, Connecting Tubule",test
+120660,6,Proximal Tubule Segments,test
+135183,3,Interstitial endothelial cells,test
+107351,5,Podocytes,test
+102180,5,Podocytes,test
+16085,0,"Collecting Duct, Connecting Tubule",test
+28781,5,Podocytes,test
+137524,0,"Collecting Duct, Connecting Tubule",test
+40977,5,Podocytes,test
+152768,6,Proximal Tubule Segments,test
+38070,6,Proximal Tubule Segments,test
+13333,2,Glomerular endothelial cells,test
+56803,3,Interstitial endothelial cells,test
+87233,4,Leukocytes,test
+14834,0,"Collecting Duct, Connecting Tubule",test
+21087,0,"Collecting Duct, Connecting Tubule",test
+56927,0,"Collecting Duct, Connecting Tubule",test
+19827,7,Thick Ascending Limb,test
+42519,5,Podocytes,test
+13728,6,Proximal Tubule Segments,test
+100361,5,Podocytes,test
+6083,6,Proximal Tubule Segments,test
+104520,3,Interstitial endothelial cells,test
+120995,3,Interstitial endothelial cells,test
+127749,0,"Collecting Duct, Connecting Tubule",test
+11737,7,Thick Ascending Limb,test
+2688,6,Proximal Tubule Segments,test
+17041,0,"Collecting Duct, Connecting Tubule",test
+45104,1,Distal Convoluted Tubule,test
+15844,2,Glomerular endothelial cells,test
+28190,7,Thick Ascending Limb,test
+93952,0,"Collecting Duct, Connecting Tubule",test
+12059,0,"Collecting Duct, Connecting Tubule",test
+45592,0,"Collecting Duct, Connecting Tubule",test
+137963,3,Interstitial endothelial cells,test
+133077,6,Proximal Tubule Segments,test
+134921,6,Proximal Tubule Segments,test
+102244,6,Proximal Tubule Segments,test
+22544,6,Proximal Tubule Segments,test
+98542,0,"Collecting Duct, Connecting Tubule",test
+89470,6,Proximal Tubule Segments,test
+84212,4,Leukocytes,test
+123523,7,Thick Ascending Limb,test
+36333,6,Proximal Tubule Segments,test
+155180,3,Interstitial endothelial cells,test
+122598,0,"Collecting Duct, Connecting Tubule",test
+82869,0,"Collecting Duct, Connecting Tubule",test
+11132,6,Proximal Tubule Segments,test
+57676,7,Thick Ascending Limb,test
+62379,6,Proximal Tubule Segments,test
+42849,0,"Collecting Duct, Connecting Tubule",test
+79388,0,"Collecting Duct, Connecting Tubule",test
+55600,4,Leukocytes,test
+3103,2,Glomerular endothelial cells,test
+11267,7,Thick Ascending Limb,test
+19795,3,Interstitial endothelial cells,test
+18369,6,Proximal Tubule Segments,test
+6398,2,Glomerular endothelial cells,test
+87622,6,Proximal Tubule Segments,test
+109129,4,Leukocytes,test
+47684,0,"Collecting Duct, Connecting Tubule",test
+20692,7,Thick Ascending Limb,test
+19271,4,Leukocytes,test
+1571,7,Thick Ascending Limb,test
+98899,7,Thick Ascending Limb,test
+104330,0,"Collecting Duct, Connecting Tubule",test
+7592,3,Interstitial endothelial cells,test
+8438,5,Podocytes,test
+38132,6,Proximal Tubule Segments,test
+15816,7,Thick Ascending Limb,test
+129801,6,Proximal Tubule Segments,test
+28714,0,"Collecting Duct, Connecting Tubule",test
+95407,6,Proximal Tubule Segments,test
+16144,7,Thick Ascending Limb,test
+95432,4,Leukocytes,test
+74822,3,Interstitial endothelial cells,test
+29412,0,"Collecting Duct, Connecting Tubule",test
+23278,0,"Collecting Duct, Connecting Tubule",test
+106541,0,"Collecting Duct, Connecting Tubule",test
+151340,6,Proximal Tubule Segments,test
+146430,0,"Collecting Duct, Connecting Tubule",test
+157799,0,"Collecting Duct, Connecting Tubule",test
+6094,0,"Collecting Duct, Connecting Tubule",test
+32835,6,Proximal Tubule Segments,test
+128415,3,Interstitial endothelial cells,test
+114436,6,Proximal Tubule Segments,test
+153606,6,Proximal Tubule Segments,test
+151502,6,Proximal Tubule Segments,test
+153117,3,Interstitial endothelial cells,test
+46956,0,"Collecting Duct, Connecting Tubule",test
+3663,7,Thick Ascending Limb,test
+42474,0,"Collecting Duct, Connecting Tubule",test
+39849,7,Thick Ascending Limb,test
+121502,4,Leukocytes,test
+103248,0,"Collecting Duct, Connecting Tubule",test
+61350,6,Proximal Tubule Segments,test
+24281,0,"Collecting Duct, Connecting Tubule",test
+34716,6,Proximal Tubule Segments,test
+46482,6,Proximal Tubule Segments,test
+25195,0,"Collecting Duct, Connecting Tubule",test
+57907,6,Proximal Tubule Segments,test
+14983,0,"Collecting Duct, Connecting Tubule",test
+21455,7,Thick Ascending Limb,test
+25693,0,"Collecting Duct, Connecting Tubule",test
+31218,5,Podocytes,test
+84110,0,"Collecting Duct, Connecting Tubule",test
+16877,0,"Collecting Duct, Connecting Tubule",test
+156588,0,"Collecting Duct, Connecting Tubule",test
+80394,4,Leukocytes,test
+104246,6,Proximal Tubule Segments,test
+83266,0,"Collecting Duct, Connecting Tubule",test

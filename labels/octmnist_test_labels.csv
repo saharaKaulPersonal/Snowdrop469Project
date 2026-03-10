@@ -1,0 +1,1001 @@
+image_index,label_index,label_name
+0,3,normal
+1,2,drusen
+2,3,normal
+3,3,normal
+4,0,choroidal neovascularization
+5,2,drusen
+6,1,diabetic macular edema
+7,0,choroidal neovascularization
+8,0,choroidal neovascularization
+9,3,normal
+10,0,choroidal neovascularization
+11,1,diabetic macular edema
+12,3,normal
+13,3,normal
+14,3,normal
+15,2,drusen
+16,2,drusen
+17,3,normal
+18,0,choroidal neovascularization
+19,2,drusen
+20,1,diabetic macular edema
+21,0,choroidal neovascularization
+22,0,choroidal neovascularization
+23,3,normal
+24,0,choroidal neovascularization
+25,0,choroidal neovascularization
+26,0,choroidal neovascularization
+27,1,diabetic macular edema
+28,2,drusen
+29,1,diabetic macular edema
+30,2,drusen
+31,1,diabetic macular edema
+32,2,drusen
+33,3,normal
+34,2,drusen
+35,1,diabetic macular edema
+36,1,diabetic macular edema
+37,3,normal
+38,0,choroidal neovascularization
+39,2,drusen
+40,1,diabetic macular edema
+41,2,drusen
+42,0,choroidal neovascularization
+43,0,choroidal neovascularization
+44,3,normal
+45,1,diabetic macular edema
+46,3,normal
+47,1,diabetic macular edema
+48,1,diabetic macular edema
+49,2,drusen
+50,1,diabetic macular edema
+51,0,choroidal neovascularization
+52,1,diabetic macular edema
+53,0,choroidal neovascularization
+54,0,choroidal neovascularization
+55,1,diabetic macular edema
+56,2,drusen
+57,1,diabetic macular edema
+58,1,diabetic macular edema
+59,1,diabetic macular edema
+60,1,diabetic macular edema
+61,2,drusen
+62,3,normal
+63,2,drusen
+64,2,drusen
+65,0,choroidal neovascularization
+66,2,drusen
+67,0,choroidal neovascularization
+68,2,drusen
+69,1,diabetic macular edema
+70,1,diabetic macular edema
+71,1,diabetic macular edema
+72,3,normal
+73,3,normal
+74,2,drusen
+75,2,drusen
+76,3,normal
+77,2,drusen
+78,3,normal
+79,0,choroidal neovascularization
+80,0,choroidal neovascularization
+81,2,drusen
+82,3,normal
+83,3,normal
+84,3,normal
+85,2,drusen
+86,1,diabetic macular edema
+87,2,drusen
+88,2,drusen
+89,0,choroidal neovascularization
+90,2,drusen
+91,3,normal
+92,0,choroidal neovascularization
+93,1,diabetic macular edema
+94,1,diabetic macular edema
+95,1,diabetic macular edema
+96,1,diabetic macular edema
+97,3,normal
+98,1,diabetic macular edema
+99,0,choroidal neovascularization
+100,3,normal
+101,0,choroidal neovascularization
+102,0,choroidal neovascularization
+103,3,normal
+104,2,drusen
+105,2,drusen
+106,2,drusen
+107,3,normal
+108,1,diabetic macular edema
+109,2,drusen
+110,2,drusen
+111,1,diabetic macular edema
+112,0,choroidal neovascularization
+113,2,drusen
+114,3,normal
+115,3,normal
+116,0,choroidal neovascularization
+117,0,choroidal neovascularization
+118,3,normal
+119,2,drusen
+120,0,choroidal neovascularization
+121,2,drusen
+122,3,normal
+123,1,diabetic macular edema
+124,0,choroidal neovascularization
+125,0,choroidal neovascularization
+126,0,choroidal neovascularization
+127,2,drusen
+128,3,normal
+129,1,diabetic macular edema
+130,1,diabetic macular edema
+131,3,normal
+132,1,diabetic macular edema
+133,0,choroidal neovascularization
+134,3,normal
+135,2,drusen
+136,1,diabetic macular edema
+137,2,drusen
+138,0,choroidal neovascularization
+139,0,choroidal neovascularization
+140,1,diabetic macular edema
+141,0,choroidal neovascularization
+142,0,choroidal neovascularization
+143,1,diabetic macular edema
+144,1,diabetic macular edema
+145,2,drusen
+146,3,normal
+147,2,drusen
+148,0,choroidal neovascularization
+149,1,diabetic macular edema
+150,0,choroidal neovascularization
+151,0,choroidal neovascularization
+152,0,choroidal neovascularization
+153,1,diabetic macular edema
+154,1,diabetic macular edema
+155,0,choroidal neovascularization
+156,2,drusen
+157,0,choroidal neovascularization
+158,2,drusen
+159,1,diabetic macular edema
+160,3,normal
+161,3,normal
+162,3,normal
+163,3,normal
+164,2,drusen
+165,1,diabetic macular edema
+166,3,normal
+167,1,diabetic macular edema
+168,2,drusen
+169,3,normal
+170,1,diabetic macular edema
+171,0,choroidal neovascularization
+172,3,normal
+173,0,choroidal neovascularization
+174,2,drusen
+175,3,normal
+176,2,drusen
+177,3,normal
+178,2,drusen
+179,0,choroidal neovascularization
+180,2,drusen
+181,2,drusen
+182,1,diabetic macular edema
+183,1,diabetic macular edema
+184,2,drusen
+185,1,diabetic macular edema
+186,1,diabetic macular edema
+187,2,drusen
+188,2,drusen
+189,2,drusen
+190,0,choroidal neovascularization
+191,3,normal
+192,3,normal
+193,2,drusen
+194,2,drusen
+195,0,choroidal neovascularization
+196,2,drusen
+197,2,drusen
+198,1,diabetic macular edema
+199,2,drusen
+200,3,normal
+201,0,choroidal neovascularization
+202,0,choroidal neovascularization
+203,1,diabetic macular edema
+204,1,diabetic macular edema
+205,0,choroidal neovascularization
+206,1,diabetic macular edema
+207,0,choroidal neovascularization
+208,0,choroidal neovascularization
+209,1,diabetic macular edema
+210,2,drusen
+211,2,drusen
+212,1,diabetic macular edema
+213,3,normal
+214,3,normal
+215,0,choroidal neovascularization
+216,3,normal
+217,3,normal
+218,3,normal
+219,2,drusen
+220,3,normal
+221,2,drusen
+222,3,normal
+223,0,choroidal neovascularization
+224,2,drusen
+225,1,diabetic macular edema
+226,0,choroidal neovascularization
+227,0,choroidal neovascularization
+228,3,normal
+229,0,choroidal neovascularization
+230,0,choroidal neovascularization
+231,2,drusen
+232,1,diabetic macular edema
+233,1,diabetic macular edema
+234,0,choroidal neovascularization
+235,0,choroidal neovascularization
+236,0,choroidal neovascularization
+237,1,diabetic macular edema
+238,1,diabetic macular edema
+239,1,diabetic macular edema
+240,2,drusen
+241,2,drusen
+242,3,normal
+243,0,choroidal neovascularization
+244,1,diabetic macular edema
+245,3,normal
+246,1,diabetic macular edema
+247,0,choroidal neovascularization
+248,0,choroidal neovascularization
+249,2,drusen
+250,3,normal
+251,2,drusen
+252,0,choroidal neovascularization
+253,3,normal
+254,0,choroidal neovascularization
+255,2,drusen
+256,3,normal
+257,1,diabetic macular edema
+258,1,diabetic macular edema
+259,2,drusen
+260,3,normal
+261,3,normal
+262,1,diabetic macular edema
+263,1,diabetic macular edema
+264,1,diabetic macular edema
+265,1,diabetic macular edema
+266,3,normal
+267,1,diabetic macular edema
+268,3,normal
+269,0,choroidal neovascularization
+270,1,diabetic macular edema
+271,1,diabetic macular edema
+272,2,drusen
+273,2,drusen
+274,2,drusen
+275,2,drusen
+276,2,drusen
+277,1,diabetic macular edema
+278,1,diabetic macular edema
+279,0,choroidal neovascularization
+280,2,drusen
+281,1,diabetic macular edema
+282,3,normal
+283,1,diabetic macular edema
+284,3,normal
+285,3,normal
+286,1,diabetic macular edema
+287,1,diabetic macular edema
+288,3,normal
+289,0,choroidal neovascularization
+290,2,drusen
+291,2,drusen
+292,0,choroidal neovascularization
+293,0,choroidal neovascularization
+294,2,drusen
+295,1,diabetic macular edema
+296,0,choroidal neovascularization
+297,3,normal
+298,1,diabetic macular edema
+299,2,drusen
+300,1,diabetic macular edema
+301,2,drusen
+302,0,choroidal neovascularization
+303,0,choroidal neovascularization
+304,1,diabetic macular edema
+305,0,choroidal neovascularization
+306,0,choroidal neovascularization
+307,0,choroidal neovascularization
+308,0,choroidal neovascularization
+309,3,normal
+310,1,diabetic macular edema
+311,3,normal
+312,0,choroidal neovascularization
+313,3,normal
+314,3,normal
+315,2,drusen
+316,0,choroidal neovascularization
+317,2,drusen
+318,3,normal
+319,0,choroidal neovascularization
+320,3,normal
+321,3,normal
+322,2,drusen
+323,2,drusen
+324,3,normal
+325,0,choroidal neovascularization
+326,1,diabetic macular edema
+327,1,diabetic macular edema
+328,2,drusen
+329,3,normal
+330,2,drusen
+331,3,normal
+332,3,normal
+333,1,diabetic macular edema
+334,0,choroidal neovascularization
+335,2,drusen
+336,1,diabetic macular edema
+337,2,drusen
+338,1,diabetic macular edema
+339,1,diabetic macular edema
+340,3,normal
+341,2,drusen
+342,3,normal
+343,0,choroidal neovascularization
+344,0,choroidal neovascularization
+345,0,choroidal neovascularization
+346,3,normal
+347,2,drusen
+348,3,normal
+349,2,drusen
+350,1,diabetic macular edema
+351,1,diabetic macular edema
+352,1,diabetic macular edema
+353,3,normal
+354,3,normal
+355,0,choroidal neovascularization
+356,1,diabetic macular edema
+357,1,diabetic macular edema
+358,2,drusen
+359,0,choroidal neovascularization
+360,3,normal
+361,3,normal
+362,3,normal
+363,0,choroidal neovascularization
+364,3,normal
+365,3,normal
+366,3,normal
+367,2,drusen
+368,1,diabetic macular edema
+369,3,normal
+370,1,diabetic macular edema
+371,3,normal
+372,3,normal
+373,3,normal
+374,0,choroidal neovascularization
+375,1,diabetic macular edema
+376,3,normal
+377,3,normal
+378,3,normal
+379,3,normal
+380,1,diabetic macular edema
+381,2,drusen
+382,3,normal
+383,0,choroidal neovascularization
+384,0,choroidal neovascularization
+385,2,drusen
+386,0,choroidal neovascularization
+387,1,diabetic macular edema
+388,1,diabetic macular edema
+389,3,normal
+390,1,diabetic macular edema
+391,0,choroidal neovascularization
+392,1,diabetic macular edema
+393,1,diabetic macular edema
+394,0,choroidal neovascularization
+395,0,choroidal neovascularization
+396,2,drusen
+397,3,normal
+398,0,choroidal neovascularization
+399,1,diabetic macular edema
+400,3,normal
+401,1,diabetic macular edema
+402,0,choroidal neovascularization
+403,1,diabetic macular edema
+404,3,normal
+405,2,drusen
+406,2,drusen
+407,0,choroidal neovascularization
+408,3,normal
+409,1,diabetic macular edema
+410,1,diabetic macular edema
+411,1,diabetic macular edema
+412,0,choroidal neovascularization
+413,2,drusen
+414,1,diabetic macular edema
+415,2,drusen
+416,1,diabetic macular edema
+417,1,diabetic macular edema
+418,2,drusen
+419,3,normal
+420,3,normal
+421,0,choroidal neovascularization
+422,2,drusen
+423,2,drusen
+424,2,drusen
+425,0,choroidal neovascularization
+426,0,choroidal neovascularization
+427,2,drusen
+428,0,choroidal neovascularization
+429,0,choroidal neovascularization
+430,0,choroidal neovascularization
+431,3,normal
+432,2,drusen
+433,3,normal
+434,2,drusen
+435,1,diabetic macular edema
+436,3,normal
+437,3,normal
+438,0,choroidal neovascularization
+439,1,diabetic macular edema
+440,1,diabetic macular edema
+441,1,diabetic macular edema
+442,1,diabetic macular edema
+443,3,normal
+444,3,normal
+445,1,diabetic macular edema
+446,2,drusen
+447,2,drusen
+448,1,diabetic macular edema
+449,0,choroidal neovascularization
+450,2,drusen
+451,3,normal
+452,3,normal
+453,0,choroidal neovascularization
+454,0,choroidal neovascularization
+455,0,choroidal neovascularization
+456,2,drusen
+457,2,drusen
+458,0,choroidal neovascularization
+459,3,normal
+460,2,drusen
+461,0,choroidal neovascularization
+462,1,diabetic macular edema
+463,3,normal
+464,2,drusen
+465,1,diabetic macular edema
+466,1,diabetic macular edema
+467,2,drusen
+468,3,normal
+469,3,normal
+470,1,diabetic macular edema
+471,2,drusen
+472,3,normal
+473,2,drusen
+474,2,drusen
+475,2,drusen
+476,1,diabetic macular edema
+477,3,normal
+478,3,normal
+479,3,normal
+480,3,normal
+481,3,normal
+482,2,drusen
+483,0,choroidal neovascularization
+484,2,drusen
+485,3,normal
+486,3,normal
+487,2,drusen
+488,0,choroidal neovascularization
+489,1,diabetic macular edema
+490,1,diabetic macular edema
+491,3,normal
+492,0,choroidal neovascularization
+493,0,choroidal neovascularization
+494,1,diabetic macular edema
+495,3,normal
+496,3,normal
+497,0,choroidal neovascularization
+498,1,diabetic macular edema
+499,3,normal
+500,3,normal
+501,3,normal
+502,3,normal
+503,2,drusen
+504,0,choroidal neovascularization
+505,0,choroidal neovascularization
+506,0,choroidal neovascularization
+507,0,choroidal neovascularization
+508,1,diabetic macular edema
+509,0,choroidal neovascularization
+510,1,diabetic macular edema
+511,2,drusen
+512,0,choroidal neovascularization
+513,1,diabetic macular edema
+514,2,drusen
+515,1,diabetic macular edema
+516,2,drusen
+517,2,drusen
+518,1,diabetic macular edema
+519,3,normal
+520,0,choroidal neovascularization
+521,0,choroidal neovascularization
+522,3,normal
+523,0,choroidal neovascularization
+524,0,choroidal neovascularization
+525,2,drusen
+526,2,drusen
+527,1,diabetic macular edema
+528,1,diabetic macular edema
+529,3,normal
+530,1,diabetic macular edema
+531,1,diabetic macular edema
+532,1,diabetic macular edema
+533,0,choroidal neovascularization
+534,3,normal
+535,1,diabetic macular edema
+536,2,drusen
+537,2,drusen
+538,0,choroidal neovascularization
+539,1,diabetic macular edema
+540,2,drusen
+541,0,choroidal neovascularization
+542,1,diabetic macular edema
+543,1,diabetic macular edema
+544,3,normal
+545,2,drusen
+546,0,choroidal neovascularization
+547,0,choroidal neovascularization
+548,0,choroidal neovascularization
+549,2,drusen
+550,3,normal
+551,1,diabetic macular edema
+552,2,drusen
+553,3,normal
+554,3,normal
+555,2,drusen
+556,1,diabetic macular edema
+557,1,diabetic macular edema
+558,3,normal
+559,0,choroidal neovascularization
+560,3,normal
+561,1,diabetic macular edema
+562,3,normal
+563,0,choroidal neovascularization
+564,0,choroidal neovascularization
+565,2,drusen
+566,0,choroidal neovascularization
+567,1,diabetic macular edema
+568,2,drusen
+569,0,choroidal neovascularization
+570,1,diabetic macular edema
+571,3,normal
+572,3,normal
+573,1,diabetic macular edema
+574,0,choroidal neovascularization
+575,1,diabetic macular edema
+576,2,drusen
+577,0,choroidal neovascularization
+578,1,diabetic macular edema
+579,0,choroidal neovascularization
+580,2,drusen
+581,3,normal
+582,0,choroidal neovascularization
+583,3,normal
+584,3,normal
+585,2,drusen
+586,2,drusen
+587,0,choroidal neovascularization
+588,1,diabetic macular edema
+589,2,drusen
+590,2,drusen
+591,3,normal
+592,0,choroidal neovascularization
+593,1,diabetic macular edema
+594,3,normal
+595,1,diabetic macular edema
+596,0,choroidal neovascularization
+597,3,normal
+598,2,drusen
+599,1,diabetic macular edema
+600,3,normal
+601,0,choroidal neovascularization
+602,2,drusen
+603,1,diabetic macular edema
+604,0,choroidal neovascularization
+605,1,diabetic macular edema
+606,3,normal
+607,3,normal
+608,2,drusen
+609,3,normal
+610,0,choroidal neovascularization
+611,1,diabetic macular edema
+612,3,normal
+613,2,drusen
+614,2,drusen
+615,0,choroidal neovascularization
+616,0,choroidal neovascularization
+617,3,normal
+618,3,normal
+619,3,normal
+620,3,normal
+621,0,choroidal neovascularization
+622,0,choroidal neovascularization
+623,0,choroidal neovascularization
+624,0,choroidal neovascularization
+625,1,diabetic macular edema
+626,1,diabetic macular edema
+627,1,diabetic macular edema
+628,3,normal
+629,0,choroidal neovascularization
+630,0,choroidal neovascularization
+631,0,choroidal neovascularization
+632,1,diabetic macular edema
+633,2,drusen
+634,0,choroidal neovascularization
+635,2,drusen
+636,1,diabetic macular edema
+637,0,choroidal neovascularization
+638,3,normal
+639,3,normal
+640,1,diabetic macular edema
+641,0,choroidal neovascularization
+642,2,drusen
+643,2,drusen
+644,3,normal
+645,3,normal
+646,3,normal
+647,0,choroidal neovascularization
+648,2,drusen
+649,0,choroidal neovascularization
+650,0,choroidal neovascularization
+651,2,drusen
+652,2,drusen
+653,2,drusen
+654,1,diabetic macular edema
+655,2,drusen
+656,2,drusen
+657,3,normal
+658,3,normal
+659,2,drusen
+660,0,choroidal neovascularization
+661,2,drusen
+662,0,choroidal neovascularization
+663,2,drusen
+664,0,choroidal neovascularization
+665,3,normal
+666,1,diabetic macular edema
+667,2,drusen
+668,2,drusen
+669,0,choroidal neovascularization
+670,3,normal
+671,1,diabetic macular edema
+672,2,drusen
+673,2,drusen
+674,0,choroidal neovascularization
+675,3,normal
+676,1,diabetic macular edema
+677,1,diabetic macular edema
+678,1,diabetic macular edema
+679,3,normal
+680,1,diabetic macular edema
+681,1,diabetic macular edema
+682,2,drusen
+683,1,diabetic macular edema
+684,2,drusen
+685,1,diabetic macular edema
+686,0,choroidal neovascularization
+687,3,normal
+688,1,diabetic macular edema
+689,0,choroidal neovascularization
+690,3,normal
+691,2,drusen
+692,3,normal
+693,3,normal
+694,0,choroidal neovascularization
+695,3,normal
+696,3,normal
+697,3,normal
+698,3,normal
+699,3,normal
+700,1,diabetic macular edema
+701,3,normal
+702,1,diabetic macular edema
+703,1,diabetic macular edema
+704,2,drusen
+705,2,drusen
+706,3,normal
+707,3,normal
+708,3,normal
+709,2,drusen
+710,3,normal
+711,0,choroidal neovascularization
+712,2,drusen
+713,2,drusen
+714,2,drusen
+715,3,normal
+716,3,normal
+717,0,choroidal neovascularization
+718,3,normal
+719,2,drusen
+720,3,normal
+721,3,normal
+722,0,choroidal neovascularization
+723,1,diabetic macular edema
+724,2,drusen
+725,0,choroidal neovascularization
+726,3,normal
+727,0,choroidal neovascularization
+728,1,diabetic macular edema
+729,0,choroidal neovascularization
+730,1,diabetic macular edema
+731,1,diabetic macular edema
+732,1,diabetic macular edema
+733,1,diabetic macular edema
+734,2,drusen
+735,2,drusen
+736,1,diabetic macular edema
+737,3,normal
+738,3,normal
+739,2,drusen
+740,0,choroidal neovascularization
+741,0,choroidal neovascularization
+742,3,normal
+743,2,drusen
+744,3,normal
+745,1,diabetic macular edema
+746,2,drusen
+747,2,drusen
+748,0,choroidal neovascularization
+749,0,choroidal neovascularization
+750,1,diabetic macular edema
+751,3,normal
+752,2,drusen
+753,1,diabetic macular edema
+754,1,diabetic macular edema
+755,3,normal
+756,1,diabetic macular edema
+757,0,choroidal neovascularization
+758,1,diabetic macular edema
+759,2,drusen
+760,0,choroidal neovascularization
+761,0,choroidal neovascularization
+762,2,drusen
+763,3,normal
+764,2,drusen
+765,2,drusen
+766,0,choroidal neovascularization
+767,0,choroidal neovascularization
+768,1,diabetic macular edema
+769,1,diabetic macular edema
+770,2,drusen
+771,2,drusen
+772,2,drusen
+773,3,normal
+774,1,diabetic macular edema
+775,2,drusen
+776,0,choroidal neovascularization
+777,3,normal
+778,1,diabetic macular edema
+779,1,diabetic macular edema
+780,2,drusen
+781,1,diabetic macular edema
+782,3,normal
+783,1,diabetic macular edema
+784,1,diabetic macular edema
+785,2,drusen
+786,3,normal
+787,0,choroidal neovascularization
+788,1,diabetic macular edema
+789,3,normal
+790,2,drusen
+791,1,diabetic macular edema
+792,0,choroidal neovascularization
+793,3,normal
+794,1,diabetic macular edema
+795,0,choroidal neovascularization
+796,1,diabetic macular edema
+797,2,drusen
+798,0,choroidal neovascularization
+799,2,drusen
+800,2,drusen
+801,3,normal
+802,1,diabetic macular edema
+803,0,choroidal neovascularization
+804,3,normal
+805,0,choroidal neovascularization
+806,1,diabetic macular edema
+807,0,choroidal neovascularization
+808,1,diabetic macular edema
+809,1,diabetic macular edema
+810,0,choroidal neovascularization
+811,3,normal
+812,2,drusen
+813,3,normal
+814,0,choroidal neovascularization
+815,0,choroidal neovascularization
+816,2,drusen
+817,2,drusen
+818,2,drusen
+819,0,choroidal neovascularization
+820,0,choroidal neovascularization
+821,3,normal
+822,3,normal
+823,3,normal
+824,2,drusen
+825,0,choroidal neovascularization
+826,2,drusen
+827,3,normal
+828,1,diabetic macular edema
+829,1,diabetic macular edema
+830,1,diabetic macular edema
+831,1,diabetic macular edema
+832,1,diabetic macular edema
+833,0,choroidal neovascularization
+834,2,drusen
+835,3,normal
+836,1,diabetic macular edema
+837,0,choroidal neovascularization
+838,0,choroidal neovascularization
+839,3,normal
+840,2,drusen
+841,0,choroidal neovascularization
+842,2,drusen
+843,2,drusen
+844,3,normal
+845,0,choroidal neovascularization
+846,0,choroidal neovascularization
+847,0,choroidal neovascularization
+848,0,choroidal neovascularization
+849,1,diabetic macular edema
+850,3,normal
+851,1,diabetic macular edema
+852,0,choroidal neovascularization
+853,1,diabetic macular edema
+854,2,drusen
+855,3,normal
+856,2,drusen
+857,0,choroidal neovascularization
+858,2,drusen
+859,1,diabetic macular edema
+860,1,diabetic macular edema
+861,3,normal
+862,2,drusen
+863,2,drusen
+864,0,choroidal neovascularization
+865,0,choroidal neovascularization
+866,1,diabetic macular edema
+867,1,diabetic macular edema
+868,2,drusen
+869,1,diabetic macular edema
+870,2,drusen
+871,3,normal
+872,0,choroidal neovascularization
+873,2,drusen
+874,0,choroidal neovascularization
+875,0,choroidal neovascularization
+876,1,diabetic macular edema
+877,2,drusen
+878,2,drusen
+879,0,choroidal neovascularization
+880,3,normal
+881,0,choroidal neovascularization
+882,1,diabetic macular edema
+883,0,choroidal neovascularization
+884,3,normal
+885,0,choroidal neovascularization
+886,0,choroidal neovascularization
+887,2,drusen
+888,1,diabetic macular edema
+889,1,diabetic macular edema
+890,3,normal
+891,3,normal
+892,3,normal
+893,0,choroidal neovascularization
+894,3,normal
+895,3,normal
+896,0,choroidal neovascularization
+897,2,drusen
+898,2,drusen
+899,2,drusen
+900,1,diabetic macular edema
+901,0,choroidal neovascularization
+902,2,drusen
+903,2,drusen
+904,2,drusen
+905,0,choroidal neovascularization
+906,2,drusen
+907,1,diabetic macular edema
+908,3,normal
+909,2,drusen
+910,2,drusen
+911,0,choroidal neovascularization
+912,0,choroidal neovascularization
+913,2,drusen
+914,2,drusen
+915,0,choroidal neovascularization
+916,2,drusen
+917,2,drusen
+918,3,normal
+919,0,choroidal neovascularization
+920,3,normal
+921,1,diabetic macular edema
+922,1,diabetic macular edema
+923,0,choroidal neovascularization
+924,3,normal
+925,1,diabetic macular edema
+926,0,choroidal neovascularization
+927,2,drusen
+928,1,diabetic macular edema
+929,2,drusen
+930,1,diabetic macular edema
+931,3,normal
+932,1,diabetic macular edema
+933,3,normal
+934,0,choroidal neovascularization
+935,0,choroidal neovascularization
+936,3,normal
+937,0,choroidal neovascularization
+938,2,drusen
+939,1,diabetic macular edema
+940,2,drusen
+941,3,normal
+942,1,diabetic macular edema
+943,3,normal
+944,2,drusen
+945,2,drusen
+946,2,drusen
+947,2,drusen
+948,3,normal
+949,2,drusen
+950,1,diabetic macular edema
+951,2,drusen
+952,3,normal
+953,1,diabetic macular edema
+954,2,drusen
+955,3,normal
+956,2,drusen
+957,0,choroidal neovascularization
+958,0,choroidal neovascularization
+959,1,diabetic macular edema
+960,1,diabetic macular edema
+961,1,diabetic macular edema
+962,0,choroidal neovascularization
+963,0,choroidal neovascularization
+964,1,diabetic macular edema
+965,2,drusen
+966,1,diabetic macular edema
+967,1,diabetic macular edema
+968,0,choroidal neovascularization
+969,3,normal
+970,2,drusen
+971,0,choroidal neovascularization
+972,1,diabetic macular edema
+973,1,diabetic macular edema
+974,0,choroidal neovascularization
+975,0,choroidal neovascularization
+976,3,normal
+977,3,normal
+978,1,diabetic macular edema
+979,0,choroidal neovascularization
+980,3,normal
+981,0,choroidal neovascularization
+982,2,drusen
+983,3,normal
+984,0,choroidal neovascularization
+985,3,normal
+986,2,drusen
+987,3,normal
+988,1,diabetic macular edema
+989,0,choroidal neovascularization
+990,3,normal
+991,2,drusen
+992,1,diabetic macular edema
+993,0,choroidal neovascularization
+994,0,choroidal neovascularization
+995,2,drusen
+996,1,diabetic macular edema
+997,3,normal
+998,1,diabetic macular edema
+999,0,choroidal neovascularization

@@ -1,0 +1,917 @@
+image_index,label_index,label_name,split
+2406,2,debris,val
+64564,1,background,val
+52102,2,debris,val
+43945,2,debris,val
+10435,2,debris,val
+46481,6,normal colon mucosa,val
+75276,3,lymphocytes,val
+78246,8,colorectal adenocarcinoma epithelium,val
+3421,8,colorectal adenocarcinoma epithelium,val
+30764,5,smooth muscle,val
+53350,8,colorectal adenocarcinoma epithelium,val
+72136,8,colorectal adenocarcinoma epithelium,val
+46943,0,adipose,val
+67477,5,smooth muscle,val
+14806,2,debris,val
+88676,5,smooth muscle,val
+62024,0,adipose,val
+5105,1,background,val
+83149,6,normal colon mucosa,val
+48634,5,smooth muscle,val
+68232,1,background,val
+1930,4,mucus,val
+64035,7,cancer-associated stroma,val
+28313,3,lymphocytes,val
+79908,5,smooth muscle,val
+9291,5,smooth muscle,val
+37684,2,debris,val
+19694,1,background,val
+12108,3,lymphocytes,val
+24725,7,cancer-associated stroma,val
+7114,2,debris,val
+62438,7,cancer-associated stroma,val
+2779,8,colorectal adenocarcinoma epithelium,val
+20802,2,debris,val
+2003,0,adipose,val
+44586,8,colorectal adenocarcinoma epithelium,val
+14763,0,adipose,val
+58658,8,colorectal adenocarcinoma epithelium,val
+31693,3,lymphocytes,val
+12320,5,smooth muscle,val
+86822,6,normal colon mucosa,val
+52995,6,normal colon mucosa,val
+66909,0,adipose,val
+55690,8,colorectal adenocarcinoma epithelium,val
+33208,1,background,val
+71910,1,background,val
+8271,7,cancer-associated stroma,val
+26988,8,colorectal adenocarcinoma epithelium,val
+4076,3,lymphocytes,val
+6587,7,cancer-associated stroma,val
+46051,2,debris,val
+1805,8,colorectal adenocarcinoma epithelium,val
+57975,5,smooth muscle,val
+40566,6,normal colon mucosa,val
+72464,7,cancer-associated stroma,val
+78543,4,mucus,val
+87582,6,normal colon mucosa,val
+71062,2,debris,val
+20094,6,normal colon mucosa,val
+6185,8,colorectal adenocarcinoma epithelium,val
+26895,4,mucus,val
+48644,4,mucus,val
+34623,0,adipose,val
+62712,2,debris,val
+9492,7,cancer-associated stroma,val
+4280,5,smooth muscle,val
+77707,0,adipose,val
+49975,8,colorectal adenocarcinoma epithelium,val
+82071,7,cancer-associated stroma,val
+6794,1,background,val
+34086,1,background,val
+39388,0,adipose,val
+39610,0,adipose,val
+66821,7,cancer-associated stroma,val
+18772,8,colorectal adenocarcinoma epithelium,val
+35947,3,lymphocytes,val
+31846,2,debris,val
+9008,2,debris,val
+26479,1,background,val
+55160,1,background,val
+10411,0,adipose,val
+11892,5,smooth muscle,val
+15063,0,adipose,val
+41574,7,cancer-associated stroma,val
+1062,6,normal colon mucosa,val
+31447,5,smooth muscle,val
+62403,5,smooth muscle,val
+7520,2,debris,val
+33648,5,smooth muscle,val
+87769,4,mucus,val
+38201,1,background,val
+80734,0,adipose,val
+514,1,background,val
+869,1,background,val
+44391,2,debris,val
+77592,0,adipose,val
+83918,8,colorectal adenocarcinoma epithelium,val
+10398,4,mucus,val
+66940,2,debris,val
+27973,5,smooth muscle,val
+24072,4,mucus,val
+718,4,mucus,val
+72254,3,lymphocytes,val
+15276,6,normal colon mucosa,val
+32195,2,debris,val
+34507,8,colorectal adenocarcinoma epithelium,val
+18587,6,normal colon mucosa,val
+33943,0,adipose,val
+236,1,background,val
+6607,8,colorectal adenocarcinoma epithelium,val
+16714,2,debris,val
+89727,1,background,val
+79210,0,adipose,val
+46188,0,adipose,val
+7836,4,mucus,val
+245,3,lymphocytes,val
+6386,3,lymphocytes,val
+23661,1,background,val
+75130,3,lymphocytes,val
+20474,7,cancer-associated stroma,val
+532,1,background,val
+21867,5,smooth muscle,val
+43069,8,colorectal adenocarcinoma epithelium,val
+5709,5,smooth muscle,val
+75338,1,background,val
+21087,2,debris,val
+69542,3,lymphocytes,val
+1177,8,colorectal adenocarcinoma epithelium,val
+9772,0,adipose,val
+7300,5,smooth muscle,val
+2165,3,lymphocytes,val
+62238,0,adipose,val
+24615,8,colorectal adenocarcinoma epithelium,val
+56714,6,normal colon mucosa,val
+69979,8,colorectal adenocarcinoma epithelium,val
+27801,8,colorectal adenocarcinoma epithelium,val
+43421,1,background,val
+68541,5,smooth muscle,val
+63794,1,background,val
+4142,0,adipose,val
+76362,3,lymphocytes,val
+2184,2,debris,val
+16390,3,lymphocytes,val
+2307,0,adipose,val
+48846,8,colorectal adenocarcinoma epithelium,val
+52610,5,smooth muscle,val
+417,3,lymphocytes,val
+31890,8,colorectal adenocarcinoma epithelium,val
+45734,0,adipose,val
+41508,2,debris,val
+6227,1,background,val
+76074,7,cancer-associated stroma,val
+2984,8,colorectal adenocarcinoma epithelium,val
+6444,5,smooth muscle,val
+5743,5,smooth muscle,val
+265,3,lymphocytes,val
+81160,6,normal colon mucosa,val
+87345,8,colorectal adenocarcinoma epithelium,val
+1096,6,normal colon mucosa,val
+7936,5,smooth muscle,val
+8535,5,smooth muscle,val
+57345,6,normal colon mucosa,val
+79003,3,lymphocytes,val
+38277,5,smooth muscle,val
+22528,3,lymphocytes,val
+39955,7,cancer-associated stroma,val
+31673,6,normal colon mucosa,val
+57085,7,cancer-associated stroma,val
+44603,0,adipose,val
+7914,2,debris,val
+89738,2,debris,val
+10456,5,smooth muscle,val
+6663,5,smooth muscle,val
+48235,6,normal colon mucosa,val
+5356,6,normal colon mucosa,val
+3430,2,debris,val
+4586,2,debris,val
+64735,5,smooth muscle,val
+78588,0,adipose,val
+16304,1,background,val
+81752,8,colorectal adenocarcinoma epithelium,val
+45142,1,background,val
+18661,3,lymphocytes,val
+8730,7,cancer-associated stroma,val
+27449,5,smooth muscle,val
+7354,5,smooth muscle,val
+49174,5,smooth muscle,val
+7478,7,cancer-associated stroma,val
+58900,6,normal colon mucosa,val
+47365,8,colorectal adenocarcinoma epithelium,val
+66021,1,background,val
+4910,3,lymphocytes,val
+16121,5,smooth muscle,val
+2388,0,adipose,val
+9653,7,cancer-associated stroma,val
+62307,5,smooth muscle,val
+75612,5,smooth muscle,val
+53502,6,normal colon mucosa,val
+26916,0,adipose,val
+1232,8,colorectal adenocarcinoma epithelium,val
+28116,2,debris,val
+2588,4,mucus,val
+7175,7,cancer-associated stroma,val
+69286,5,smooth muscle,val
+14379,1,background,val
+4253,2,debris,val
+9945,8,colorectal adenocarcinoma epithelium,val
+49537,0,adipose,val
+17398,7,cancer-associated stroma,val
+86213,4,mucus,val
+58448,7,cancer-associated stroma,val
+43785,3,lymphocytes,val
+86557,7,cancer-associated stroma,val
+45747,2,debris,val
+60635,8,colorectal adenocarcinoma epithelium,val
+52492,2,debris,val
+33624,7,cancer-associated stroma,val
+67686,8,colorectal adenocarcinoma epithelium,val
+1026,7,cancer-associated stroma,val
+57380,2,debris,val
+459,5,smooth muscle,val
+1082,2,debris,val
+33301,0,adipose,val
+80811,8,colorectal adenocarcinoma epithelium,val
+2098,3,lymphocytes,val
+1381,8,colorectal adenocarcinoma epithelium,val
+31791,1,background,val
+55013,5,smooth muscle,val
+46849,6,normal colon mucosa,val
+6549,4,mucus,val
+34200,2,debris,val
+23250,6,normal colon mucosa,val
+26591,5,smooth muscle,val
+18083,4,mucus,val
+46269,3,lymphocytes,val
+1111,3,lymphocytes,val
+30722,8,colorectal adenocarcinoma epithelium,val
+12263,8,colorectal adenocarcinoma epithelium,val
+8156,3,lymphocytes,val
+63320,0,adipose,val
+28058,6,normal colon mucosa,val
+64229,2,debris,val
+6381,5,smooth muscle,val
+11104,7,cancer-associated stroma,val
+56445,3,lymphocytes,val
+41311,3,lymphocytes,val
+8749,6,normal colon mucosa,val
+7084,4,mucus,val
+7265,8,colorectal adenocarcinoma epithelium,val
+8245,1,background,val
+8394,7,cancer-associated stroma,val
+22341,2,debris,val
+74100,6,normal colon mucosa,val
+80049,2,debris,val
+74074,6,normal colon mucosa,val
+55444,8,colorectal adenocarcinoma epithelium,val
+8896,6,normal colon mucosa,val
+28776,1,background,val
+65824,7,cancer-associated stroma,val
+50746,6,normal colon mucosa,val
+4942,0,adipose,val
+61626,3,lymphocytes,val
+45209,0,adipose,val
+74965,5,smooth muscle,val
+76809,4,mucus,val
+38463,2,debris,val
+994,6,normal colon mucosa,val
+7400,0,adipose,val
+56870,6,normal colon mucosa,val
+66137,8,colorectal adenocarcinoma epithelium,val
+3585,4,mucus,val
+69085,6,normal colon mucosa,val
+77891,7,cancer-associated stroma,val
+69772,2,debris,val
+7118,1,background,val
+81606,7,cancer-associated stroma,val
+59328,8,colorectal adenocarcinoma epithelium,val
+6477,0,adipose,val
+63690,6,normal colon mucosa,val
+26152,3,lymphocytes,val
+29405,0,adipose,val
+55848,4,mucus,val
+8213,8,colorectal adenocarcinoma epithelium,val
+32075,2,debris,val
+3432,2,debris,val
+15941,1,background,val
+8946,5,smooth muscle,val
+18920,1,background,val
+980,4,mucus,val
+47702,8,colorectal adenocarcinoma epithelium,val
+20228,7,cancer-associated stroma,val
+38665,5,smooth muscle,val
+30158,0,adipose,val
+8186,4,mucus,val
+2193,3,lymphocytes,val
+6226,8,colorectal adenocarcinoma epithelium,val
+8311,4,mucus,val
+10159,4,mucus,val
+29345,5,smooth muscle,val
+2558,8,colorectal adenocarcinoma epithelium,val
+33420,4,mucus,val
+22754,8,colorectal adenocarcinoma epithelium,val
+1290,8,colorectal adenocarcinoma epithelium,val
+69775,4,mucus,val
+54084,2,debris,val
+8197,4,mucus,val
+281,4,mucus,val
+54368,5,smooth muscle,val
+49522,8,colorectal adenocarcinoma epithelium,val
+65484,1,background,val
+87267,5,smooth muscle,val
+87497,3,lymphocytes,val
+25497,6,normal colon mucosa,val
+3243,1,background,val
+22487,4,mucus,val
+51843,0,adipose,val
+2401,0,adipose,val
+31049,6,normal colon mucosa,val
+68864,2,debris,val
+48607,4,mucus,val
+33655,1,background,val
+8870,3,lymphocytes,val
+3057,4,mucus,val
+29256,5,smooth muscle,val
+21815,8,colorectal adenocarcinoma epithelium,val
+30857,5,smooth muscle,val
+7774,8,colorectal adenocarcinoma epithelium,val
+82370,5,smooth muscle,val
+56307,2,debris,val
+29557,2,debris,val
+21365,8,colorectal adenocarcinoma epithelium,val
+42780,5,smooth muscle,val
+16554,3,lymphocytes,val
+25134,7,cancer-associated stroma,val
+68277,8,colorectal adenocarcinoma epithelium,val
+42379,5,smooth muscle,val
+32642,7,cancer-associated stroma,val
+779,1,background,val
+631,8,colorectal adenocarcinoma epithelium,val
+1860,0,adipose,val
+59117,1,background,val
+9610,3,lymphocytes,val
+43653,6,normal colon mucosa,val
+46239,2,debris,val
+37373,5,smooth muscle,val
+47389,3,lymphocytes,val
+44758,8,colorectal adenocarcinoma epithelium,val
+25824,2,debris,val
+67678,5,smooth muscle,val
+47384,5,smooth muscle,val
+85030,0,adipose,val
+5898,0,adipose,val
+55664,6,normal colon mucosa,val
+963,6,normal colon mucosa,val
+49187,5,smooth muscle,val
+18071,4,mucus,val
+53939,3,lymphocytes,val
+6457,3,lymphocytes,val
+43576,0,adipose,val
+70728,8,colorectal adenocarcinoma epithelium,val
+62401,7,cancer-associated stroma,val
+37893,8,colorectal adenocarcinoma epithelium,val
+55805,8,colorectal adenocarcinoma epithelium,val
+66714,8,colorectal adenocarcinoma epithelium,val
+31370,8,colorectal adenocarcinoma epithelium,val
+44197,4,mucus,val
+69260,8,colorectal adenocarcinoma epithelium,val
+10193,7,cancer-associated stroma,val
+63960,6,normal colon mucosa,val
+46233,4,mucus,val
+37959,0,adipose,val
+65202,8,colorectal adenocarcinoma epithelium,val
+61683,7,cancer-associated stroma,val
+63285,5,smooth muscle,val
+18125,5,smooth muscle,val
+33608,7,cancer-associated stroma,val
+9196,8,colorectal adenocarcinoma epithelium,val
+68995,5,smooth muscle,val
+32198,5,smooth muscle,val
+54217,2,debris,val
+43837,5,smooth muscle,val
+31594,7,cancer-associated stroma,val
+32592,5,smooth muscle,val
+14672,2,debris,val
+69997,1,background,val
+61001,1,background,val
+54450,1,background,val
+3930,8,colorectal adenocarcinoma epithelium,val
+2376,8,colorectal adenocarcinoma epithelium,val
+2141,8,colorectal adenocarcinoma epithelium,val
+1826,5,smooth muscle,val
+61039,5,smooth muscle,val
+70461,6,normal colon mucosa,val
+36403,5,smooth muscle,val
+3536,5,smooth muscle,val
+71496,2,debris,val
+34028,4,mucus,val
+16986,7,cancer-associated stroma,val
+56720,8,colorectal adenocarcinoma epithelium,val
+51837,3,lymphocytes,val
+7450,5,smooth muscle,val
+27992,4,mucus,val
+23204,8,colorectal adenocarcinoma epithelium,val
+88873,7,cancer-associated stroma,val
+16151,8,colorectal adenocarcinoma epithelium,val
+1152,4,mucus,val
+6458,6,normal colon mucosa,val
+64933,1,background,val
+74834,7,cancer-associated stroma,val
+48840,3,lymphocytes,val
+85045,2,debris,val
+47860,0,adipose,val
+13524,6,normal colon mucosa,val
+81142,2,debris,val
+3127,8,colorectal adenocarcinoma epithelium,val
+4698,5,smooth muscle,val
+87963,5,smooth muscle,val
+5445,1,background,val
+26553,0,adipose,val
+74402,7,cancer-associated stroma,val
+55034,8,colorectal adenocarcinoma epithelium,val
+55640,6,normal colon mucosa,val
+41901,2,debris,val
+53714,0,adipose,val
+6844,4,mucus,val
+81059,3,lymphocytes,val
+88291,6,normal colon mucosa,val
+44219,2,debris,val
+34923,8,colorectal adenocarcinoma epithelium,val
+429,5,smooth muscle,val
+9362,0,adipose,val
+70988,5,smooth muscle,val
+2319,2,debris,val
+56217,0,adipose,val
+50457,1,background,val
+1254,7,cancer-associated stroma,val
+35718,1,background,val
+6308,8,colorectal adenocarcinoma epithelium,val
+51941,2,debris,val
+6963,6,normal colon mucosa,val
+52884,7,cancer-associated stroma,val
+76232,8,colorectal adenocarcinoma epithelium,val
+34529,4,mucus,val
+39632,0,adipose,val
+7482,5,smooth muscle,val
+43597,8,colorectal adenocarcinoma epithelium,val
+85691,8,colorectal adenocarcinoma epithelium,val
+81214,8,colorectal adenocarcinoma epithelium,val
+791,0,adipose,val
+25289,4,mucus,val
+62883,7,cancer-associated stroma,val
+5515,6,normal colon mucosa,val
+63675,8,colorectal adenocarcinoma epithelium,val
+38018,4,mucus,val
+71246,5,smooth muscle,val
+39485,6,normal colon mucosa,val
+47705,3,lymphocytes,val
+23608,1,background,val
+48600,0,adipose,val
+57920,5,smooth muscle,val
+63299,6,normal colon mucosa,val
+5820,8,colorectal adenocarcinoma epithelium,val
+2006,4,mucus,val
+77612,0,adipose,val
+4004,3,lymphocytes,val
+80853,1,background,val
+5145,0,adipose,val
+8098,5,smooth muscle,val
+72929,1,background,val
+9881,5,smooth muscle,val
+30662,4,mucus,val
+27586,7,cancer-associated stroma,val
+28383,0,adipose,val
+47226,0,adipose,val
+59316,5,smooth muscle,val
+5224,1,background,val
+83707,1,background,val
+73133,7,cancer-associated stroma,val
+1602,2,debris,val
+27554,8,colorectal adenocarcinoma epithelium,val
+6197,4,mucus,val
+38244,0,adipose,val
+52940,3,lymphocytes,val
+5485,5,smooth muscle,val
+9165,6,normal colon mucosa,val
+5335,0,adipose,val
+43752,3,lymphocytes,val
+6345,3,lymphocytes,val
+29861,5,smooth muscle,val
+61794,8,colorectal adenocarcinoma epithelium,val
+2143,0,adipose,val
+78389,2,debris,val
+6255,8,colorectal adenocarcinoma epithelium,val
+20494,4,mucus,val
+20997,3,lymphocytes,val
+55887,8,colorectal adenocarcinoma epithelium,val
+12385,1,background,val
+29529,3,lymphocytes,val
+54012,2,debris,val
+4633,0,adipose,val
+31224,3,lymphocytes,val
+65979,2,debris,val
+46284,6,normal colon mucosa,val
+39236,2,debris,val
+66509,2,debris,val
+67955,5,smooth muscle,val
+44013,2,debris,val
+89245,2,debris,val
+29599,6,normal colon mucosa,val
+1384,8,colorectal adenocarcinoma epithelium,val
+3610,0,adipose,val
+51310,4,mucus,val
+3122,1,background,val
+40688,7,cancer-associated stroma,val
+45079,3,lymphocytes,val
+7434,0,adipose,val
+76244,6,normal colon mucosa,val
+69403,8,colorectal adenocarcinoma epithelium,val
+70567,0,adipose,val
+29958,2,debris,val
+77939,1,background,val
+59681,4,mucus,val
+6859,4,mucus,val
+5104,3,lymphocytes,val
+52676,5,smooth muscle,val
+32534,2,debris,val
+10938,1,background,val
+82185,4,mucus,val
+37663,6,normal colon mucosa,val
+55849,2,debris,val
+88907,7,cancer-associated stroma,val
+64620,2,debris,val
+68827,5,smooth muscle,val
+70135,7,cancer-associated stroma,val
+23948,7,cancer-associated stroma,val
+6263,7,cancer-associated stroma,val
+50647,6,normal colon mucosa,val
+9476,8,colorectal adenocarcinoma epithelium,val
+49974,8,colorectal adenocarcinoma epithelium,val
+9970,5,smooth muscle,val
+70908,4,mucus,val
+59756,0,adipose,val
+14497,7,cancer-associated stroma,val
+12000,8,colorectal adenocarcinoma epithelium,val
+20283,3,lymphocytes,val
+86707,7,cancer-associated stroma,val
+5591,4,mucus,val
+11863,0,adipose,val
+70256,8,colorectal adenocarcinoma epithelium,val
+2745,5,smooth muscle,val
+1207,4,mucus,val
+9980,2,debris,val
+22186,0,adipose,val
+63596,8,colorectal adenocarcinoma epithelium,val
+570,1,background,val
+45066,4,mucus,val
+12771,5,smooth muscle,val
+62858,1,background,val
+3498,4,mucus,val
+59395,0,adipose,val
+50501,3,lymphocytes,val
+43277,3,lymphocytes,val
+75426,1,background,val
+82536,3,lymphocytes,val
+7743,1,background,val
+9980,8,colorectal adenocarcinoma epithelium,val
+15626,1,background,val
+80199,5,smooth muscle,val
+17780,1,background,val
+77013,4,mucus,val
+89162,3,lymphocytes,val
+3769,4,mucus,val
+22840,5,smooth muscle,val
+84918,8,colorectal adenocarcinoma epithelium,val
+49753,5,smooth muscle,val
+5283,1,background,val
+73736,7,cancer-associated stroma,val
+5197,8,colorectal adenocarcinoma epithelium,val
+4468,3,lymphocytes,val
+77039,6,normal colon mucosa,val
+5016,0,adipose,val
+60957,1,background,val
+61958,0,adipose,val
+12859,5,smooth muscle,val
+31813,3,lymphocytes,val
+5868,6,normal colon mucosa,val
+45214,1,background,val
+20574,2,debris,val
+88220,0,adipose,val
+10065,5,smooth muscle,val
+80841,1,background,val
+81236,2,debris,val
+64140,6,normal colon mucosa,val
+15381,1,background,val
+51755,7,cancer-associated stroma,val
+2536,3,lymphocytes,val
+69628,4,mucus,val
+87954,7,cancer-associated stroma,val
+15449,7,cancer-associated stroma,val
+42703,8,colorectal adenocarcinoma epithelium,val
+38739,1,background,val
+45960,7,cancer-associated stroma,val
+2117,8,colorectal adenocarcinoma epithelium,val
+7713,1,background,val
+39863,4,mucus,val
+8360,3,lymphocytes,val
+36295,4,mucus,val
+6051,3,lymphocytes,val
+72733,7,cancer-associated stroma,val
+10779,7,cancer-associated stroma,val
+29973,5,smooth muscle,val
+87526,0,adipose,val
+19507,3,lymphocytes,val
+19422,5,smooth muscle,val
+15598,6,normal colon mucosa,val
+40140,6,normal colon mucosa,val
+2790,8,colorectal adenocarcinoma epithelium,val
+67891,5,smooth muscle,val
+19611,5,smooth muscle,val
+1,4,mucus,val
+47288,2,debris,val
+3914,1,background,val
+7738,0,adipose,val
+1519,1,background,val
+1525,3,lymphocytes,val
+63996,5,smooth muscle,val
+88169,7,cancer-associated stroma,val
+5023,5,smooth muscle,val
+16912,6,normal colon mucosa,val
+19787,0,adipose,val
+7953,0,adipose,val
+19692,3,lymphocytes,val
+68039,8,colorectal adenocarcinoma epithelium,val
+4237,3,lymphocytes,val
+64557,3,lymphocytes,val
+78739,3,lymphocytes,val
+88165,0,adipose,val
+2907,8,colorectal adenocarcinoma epithelium,val
+21593,0,adipose,val
+69683,6,normal colon mucosa,val
+5015,4,mucus,val
+46131,3,lymphocytes,val
+36469,3,lymphocytes,val
+6909,7,cancer-associated stroma,val
+89731,8,colorectal adenocarcinoma epithelium,val
+11267,1,background,val
+76947,8,colorectal adenocarcinoma epithelium,val
+37289,4,mucus,val
+25625,4,mucus,val
+27831,3,lymphocytes,val
+17595,1,background,val
+72945,3,lymphocytes,val
+7339,2,debris,val
+1874,6,normal colon mucosa,val
+44867,2,debris,val
+24357,4,mucus,val
+25080,4,mucus,val
+71602,7,cancer-associated stroma,val
+48214,8,colorectal adenocarcinoma epithelium,val
+1803,4,mucus,val
+28263,1,background,val
+86933,4,mucus,val
+85900,8,colorectal adenocarcinoma epithelium,val
+21076,0,adipose,val
+1758,0,adipose,val
+52907,2,debris,val
+37478,4,mucus,val
+11732,4,mucus,val
+52341,4,mucus,val
+2945,6,normal colon mucosa,val
+26396,0,adipose,val
+19353,6,normal colon mucosa,val
+9697,1,background,val
+25807,7,cancer-associated stroma,val
+62743,4,mucus,val
+74438,3,lymphocytes,val
+57372,2,debris,val
+47772,3,lymphocytes,val
+50924,3,lymphocytes,val
+81361,1,background,val
+74267,0,adipose,val
+47801,3,lymphocytes,val
+386,1,background,val
+56579,3,lymphocytes,val
+28471,1,background,val
+57223,3,lymphocytes,val
+75642,7,cancer-associated stroma,val
+9286,3,lymphocytes,val
+62393,2,debris,val
+18438,1,background,val
+74381,8,colorectal adenocarcinoma epithelium,val
+2526,0,adipose,val
+38185,7,cancer-associated stroma,val
+51028,6,normal colon mucosa,val
+41871,8,colorectal adenocarcinoma epithelium,val
+37735,5,smooth muscle,val
+10444,3,lymphocytes,val
+4753,0,adipose,val
+37043,7,cancer-associated stroma,val
+66668,8,colorectal adenocarcinoma epithelium,val
+63839,3,lymphocytes,val
+78511,2,debris,val
+2401,1,background,val
+4026,7,cancer-associated stroma,val
+37733,0,adipose,val
+36849,7,cancer-associated stroma,val
+88744,3,lymphocytes,val
+50817,2,debris,val
+11282,3,lymphocytes,val
+89733,6,normal colon mucosa,val
+80943,1,background,val
+1973,3,lymphocytes,val
+79735,2,debris,val
+1000,0,adipose,val
+29365,3,lymphocytes,val
+2001,3,lymphocytes,val
+17378,0,adipose,val
+68898,2,debris,val
+88518,2,debris,val
+88985,0,adipose,val
+27954,1,background,val
+3883,7,cancer-associated stroma,val
+44020,6,normal colon mucosa,val
+70517,2,debris,val
+87067,8,colorectal adenocarcinoma epithelium,val
+56193,3,lymphocytes,val
+7256,1,background,val
+12307,1,background,val
+84784,1,background,val
+20233,8,colorectal adenocarcinoma epithelium,val
+8066,7,cancer-associated stroma,val
+6269,3,lymphocytes,val
+9749,7,cancer-associated stroma,val
+68821,8,colorectal adenocarcinoma epithelium,val
+5748,1,background,val
+60920,8,colorectal adenocarcinoma epithelium,val
+30159,5,smooth muscle,val
+347,0,adipose,val
+62676,3,lymphocytes,val
+2930,4,mucus,val
+7506,8,colorectal adenocarcinoma epithelium,val
+22342,5,smooth muscle,val
+53103,8,colorectal adenocarcinoma epithelium,val
+441,4,mucus,val
+39899,3,lymphocytes,val
+46117,1,background,val
+21792,7,cancer-associated stroma,val
+63829,1,background,val
+23256,7,cancer-associated stroma,val
+86130,5,smooth muscle,val
+2468,8,colorectal adenocarcinoma epithelium,val
+436,0,adipose,val
+85986,7,cancer-associated stroma,val
+18102,8,colorectal adenocarcinoma epithelium,val
+88478,3,lymphocytes,val
+3652,6,normal colon mucosa,val
+24536,8,colorectal adenocarcinoma epithelium,val
+22505,7,cancer-associated stroma,val
+7124,0,adipose,val
+48139,2,debris,val
+55180,2,debris,val
+21783,1,background,val
+73333,0,adipose,val
+26016,5,smooth muscle,val
+84142,3,lymphocytes,val
+28418,1,background,val
+63216,8,colorectal adenocarcinoma epithelium,val
+47883,7,cancer-associated stroma,val
+48764,8,colorectal adenocarcinoma epithelium,val
+711,7,cancer-associated stroma,val
+89529,3,lymphocytes,val
+8274,5,smooth muscle,val
+88638,7,cancer-associated stroma,val
+37455,8,colorectal adenocarcinoma epithelium,val
+13898,2,debris,val
+55747,8,colorectal adenocarcinoma epithelium,val
+85489,5,smooth muscle,val
+85391,5,smooth muscle,val
+33452,4,mucus,val
+45935,4,mucus,val
+76291,5,smooth muscle,val
+82599,7,cancer-associated stroma,val
+37115,0,adipose,val
+36498,8,colorectal adenocarcinoma epithelium,val
+4813,7,cancer-associated stroma,val
+20524,2,debris,val
+86583,0,adipose,val
+61086,6,normal colon mucosa,val
+46304,3,lymphocytes,val
+9456,2,debris,val
+58652,8,colorectal adenocarcinoma epithelium,val
+57104,8,colorectal adenocarcinoma epithelium,val
+16497,4,mucus,val
+22049,5,smooth muscle,val
+7538,6,normal colon mucosa,val
+80299,3,lymphocytes,val
+4579,4,mucus,val
+26950,1,background,val
+32120,8,colorectal adenocarcinoma epithelium,val
+2086,5,smooth muscle,val
+1691,5,smooth muscle,val
+2767,4,mucus,val
+41844,5,smooth muscle,val
+21207,8,colorectal adenocarcinoma epithelium,val
+31116,2,debris,val
+17083,4,mucus,val
+42013,7,cancer-associated stroma,val
+17146,0,adipose,val
+20962,7,cancer-associated stroma,val
+18696,5,smooth muscle,val
+8971,2,debris,val
+25600,7,cancer-associated stroma,val
+5334,3,lymphocytes,val
+45272,3,lymphocytes,val
+53779,0,adipose,val
+73156,3,lymphocytes,val
+82070,0,adipose,val
+3871,7,cancer-associated stroma,val
+41289,6,normal colon mucosa,val
+50643,6,normal colon mucosa,val
+37368,1,background,val
+63938,7,cancer-associated stroma,val
+33621,0,adipose,val
+2750,4,mucus,val
+83766,4,mucus,val
+6474,8,colorectal adenocarcinoma epithelium,val
+30696,7,cancer-associated stroma,val
+41666,2,debris,val
+19335,3,lymphocytes,val
+34642,6,normal colon mucosa,val
+74667,1,background,val
+4340,7,cancer-associated stroma,val
+72425,5,smooth muscle,val
+302,8,colorectal adenocarcinoma epithelium,val
+73853,2,debris,val
+89845,5,smooth muscle,val
+18729,1,background,val
+71095,8,colorectal adenocarcinoma epithelium,val
+54530,5,smooth muscle,val
+71201,4,mucus,val
+63606,5,smooth muscle,val
+1681,7,cancer-associated stroma,val
+79834,8,colorectal adenocarcinoma epithelium,val
+52344,6,normal colon mucosa,val
+13109,6,normal colon mucosa,val
+76112,2,debris,val
+85980,5,smooth muscle,val
+20631,2,debris,val
+23640,8,colorectal adenocarcinoma epithelium,val
+22491,2,debris,val
+77502,7,cancer-associated stroma,val
+30391,0,adipose,val
+34307,5,smooth muscle,val
+44708,2,debris,val
+80996,8,colorectal adenocarcinoma epithelium,val
+61069,2,debris,val
+39261,0,adipose,val
+27763,4,mucus,val
+65347,1,background,val
+10921,1,background,val
+67494,3,lymphocytes,val
+21869,1,background,val
+4371,6,normal colon mucosa,val
+159,1,background,val
+7452,8,colorectal adenocarcinoma epithelium,val
+3068,1,background,val
+3827,0,adipose,val
+16510,8,colorectal adenocarcinoma epithelium,val
+69655,8,colorectal adenocarcinoma epithelium,val
+42819,3,lymphocytes,val
+63597,4,mucus,val
+19869,7,cancer-associated stroma,val
+48916,3,lymphocytes,val
+11567,6,normal colon mucosa,val
+30499,3,lymphocytes,val
+38229,8,colorectal adenocarcinoma epithelium,val
+42583,5,smooth muscle,val
+83747,6,normal colon mucosa,val
+6166,8,colorectal adenocarcinoma epithelium,val
+48288,1,background,val
+40494,7,cancer-associated stroma,val
+58735,0,adipose,val
+1766,5,smooth muscle,val
+13111,2,debris,val
+38170,6,normal colon mucosa,val
+364,4,mucus,val
+15729,0,adipose,val
+24669,4,mucus,val
+69186,2,debris,val
+81941,7,cancer-associated stroma,val
+74918,6,normal colon mucosa,val
+36792,8,colorectal adenocarcinoma epithelium,val
+67407,2,debris,val
+10862,7,cancer-associated stroma,val
+87534,2,debris,val
+11205,3,lymphocytes,val
+485,4,mucus,val
+99,3,lymphocytes,val
+61274,1,background,val
+63062,5,smooth muscle,val
+58437,2,debris,val
+7014,5,smooth muscle,val
+5826,6,normal colon mucosa,val
+63108,2,debris,val
+8813,0,adipose,val
+9110,6,normal colon mucosa,val
+2152,4,mucus,val
+463,8,colorectal adenocarcinoma epithelium,val
+51924,5,smooth muscle,val
+40567,3,lymphocytes,val
+18367,5,smooth muscle,val
+28662,5,smooth muscle,val
+3716,0,adipose,val
+20640,1,background,val
+31297,6,normal colon mucosa,val
+37445,5,smooth muscle,val
