@@ -1,0 +1,5498 @@
+image_index,label_index,label_name,split
+34747,5,smooth muscle,test
+33231,4,mucus,test
+34696,5,smooth muscle,test
+7238,7,cancer-associated stroma,test
+6679,6,normal colon mucosa,test
+83742,3,lymphocytes,test
+85235,0,adipose,test
+24988,6,normal colon mucosa,test
+74956,1,background,test
+23823,7,cancer-associated stroma,test
+27988,7,cancer-associated stroma,test
+52013,1,background,test
+67218,2,debris,test
+31612,7,cancer-associated stroma,test
+88267,8,colorectal adenocarcinoma epithelium,test
+44348,1,background,test
+1708,0,adipose,test
+45375,3,lymphocytes,test
+29243,7,cancer-associated stroma,test
+67371,2,debris,test
+859,0,adipose,test
+49589,3,lymphocytes,test
+21231,3,lymphocytes,test
+1190,2,debris,test
+2847,8,colorectal adenocarcinoma epithelium,test
+79306,7,cancer-associated stroma,test
+1058,7,cancer-associated stroma,test
+50850,7,cancer-associated stroma,test
+9009,0,adipose,test
+80651,8,colorectal adenocarcinoma epithelium,test
+3313,3,lymphocytes,test
+46023,5,smooth muscle,test
+8191,5,smooth muscle,test
+66860,3,lymphocytes,test
+80900,0,adipose,test
+49204,3,lymphocytes,test
+35916,5,smooth muscle,test
+40478,8,colorectal adenocarcinoma epithelium,test
+47704,0,adipose,test
+65292,5,smooth muscle,test
+64825,3,lymphocytes,test
+74783,1,background,test
+3550,0,adipose,test
+69680,2,debris,test
+70743,2,debris,test
+65645,3,lymphocytes,test
+65086,4,mucus,test
+36135,0,adipose,test
+43290,8,colorectal adenocarcinoma epithelium,test
+75355,6,normal colon mucosa,test
+18603,0,adipose,test
+59350,0,adipose,test
+81996,7,cancer-associated stroma,test
+521,3,lymphocytes,test
+41371,4,mucus,test
+13167,2,debris,test
+7464,7,cancer-associated stroma,test
+7524,2,debris,test
+12022,6,normal colon mucosa,test
+36188,0,adipose,test
+44238,3,lymphocytes,test
+41735,6,normal colon mucosa,test
+23716,7,cancer-associated stroma,test
+59132,0,adipose,test
+74622,2,debris,test
+4810,7,cancer-associated stroma,test
+54641,8,colorectal adenocarcinoma epithelium,test
+82752,1,background,test
+65781,8,colorectal adenocarcinoma epithelium,test
+62341,4,mucus,test
+3313,7,cancer-associated stroma,test
+70156,6,normal colon mucosa,test
+2813,1,background,test
+38910,7,cancer-associated stroma,test
+87738,0,adipose,test
+74714,6,normal colon mucosa,test
+43024,4,mucus,test
+1350,8,colorectal adenocarcinoma epithelium,test
+63850,4,mucus,test
+53817,1,background,test
+77101,2,debris,test
+76959,6,normal colon mucosa,test
+51266,1,background,test
+25709,3,lymphocytes,test
+76166,7,cancer-associated stroma,test
+24948,3,lymphocytes,test
+13716,1,background,test
+84290,2,debris,test
+68900,3,lymphocytes,test
+63035,3,lymphocytes,test
+47296,3,lymphocytes,test
+20213,1,background,test
+73914,2,debris,test
+27112,6,normal colon mucosa,test
+3364,0,adipose,test
+69141,2,debris,test
+68368,5,smooth muscle,test
+56287,8,colorectal adenocarcinoma epithelium,test
+57075,3,lymphocytes,test
+54071,7,cancer-associated stroma,test
+56075,8,colorectal adenocarcinoma epithelium,test
+8114,2,debris,test
+17428,1,background,test
+48146,7,cancer-associated stroma,test
+66931,6,normal colon mucosa,test
+756,5,smooth muscle,test
+89027,7,cancer-associated stroma,test
+45074,6,normal colon mucosa,test
+19553,0,adipose,test
+17204,6,normal colon mucosa,test
+47595,4,mucus,test
+22562,5,smooth muscle,test
+4773,2,debris,test
+536,0,adipose,test
+9308,4,mucus,test
+61358,5,smooth muscle,test
+36457,5,smooth muscle,test
+7825,3,lymphocytes,test
+6172,8,colorectal adenocarcinoma epithelium,test
+52103,8,colorectal adenocarcinoma epithelium,test
+1333,2,debris,test
+14581,2,debris,test
+46021,6,normal colon mucosa,test
+69131,7,cancer-associated stroma,test
+42290,2,debris,test
+3533,2,debris,test
+21664,1,background,test
+8819,5,smooth muscle,test
+83902,2,debris,test
+68313,0,adipose,test
+6533,5,smooth muscle,test
+34959,8,colorectal adenocarcinoma epithelium,test
+31850,3,lymphocytes,test
+87052,2,debris,test
+57934,3,lymphocytes,test
+40950,3,lymphocytes,test
+81827,0,adipose,test
+52250,5,smooth muscle,test
+3633,5,smooth muscle,test
+69281,0,adipose,test
+32827,8,colorectal adenocarcinoma epithelium,test
+38195,8,colorectal adenocarcinoma epithelium,test
+33034,5,smooth muscle,test
+23559,5,smooth muscle,test
+28584,2,debris,test
+87866,6,normal colon mucosa,test
+61844,0,adipose,test
+71538,5,smooth muscle,test
+76312,1,background,test
+2352,4,mucus,test
+14463,2,debris,test
+29518,0,adipose,test
+72793,1,background,test
+14517,8,colorectal adenocarcinoma epithelium,test
+80388,8,colorectal adenocarcinoma epithelium,test
+14073,1,background,test
+47971,5,smooth muscle,test
+86364,6,normal colon mucosa,test
+82803,8,colorectal adenocarcinoma epithelium,test
+21316,8,colorectal adenocarcinoma epithelium,test
+9989,6,normal colon mucosa,test
+27528,7,cancer-associated stroma,test
+65902,5,smooth muscle,test
+76941,8,colorectal adenocarcinoma epithelium,test
+3227,2,debris,test
+73953,6,normal colon mucosa,test
+9496,5,smooth muscle,test
+84622,6,normal colon mucosa,test
+40997,8,colorectal adenocarcinoma epithelium,test
+3310,5,smooth muscle,test
+43135,4,mucus,test
+80722,0,adipose,test
+20982,7,cancer-associated stroma,test
+55060,8,colorectal adenocarcinoma epithelium,test
+50723,1,background,test
+69069,4,mucus,test
+29772,5,smooth muscle,test
+25470,3,lymphocytes,test
+6346,7,cancer-associated stroma,test
+23102,5,smooth muscle,test
+72526,8,colorectal adenocarcinoma epithelium,test
+67467,5,smooth muscle,test
+69125,6,normal colon mucosa,test
+60517,6,normal colon mucosa,test
+89948,6,normal colon mucosa,test
+21839,8,colorectal adenocarcinoma epithelium,test
+40037,2,debris,test
+8305,8,colorectal adenocarcinoma epithelium,test
+76523,8,colorectal adenocarcinoma epithelium,test
+63002,0,adipose,test
+3907,4,mucus,test
+50223,8,colorectal adenocarcinoma epithelium,test
+72687,8,colorectal adenocarcinoma epithelium,test
+62956,1,background,test
+10932,8,colorectal adenocarcinoma epithelium,test
+65180,1,background,test
+1794,4,mucus,test
+22081,1,background,test
+35757,4,mucus,test
+75287,1,background,test
+2374,8,colorectal adenocarcinoma epithelium,test
+39739,3,lymphocytes,test
+6124,0,adipose,test
+58319,5,smooth muscle,test
+23749,6,normal colon mucosa,test
+88796,2,debris,test
+2914,4,mucus,test
+84858,8,colorectal adenocarcinoma epithelium,test
+86875,0,adipose,test
+83869,7,cancer-associated stroma,test
+28,3,lymphocytes,test
+73772,0,adipose,test
+58321,0,adipose,test
+41331,8,colorectal adenocarcinoma epithelium,test
+5443,7,cancer-associated stroma,test
+87994,4,mucus,test
+46149,1,background,test
+57265,4,mucus,test
+33950,4,mucus,test
+78282,2,debris,test
+10939,1,background,test
+4559,3,lymphocytes,test
+5498,2,debris,test
+4602,4,mucus,test
+43552,2,debris,test
+2207,0,adipose,test
+27757,8,colorectal adenocarcinoma epithelium,test
+70005,2,debris,test
+76012,0,adipose,test
+76687,1,background,test
+74053,5,smooth muscle,test
+88423,6,normal colon mucosa,test
+30203,4,mucus,test
+31234,1,background,test
+56099,4,mucus,test
+80729,4,mucus,test
+86569,7,cancer-associated stroma,test
+1732,1,background,test
+74831,5,smooth muscle,test
+73590,0,adipose,test
+46640,8,colorectal adenocarcinoma epithelium,test
+25679,8,colorectal adenocarcinoma epithelium,test
+3141,0,adipose,test
+184,5,smooth muscle,test
+65198,1,background,test
+8738,1,background,test
+57864,5,smooth muscle,test
+18627,0,adipose,test
+13245,1,background,test
+35744,1,background,test
+80654,2,debris,test
+30825,7,cancer-associated stroma,test
+403,5,smooth muscle,test
+70573,6,normal colon mucosa,test
+1003,7,cancer-associated stroma,test
+3303,8,colorectal adenocarcinoma epithelium,test
+1289,2,debris,test
+58231,8,colorectal adenocarcinoma epithelium,test
+56406,0,adipose,test
+16060,5,smooth muscle,test
+4713,3,lymphocytes,test
+36177,5,smooth muscle,test
+41,8,colorectal adenocarcinoma epithelium,test
+895,8,colorectal adenocarcinoma epithelium,test
+72331,1,background,test
+65925,0,adipose,test
+72495,2,debris,test
+1413,8,colorectal adenocarcinoma epithelium,test
+282,0,adipose,test
+76100,3,lymphocytes,test
+17212,1,background,test
+53596,4,mucus,test
+15653,3,lymphocytes,test
+2566,7,cancer-associated stroma,test
+49902,0,adipose,test
+3232,4,mucus,test
+87292,5,smooth muscle,test
+1235,7,cancer-associated stroma,test
+35753,4,mucus,test
+7611,1,background,test
+47321,5,smooth muscle,test
+1166,5,smooth muscle,test
+65678,7,cancer-associated stroma,test
+14082,3,lymphocytes,test
+5159,7,cancer-associated stroma,test
+73362,8,colorectal adenocarcinoma epithelium,test
+37525,1,background,test
+44343,1,background,test
+27699,6,normal colon mucosa,test
+1617,6,normal colon mucosa,test
+14748,4,mucus,test
+29654,1,background,test
+49076,8,colorectal adenocarcinoma epithelium,test
+17756,5,smooth muscle,test
+47258,5,smooth muscle,test
+48161,7,cancer-associated stroma,test
+44649,0,adipose,test
+1342,5,smooth muscle,test
+83807,7,cancer-associated stroma,test
+51674,0,adipose,test
+3411,0,adipose,test
+22327,4,mucus,test
+73713,7,cancer-associated stroma,test
+30274,2,debris,test
+7264,0,adipose,test
+76961,2,debris,test
+11403,7,cancer-associated stroma,test
+57849,1,background,test
+87335,4,mucus,test
+15823,8,colorectal adenocarcinoma epithelium,test
+81696,0,adipose,test
+38370,6,normal colon mucosa,test
+7682,0,adipose,test
+12365,2,debris,test
+2479,4,mucus,test
+4285,1,background,test
+19547,7,cancer-associated stroma,test
+23729,0,adipose,test
+14856,6,normal colon mucosa,test
+8431,0,adipose,test
+62746,6,normal colon mucosa,test
+1527,5,smooth muscle,test
+50398,5,smooth muscle,test
+49675,0,adipose,test
+47055,5,smooth muscle,test
+50641,2,debris,test
+54153,7,cancer-associated stroma,test
+87455,3,lymphocytes,test
+7455,2,debris,test
+67591,2,debris,test
+67250,6,normal colon mucosa,test
+74888,0,adipose,test
+78116,0,adipose,test
+73984,1,background,test
+78478,6,normal colon mucosa,test
+54759,2,debris,test
+86231,8,colorectal adenocarcinoma epithelium,test
+51142,4,mucus,test
+60890,2,debris,test
+31780,8,colorectal adenocarcinoma epithelium,test
+20518,7,cancer-associated stroma,test
+41651,7,cancer-associated stroma,test
+71520,1,background,test
+34695,7,cancer-associated stroma,test
+65182,1,background,test
+64701,7,cancer-associated stroma,test
+3030,2,debris,test
+5762,7,cancer-associated stroma,test
+25358,3,lymphocytes,test
+33923,2,debris,test
+39323,1,background,test
+85175,2,debris,test
+68830,4,mucus,test
+47494,4,mucus,test
+5755,4,mucus,test
+2250,6,normal colon mucosa,test
+46408,8,colorectal adenocarcinoma epithelium,test
+20924,5,smooth muscle,test
+18,4,mucus,test
+59064,0,adipose,test
+79167,5,smooth muscle,test
+70752,3,lymphocytes,test
+40908,5,smooth muscle,test
+24026,8,colorectal adenocarcinoma epithelium,test
+34688,0,adipose,test
+15354,0,adipose,test
+40328,5,smooth muscle,test
+51063,0,adipose,test
+83450,2,debris,test
+40784,3,lymphocytes,test
+1402,8,colorectal adenocarcinoma epithelium,test
+41855,8,colorectal adenocarcinoma epithelium,test
+13879,7,cancer-associated stroma,test
+73319,4,mucus,test
+83513,7,cancer-associated stroma,test
+492,6,normal colon mucosa,test
+68511,3,lymphocytes,test
+62361,5,smooth muscle,test
+5857,7,cancer-associated stroma,test
+3091,5,smooth muscle,test
+30016,3,lymphocytes,test
+31685,5,smooth muscle,test
+51218,5,smooth muscle,test
+69301,5,smooth muscle,test
+60046,8,colorectal adenocarcinoma epithelium,test
+63376,8,colorectal adenocarcinoma epithelium,test
+1175,6,normal colon mucosa,test
+76896,5,smooth muscle,test
+33218,3,lymphocytes,test
+33317,0,adipose,test
+6487,4,mucus,test
+28635,5,smooth muscle,test
+11940,8,colorectal adenocarcinoma epithelium,test
+70762,7,cancer-associated stroma,test
+29528,8,colorectal adenocarcinoma epithelium,test
+47329,1,background,test
+32178,2,debris,test
+46687,3,lymphocytes,test
+87048,2,debris,test
+11329,1,background,test
+7037,8,colorectal adenocarcinoma epithelium,test
+4713,0,adipose,test
+3007,1,background,test
+47040,4,mucus,test
+74344,1,background,test
+30995,5,smooth muscle,test
+74512,5,smooth muscle,test
+57770,1,background,test
+86883,7,cancer-associated stroma,test
+83331,8,colorectal adenocarcinoma epithelium,test
+79813,0,adipose,test
+28876,2,debris,test
+79808,2,debris,test
+17062,8,colorectal adenocarcinoma epithelium,test
+45402,7,cancer-associated stroma,test
+53356,1,background,test
+3504,1,background,test
+16089,5,smooth muscle,test
+79164,1,background,test
+40811,7,cancer-associated stroma,test
+5690,7,cancer-associated stroma,test
+30408,1,background,test
+81673,1,background,test
+19659,6,normal colon mucosa,test
+51803,0,adipose,test
+7627,2,debris,test
+77935,8,colorectal adenocarcinoma epithelium,test
+5965,4,mucus,test
+68699,1,background,test
+47068,0,adipose,test
+65465,8,colorectal adenocarcinoma epithelium,test
+5227,0,adipose,test
+74137,7,cancer-associated stroma,test
+57194,4,mucus,test
+83877,4,mucus,test
+68074,3,lymphocytes,test
+9677,8,colorectal adenocarcinoma epithelium,test
+42867,8,colorectal adenocarcinoma epithelium,test
+50984,8,colorectal adenocarcinoma epithelium,test
+6250,6,normal colon mucosa,test
+35274,2,debris,test
+68119,2,debris,test
+28006,3,lymphocytes,test
+57406,7,cancer-associated stroma,test
+59036,0,adipose,test
+89387,8,colorectal adenocarcinoma epithelium,test
+76239,5,smooth muscle,test
+32591,1,background,test
+66588,3,lymphocytes,test
+54747,5,smooth muscle,test
+4410,3,lymphocytes,test
+81211,5,smooth muscle,test
+84980,7,cancer-associated stroma,test
+77972,5,smooth muscle,test
+77789,4,mucus,test
+64619,1,background,test
+5439,3,lymphocytes,test
+88938,6,normal colon mucosa,test
+23370,5,smooth muscle,test
+8334,2,debris,test
+69749,8,colorectal adenocarcinoma epithelium,test
+45890,8,colorectal adenocarcinoma epithelium,test
+80573,4,mucus,test
+47233,5,smooth muscle,test
+78311,4,mucus,test
+87352,6,normal colon mucosa,test
+67959,3,lymphocytes,test
+42060,0,adipose,test
+39342,4,mucus,test
+61707,5,smooth muscle,test
+4899,5,smooth muscle,test
+36444,2,debris,test
+5147,3,lymphocytes,test
+30432,5,smooth muscle,test
+1103,3,lymphocytes,test
+75996,5,smooth muscle,test
+70918,7,cancer-associated stroma,test
+29722,6,normal colon mucosa,test
+28886,1,background,test
+6947,1,background,test
+84959,7,cancer-associated stroma,test
+46713,6,normal colon mucosa,test
+37859,8,colorectal adenocarcinoma epithelium,test
+30289,2,debris,test
+61445,8,colorectal adenocarcinoma epithelium,test
+1125,7,cancer-associated stroma,test
+22443,0,adipose,test
+62023,7,cancer-associated stroma,test
+32939,2,debris,test
+89329,8,colorectal adenocarcinoma epithelium,test
+66336,1,background,test
+63386,3,lymphocytes,test
+23411,0,adipose,test
+45007,1,background,test
+48192,5,smooth muscle,test
+89764,6,normal colon mucosa,test
+72954,3,lymphocytes,test
+46406,6,normal colon mucosa,test
+77508,7,cancer-associated stroma,test
+5582,6,normal colon mucosa,test
+1416,7,cancer-associated stroma,test
+48735,5,smooth muscle,test
+2553,8,colorectal adenocarcinoma epithelium,test
+2028,3,lymphocytes,test
+43492,1,background,test
+9269,8,colorectal adenocarcinoma epithelium,test
+6636,3,lymphocytes,test
+76958,5,smooth muscle,test
+74358,4,mucus,test
+81571,6,normal colon mucosa,test
+9370,4,mucus,test
+8841,2,debris,test
+4111,5,smooth muscle,test
+25714,1,background,test
+59412,7,cancer-associated stroma,test
+80672,0,adipose,test
+86814,5,smooth muscle,test
+42693,8,colorectal adenocarcinoma epithelium,test
+19118,7,cancer-associated stroma,test
+64261,6,normal colon mucosa,test
+37335,0,adipose,test
+11486,5,smooth muscle,test
+29187,2,debris,test
+7245,6,normal colon mucosa,test
+22887,5,smooth muscle,test
+50079,1,background,test
+54745,8,colorectal adenocarcinoma epithelium,test
+9667,7,cancer-associated stroma,test
+4171,0,adipose,test
+34490,2,debris,test
+15558,8,colorectal adenocarcinoma epithelium,test
+34982,4,mucus,test
+61977,3,lymphocytes,test
+85643,5,smooth muscle,test
+1170,0,adipose,test
+74109,8,colorectal adenocarcinoma epithelium,test
+20974,6,normal colon mucosa,test
+34083,2,debris,test
+5785,5,smooth muscle,test
+1178,0,adipose,test
+59340,5,smooth muscle,test
+5511,0,adipose,test
+77021,1,background,test
+85026,5,smooth muscle,test
+9961,1,background,test
+53976,2,debris,test
+55117,0,adipose,test
+49369,5,smooth muscle,test
+66880,0,adipose,test
+10612,8,colorectal adenocarcinoma epithelium,test
+34136,2,debris,test
+9969,7,cancer-associated stroma,test
+72703,4,mucus,test
+28842,7,cancer-associated stroma,test
+67378,8,colorectal adenocarcinoma epithelium,test
+3017,0,adipose,test
+57138,0,adipose,test
+27561,1,background,test
+81419,1,background,test
+87309,3,lymphocytes,test
+52298,0,adipose,test
+38150,8,colorectal adenocarcinoma epithelium,test
+54741,5,smooth muscle,test
+89229,1,background,test
+7399,6,normal colon mucosa,test
+17383,7,cancer-associated stroma,test
+5891,4,mucus,test
+83093,1,background,test
+1808,4,mucus,test
+72543,7,cancer-associated stroma,test
+14827,4,mucus,test
+11957,5,smooth muscle,test
+44744,4,mucus,test
+68057,1,background,test
+31515,1,background,test
+27142,2,debris,test
+71856,2,debris,test
+48029,8,colorectal adenocarcinoma epithelium,test
+12215,2,debris,test
+64432,2,debris,test
+81263,5,smooth muscle,test
+71651,4,mucus,test
+46398,7,cancer-associated stroma,test
+39603,2,debris,test
+663,8,colorectal adenocarcinoma epithelium,test
+76,7,cancer-associated stroma,test
+76753,7,cancer-associated stroma,test
+38923,3,lymphocytes,test
+41520,3,lymphocytes,test
+4233,8,colorectal adenocarcinoma epithelium,test
+71482,7,cancer-associated stroma,test
+47148,0,adipose,test
+65793,7,cancer-associated stroma,test
+81234,1,background,test
+82061,3,lymphocytes,test
+53515,3,lymphocytes,test
+14569,4,mucus,test
+3528,0,adipose,test
+72082,3,lymphocytes,test
+77562,8,colorectal adenocarcinoma epithelium,test
+11726,6,normal colon mucosa,test
+86141,0,adipose,test
+46815,2,debris,test
+9975,0,adipose,test
+2998,1,background,test
+42734,8,colorectal adenocarcinoma epithelium,test
+87939,2,debris,test
+595,4,mucus,test
+87818,1,background,test
+73472,2,debris,test
+41260,8,colorectal adenocarcinoma epithelium,test
+76177,7,cancer-associated stroma,test
+10139,1,background,test
+82109,6,normal colon mucosa,test
+86226,7,cancer-associated stroma,test
+54712,5,smooth muscle,test
+56249,1,background,test
+69548,1,background,test
+6817,2,debris,test
+20294,0,adipose,test
+51229,6,normal colon mucosa,test
+40500,4,mucus,test
+87396,2,debris,test
+50057,2,debris,test
+62621,1,background,test
+4421,1,background,test
+16490,8,colorectal adenocarcinoma epithelium,test
+57233,6,normal colon mucosa,test
+32001,0,adipose,test
+51800,3,lymphocytes,test
+5620,3,lymphocytes,test
+42604,4,mucus,test
+57226,4,mucus,test
+77752,3,lymphocytes,test
+87087,3,lymphocytes,test
+39193,3,lymphocytes,test
+44629,7,cancer-associated stroma,test
+2961,0,adipose,test
+12554,6,normal colon mucosa,test
+44548,5,smooth muscle,test
+36086,3,lymphocytes,test
+2663,3,lymphocytes,test
+89,3,lymphocytes,test
+74798,2,debris,test
+77771,7,cancer-associated stroma,test
+26538,8,colorectal adenocarcinoma epithelium,test
+58217,2,debris,test
+9802,3,lymphocytes,test
+76775,2,debris,test
+54657,4,mucus,test
+81874,4,mucus,test
+9126,2,debris,test
+76733,6,normal colon mucosa,test
+28230,5,smooth muscle,test
+13595,6,normal colon mucosa,test
+22282,0,adipose,test
+45627,3,lymphocytes,test
+81694,8,colorectal adenocarcinoma epithelium,test
+46211,8,colorectal adenocarcinoma epithelium,test
+65125,8,colorectal adenocarcinoma epithelium,test
+7232,6,normal colon mucosa,test
+52480,4,mucus,test
+62034,8,colorectal adenocarcinoma epithelium,test
+69650,8,colorectal adenocarcinoma epithelium,test
+68647,8,colorectal adenocarcinoma epithelium,test
+28341,7,cancer-associated stroma,test
+43334,4,mucus,test
+7865,3,lymphocytes,test
+24476,0,adipose,test
+24729,8,colorectal adenocarcinoma epithelium,test
+67110,4,mucus,test
+44101,1,background,test
+14759,1,background,test
+24891,1,background,test
+10584,7,cancer-associated stroma,test
+89133,7,cancer-associated stroma,test
+85855,4,mucus,test
+73640,8,colorectal adenocarcinoma epithelium,test
+60925,8,colorectal adenocarcinoma epithelium,test
+54360,7,cancer-associated stroma,test
+69773,4,mucus,test
+48392,2,debris,test
+34433,3,lymphocytes,test
+340,1,background,test
+64635,6,normal colon mucosa,test
+79338,3,lymphocytes,test
+61213,3,lymphocytes,test
+60550,3,lymphocytes,test
+7144,6,normal colon mucosa,test
+60108,8,colorectal adenocarcinoma epithelium,test
+30852,5,smooth muscle,test
+61078,0,adipose,test
+88519,6,normal colon mucosa,test
+55561,8,colorectal adenocarcinoma epithelium,test
+86665,1,background,test
+67759,2,debris,test
+71852,1,background,test
+84168,2,debris,test
+27911,5,smooth muscle,test
+1589,5,smooth muscle,test
+42680,3,lymphocytes,test
+48290,0,adipose,test
+19075,8,colorectal adenocarcinoma epithelium,test
+7551,8,colorectal adenocarcinoma epithelium,test
+19466,2,debris,test
+52147,7,cancer-associated stroma,test
+2983,4,mucus,test
+8050,7,cancer-associated stroma,test
+1001,8,colorectal adenocarcinoma epithelium,test
+15373,5,smooth muscle,test
+58630,8,colorectal adenocarcinoma epithelium,test
+63865,5,smooth muscle,test
+11003,0,adipose,test
+78255,8,colorectal adenocarcinoma epithelium,test
+8034,1,background,test
+85133,0,adipose,test
+36253,8,colorectal adenocarcinoma epithelium,test
+51502,6,normal colon mucosa,test
+23046,3,lymphocytes,test
+89507,2,debris,test
+56505,2,debris,test
+5993,6,normal colon mucosa,test
+11869,2,debris,test
+33225,0,adipose,test
+5128,4,mucus,test
+38673,6,normal colon mucosa,test
+84517,0,adipose,test
+2506,0,adipose,test
+20969,0,adipose,test
+79974,1,background,test
+38339,0,adipose,test
+4740,2,debris,test
+18860,4,mucus,test
+22924,7,cancer-associated stroma,test
+50076,2,debris,test
+82437,6,normal colon mucosa,test
+49868,7,cancer-associated stroma,test
+15786,5,smooth muscle,test
+49370,6,normal colon mucosa,test
+62795,6,normal colon mucosa,test
+4487,2,debris,test
+58224,7,cancer-associated stroma,test
+1605,5,smooth muscle,test
+18305,7,cancer-associated stroma,test
+26491,3,lymphocytes,test
+57712,5,smooth muscle,test
+21194,4,mucus,test
+82503,0,adipose,test
+3222,7,cancer-associated stroma,test
+89702,4,mucus,test
+2964,6,normal colon mucosa,test
+88992,8,colorectal adenocarcinoma epithelium,test
+43546,5,smooth muscle,test
+21401,8,colorectal adenocarcinoma epithelium,test
+1390,7,cancer-associated stroma,test
+53318,0,adipose,test
+14910,0,adipose,test
+54753,8,colorectal adenocarcinoma epithelium,test
+75622,3,lymphocytes,test
+4596,1,background,test
+8937,3,lymphocytes,test
+9966,6,normal colon mucosa,test
+44129,8,colorectal adenocarcinoma epithelium,test
+4333,8,colorectal adenocarcinoma epithelium,test
+6869,1,background,test
+61857,8,colorectal adenocarcinoma epithelium,test
+31644,2,debris,test
+38751,4,mucus,test
+8437,3,lymphocytes,test
+51168,6,normal colon mucosa,test
+39758,6,normal colon mucosa,test
+85225,7,cancer-associated stroma,test
+57700,0,adipose,test
+48273,6,normal colon mucosa,test
+2526,6,normal colon mucosa,test
+76095,4,mucus,test
+17374,1,background,test
+72562,6,normal colon mucosa,test
+64464,6,normal colon mucosa,test
+81493,7,cancer-associated stroma,test
+9807,0,adipose,test
+17934,3,lymphocytes,test
+76636,7,cancer-associated stroma,test
+73374,7,cancer-associated stroma,test
+3206,7,cancer-associated stroma,test
+43479,6,normal colon mucosa,test
+22738,2,debris,test
+677,6,normal colon mucosa,test
+60931,5,smooth muscle,test
+1421,3,lymphocytes,test
+5768,7,cancer-associated stroma,test
+76902,1,background,test
+62957,7,cancer-associated stroma,test
+16470,7,cancer-associated stroma,test
+34936,5,smooth muscle,test
+24461,8,colorectal adenocarcinoma epithelium,test
+76137,3,lymphocytes,test
+409,5,smooth muscle,test
+67586,5,smooth muscle,test
+49047,3,lymphocytes,test
+25015,1,background,test
+35793,6,normal colon mucosa,test
+50408,2,debris,test
+81451,5,smooth muscle,test
+14290,6,normal colon mucosa,test
+6039,4,mucus,test
+60033,1,background,test
+12553,8,colorectal adenocarcinoma epithelium,test
+25476,8,colorectal adenocarcinoma epithelium,test
+6461,8,colorectal adenocarcinoma epithelium,test
+77739,8,colorectal adenocarcinoma epithelium,test
+56176,1,background,test
+75329,6,normal colon mucosa,test
+24206,2,debris,test
+14577,6,normal colon mucosa,test
+18005,1,background,test
+69432,1,background,test
+85721,8,colorectal adenocarcinoma epithelium,test
+46847,1,background,test
+3414,7,cancer-associated stroma,test
+51045,3,lymphocytes,test
+80543,0,adipose,test
+41977,5,smooth muscle,test
+16646,5,smooth muscle,test
+3601,6,normal colon mucosa,test
+73092,3,lymphocytes,test
+68380,3,lymphocytes,test
+3657,6,normal colon mucosa,test
+22088,7,cancer-associated stroma,test
+2625,8,colorectal adenocarcinoma epithelium,test
+67794,3,lymphocytes,test
+19627,7,cancer-associated stroma,test
+24367,2,debris,test
+51968,0,adipose,test
+3444,7,cancer-associated stroma,test
+21578,4,mucus,test
+68921,0,adipose,test
+89416,2,debris,test
+69345,5,smooth muscle,test
+59532,7,cancer-associated stroma,test
+88920,0,adipose,test
+49182,8,colorectal adenocarcinoma epithelium,test
+70317,2,debris,test
+20608,0,adipose,test
+54611,4,mucus,test
+81712,1,background,test
+89479,8,colorectal adenocarcinoma epithelium,test
+1062,3,lymphocytes,test
+8294,0,adipose,test
+86161,2,debris,test
+6641,0,adipose,test
+83470,2,debris,test
+37587,0,adipose,test
+6959,2,debris,test
+54036,0,adipose,test
+80060,3,lymphocytes,test
+47521,7,cancer-associated stroma,test
+80707,5,smooth muscle,test
+3217,1,background,test
+57002,5,smooth muscle,test
+71991,3,lymphocytes,test
+6407,8,colorectal adenocarcinoma epithelium,test
+1953,4,mucus,test
+833,6,normal colon mucosa,test
+4478,8,colorectal adenocarcinoma epithelium,test
+61830,6,normal colon mucosa,test
+9859,1,background,test
+62901,3,lymphocytes,test
+42187,7,cancer-associated stroma,test
+54826,6,normal colon mucosa,test
+28867,6,normal colon mucosa,test
+28676,1,background,test
+23239,5,smooth muscle,test
+45152,2,debris,test
+45858,3,lymphocytes,test
+7723,8,colorectal adenocarcinoma epithelium,test
+65814,3,lymphocytes,test
+16446,0,adipose,test
+81497,5,smooth muscle,test
+35607,8,colorectal adenocarcinoma epithelium,test
+27211,4,mucus,test
+12650,1,background,test
+86521,6,normal colon mucosa,test
+54880,3,lymphocytes,test
+77390,3,lymphocytes,test
+43687,0,adipose,test
+63693,7,cancer-associated stroma,test
+46567,6,normal colon mucosa,test
+67146,0,adipose,test
+5848,1,background,test
+29030,2,debris,test
+87782,3,lymphocytes,test
+4162,3,lymphocytes,test
+75600,0,adipose,test
+68815,3,lymphocytes,test
+61085,5,smooth muscle,test
+21646,1,background,test
+80334,8,colorectal adenocarcinoma epithelium,test
+1772,6,normal colon mucosa,test
+88876,8,colorectal adenocarcinoma epithelium,test
+39828,5,smooth muscle,test
+76729,1,background,test
+43957,1,background,test
+33843,8,colorectal adenocarcinoma epithelium,test
+9185,3,lymphocytes,test
+26938,5,smooth muscle,test
+45946,0,adipose,test
+27227,4,mucus,test
+36009,3,lymphocytes,test
+62789,5,smooth muscle,test
+35987,7,cancer-associated stroma,test
+55476,4,mucus,test
+47382,6,normal colon mucosa,test
+3125,4,mucus,test
+51661,2,debris,test
+18175,5,smooth muscle,test
+22709,2,debris,test
+63200,1,background,test
+62021,8,colorectal adenocarcinoma epithelium,test
+25860,1,background,test
+51494,8,colorectal adenocarcinoma epithelium,test
+100,6,normal colon mucosa,test
+37120,0,adipose,test
+3302,1,background,test
+6678,8,colorectal adenocarcinoma epithelium,test
+9756,2,debris,test
+51847,1,background,test
+81777,6,normal colon mucosa,test
+39826,2,debris,test
+26227,1,background,test
+49324,3,lymphocytes,test
+11041,7,cancer-associated stroma,test
+41287,4,mucus,test
+10589,4,mucus,test
+315,1,background,test
+35640,3,lymphocytes,test
+5696,4,mucus,test
+85532,7,cancer-associated stroma,test
+13289,8,colorectal adenocarcinoma epithelium,test
+52133,3,lymphocytes,test
+10023,2,debris,test
+2080,0,adipose,test
+36859,7,cancer-associated stroma,test
+5083,8,colorectal adenocarcinoma epithelium,test
+34788,8,colorectal adenocarcinoma epithelium,test
+58992,2,debris,test
+29370,4,mucus,test
+80211,7,cancer-associated stroma,test
+59953,7,cancer-associated stroma,test
+81750,5,smooth muscle,test
+11317,1,background,test
+62441,6,normal colon mucosa,test
+2539,6,normal colon mucosa,test
+85523,2,debris,test
+55072,4,mucus,test
+37563,5,smooth muscle,test
+9892,2,debris,test
+3158,8,colorectal adenocarcinoma epithelium,test
+80719,3,lymphocytes,test
+13237,3,lymphocytes,test
+20387,2,debris,test
+72002,1,background,test
+25306,8,colorectal adenocarcinoma epithelium,test
+2431,7,cancer-associated stroma,test
+6251,6,normal colon mucosa,test
+45809,0,adipose,test
+22316,8,colorectal adenocarcinoma epithelium,test
+48400,8,colorectal adenocarcinoma epithelium,test
+28701,2,debris,test
+4167,4,mucus,test
+68945,2,debris,test
+34089,7,cancer-associated stroma,test
+10617,0,adipose,test
+24342,2,debris,test
+44832,0,adipose,test
+11522,7,cancer-associated stroma,test
+70221,0,adipose,test
+10709,3,lymphocytes,test
+8064,2,debris,test
+83008,3,lymphocytes,test
+1879,0,adipose,test
+20618,6,normal colon mucosa,test
+60575,4,mucus,test
+7436,3,lymphocytes,test
+72311,0,adipose,test
+81111,6,normal colon mucosa,test
+52121,5,smooth muscle,test
+75521,1,background,test
+51726,6,normal colon mucosa,test
+29876,0,adipose,test
+60029,7,cancer-associated stroma,test
+38377,5,smooth muscle,test
+12115,0,adipose,test
+37791,4,mucus,test
+33342,8,colorectal adenocarcinoma epithelium,test
+28440,2,debris,test
+38495,8,colorectal adenocarcinoma epithelium,test
+81340,5,smooth muscle,test
+25410,4,mucus,test
+35617,3,lymphocytes,test
+53887,3,lymphocytes,test
+42248,3,lymphocytes,test
+23999,7,cancer-associated stroma,test
+14477,0,adipose,test
+46179,5,smooth muscle,test
+3279,8,colorectal adenocarcinoma epithelium,test
+74819,5,smooth muscle,test
+2924,5,smooth muscle,test
+21556,0,adipose,test
+7961,5,smooth muscle,test
+1796,0,adipose,test
+28706,0,adipose,test
+62871,4,mucus,test
+38878,5,smooth muscle,test
+3656,8,colorectal adenocarcinoma epithelium,test
+57674,6,normal colon mucosa,test
+36472,7,cancer-associated stroma,test
+41877,6,normal colon mucosa,test
+4423,8,colorectal adenocarcinoma epithelium,test
+80690,5,smooth muscle,test
+85237,7,cancer-associated stroma,test
+71261,8,colorectal adenocarcinoma epithelium,test
+33704,2,debris,test
+33409,4,mucus,test
+15511,5,smooth muscle,test
+63358,0,adipose,test
+28107,2,debris,test
+9020,3,lymphocytes,test
+4646,8,colorectal adenocarcinoma epithelium,test
+66069,0,adipose,test
+33739,8,colorectal adenocarcinoma epithelium,test
+13757,5,smooth muscle,test
+61716,4,mucus,test
+79499,1,background,test
+42518,6,normal colon mucosa,test
+44429,6,normal colon mucosa,test
+22878,5,smooth muscle,test
+40756,4,mucus,test
+58416,0,adipose,test
+38567,0,adipose,test
+14434,6,normal colon mucosa,test
+69138,5,smooth muscle,test
+25727,6,normal colon mucosa,test
+2868,0,adipose,test
+5375,8,colorectal adenocarcinoma epithelium,test
+8455,1,background,test
+86295,8,colorectal adenocarcinoma epithelium,test
+46392,8,colorectal adenocarcinoma epithelium,test
+22623,4,mucus,test
+77048,1,background,test
+83959,5,smooth muscle,test
+76152,2,debris,test
+30957,2,debris,test
+73768,4,mucus,test
+82030,0,adipose,test
+69880,3,lymphocytes,test
+85251,5,smooth muscle,test
+36903,3,lymphocytes,test
+3820,5,smooth muscle,test
+63255,5,smooth muscle,test
+45792,2,debris,test
+9981,7,cancer-associated stroma,test
+57239,7,cancer-associated stroma,test
+52683,1,background,test
+65128,1,background,test
+70436,6,normal colon mucosa,test
+87999,5,smooth muscle,test
+61244,3,lymphocytes,test
+64912,5,smooth muscle,test
+32754,8,colorectal adenocarcinoma epithelium,test
+38469,5,smooth muscle,test
+2344,1,background,test
+45088,8,colorectal adenocarcinoma epithelium,test
+48108,8,colorectal adenocarcinoma epithelium,test
+54925,8,colorectal adenocarcinoma epithelium,test
+60904,5,smooth muscle,test
+25828,2,debris,test
+1443,8,colorectal adenocarcinoma epithelium,test
+2242,3,lymphocytes,test
+16658,0,adipose,test
+51126,7,cancer-associated stroma,test
+6147,5,smooth muscle,test
+64890,8,colorectal adenocarcinoma epithelium,test
+28850,7,cancer-associated stroma,test
+21537,7,cancer-associated stroma,test
+61031,4,mucus,test
+54455,2,debris,test
+56202,3,lymphocytes,test
+73470,2,debris,test
+49308,0,adipose,test
+2409,5,smooth muscle,test
+61243,2,debris,test
+85702,2,debris,test
+46855,1,background,test
+62030,1,background,test
+77698,8,colorectal adenocarcinoma epithelium,test
+2874,4,mucus,test
+18848,8,colorectal adenocarcinoma epithelium,test
+89432,2,debris,test
+71455,8,colorectal adenocarcinoma epithelium,test
+65724,8,colorectal adenocarcinoma epithelium,test
+86421,4,mucus,test
+31486,8,colorectal adenocarcinoma epithelium,test
+11360,1,background,test
+74,6,normal colon mucosa,test
+54817,7,cancer-associated stroma,test
+78435,6,normal colon mucosa,test
+47884,2,debris,test
+34236,8,colorectal adenocarcinoma epithelium,test
+78118,7,cancer-associated stroma,test
+1073,4,mucus,test
+65145,7,cancer-associated stroma,test
+81744,4,mucus,test
+10196,6,normal colon mucosa,test
+42371,3,lymphocytes,test
+16717,4,mucus,test
+77832,3,lymphocytes,test
+4191,0,adipose,test
+76451,7,cancer-associated stroma,test
+80560,0,adipose,test
+42183,5,smooth muscle,test
+31996,3,lymphocytes,test
+29400,7,cancer-associated stroma,test
+2590,6,normal colon mucosa,test
+45932,4,mucus,test
+34765,6,normal colon mucosa,test
+1917,4,mucus,test
+3673,5,smooth muscle,test
+84889,1,background,test
+39957,8,colorectal adenocarcinoma epithelium,test
+53486,6,normal colon mucosa,test
+8941,4,mucus,test
+69416,3,lymphocytes,test
+232,2,debris,test
+55618,1,background,test
+21063,4,mucus,test
+5857,5,smooth muscle,test
+86973,3,lymphocytes,test
+72853,7,cancer-associated stroma,test
+83225,7,cancer-associated stroma,test
+46424,2,debris,test
+84797,7,cancer-associated stroma,test
+17860,0,adipose,test
+1873,2,debris,test
+6414,8,colorectal adenocarcinoma epithelium,test
+8123,3,lymphocytes,test
+35078,3,lymphocytes,test
+49862,7,cancer-associated stroma,test
+43844,7,cancer-associated stroma,test
+39233,3,lymphocytes,test
+64538,5,smooth muscle,test
+67679,7,cancer-associated stroma,test
+4158,4,mucus,test
+6837,4,mucus,test
+2136,5,smooth muscle,test
+60418,4,mucus,test
+7099,2,debris,test
+21597,0,adipose,test
+22164,1,background,test
+4041,2,debris,test
+17527,6,normal colon mucosa,test
+14052,4,mucus,test
+722,4,mucus,test
+4656,0,adipose,test
+81845,8,colorectal adenocarcinoma epithelium,test
+12624,0,adipose,test
+32682,7,cancer-associated stroma,test
+27151,3,lymphocytes,test
+42843,4,mucus,test
+15778,2,debris,test
+62478,7,cancer-associated stroma,test
+7239,5,smooth muscle,test
+40612,0,adipose,test
+23266,7,cancer-associated stroma,test
+2189,2,debris,test
+17791,3,lymphocytes,test
+54913,4,mucus,test
+56052,1,background,test
+39451,2,debris,test
+32542,7,cancer-associated stroma,test
+73650,3,lymphocytes,test
+1207,3,lymphocytes,test
+66409,3,lymphocytes,test
+25143,2,debris,test
+76665,8,colorectal adenocarcinoma epithelium,test
+19180,4,mucus,test
+30173,2,debris,test
+60200,2,debris,test
+55438,5,smooth muscle,test
+27808,0,adipose,test
+66594,3,lymphocytes,test
+61554,5,smooth muscle,test
+43799,5,smooth muscle,test
+7857,1,background,test
+25034,3,lymphocytes,test
+2967,5,smooth muscle,test
+76546,6,normal colon mucosa,test
+35918,8,colorectal adenocarcinoma epithelium,test
+2548,6,normal colon mucosa,test
+29856,0,adipose,test
+42276,1,background,test
+28482,1,background,test
+14403,8,colorectal adenocarcinoma epithelium,test
+5994,0,adipose,test
+14555,0,adipose,test
+16715,3,lymphocytes,test
+42278,2,debris,test
+81431,7,cancer-associated stroma,test
+2422,3,lymphocytes,test
+28739,0,adipose,test
+83544,5,smooth muscle,test
+59282,3,lymphocytes,test
+6194,2,debris,test
+46978,8,colorectal adenocarcinoma epithelium,test
+27756,7,cancer-associated stroma,test
+917,4,mucus,test
+31872,1,background,test
+16040,2,debris,test
+66885,4,mucus,test
+50836,1,background,test
+8272,2,debris,test
+61333,7,cancer-associated stroma,test
+39913,3,lymphocytes,test
+9404,5,smooth muscle,test
+38496,4,mucus,test
+28001,3,lymphocytes,test
+12070,8,colorectal adenocarcinoma epithelium,test
+24050,8,colorectal adenocarcinoma epithelium,test
+9953,4,mucus,test
+17016,8,colorectal adenocarcinoma epithelium,test
+62738,5,smooth muscle,test
+4502,3,lymphocytes,test
+1539,5,smooth muscle,test
+86459,2,debris,test
+8982,6,normal colon mucosa,test
+62500,0,adipose,test
+65617,2,debris,test
+55789,0,adipose,test
+4411,6,normal colon mucosa,test
+71638,1,background,test
+89582,1,background,test
+81304,5,smooth muscle,test
+33430,1,background,test
+35021,5,smooth muscle,test
+6808,2,debris,test
+66585,6,normal colon mucosa,test
+59066,0,adipose,test
+45618,7,cancer-associated stroma,test
+38058,6,normal colon mucosa,test
+59482,0,adipose,test
+16243,0,adipose,test
+41603,4,mucus,test
+54573,1,background,test
+77151,7,cancer-associated stroma,test
+74113,7,cancer-associated stroma,test
+33269,0,adipose,test
+45598,4,mucus,test
+29644,8,colorectal adenocarcinoma epithelium,test
+8476,2,debris,test
+34650,8,colorectal adenocarcinoma epithelium,test
+27063,1,background,test
+2939,7,cancer-associated stroma,test
+74130,0,adipose,test
+65863,7,cancer-associated stroma,test
+65442,4,mucus,test
+51956,3,lymphocytes,test
+55,8,colorectal adenocarcinoma epithelium,test
+74625,0,adipose,test
+8022,5,smooth muscle,test
+45684,7,cancer-associated stroma,test
+25445,3,lymphocytes,test
+22357,6,normal colon mucosa,test
+41775,5,smooth muscle,test
+53210,2,debris,test
+62699,4,mucus,test
+73810,1,background,test
+27161,8,colorectal adenocarcinoma epithelium,test
+36814,0,adipose,test
+69494,7,cancer-associated stroma,test
+80950,4,mucus,test
+83001,2,debris,test
+11809,0,adipose,test
+35645,7,cancer-associated stroma,test
+5696,7,cancer-associated stroma,test
+18887,8,colorectal adenocarcinoma epithelium,test
+42533,5,smooth muscle,test
+52292,1,background,test
+4784,2,debris,test
+6989,4,mucus,test
+39121,6,normal colon mucosa,test
+14506,6,normal colon mucosa,test
+68734,5,smooth muscle,test
+56814,0,adipose,test
+65494,5,smooth muscle,test
+64173,5,smooth muscle,test
+64014,3,lymphocytes,test
+21173,8,colorectal adenocarcinoma epithelium,test
+9973,2,debris,test
+9508,5,smooth muscle,test
+73943,7,cancer-associated stroma,test
+45278,7,cancer-associated stroma,test
+5426,7,cancer-associated stroma,test
+3635,8,colorectal adenocarcinoma epithelium,test
+87765,2,debris,test
+6906,1,background,test
+23955,3,lymphocytes,test
+44130,8,colorectal adenocarcinoma epithelium,test
+57964,7,cancer-associated stroma,test
+14333,8,colorectal adenocarcinoma epithelium,test
+8406,6,normal colon mucosa,test
+53065,0,adipose,test
+5248,0,adipose,test
+19723,5,smooth muscle,test
+22153,0,adipose,test
+35397,5,smooth muscle,test
+11562,5,smooth muscle,test
+31948,3,lymphocytes,test
+6082,8,colorectal adenocarcinoma epithelium,test
+32595,8,colorectal adenocarcinoma epithelium,test
+35292,5,smooth muscle,test
+65777,2,debris,test
+57224,6,normal colon mucosa,test
+72306,0,adipose,test
+3886,2,debris,test
+4197,7,cancer-associated stroma,test
+81962,2,debris,test
+12401,1,background,test
+85269,4,mucus,test
+31994,3,lymphocytes,test
+4379,0,adipose,test
+60161,8,colorectal adenocarcinoma epithelium,test
+25280,4,mucus,test
+45803,0,adipose,test
+38530,1,background,test
+60327,5,smooth muscle,test
+68163,5,smooth muscle,test
+38819,2,debris,test
+4768,4,mucus,test
+24258,6,normal colon mucosa,test
+83044,6,normal colon mucosa,test
+51165,4,mucus,test
+26419,8,colorectal adenocarcinoma epithelium,test
+5557,4,mucus,test
+70874,1,background,test
+85885,3,lymphocytes,test
+3561,7,cancer-associated stroma,test
+7430,7,cancer-associated stroma,test
+37699,8,colorectal adenocarcinoma epithelium,test
+8946,8,colorectal adenocarcinoma epithelium,test
+6664,0,adipose,test
+836,5,smooth muscle,test
+39308,5,smooth muscle,test
+6312,5,smooth muscle,test
+1288,1,background,test
+4883,7,cancer-associated stroma,test
+8489,6,normal colon mucosa,test
+15876,5,smooth muscle,test
+15293,6,normal colon mucosa,test
+28838,8,colorectal adenocarcinoma epithelium,test
+5371,4,mucus,test
+48088,8,colorectal adenocarcinoma epithelium,test
+46232,4,mucus,test
+16954,3,lymphocytes,test
+86109,3,lymphocytes,test
+45458,0,adipose,test
+82758,7,cancer-associated stroma,test
+44517,8,colorectal adenocarcinoma epithelium,test
+1932,2,debris,test
+4136,8,colorectal adenocarcinoma epithelium,test
+48858,2,debris,test
+44800,5,smooth muscle,test
+40737,0,adipose,test
+74892,7,cancer-associated stroma,test
+66184,5,smooth muscle,test
+13717,5,smooth muscle,test
+25543,2,debris,test
+5789,4,mucus,test
+29367,5,smooth muscle,test
+71230,4,mucus,test
+41800,5,smooth muscle,test
+78562,3,lymphocytes,test
+87457,8,colorectal adenocarcinoma epithelium,test
+1435,4,mucus,test
+41980,1,background,test
+58877,1,background,test
+3280,7,cancer-associated stroma,test
+30457,0,adipose,test
+38835,5,smooth muscle,test
+13787,5,smooth muscle,test
+14444,7,cancer-associated stroma,test
+87931,6,normal colon mucosa,test
+6320,8,colorectal adenocarcinoma epithelium,test
+28518,5,smooth muscle,test
+58,0,adipose,test
+63813,8,colorectal adenocarcinoma epithelium,test
+35919,1,background,test
+35876,1,background,test
+8530,4,mucus,test
+74302,8,colorectal adenocarcinoma epithelium,test
+87212,0,adipose,test
+598,8,colorectal adenocarcinoma epithelium,test
+1586,3,lymphocytes,test
+34115,1,background,test
+20849,6,normal colon mucosa,test
+8333,2,debris,test
+30576,3,lymphocytes,test
+76943,7,cancer-associated stroma,test
+53322,6,normal colon mucosa,test
+19150,7,cancer-associated stroma,test
+79251,2,debris,test
+87258,0,adipose,test
+44245,1,background,test
+77725,3,lymphocytes,test
+44562,6,normal colon mucosa,test
+40393,2,debris,test
+78046,2,debris,test
+36153,7,cancer-associated stroma,test
+37792,6,normal colon mucosa,test
+2717,4,mucus,test
+2648,6,normal colon mucosa,test
+87132,3,lymphocytes,test
+58619,8,colorectal adenocarcinoma epithelium,test
+39970,0,adipose,test
+87987,2,debris,test
+3889,1,background,test
+37827,1,background,test
+9816,7,cancer-associated stroma,test
+46824,1,background,test
+84363,1,background,test
+48720,7,cancer-associated stroma,test
+9864,8,colorectal adenocarcinoma epithelium,test
+3036,8,colorectal adenocarcinoma epithelium,test
+9988,5,smooth muscle,test
+75381,1,background,test
+41129,7,cancer-associated stroma,test
+26460,1,background,test
+39890,1,background,test
+50636,8,colorectal adenocarcinoma epithelium,test
+15028,3,lymphocytes,test
+74634,3,lymphocytes,test
+72382,0,adipose,test
+14514,7,cancer-associated stroma,test
+72791,5,smooth muscle,test
+31555,2,debris,test
+1286,8,colorectal adenocarcinoma epithelium,test
+87707,6,normal colon mucosa,test
+39948,0,adipose,test
+20665,6,normal colon mucosa,test
+23858,0,adipose,test
+35496,5,smooth muscle,test
+2394,2,debris,test
+29347,3,lymphocytes,test
+51929,7,cancer-associated stroma,test
+7029,2,debris,test
+71904,1,background,test
+75979,6,normal colon mucosa,test
+66242,2,debris,test
+31279,2,debris,test
+49237,8,colorectal adenocarcinoma epithelium,test
+89205,3,lymphocytes,test
+1738,0,adipose,test
+12902,3,lymphocytes,test
+56876,2,debris,test
+17836,2,debris,test
+61652,0,adipose,test
+5269,0,adipose,test
+36050,0,adipose,test
+37963,5,smooth muscle,test
+59986,2,debris,test
+84131,6,normal colon mucosa,test
+6245,4,mucus,test
+29077,7,cancer-associated stroma,test
+1424,3,lymphocytes,test
+10080,7,cancer-associated stroma,test
+36505,5,smooth muscle,test
+3494,1,background,test
+8404,2,debris,test
+83383,1,background,test
+21628,5,smooth muscle,test
+3619,5,smooth muscle,test
+35381,3,lymphocytes,test
+3063,1,background,test
+76623,7,cancer-associated stroma,test
+22744,5,smooth muscle,test
+87213,2,debris,test
+72149,3,lymphocytes,test
+33619,0,adipose,test
+76606,5,smooth muscle,test
+33350,6,normal colon mucosa,test
+39566,6,normal colon mucosa,test
+7582,8,colorectal adenocarcinoma epithelium,test
+39775,4,mucus,test
+1212,2,debris,test
+4329,5,smooth muscle,test
+54974,3,lymphocytes,test
+3999,1,background,test
+65912,6,normal colon mucosa,test
+47316,6,normal colon mucosa,test
+84013,5,smooth muscle,test
+8729,0,adipose,test
+29479,7,cancer-associated stroma,test
+83173,4,mucus,test
+54178,5,smooth muscle,test
+44851,4,mucus,test
+83127,3,lymphocytes,test
+61335,0,adipose,test
+59868,3,lymphocytes,test
+59712,5,smooth muscle,test
+1021,2,debris,test
+37754,1,background,test
+79760,5,smooth muscle,test
+3999,0,adipose,test
+59309,7,cancer-associated stroma,test
+89522,3,lymphocytes,test
+44034,0,adipose,test
+65318,7,cancer-associated stroma,test
+11886,7,cancer-associated stroma,test
+62853,6,normal colon mucosa,test
+50038,2,debris,test
+34792,4,mucus,test
+60461,0,adipose,test
+46041,3,lymphocytes,test
+22715,7,cancer-associated stroma,test
+1494,2,debris,test
+795,5,smooth muscle,test
+7647,4,mucus,test
+63074,4,mucus,test
+52318,3,lymphocytes,test
+29838,1,background,test
+44978,0,adipose,test
+49254,7,cancer-associated stroma,test
+8938,7,cancer-associated stroma,test
+86263,2,debris,test
+27956,4,mucus,test
+54449,8,colorectal adenocarcinoma epithelium,test
+26429,1,background,test
+101,4,mucus,test
+84839,8,colorectal adenocarcinoma epithelium,test
+81244,7,cancer-associated stroma,test
+73576,2,debris,test
+28783,4,mucus,test
+37353,0,adipose,test
+1065,6,normal colon mucosa,test
+13114,5,smooth muscle,test
+58905,8,colorectal adenocarcinoma epithelium,test
+54511,1,background,test
+56166,0,adipose,test
+73856,8,colorectal adenocarcinoma epithelium,test
+77757,6,normal colon mucosa,test
+26312,7,cancer-associated stroma,test
+51429,3,lymphocytes,test
+83231,0,adipose,test
+58115,0,adipose,test
+6663,4,mucus,test
+3146,0,adipose,test
+1934,4,mucus,test
+21630,7,cancer-associated stroma,test
+39759,0,adipose,test
+6789,1,background,test
+73988,6,normal colon mucosa,test
+43014,6,normal colon mucosa,test
+331,3,lymphocytes,test
+35086,4,mucus,test
+17648,2,debris,test
+54778,0,adipose,test
+56499,6,normal colon mucosa,test
+36094,6,normal colon mucosa,test
+1399,1,background,test
+4855,5,smooth muscle,test
+34743,8,colorectal adenocarcinoma epithelium,test
+6929,6,normal colon mucosa,test
+25618,0,adipose,test
+18369,7,cancer-associated stroma,test
+56933,7,cancer-associated stroma,test
+18730,2,debris,test
+45907,0,adipose,test
+22474,5,smooth muscle,test
+14872,4,mucus,test
+47369,1,background,test
+53449,8,colorectal adenocarcinoma epithelium,test
+49723,2,debris,test
+49566,2,debris,test
+52857,4,mucus,test
+2270,8,colorectal adenocarcinoma epithelium,test
+89493,0,adipose,test
+78809,1,background,test
+6956,0,adipose,test
+3303,7,cancer-associated stroma,test
+87481,5,smooth muscle,test
+70820,5,smooth muscle,test
+41782,0,adipose,test
+760,1,background,test
+3323,5,smooth muscle,test
+78402,0,adipose,test
+4775,3,lymphocytes,test
+87464,6,normal colon mucosa,test
+56773,6,normal colon mucosa,test
+29105,1,background,test
+45224,1,background,test
+53784,6,normal colon mucosa,test
+20520,4,mucus,test
+2156,1,background,test
+35474,4,mucus,test
+17547,3,lymphocytes,test
+5032,1,background,test
+82085,1,background,test
+58379,5,smooth muscle,test
+80433,5,smooth muscle,test
+62935,7,cancer-associated stroma,test
+28443,7,cancer-associated stroma,test
+6524,5,smooth muscle,test
+88492,5,smooth muscle,test
+61696,0,adipose,test
+5580,5,smooth muscle,test
+63731,7,cancer-associated stroma,test
+35587,5,smooth muscle,test
+5315,1,background,test
+25773,0,adipose,test
+86741,4,mucus,test
+55255,1,background,test
+51849,8,colorectal adenocarcinoma epithelium,test
+9643,7,cancer-associated stroma,test
+43879,2,debris,test
+9805,6,normal colon mucosa,test
+62848,1,background,test
+18048,2,debris,test
+7437,2,debris,test
+58846,2,debris,test
+8855,1,background,test
+137,5,smooth muscle,test
+8748,3,lymphocytes,test
+84973,1,background,test
+45063,8,colorectal adenocarcinoma epithelium,test
+8763,5,smooth muscle,test
+86830,5,smooth muscle,test
+64216,0,adipose,test
+10049,4,mucus,test
+39463,1,background,test
+86019,3,lymphocytes,test
+52815,6,normal colon mucosa,test
+7520,8,colorectal adenocarcinoma epithelium,test
+66283,1,background,test
+48,1,background,test
+3428,2,debris,test
+40064,7,cancer-associated stroma,test
+17456,6,normal colon mucosa,test
+10339,2,debris,test
+56132,5,smooth muscle,test
+7962,8,colorectal adenocarcinoma epithelium,test
+44451,2,debris,test
+35486,3,lymphocytes,test
+76576,8,colorectal adenocarcinoma epithelium,test
+36781,8,colorectal adenocarcinoma epithelium,test
+52769,4,mucus,test
+4531,7,cancer-associated stroma,test
+72380,2,debris,test
+23519,8,colorectal adenocarcinoma epithelium,test
+59201,2,debris,test
+63321,0,adipose,test
+68316,4,mucus,test
+36228,0,adipose,test
+38453,5,smooth muscle,test
+64395,6,normal colon mucosa,test
+37101,5,smooth muscle,test
+9075,2,debris,test
+114,2,debris,test
+4148,6,normal colon mucosa,test
+16896,0,adipose,test
+80833,0,adipose,test
+44903,2,debris,test
+37176,8,colorectal adenocarcinoma epithelium,test
+85144,3,lymphocytes,test
+20929,0,adipose,test
+11756,6,normal colon mucosa,test
+4275,7,cancer-associated stroma,test
+20293,5,smooth muscle,test
+2860,2,debris,test
+85882,8,colorectal adenocarcinoma epithelium,test
+60017,3,lymphocytes,test
+43314,8,colorectal adenocarcinoma epithelium,test
+84935,5,smooth muscle,test
+19239,1,background,test
+3856,0,adipose,test
+54575,7,cancer-associated stroma,test
+3918,2,debris,test
+40292,8,colorectal adenocarcinoma epithelium,test
+58671,3,lymphocytes,test
+17430,7,cancer-associated stroma,test
+17004,2,debris,test
+36542,7,cancer-associated stroma,test
+42218,2,debris,test
+63351,5,smooth muscle,test
+38435,8,colorectal adenocarcinoma epithelium,test
+76353,2,debris,test
+13657,4,mucus,test
+58091,1,background,test
+79261,5,smooth muscle,test
+29119,0,adipose,test
+61806,6,normal colon mucosa,test
+80931,5,smooth muscle,test
+72930,5,smooth muscle,test
+14176,5,smooth muscle,test
+51473,1,background,test
+10045,1,background,test
+34051,6,normal colon mucosa,test
+58730,2,debris,test
+68139,4,mucus,test
+73036,1,background,test
+2273,4,mucus,test
+51572,8,colorectal adenocarcinoma epithelium,test
+79820,1,background,test
+70292,0,adipose,test
+17124,7,cancer-associated stroma,test
+12713,2,debris,test
+39667,3,lymphocytes,test
+23834,3,lymphocytes,test
+89556,8,colorectal adenocarcinoma epithelium,test
+66617,5,smooth muscle,test
+24768,6,normal colon mucosa,test
+7077,3,lymphocytes,test
+3888,4,mucus,test
+78490,2,debris,test
+88550,1,background,test
+73191,5,smooth muscle,test
+54564,1,background,test
+7763,5,smooth muscle,test
+42475,8,colorectal adenocarcinoma epithelium,test
+49545,3,lymphocytes,test
+53294,3,lymphocytes,test
+65731,0,adipose,test
+31013,5,smooth muscle,test
+32479,3,lymphocytes,test
+6256,3,lymphocytes,test
+34847,7,cancer-associated stroma,test
+82425,2,debris,test
+68436,7,cancer-associated stroma,test
+88248,2,debris,test
+9968,7,cancer-associated stroma,test
+83412,7,cancer-associated stroma,test
+1143,5,smooth muscle,test
+70569,2,debris,test
+1980,8,colorectal adenocarcinoma epithelium,test
+85452,8,colorectal adenocarcinoma epithelium,test
+32820,2,debris,test
+783,8,colorectal adenocarcinoma epithelium,test
+47087,5,smooth muscle,test
+86467,0,adipose,test
+13990,3,lymphocytes,test
+7826,1,background,test
+47549,3,lymphocytes,test
+60055,7,cancer-associated stroma,test
+87592,0,adipose,test
+83504,1,background,test
+10809,3,lymphocytes,test
+87033,1,background,test
+61123,8,colorectal adenocarcinoma epithelium,test
+71063,3,lymphocytes,test
+3354,0,adipose,test
+7910,3,lymphocytes,test
+84185,4,mucus,test
+87355,6,normal colon mucosa,test
+43429,8,colorectal adenocarcinoma epithelium,test
+51223,0,adipose,test
+25115,2,debris,test
+71672,0,adipose,test
+57392,8,colorectal adenocarcinoma epithelium,test
+33126,6,normal colon mucosa,test
+5163,2,debris,test
+37214,6,normal colon mucosa,test
+11113,2,debris,test
+33732,8,colorectal adenocarcinoma epithelium,test
+12331,2,debris,test
+70615,8,colorectal adenocarcinoma epithelium,test
+4188,7,cancer-associated stroma,test
+12670,5,smooth muscle,test
+72242,8,colorectal adenocarcinoma epithelium,test
+88012,2,debris,test
+43856,1,background,test
+80296,6,normal colon mucosa,test
+36564,5,smooth muscle,test
+8305,6,normal colon mucosa,test
+3451,0,adipose,test
+59763,2,debris,test
+65957,4,mucus,test
+3580,4,mucus,test
+44002,8,colorectal adenocarcinoma epithelium,test
+56015,7,cancer-associated stroma,test
+3471,5,smooth muscle,test
+39938,5,smooth muscle,test
+81325,8,colorectal adenocarcinoma epithelium,test
+73183,8,colorectal adenocarcinoma epithelium,test
+52265,7,cancer-associated stroma,test
+19487,2,debris,test
+5240,0,adipose,test
+61029,7,cancer-associated stroma,test
+19017,3,lymphocytes,test
+7263,0,adipose,test
+27871,2,debris,test
+33081,1,background,test
+29102,7,cancer-associated stroma,test
+6234,8,colorectal adenocarcinoma epithelium,test
+9331,7,cancer-associated stroma,test
+51957,1,background,test
+84949,7,cancer-associated stroma,test
+56475,1,background,test
+3890,6,normal colon mucosa,test
+69970,3,lymphocytes,test
+35741,6,normal colon mucosa,test
+74268,3,lymphocytes,test
+83645,0,adipose,test
+82554,8,colorectal adenocarcinoma epithelium,test
+9979,2,debris,test
+13019,3,lymphocytes,test
+45735,6,normal colon mucosa,test
+23789,8,colorectal adenocarcinoma epithelium,test
+39192,8,colorectal adenocarcinoma epithelium,test
+5289,6,normal colon mucosa,test
+34440,6,normal colon mucosa,test
+23423,1,background,test
+63564,5,smooth muscle,test
+65978,3,lymphocytes,test
+7272,7,cancer-associated stroma,test
+12885,1,background,test
+79903,0,adipose,test
+32171,8,colorectal adenocarcinoma epithelium,test
+5470,2,debris,test
+34509,0,adipose,test
+76710,3,lymphocytes,test
+40196,0,adipose,test
+12337,4,mucus,test
+18993,4,mucus,test
+36484,1,background,test
+24806,8,colorectal adenocarcinoma epithelium,test
+75,7,cancer-associated stroma,test
+6367,2,debris,test
+53700,6,normal colon mucosa,test
+37284,2,debris,test
+57167,6,normal colon mucosa,test
+70077,6,normal colon mucosa,test
+44496,5,smooth muscle,test
+65662,0,adipose,test
+88015,5,smooth muscle,test
+11328,3,lymphocytes,test
+40614,8,colorectal adenocarcinoma epithelium,test
+14066,4,mucus,test
+85476,2,debris,test
+2173,5,smooth muscle,test
+60610,8,colorectal adenocarcinoma epithelium,test
+2615,0,adipose,test
+63317,3,lymphocytes,test
+8873,5,smooth muscle,test
+68666,1,background,test
+58781,8,colorectal adenocarcinoma epithelium,test
+27898,3,lymphocytes,test
+87336,3,lymphocytes,test
+73778,1,background,test
+45476,4,mucus,test
+6734,0,adipose,test
+11268,1,background,test
+8842,0,adipose,test
+68693,3,lymphocytes,test
+515,2,debris,test
+6149,6,normal colon mucosa,test
+4183,8,colorectal adenocarcinoma epithelium,test
+16223,7,cancer-associated stroma,test
+54258,5,smooth muscle,test
+86127,3,lymphocytes,test
+42784,4,mucus,test
+19314,6,normal colon mucosa,test
+52289,5,smooth muscle,test
+78427,6,normal colon mucosa,test
+9645,5,smooth muscle,test
+59835,3,lymphocytes,test
+45631,8,colorectal adenocarcinoma epithelium,test
+28447,5,smooth muscle,test
+73249,8,colorectal adenocarcinoma epithelium,test
+87535,3,lymphocytes,test
+22536,0,adipose,test
+18095,1,background,test
+74503,2,debris,test
+51962,4,mucus,test
+88533,5,smooth muscle,test
+21109,6,normal colon mucosa,test
+81205,3,lymphocytes,test
+3152,5,smooth muscle,test
+47180,0,adipose,test
+65429,4,mucus,test
+27895,7,cancer-associated stroma,test
+58477,7,cancer-associated stroma,test
+65761,8,colorectal adenocarcinoma epithelium,test
+79168,0,adipose,test
+36443,0,adipose,test
+3653,0,adipose,test
+74160,8,colorectal adenocarcinoma epithelium,test
+84039,2,debris,test
+57801,8,colorectal adenocarcinoma epithelium,test
+26446,5,smooth muscle,test
+7332,6,normal colon mucosa,test
+11646,4,mucus,test
+25472,2,debris,test
+3648,5,smooth muscle,test
+26455,4,mucus,test
+17084,7,cancer-associated stroma,test
+16074,8,colorectal adenocarcinoma epithelium,test
+86763,3,lymphocytes,test
+35935,5,smooth muscle,test
+27645,8,colorectal adenocarcinoma epithelium,test
+28034,5,smooth muscle,test
+64768,1,background,test
+8981,5,smooth muscle,test
+45267,2,debris,test
+73851,5,smooth muscle,test
+2077,7,cancer-associated stroma,test
+51897,8,colorectal adenocarcinoma epithelium,test
+25186,8,colorectal adenocarcinoma epithelium,test
+55756,1,background,test
+9966,0,adipose,test
+46602,1,background,test
+72476,2,debris,test
+50691,1,background,test
+23305,6,normal colon mucosa,test
+24566,8,colorectal adenocarcinoma epithelium,test
+84744,7,cancer-associated stroma,test
+64058,2,debris,test
+1005,3,lymphocytes,test
+879,6,normal colon mucosa,test
+73616,6,normal colon mucosa,test
+70276,0,adipose,test
+89620,5,smooth muscle,test
+931,5,smooth muscle,test
+3041,3,lymphocytes,test
+83478,1,background,test
+48966,2,debris,test
+19103,7,cancer-associated stroma,test
+57158,5,smooth muscle,test
+64207,0,adipose,test
+4313,4,mucus,test
+69523,3,lymphocytes,test
+39532,2,debris,test
+33670,3,lymphocytes,test
+89809,1,background,test
+25375,3,lymphocytes,test
+17067,5,smooth muscle,test
+10302,8,colorectal adenocarcinoma epithelium,test
+62609,5,smooth muscle,test
+22361,5,smooth muscle,test
+23679,7,cancer-associated stroma,test
+36559,5,smooth muscle,test
+13871,4,mucus,test
+62095,6,normal colon mucosa,test
+59130,3,lymphocytes,test
+12058,6,normal colon mucosa,test
+73699,7,cancer-associated stroma,test
+22091,7,cancer-associated stroma,test
+64724,0,adipose,test
+20197,4,mucus,test
+9872,5,smooth muscle,test
+73733,4,mucus,test
+8524,0,adipose,test
+10886,7,cancer-associated stroma,test
+57927,2,debris,test
+27261,6,normal colon mucosa,test
+5163,5,smooth muscle,test
+53874,2,debris,test
+36433,8,colorectal adenocarcinoma epithelium,test
+32895,1,background,test
+41748,1,background,test
+55928,2,debris,test
+33518,8,colorectal adenocarcinoma epithelium,test
+8206,8,colorectal adenocarcinoma epithelium,test
+5938,1,background,test
+78858,7,cancer-associated stroma,test
+63733,8,colorectal adenocarcinoma epithelium,test
+54810,7,cancer-associated stroma,test
+34810,2,debris,test
+5895,4,mucus,test
+85652,1,background,test
+71280,8,colorectal adenocarcinoma epithelium,test
+10962,8,colorectal adenocarcinoma epithelium,test
+1332,2,debris,test
+62729,2,debris,test
+78043,4,mucus,test
+57067,4,mucus,test
+26137,2,debris,test
+4213,5,smooth muscle,test
+16545,5,smooth muscle,test
+89777,4,mucus,test
+13763,1,background,test
+20540,6,normal colon mucosa,test
+15052,5,smooth muscle,test
+4881,7,cancer-associated stroma,test
+23685,3,lymphocytes,test
+82672,0,adipose,test
+55924,5,smooth muscle,test
+27132,5,smooth muscle,test
+88542,8,colorectal adenocarcinoma epithelium,test
+30,1,background,test
+43754,2,debris,test
+68796,2,debris,test
+54106,6,normal colon mucosa,test
+49012,8,colorectal adenocarcinoma epithelium,test
+83693,8,colorectal adenocarcinoma epithelium,test
+8418,8,colorectal adenocarcinoma epithelium,test
+86767,8,colorectal adenocarcinoma epithelium,test
+57029,3,lymphocytes,test
+36803,0,adipose,test
+55310,8,colorectal adenocarcinoma epithelium,test
+78697,1,background,test
+70973,8,colorectal adenocarcinoma epithelium,test
+17114,5,smooth muscle,test
+80649,8,colorectal adenocarcinoma epithelium,test
+57540,8,colorectal adenocarcinoma epithelium,test
+2042,1,background,test
+5992,8,colorectal adenocarcinoma epithelium,test
+45586,0,adipose,test
+88138,1,background,test
+12426,5,smooth muscle,test
+86810,2,debris,test
+67051,7,cancer-associated stroma,test
+33057,4,mucus,test
+51348,5,smooth muscle,test
+9827,1,background,test
+6862,8,colorectal adenocarcinoma epithelium,test
+47381,8,colorectal adenocarcinoma epithelium,test
+36019,6,normal colon mucosa,test
+8382,7,cancer-associated stroma,test
+65207,5,smooth muscle,test
+58386,4,mucus,test
+82247,5,smooth muscle,test
+36156,5,smooth muscle,test
+11525,4,mucus,test
+30233,6,normal colon mucosa,test
+28986,2,debris,test
+8503,5,smooth muscle,test
+71654,5,smooth muscle,test
+29981,0,adipose,test
+39886,3,lymphocytes,test
+54558,8,colorectal adenocarcinoma epithelium,test
+2477,4,mucus,test
+72742,6,normal colon mucosa,test
+40086,2,debris,test
+87306,1,background,test
+20439,7,cancer-associated stroma,test
+76871,8,colorectal adenocarcinoma epithelium,test
+71492,4,mucus,test
+2921,2,debris,test
+63661,0,adipose,test
+15651,3,lymphocytes,test
+17163,6,normal colon mucosa,test
+13347,8,colorectal adenocarcinoma epithelium,test
+58325,4,mucus,test
+34972,2,debris,test
+66694,2,debris,test
+15157,3,lymphocytes,test
+36189,7,cancer-associated stroma,test
+1313,4,mucus,test
+54074,8,colorectal adenocarcinoma epithelium,test
+15385,5,smooth muscle,test
+63909,5,smooth muscle,test
+70185,0,adipose,test
+70680,2,debris,test
+7277,2,debris,test
+69506,2,debris,test
+74449,7,cancer-associated stroma,test
+40255,3,lymphocytes,test
+30271,7,cancer-associated stroma,test
+78893,6,normal colon mucosa,test
+52348,6,normal colon mucosa,test
+12732,0,adipose,test
+62509,2,debris,test
+42678,3,lymphocytes,test
+44835,1,background,test
+7383,8,colorectal adenocarcinoma epithelium,test
+2697,7,cancer-associated stroma,test
+73113,7,cancer-associated stroma,test
+70923,7,cancer-associated stroma,test
+8319,8,colorectal adenocarcinoma epithelium,test
+3751,3,lymphocytes,test
+89810,6,normal colon mucosa,test
+4425,6,normal colon mucosa,test
+83967,0,adipose,test
+12589,8,colorectal adenocarcinoma epithelium,test
+2312,7,cancer-associated stroma,test
+45094,2,debris,test
+2845,7,cancer-associated stroma,test
+1540,1,background,test
+52241,2,debris,test
+31959,7,cancer-associated stroma,test
+63372,5,smooth muscle,test
+55727,6,normal colon mucosa,test
+80110,3,lymphocytes,test
+75902,7,cancer-associated stroma,test
+87172,0,adipose,test
+69505,8,colorectal adenocarcinoma epithelium,test
+44105,1,background,test
+89001,3,lymphocytes,test
+84818,7,cancer-associated stroma,test
+87602,1,background,test
+13983,7,cancer-associated stroma,test
+62533,5,smooth muscle,test
+45006,7,cancer-associated stroma,test
+53938,5,smooth muscle,test
+67164,6,normal colon mucosa,test
+5499,5,smooth muscle,test
+28340,8,colorectal adenocarcinoma epithelium,test
+72286,6,normal colon mucosa,test
+55240,8,colorectal adenocarcinoma epithelium,test
+80141,0,adipose,test
+83663,4,mucus,test
+54675,4,mucus,test
+11850,1,background,test
+52744,0,adipose,test
+85495,6,normal colon mucosa,test
+20194,4,mucus,test
+20510,5,smooth muscle,test
+423,1,background,test
+65335,5,smooth muscle,test
+26201,8,colorectal adenocarcinoma epithelium,test
+87747,8,colorectal adenocarcinoma epithelium,test
+6849,0,adipose,test
+2796,7,cancer-associated stroma,test
+78334,3,lymphocytes,test
+81776,5,smooth muscle,test
+25758,0,adipose,test
+3992,5,smooth muscle,test
+13252,0,adipose,test
+44858,7,cancer-associated stroma,test
+33638,4,mucus,test
+29596,7,cancer-associated stroma,test
+79782,3,lymphocytes,test
+55986,0,adipose,test
+33044,8,colorectal adenocarcinoma epithelium,test
+29932,5,smooth muscle,test
+29986,4,mucus,test
+40454,3,lymphocytes,test
+24149,2,debris,test
+12560,7,cancer-associated stroma,test
+80815,8,colorectal adenocarcinoma epithelium,test
+49131,3,lymphocytes,test
+52958,6,normal colon mucosa,test
+50297,7,cancer-associated stroma,test
+26493,8,colorectal adenocarcinoma epithelium,test
+23937,1,background,test
+41984,2,debris,test
+82492,3,lymphocytes,test
+55859,8,colorectal adenocarcinoma epithelium,test
+80024,5,smooth muscle,test
+55874,8,colorectal adenocarcinoma epithelium,test
+52830,2,debris,test
+2829,5,smooth muscle,test
+36010,1,background,test
+27068,1,background,test
+18690,0,adipose,test
+48160,5,smooth muscle,test
+10895,5,smooth muscle,test
+7674,5,smooth muscle,test
+3413,8,colorectal adenocarcinoma epithelium,test
+44913,5,smooth muscle,test
+62036,8,colorectal adenocarcinoma epithelium,test
+39631,6,normal colon mucosa,test
+2736,7,cancer-associated stroma,test
+82775,2,debris,test
+6831,2,debris,test
+77684,1,background,test
+81071,6,normal colon mucosa,test
+78372,2,debris,test
+24578,4,mucus,test
+9823,3,lymphocytes,test
+53543,1,background,test
+5285,4,mucus,test
+7971,0,adipose,test
+32968,1,background,test
+5220,3,lymphocytes,test
+27499,7,cancer-associated stroma,test
+39883,1,background,test
+3360,8,colorectal adenocarcinoma epithelium,test
+77216,7,cancer-associated stroma,test
+7164,3,lymphocytes,test
+58387,3,lymphocytes,test
+54271,0,adipose,test
+74946,8,colorectal adenocarcinoma epithelium,test
+66405,8,colorectal adenocarcinoma epithelium,test
+64558,5,smooth muscle,test
+21317,8,colorectal adenocarcinoma epithelium,test
+40847,5,smooth muscle,test
+42764,6,normal colon mucosa,test
+3152,3,lymphocytes,test
+46934,3,lymphocytes,test
+54227,1,background,test
+23199,5,smooth muscle,test
+31814,7,cancer-associated stroma,test
+36407,1,background,test
+1821,6,normal colon mucosa,test
+75895,5,smooth muscle,test
+78533,8,colorectal adenocarcinoma epithelium,test
+76158,4,mucus,test
+44374,7,cancer-associated stroma,test
+13215,2,debris,test
+4777,7,cancer-associated stroma,test
+79767,7,cancer-associated stroma,test
+62080,4,mucus,test
+70902,0,adipose,test
+30420,0,adipose,test
+59899,0,adipose,test
+85170,7,cancer-associated stroma,test
+3192,4,mucus,test
+74964,0,adipose,test
+59295,3,lymphocytes,test
+46835,4,mucus,test
+10505,6,normal colon mucosa,test
+32429,8,colorectal adenocarcinoma epithelium,test
+41561,8,colorectal adenocarcinoma epithelium,test
+19245,6,normal colon mucosa,test
+59055,7,cancer-associated stroma,test
+14862,8,colorectal adenocarcinoma epithelium,test
+59785,1,background,test
+43443,5,smooth muscle,test
+13769,8,colorectal adenocarcinoma epithelium,test
+65520,6,normal colon mucosa,test
+56355,1,background,test
+89498,2,debris,test
+32085,3,lymphocytes,test
+13777,0,adipose,test
+17899,0,adipose,test
+53838,4,mucus,test
+32060,2,debris,test
+52144,4,mucus,test
+79518,8,colorectal adenocarcinoma epithelium,test
+54275,1,background,test
+80181,5,smooth muscle,test
+4122,3,lymphocytes,test
+82618,5,smooth muscle,test
+2051,6,normal colon mucosa,test
+33366,1,background,test
+78527,2,debris,test
+76849,4,mucus,test
+74026,5,smooth muscle,test
+1575,8,colorectal adenocarcinoma epithelium,test
+38502,6,normal colon mucosa,test
+34846,7,cancer-associated stroma,test
+64434,2,debris,test
+27259,2,debris,test
+20045,7,cancer-associated stroma,test
+63590,2,debris,test
+20572,1,background,test
+85914,0,adipose,test
+57255,3,lymphocytes,test
+10318,2,debris,test
+4134,2,debris,test
+57256,6,normal colon mucosa,test
+5715,4,mucus,test
+73510,2,debris,test
+74845,2,debris,test
+69594,8,colorectal adenocarcinoma epithelium,test
+75046,1,background,test
+60355,6,normal colon mucosa,test
+24922,8,colorectal adenocarcinoma epithelium,test
+59815,3,lymphocytes,test
+308,3,lymphocytes,test
+76484,7,cancer-associated stroma,test
+54492,8,colorectal adenocarcinoma epithelium,test
+28991,3,lymphocytes,test
+53447,5,smooth muscle,test
+1503,1,background,test
+36313,8,colorectal adenocarcinoma epithelium,test
+10315,1,background,test
+65891,2,debris,test
+1465,0,adipose,test
+27655,4,mucus,test
+44695,5,smooth muscle,test
+8494,3,lymphocytes,test
+19340,6,normal colon mucosa,test
+67665,3,lymphocytes,test
+76234,2,debris,test
+1906,8,colorectal adenocarcinoma epithelium,test
+18785,6,normal colon mucosa,test
+8591,4,mucus,test
+2691,3,lymphocytes,test
+83736,5,smooth muscle,test
+71924,7,cancer-associated stroma,test
+52746,2,debris,test
+38016,5,smooth muscle,test
+34391,2,debris,test
+54671,5,smooth muscle,test
+243,2,debris,test
+86781,3,lymphocytes,test
+18631,8,colorectal adenocarcinoma epithelium,test
+11535,7,cancer-associated stroma,test
+70076,7,cancer-associated stroma,test
+8955,1,background,test
+28068,3,lymphocytes,test
+56535,8,colorectal adenocarcinoma epithelium,test
+46423,0,adipose,test
+26438,6,normal colon mucosa,test
+12225,0,adipose,test
+2093,4,mucus,test
+31782,7,cancer-associated stroma,test
+79408,6,normal colon mucosa,test
+70889,6,normal colon mucosa,test
+2667,1,background,test
+89227,5,smooth muscle,test
+54567,0,adipose,test
+7613,7,cancer-associated stroma,test
+43643,5,smooth muscle,test
+75485,0,adipose,test
+41262,2,debris,test
+34963,6,normal colon mucosa,test
+49619,8,colorectal adenocarcinoma epithelium,test
+75057,1,background,test
+85862,7,cancer-associated stroma,test
+3777,8,colorectal adenocarcinoma epithelium,test
+44711,0,adipose,test
+76435,4,mucus,test
+40435,7,cancer-associated stroma,test
+65713,2,debris,test
+1303,1,background,test
+31147,5,smooth muscle,test
+21849,1,background,test
+4590,8,colorectal adenocarcinoma epithelium,test
+86674,4,mucus,test
+25039,5,smooth muscle,test
+61916,5,smooth muscle,test
+65686,0,adipose,test
+982,6,normal colon mucosa,test
+34017,3,lymphocytes,test
+803,3,lymphocytes,test
+22489,5,smooth muscle,test
+69207,3,lymphocytes,test
+8082,3,lymphocytes,test
+14795,1,background,test
+10238,8,colorectal adenocarcinoma epithelium,test
+16296,3,lymphocytes,test
+8759,3,lymphocytes,test
+52353,2,debris,test
+48557,1,background,test
+52949,7,cancer-associated stroma,test
+36801,0,adipose,test
+53498,3,lymphocytes,test
+45154,2,debris,test
+13529,8,colorectal adenocarcinoma epithelium,test
+72350,1,background,test
+45875,5,smooth muscle,test
+67283,8,colorectal adenocarcinoma epithelium,test
+56430,5,smooth muscle,test
+33242,3,lymphocytes,test
+39868,2,debris,test
+5122,2,debris,test
+52,0,adipose,test
+74056,5,smooth muscle,test
+51488,7,cancer-associated stroma,test
+56480,2,debris,test
+1837,3,lymphocytes,test
+45194,8,colorectal adenocarcinoma epithelium,test
+76825,0,adipose,test
+63052,2,debris,test
+4724,3,lymphocytes,test
+27899,5,smooth muscle,test
+80349,3,lymphocytes,test
+7593,6,normal colon mucosa,test
+57564,4,mucus,test
+87814,7,cancer-associated stroma,test
+65117,6,normal colon mucosa,test
+25901,5,smooth muscle,test
+89038,5,smooth muscle,test
+3882,2,debris,test
+66252,2,debris,test
+58706,8,colorectal adenocarcinoma epithelium,test
+29435,6,normal colon mucosa,test
+31230,3,lymphocytes,test
+83896,2,debris,test
+3766,2,debris,test
+86943,3,lymphocytes,test
+11730,2,debris,test
+7679,0,adipose,test
+16538,7,cancer-associated stroma,test
+28105,7,cancer-associated stroma,test
+45172,3,lymphocytes,test
+46968,7,cancer-associated stroma,test
+81053,6,normal colon mucosa,test
+66552,8,colorectal adenocarcinoma epithelium,test
+34556,4,mucus,test
+10147,2,debris,test
+486,3,lymphocytes,test
+62916,2,debris,test
+69217,7,cancer-associated stroma,test
+40554,1,background,test
+21774,8,colorectal adenocarcinoma epithelium,test
+2933,1,background,test
+67408,4,mucus,test
+7646,7,cancer-associated stroma,test
+13318,2,debris,test
+48796,3,lymphocytes,test
+85716,2,debris,test
+74890,7,cancer-associated stroma,test
+38154,8,colorectal adenocarcinoma epithelium,test
+40452,4,mucus,test
+29169,3,lymphocytes,test
+86140,8,colorectal adenocarcinoma epithelium,test
+43715,5,smooth muscle,test
+75655,3,lymphocytes,test
+9044,7,cancer-associated stroma,test
+86246,6,normal colon mucosa,test
+4879,1,background,test
+1958,8,colorectal adenocarcinoma epithelium,test
+21509,7,cancer-associated stroma,test
+52622,5,smooth muscle,test
+40136,0,adipose,test
+78150,7,cancer-associated stroma,test
+2861,4,mucus,test
+66169,5,smooth muscle,test
+64104,7,cancer-associated stroma,test
+49666,4,mucus,test
+2328,8,colorectal adenocarcinoma epithelium,test
+6145,6,normal colon mucosa,test
+31949,5,smooth muscle,test
+29460,0,adipose,test
+37195,0,adipose,test
+3170,1,background,test
+24335,3,lymphocytes,test
+16079,3,lymphocytes,test
+62683,3,lymphocytes,test
+68339,8,colorectal adenocarcinoma epithelium,test
+8214,3,lymphocytes,test
+60428,5,smooth muscle,test
+22846,4,mucus,test
+39198,5,smooth muscle,test
+42571,2,debris,test
+80645,5,smooth muscle,test
+9876,5,smooth muscle,test
+7783,3,lymphocytes,test
+67292,0,adipose,test
+6758,8,colorectal adenocarcinoma epithelium,test
+40252,4,mucus,test
+872,2,debris,test
+89413,4,mucus,test
+38962,1,background,test
+85053,6,normal colon mucosa,test
+42969,5,smooth muscle,test
+3695,3,lymphocytes,test
+12884,6,normal colon mucosa,test
+42895,7,cancer-associated stroma,test
+79202,3,lymphocytes,test
+16635,6,normal colon mucosa,test
+23313,4,mucus,test
+23796,5,smooth muscle,test
+71440,8,colorectal adenocarcinoma epithelium,test
+42240,3,lymphocytes,test
+3213,1,background,test
+40591,8,colorectal adenocarcinoma epithelium,test
+4338,3,lymphocytes,test
+64067,2,debris,test
+25583,3,lymphocytes,test
+2556,7,cancer-associated stroma,test
+17405,2,debris,test
+38575,7,cancer-associated stroma,test
+1597,3,lymphocytes,test
+3682,7,cancer-associated stroma,test
+85918,3,lymphocytes,test
+1183,1,background,test
+15416,0,adipose,test
+60060,6,normal colon mucosa,test
+7955,8,colorectal adenocarcinoma epithelium,test
+87364,5,smooth muscle,test
+5677,3,lymphocytes,test
+1147,2,debris,test
+58675,4,mucus,test
+29488,7,cancer-associated stroma,test
+79650,3,lymphocytes,test
+38997,1,background,test
+7807,5,smooth muscle,test
+83539,8,colorectal adenocarcinoma epithelium,test
+34374,3,lymphocytes,test
+1561,1,background,test
+53909,1,background,test
+48278,2,debris,test
+13767,7,cancer-associated stroma,test
+76918,0,adipose,test
+66625,6,normal colon mucosa,test
+59173,1,background,test
+38761,3,lymphocytes,test
+57983,7,cancer-associated stroma,test
+959,5,smooth muscle,test
+80626,5,smooth muscle,test
+395,4,mucus,test
+2132,5,smooth muscle,test
+42361,7,cancer-associated stroma,test
+51102,3,lymphocytes,test
+19420,0,adipose,test
+39477,8,colorectal adenocarcinoma epithelium,test
+42762,2,debris,test
+87643,2,debris,test
+601,2,debris,test
+49909,1,background,test
+81032,0,adipose,test
+67488,1,background,test
+39923,5,smooth muscle,test
+24541,6,normal colon mucosa,test
+48543,2,debris,test
+8021,3,lymphocytes,test
+86284,7,cancer-associated stroma,test
+48981,2,debris,test
+62536,4,mucus,test
+4560,0,adipose,test
+30762,0,adipose,test
+54723,7,cancer-associated stroma,test
+84874,2,debris,test
+84796,6,normal colon mucosa,test
+87038,5,smooth muscle,test
+53118,3,lymphocytes,test
+12800,7,cancer-associated stroma,test
+85541,5,smooth muscle,test
+6746,8,colorectal adenocarcinoma epithelium,test
+23350,5,smooth muscle,test
+3818,8,colorectal adenocarcinoma epithelium,test
+6791,0,adipose,test
+71939,6,normal colon mucosa,test
+54502,5,smooth muscle,test
+85117,4,mucus,test
+75305,1,background,test
+41438,8,colorectal adenocarcinoma epithelium,test
+2725,0,adipose,test
+28843,3,lymphocytes,test
+29023,5,smooth muscle,test
+35491,6,normal colon mucosa,test
+82836,1,background,test
+8376,2,debris,test
+298,7,cancer-associated stroma,test
+82789,5,smooth muscle,test
+18529,4,mucus,test
+67721,6,normal colon mucosa,test
+87756,4,mucus,test
+48156,1,background,test
+69856,2,debris,test
+6409,5,smooth muscle,test
+84330,5,smooth muscle,test
+69114,3,lymphocytes,test
+4797,1,background,test
+62134,8,colorectal adenocarcinoma epithelium,test
+34508,0,adipose,test
+2860,5,smooth muscle,test
+87798,8,colorectal adenocarcinoma epithelium,test
+51013,3,lymphocytes,test
+2842,7,cancer-associated stroma,test
+12827,3,lymphocytes,test
+6627,5,smooth muscle,test
+49507,1,background,test
+58093,0,adipose,test
+81533,4,mucus,test
+1484,2,debris,test
+70657,8,colorectal adenocarcinoma epithelium,test
+52372,8,colorectal adenocarcinoma epithelium,test
+2458,6,normal colon mucosa,test
+52888,2,debris,test
+24628,1,background,test
+39364,2,debris,test
+83821,4,mucus,test
+5066,5,smooth muscle,test
+7148,2,debris,test
+34441,6,normal colon mucosa,test
+8527,5,smooth muscle,test
+43368,6,normal colon mucosa,test
+4462,2,debris,test
+102,8,colorectal adenocarcinoma epithelium,test
+42692,1,background,test
+368,3,lymphocytes,test
+1013,4,mucus,test
+59087,1,background,test
+61559,3,lymphocytes,test
+53615,8,colorectal adenocarcinoma epithelium,test
+58332,6,normal colon mucosa,test
+565,4,mucus,test
+88563,8,colorectal adenocarcinoma epithelium,test
+6217,6,normal colon mucosa,test
+50525,1,background,test
+10951,2,debris,test
+69149,3,lymphocytes,test
+68385,2,debris,test
+68444,8,colorectal adenocarcinoma epithelium,test
+6191,2,debris,test
+69652,7,cancer-associated stroma,test
+57766,7,cancer-associated stroma,test
+54170,0,adipose,test
+71903,8,colorectal adenocarcinoma epithelium,test
+81509,4,mucus,test
+5780,3,lymphocytes,test
+81476,2,debris,test
+2776,8,colorectal adenocarcinoma epithelium,test
+74539,5,smooth muscle,test
+23897,3,lymphocytes,test
+51192,0,adipose,test
+4379,7,cancer-associated stroma,test
+18386,5,smooth muscle,test
+75083,6,normal colon mucosa,test
+46145,3,lymphocytes,test
+79680,4,mucus,test
+12809,3,lymphocytes,test
+54617,0,adipose,test
+25399,4,mucus,test
+74753,6,normal colon mucosa,test
+40877,5,smooth muscle,test
+78162,3,lymphocytes,test
+14750,7,cancer-associated stroma,test
+65174,6,normal colon mucosa,test
+6349,1,background,test
+34502,8,colorectal adenocarcinoma epithelium,test
+49742,1,background,test
+22894,5,smooth muscle,test
+6895,8,colorectal adenocarcinoma epithelium,test
+4007,5,smooth muscle,test
+6402,6,normal colon mucosa,test
+77473,3,lymphocytes,test
+41519,5,smooth muscle,test
+11612,4,mucus,test
+40288,1,background,test
+87188,5,smooth muscle,test
+26411,8,colorectal adenocarcinoma epithelium,test
+10163,0,adipose,test
+39327,5,smooth muscle,test
+9119,7,cancer-associated stroma,test
+5318,2,debris,test
+53089,0,adipose,test
+44583,2,debris,test
+63682,4,mucus,test
+53767,6,normal colon mucosa,test
+50887,1,background,test
+55278,3,lymphocytes,test
+31281,7,cancer-associated stroma,test
+11136,7,cancer-associated stroma,test
+15000,2,debris,test
+47334,5,smooth muscle,test
+8139,0,adipose,test
+74649,4,mucus,test
+37588,8,colorectal adenocarcinoma epithelium,test
+2685,0,adipose,test
+79382,5,smooth muscle,test
+45507,7,cancer-associated stroma,test
+63915,8,colorectal adenocarcinoma epithelium,test
+29024,8,colorectal adenocarcinoma epithelium,test
+1669,0,adipose,test
+5815,5,smooth muscle,test
+50376,1,background,test
+35300,2,debris,test
+34241,6,normal colon mucosa,test
+68326,7,cancer-associated stroma,test
+25682,7,cancer-associated stroma,test
+9258,8,colorectal adenocarcinoma epithelium,test
+27995,5,smooth muscle,test
+50558,4,mucus,test
+88013,5,smooth muscle,test
+4161,4,mucus,test
+47598,3,lymphocytes,test
+19055,3,lymphocytes,test
+51061,5,smooth muscle,test
+38335,7,cancer-associated stroma,test
+23186,5,smooth muscle,test
+8828,3,lymphocytes,test
+86672,0,adipose,test
+69496,4,mucus,test
+1836,1,background,test
+51600,4,mucus,test
+41620,8,colorectal adenocarcinoma epithelium,test
+16775,5,smooth muscle,test
+66384,5,smooth muscle,test
+1187,3,lymphocytes,test
+8607,8,colorectal adenocarcinoma epithelium,test
+78920,6,normal colon mucosa,test
+64347,1,background,test
+70056,4,mucus,test
+68479,8,colorectal adenocarcinoma epithelium,test
+3488,7,cancer-associated stroma,test
+25154,2,debris,test
+14610,6,normal colon mucosa,test
+2524,0,adipose,test
+47313,2,debris,test
+10477,8,colorectal adenocarcinoma epithelium,test
+30047,6,normal colon mucosa,test
+44427,2,debris,test
+43481,3,lymphocytes,test
+22929,1,background,test
+1268,5,smooth muscle,test
+13235,5,smooth muscle,test
+11480,4,mucus,test
+1959,4,mucus,test
+83328,3,lymphocytes,test
+87587,3,lymphocytes,test
+67495,0,adipose,test
+1694,1,background,test
+7471,2,debris,test
+83676,0,adipose,test
+39880,5,smooth muscle,test
+21777,0,adipose,test
+70890,8,colorectal adenocarcinoma epithelium,test
+59996,5,smooth muscle,test
+82022,7,cancer-associated stroma,test
+32875,2,debris,test
+8015,2,debris,test
+63129,8,colorectal adenocarcinoma epithelium,test
+78291,7,cancer-associated stroma,test
+87612,4,mucus,test
+79720,1,background,test
+2125,0,adipose,test
+36874,0,adipose,test
+15528,8,colorectal adenocarcinoma epithelium,test
+64496,2,debris,test
+42215,3,lymphocytes,test
+62587,1,background,test
+1987,4,mucus,test
+57268,8,colorectal adenocarcinoma epithelium,test
+7581,4,mucus,test
+34619,1,background,test
+55760,6,normal colon mucosa,test
+8901,5,smooth muscle,test
+39731,6,normal colon mucosa,test
+23978,2,debris,test
+89476,3,lymphocytes,test
+79054,5,smooth muscle,test
+3732,8,colorectal adenocarcinoma epithelium,test
+21023,8,colorectal adenocarcinoma epithelium,test
+48781,3,lymphocytes,test
+75033,0,adipose,test
+64549,4,mucus,test
+37052,5,smooth muscle,test
+73015,0,adipose,test
+69418,8,colorectal adenocarcinoma epithelium,test
+2467,3,lymphocytes,test
+64651,1,background,test
+7869,7,cancer-associated stroma,test
+5438,8,colorectal adenocarcinoma epithelium,test
+6823,5,smooth muscle,test
+8377,1,background,test
+48246,7,cancer-associated stroma,test
+76120,5,smooth muscle,test
+14675,6,normal colon mucosa,test
+46259,2,debris,test
+59207,1,background,test
+36346,1,background,test
+67501,3,lymphocytes,test
+70599,6,normal colon mucosa,test
+18593,7,cancer-associated stroma,test
+65739,1,background,test
+24103,3,lymphocytes,test
+62481,7,cancer-associated stroma,test
+46209,8,colorectal adenocarcinoma epithelium,test
+27768,2,debris,test
+56538,3,lymphocytes,test
+60439,1,background,test
+70380,7,cancer-associated stroma,test
+68694,4,mucus,test
+3039,5,smooth muscle,test
+40702,8,colorectal adenocarcinoma epithelium,test
+60489,8,colorectal adenocarcinoma epithelium,test
+67531,1,background,test
+33725,7,cancer-associated stroma,test
+63434,8,colorectal adenocarcinoma epithelium,test
+62677,4,mucus,test
+5756,1,background,test
+4156,4,mucus,test
+43876,0,adipose,test
+7226,7,cancer-associated stroma,test
+53829,5,smooth muscle,test
+74671,4,mucus,test
+16214,4,mucus,test
+6716,3,lymphocytes,test
+48315,5,smooth muscle,test
+35814,0,adipose,test
+12961,2,debris,test
+69704,6,normal colon mucosa,test
+8521,1,background,test
+87009,8,colorectal adenocarcinoma epithelium,test
+13205,4,mucus,test
+68794,4,mucus,test
+64659,7,cancer-associated stroma,test
+73387,3,lymphocytes,test
+6392,0,adipose,test
+45712,2,debris,test
+3584,6,normal colon mucosa,test
+45148,1,background,test
+70891,8,colorectal adenocarcinoma epithelium,test
+15946,3,lymphocytes,test
+86642,8,colorectal adenocarcinoma epithelium,test
+60559,6,normal colon mucosa,test
+34954,5,smooth muscle,test
+42986,8,colorectal adenocarcinoma epithelium,test
+18704,4,mucus,test
+46101,2,debris,test
+17842,4,mucus,test
+58234,6,normal colon mucosa,test
+68963,1,background,test
+4554,5,smooth muscle,test
+83300,3,lymphocytes,test
+62828,5,smooth muscle,test
+35007,1,background,test
+2608,3,lymphocytes,test
+54218,7,cancer-associated stroma,test
+18208,2,debris,test
+79574,4,mucus,test
+6149,0,adipose,test
+68099,7,cancer-associated stroma,test
+37102,8,colorectal adenocarcinoma epithelium,test
+39661,5,smooth muscle,test
+55041,8,colorectal adenocarcinoma epithelium,test
+55280,5,smooth muscle,test
+3485,5,smooth muscle,test
+37516,5,smooth muscle,test
+7354,7,cancer-associated stroma,test
+88238,4,mucus,test
+64001,6,normal colon mucosa,test
+63155,5,smooth muscle,test
+70656,1,background,test
+71523,2,debris,test
+2432,1,background,test
+1348,6,normal colon mucosa,test
+62093,4,mucus,test
+9929,4,mucus,test
+75012,5,smooth muscle,test
+18774,1,background,test
+87297,8,colorectal adenocarcinoma epithelium,test
+60094,1,background,test
+89863,7,cancer-associated stroma,test
+53595,1,background,test
+4372,8,colorectal adenocarcinoma epithelium,test
+30926,3,lymphocytes,test
+904,7,cancer-associated stroma,test
+22527,5,smooth muscle,test
+63758,6,normal colon mucosa,test
+39116,7,cancer-associated stroma,test
+3385,3,lymphocytes,test
+34573,2,debris,test
+8356,6,normal colon mucosa,test
+30779,5,smooth muscle,test
+49781,1,background,test
+5680,4,mucus,test
+27755,1,background,test
+47242,7,cancer-associated stroma,test
+63972,8,colorectal adenocarcinoma epithelium,test
+1560,0,adipose,test
+61220,8,colorectal adenocarcinoma epithelium,test
+60986,2,debris,test
+9852,7,cancer-associated stroma,test
+28365,6,normal colon mucosa,test
+56270,1,background,test
+25723,8,colorectal adenocarcinoma epithelium,test
+2935,3,lymphocytes,test
+86549,8,colorectal adenocarcinoma epithelium,test
+65848,2,debris,test
+54330,7,cancer-associated stroma,test
+42073,4,mucus,test
+76516,2,debris,test
+88654,8,colorectal adenocarcinoma epithelium,test
+67483,4,mucus,test
+13229,7,cancer-associated stroma,test
+2453,4,mucus,test
+48249,7,cancer-associated stroma,test
+3663,0,adipose,test
+7155,7,cancer-associated stroma,test
+11570,7,cancer-associated stroma,test
+70949,6,normal colon mucosa,test
+3209,2,debris,test
+85591,5,smooth muscle,test
+11359,1,background,test
+13950,0,adipose,test
+59847,3,lymphocytes,test
+44241,5,smooth muscle,test
+56117,2,debris,test
+2134,6,normal colon mucosa,test
+69900,3,lymphocytes,test
+61528,8,colorectal adenocarcinoma epithelium,test
+75571,8,colorectal adenocarcinoma epithelium,test
+1561,7,cancer-associated stroma,test
+66225,2,debris,test
+66120,3,lymphocytes,test
+2747,2,debris,test
+53464,1,background,test
+39552,8,colorectal adenocarcinoma epithelium,test
+88080,8,colorectal adenocarcinoma epithelium,test
+83494,4,mucus,test
+1757,7,cancer-associated stroma,test
+39657,0,adipose,test
+53503,2,debris,test
+61471,5,smooth muscle,test
+84350,5,smooth muscle,test
+2517,3,lymphocytes,test
+82015,6,normal colon mucosa,test
+54740,5,smooth muscle,test
+47927,2,debris,test
+74975,7,cancer-associated stroma,test
+76230,2,debris,test
+47061,0,adipose,test
+86469,2,debris,test
+33653,8,colorectal adenocarcinoma epithelium,test
+42992,5,smooth muscle,test
+5711,1,background,test
+1144,1,background,test
+59302,7,cancer-associated stroma,test
+74583,5,smooth muscle,test
+34030,4,mucus,test
+10941,7,cancer-associated stroma,test
+44844,3,lymphocytes,test
+6524,2,debris,test
+22749,5,smooth muscle,test
+40052,8,colorectal adenocarcinoma epithelium,test
+54417,3,lymphocytes,test
+1710,4,mucus,test
+36526,1,background,test
+85519,5,smooth muscle,test
+3051,6,normal colon mucosa,test
+61666,0,adipose,test
+41491,8,colorectal adenocarcinoma epithelium,test
+89068,5,smooth muscle,test
+27359,2,debris,test
+27450,8,colorectal adenocarcinoma epithelium,test
+60976,7,cancer-associated stroma,test
+1638,4,mucus,test
+72414,5,smooth muscle,test
+35525,1,background,test
+17486,5,smooth muscle,test
+675,2,debris,test
+46557,3,lymphocytes,test
+25198,3,lymphocytes,test
+24744,8,colorectal adenocarcinoma epithelium,test
+22239,2,debris,test
+47320,2,debris,test
+79401,2,debris,test
+76818,7,cancer-associated stroma,test
+42139,5,smooth muscle,test
+86951,0,adipose,test
+80409,8,colorectal adenocarcinoma epithelium,test
+3556,8,colorectal adenocarcinoma epithelium,test
+1985,6,normal colon mucosa,test
+3665,8,colorectal adenocarcinoma epithelium,test
+71678,0,adipose,test
+74840,5,smooth muscle,test
+11742,7,cancer-associated stroma,test
+9582,2,debris,test
+71551,5,smooth muscle,test
+29096,5,smooth muscle,test
+5505,4,mucus,test
+14072,8,colorectal adenocarcinoma epithelium,test
+5926,0,adipose,test
+59688,5,smooth muscle,test
+16,5,smooth muscle,test
+89682,2,debris,test
+23471,2,debris,test
+53646,8,colorectal adenocarcinoma epithelium,test
+24694,6,normal colon mucosa,test
+16343,1,background,test
+15059,8,colorectal adenocarcinoma epithelium,test
+625,5,smooth muscle,test
+89434,0,adipose,test
+9819,4,mucus,test
+20066,0,adipose,test
+64191,7,cancer-associated stroma,test
+11666,3,lymphocytes,test
+56808,0,adipose,test
+18457,8,colorectal adenocarcinoma epithelium,test
+89848,0,adipose,test
+45072,0,adipose,test
+34114,8,colorectal adenocarcinoma epithelium,test
+5999,3,lymphocytes,test
+74628,8,colorectal adenocarcinoma epithelium,test
+33472,8,colorectal adenocarcinoma epithelium,test
+53675,7,cancer-associated stroma,test
+48364,0,adipose,test
+53176,2,debris,test
+9257,4,mucus,test
+83129,1,background,test
+84833,5,smooth muscle,test
+15523,1,background,test
+89300,5,smooth muscle,test
+23687,4,mucus,test
+828,6,normal colon mucosa,test
+89665,5,smooth muscle,test
+45713,6,normal colon mucosa,test
+39562,2,debris,test
+2000,1,background,test
+89509,8,colorectal adenocarcinoma epithelium,test
+331,1,background,test
+51385,4,mucus,test
+27176,8,colorectal adenocarcinoma epithelium,test
+53178,2,debris,test
+59474,2,debris,test
+38708,2,debris,test
+19210,2,debris,test
+72453,1,background,test
+68226,6,normal colon mucosa,test
+30737,4,mucus,test
+12352,2,debris,test
+34756,3,lymphocytes,test
+81250,2,debris,test
+64028,8,colorectal adenocarcinoma epithelium,test
+74001,5,smooth muscle,test
+16613,3,lymphocytes,test
+33229,5,smooth muscle,test
+3110,0,adipose,test
+7090,5,smooth muscle,test
+81486,5,smooth muscle,test
+3808,6,normal colon mucosa,test
+7132,5,smooth muscle,test
+51767,4,mucus,test
+532,0,adipose,test
+537,0,adipose,test
+10152,2,debris,test
+80155,8,colorectal adenocarcinoma epithelium,test
+9069,1,background,test
+2544,8,colorectal adenocarcinoma epithelium,test
+79008,5,smooth muscle,test
+1669,2,debris,test
+51451,4,mucus,test
+87561,2,debris,test
+48554,3,lymphocytes,test
+77299,7,cancer-associated stroma,test
+37437,5,smooth muscle,test
+20651,4,mucus,test
+68178,3,lymphocytes,test
+57527,6,normal colon mucosa,test
+72606,0,adipose,test
+84987,1,background,test
+27474,1,background,test
+26819,0,adipose,test
+43358,2,debris,test
+89642,3,lymphocytes,test
+80157,5,smooth muscle,test
+66091,1,background,test
+3253,7,cancer-associated stroma,test
+71295,8,colorectal adenocarcinoma epithelium,test
+52997,1,background,test
+87090,4,mucus,test
+3884,1,background,test
+22579,8,colorectal adenocarcinoma epithelium,test
+40475,6,normal colon mucosa,test
+71889,1,background,test
+48779,3,lymphocytes,test
+71309,0,adipose,test
+89330,3,lymphocytes,test
+7405,8,colorectal adenocarcinoma epithelium,test
+79818,6,normal colon mucosa,test
+47548,1,background,test
+75032,5,smooth muscle,test
+48477,3,lymphocytes,test
+31194,8,colorectal adenocarcinoma epithelium,test
+56524,5,smooth muscle,test
+52840,1,background,test
+50306,4,mucus,test
+39227,7,cancer-associated stroma,test
+17418,6,normal colon mucosa,test
+51538,6,normal colon mucosa,test
+34007,8,colorectal adenocarcinoma epithelium,test
+11806,6,normal colon mucosa,test
+60479,7,cancer-associated stroma,test
+31386,7,cancer-associated stroma,test
+25217,3,lymphocytes,test
+83677,0,adipose,test
+3278,5,smooth muscle,test
+72142,0,adipose,test
+12024,3,lymphocytes,test
+48213,0,adipose,test
+53676,1,background,test
+32650,0,adipose,test
+77604,1,background,test
+53187,3,lymphocytes,test
+79159,0,adipose,test
+62237,5,smooth muscle,test
+19978,0,adipose,test
+63249,4,mucus,test
+7068,4,mucus,test
+8820,3,lymphocytes,test
+20774,2,debris,test
+30507,3,lymphocytes,test
+86968,8,colorectal adenocarcinoma epithelium,test
+26921,2,debris,test
+39398,8,colorectal adenocarcinoma epithelium,test
+23340,2,debris,test
+65051,4,mucus,test
+835,1,background,test
+18262,0,adipose,test
+87614,8,colorectal adenocarcinoma epithelium,test
+84223,5,smooth muscle,test
+56174,3,lymphocytes,test
+10613,6,normal colon mucosa,test
+18653,6,normal colon mucosa,test
+46029,4,mucus,test
+65118,3,lymphocytes,test
+64674,3,lymphocytes,test
+89035,5,smooth muscle,test
+981,3,lymphocytes,test
+30937,6,normal colon mucosa,test
+35249,1,background,test
+8344,2,debris,test
+59734,2,debris,test
+74453,5,smooth muscle,test
+81421,0,adipose,test
+75961,0,adipose,test
+48055,6,normal colon mucosa,test
+83442,5,smooth muscle,test
+22603,0,adipose,test
+44186,8,colorectal adenocarcinoma epithelium,test
+75443,3,lymphocytes,test
+85546,6,normal colon mucosa,test
+6610,2,debris,test
+25602,2,debris,test
+45378,5,smooth muscle,test
+69933,7,cancer-associated stroma,test
+31613,2,debris,test
+45604,3,lymphocytes,test
+85088,3,lymphocytes,test
+61190,6,normal colon mucosa,test
+1690,7,cancer-associated stroma,test
+81474,2,debris,test
+14130,5,smooth muscle,test
+56778,6,normal colon mucosa,test
+68075,1,background,test
+38008,0,adipose,test
+23822,5,smooth muscle,test
+5343,5,smooth muscle,test
+44460,5,smooth muscle,test
+34793,4,mucus,test
+11245,8,colorectal adenocarcinoma epithelium,test
+42763,6,normal colon mucosa,test
+4113,0,adipose,test
+85006,2,debris,test
+198,0,adipose,test
+64777,2,debris,test
+65972,1,background,test
+36753,0,adipose,test
+2570,3,lymphocytes,test
+61975,6,normal colon mucosa,test
+26842,8,colorectal adenocarcinoma epithelium,test
+32159,2,debris,test
+70607,3,lymphocytes,test
+86078,5,smooth muscle,test
+3171,8,colorectal adenocarcinoma epithelium,test
+64646,5,smooth muscle,test
+74038,4,mucus,test
+67498,7,cancer-associated stroma,test
+40893,5,smooth muscle,test
+47437,8,colorectal adenocarcinoma epithelium,test
+75730,1,background,test
+42536,4,mucus,test
+1633,5,smooth muscle,test
+12922,8,colorectal adenocarcinoma epithelium,test
+6148,1,background,test
+20536,1,background,test
+27024,7,cancer-associated stroma,test
+5435,0,adipose,test
+34349,1,background,test
+6800,3,lymphocytes,test
+45549,3,lymphocytes,test
+42197,2,debris,test
+84772,7,cancer-associated stroma,test
+1769,8,colorectal adenocarcinoma epithelium,test
+33478,2,debris,test
+78197,5,smooth muscle,test
+30648,8,colorectal adenocarcinoma epithelium,test
+34787,6,normal colon mucosa,test
+57060,5,smooth muscle,test
+48087,4,mucus,test
+77133,6,normal colon mucosa,test
+77023,7,cancer-associated stroma,test
+1490,3,lymphocytes,test
+80886,0,adipose,test
+29092,0,adipose,test
+35452,1,background,test
+8331,3,lymphocytes,test
+58430,4,mucus,test
+59101,7,cancer-associated stroma,test
+56006,7,cancer-associated stroma,test
+69882,5,smooth muscle,test
+44904,1,background,test
+88371,7,cancer-associated stroma,test
+6765,7,cancer-associated stroma,test
+25319,5,smooth muscle,test
+64693,6,normal colon mucosa,test
+830,1,background,test
+77389,0,adipose,test
+6546,3,lymphocytes,test
+4921,5,smooth muscle,test
+69924,4,mucus,test
+2397,6,normal colon mucosa,test
+76976,2,debris,test
+51161,7,cancer-associated stroma,test
+9943,1,background,test
+4756,6,normal colon mucosa,test
+67039,5,smooth muscle,test
+577,4,mucus,test
+88828,0,adipose,test
+74033,7,cancer-associated stroma,test
+1574,7,cancer-associated stroma,test
+45432,5,smooth muscle,test
+62270,1,background,test
+32801,4,mucus,test
+9545,8,colorectal adenocarcinoma epithelium,test
+18843,4,mucus,test
+1735,8,colorectal adenocarcinoma epithelium,test
+62919,8,colorectal adenocarcinoma epithelium,test
+45938,5,smooth muscle,test
+34767,3,lymphocytes,test
+5341,8,colorectal adenocarcinoma epithelium,test
+70308,3,lymphocytes,test
+60151,2,debris,test
+49321,8,colorectal adenocarcinoma epithelium,test
+45765,2,debris,test
+52630,2,debris,test
+57203,6,normal colon mucosa,test
+67656,3,lymphocytes,test
+37459,5,smooth muscle,test
+63266,2,debris,test
+75774,0,adipose,test
+21152,8,colorectal adenocarcinoma epithelium,test
+34916,6,normal colon mucosa,test
+3270,8,colorectal adenocarcinoma epithelium,test
+62076,3,lymphocytes,test
+63305,4,mucus,test
+4461,0,adipose,test
+20707,0,adipose,test
+67471,6,normal colon mucosa,test
+48479,2,debris,test
+49079,5,smooth muscle,test
+46476,3,lymphocytes,test
+6376,3,lymphocytes,test
+21232,1,background,test
+22735,6,normal colon mucosa,test
+29104,2,debris,test
+83801,8,colorectal adenocarcinoma epithelium,test
+25755,8,colorectal adenocarcinoma epithelium,test
+5545,2,debris,test
+4340,5,smooth muscle,test
+3255,4,mucus,test
+81372,8,colorectal adenocarcinoma epithelium,test
+46923,5,smooth muscle,test
+25812,8,colorectal adenocarcinoma epithelium,test
+42765,2,debris,test
+42193,3,lymphocytes,test
+49171,0,adipose,test
+69754,6,normal colon mucosa,test
+65768,1,background,test
+11656,7,cancer-associated stroma,test
+71234,8,colorectal adenocarcinoma epithelium,test
+26832,5,smooth muscle,test
+32079,1,background,test
+35887,0,adipose,test
+18700,1,background,test
+55020,6,normal colon mucosa,test
+43379,6,normal colon mucosa,test
+47090,2,debris,test
+2902,6,normal colon mucosa,test
+19574,2,debris,test
+54192,0,adipose,test
+51944,5,smooth muscle,test
+27751,5,smooth muscle,test
+86157,8,colorectal adenocarcinoma epithelium,test
+49,2,debris,test
+74491,8,colorectal adenocarcinoma epithelium,test
+8923,2,debris,test
+63772,7,cancer-associated stroma,test
+77070,0,adipose,test
+45174,3,lymphocytes,test
+85015,4,mucus,test
+2611,8,colorectal adenocarcinoma epithelium,test
+2490,3,lymphocytes,test
+2034,1,background,test
+29613,6,normal colon mucosa,test
+19414,3,lymphocytes,test
+48221,3,lymphocytes,test
+68606,7,cancer-associated stroma,test
+7660,4,mucus,test
+51649,8,colorectal adenocarcinoma epithelium,test
+10356,0,adipose,test
+9773,0,adipose,test
+68654,3,lymphocytes,test
+1119,3,lymphocytes,test
+50542,0,adipose,test
+9501,3,lymphocytes,test
+48901,7,cancer-associated stroma,test
+51410,6,normal colon mucosa,test
+72786,3,lymphocytes,test
+79053,0,adipose,test
+66955,7,cancer-associated stroma,test
+53613,0,adipose,test
+39663,3,lymphocytes,test
+9471,6,normal colon mucosa,test
+7615,5,smooth muscle,test
+12994,5,smooth muscle,test
+26214,7,cancer-associated stroma,test
+61766,4,mucus,test
+35331,5,smooth muscle,test
+21248,8,colorectal adenocarcinoma epithelium,test
+89937,8,colorectal adenocarcinoma epithelium,test
+63296,2,debris,test
+53437,5,smooth muscle,test
+75031,3,lymphocytes,test
+67197,0,adipose,test
+78452,3,lymphocytes,test
+16,7,cancer-associated stroma,test
+59324,8,colorectal adenocarcinoma epithelium,test
+83649,3,lymphocytes,test
+41102,6,normal colon mucosa,test
+2361,0,adipose,test
+49023,3,lymphocytes,test
+58277,8,colorectal adenocarcinoma epithelium,test
+80092,7,cancer-associated stroma,test
+56863,2,debris,test
+87711,1,background,test
+25735,6,normal colon mucosa,test
+2811,3,lymphocytes,test
+54638,4,mucus,test
+20347,5,smooth muscle,test
+5286,1,background,test
+21297,2,debris,test
+12927,8,colorectal adenocarcinoma epithelium,test
+58829,3,lymphocytes,test
+3241,2,debris,test
+13358,1,background,test
+36962,6,normal colon mucosa,test
+71748,0,adipose,test
+36610,7,cancer-associated stroma,test
+3301,3,lymphocytes,test
+3228,1,background,test
+6943,3,lymphocytes,test
+39479,6,normal colon mucosa,test
+53040,6,normal colon mucosa,test
+68520,0,adipose,test
+9870,2,debris,test
+22760,6,normal colon mucosa,test
+29819,8,colorectal adenocarcinoma epithelium,test
+1416,8,colorectal adenocarcinoma epithelium,test
+14554,6,normal colon mucosa,test
+62598,7,cancer-associated stroma,test
+22590,4,mucus,test
+20809,2,debris,test
+19776,6,normal colon mucosa,test
+63759,5,smooth muscle,test
+16584,4,mucus,test
+62345,3,lymphocytes,test
+21081,8,colorectal adenocarcinoma epithelium,test
+43484,8,colorectal adenocarcinoma epithelium,test
+24778,2,debris,test
+81709,2,debris,test
+40986,2,debris,test
+70635,6,normal colon mucosa,test
+74795,2,debris,test
+21457,8,colorectal adenocarcinoma epithelium,test
+70402,7,cancer-associated stroma,test
+50677,3,lymphocytes,test
+28364,1,background,test
+25995,0,adipose,test
+28538,5,smooth muscle,test
+75466,7,cancer-associated stroma,test
+3152,8,colorectal adenocarcinoma epithelium,test
+30870,7,cancer-associated stroma,test
+43284,8,colorectal adenocarcinoma epithelium,test
+61982,8,colorectal adenocarcinoma epithelium,test
+57729,3,lymphocytes,test
+11464,6,normal colon mucosa,test
+14941,7,cancer-associated stroma,test
+6541,2,debris,test
+76679,6,normal colon mucosa,test
+13523,0,adipose,test
+56874,2,debris,test
+20819,2,debris,test
+56662,1,background,test
+4271,6,normal colon mucosa,test
+14742,5,smooth muscle,test
+4101,1,background,test
+62148,8,colorectal adenocarcinoma epithelium,test
+76928,5,smooth muscle,test
+34712,0,adipose,test
+16043,8,colorectal adenocarcinoma epithelium,test
+30163,8,colorectal adenocarcinoma epithelium,test
+71237,6,normal colon mucosa,test
+81971,6,normal colon mucosa,test
+36483,8,colorectal adenocarcinoma epithelium,test
+81246,2,debris,test
+35095,4,mucus,test
+3847,8,colorectal adenocarcinoma epithelium,test
+55854,1,background,test
+5103,7,cancer-associated stroma,test
+51581,1,background,test
+54687,7,cancer-associated stroma,test
+87016,6,normal colon mucosa,test
+16874,0,adipose,test
+42047,5,smooth muscle,test
+13118,2,debris,test
+20217,5,smooth muscle,test
+42733,4,mucus,test
+67688,6,normal colon mucosa,test
+3563,4,mucus,test
+43996,8,colorectal adenocarcinoma epithelium,test
+22175,7,cancer-associated stroma,test
+17306,2,debris,test
+35822,8,colorectal adenocarcinoma epithelium,test
+10946,7,cancer-associated stroma,test
+32537,7,cancer-associated stroma,test
+2725,1,background,test
+29396,1,background,test
+44650,6,normal colon mucosa,test
+40742,3,lymphocytes,test
+2521,4,mucus,test
+54985,2,debris,test
+52856,3,lymphocytes,test
+45886,8,colorectal adenocarcinoma epithelium,test
+88903,7,cancer-associated stroma,test
+61365,6,normal colon mucosa,test
+28791,5,smooth muscle,test
+39441,2,debris,test
+5791,6,normal colon mucosa,test
+77954,2,debris,test
+31004,1,background,test
+85299,0,adipose,test
+6018,6,normal colon mucosa,test
+7191,7,cancer-associated stroma,test
+40246,8,colorectal adenocarcinoma epithelium,test
+5669,3,lymphocytes,test
+20345,4,mucus,test
+84370,7,cancer-associated stroma,test
+20519,3,lymphocytes,test
+34416,6,normal colon mucosa,test
+63209,1,background,test
+11536,2,debris,test
+16250,2,debris,test
+87881,2,debris,test
+16172,4,mucus,test
+25980,4,mucus,test
+33587,7,cancer-associated stroma,test
+60289,3,lymphocytes,test
+2516,0,adipose,test
+438,7,cancer-associated stroma,test
+2596,3,lymphocytes,test
+23694,6,normal colon mucosa,test
+44253,1,background,test
+70097,7,cancer-associated stroma,test
+3426,8,colorectal adenocarcinoma epithelium,test
+4431,1,background,test
+76533,2,debris,test
+3757,6,normal colon mucosa,test
+28684,3,lymphocytes,test
+22309,3,lymphocytes,test
+1312,3,lymphocytes,test
+33113,8,colorectal adenocarcinoma epithelium,test
+1645,2,debris,test
+12428,0,adipose,test
+57206,1,background,test
+69430,6,normal colon mucosa,test
+65434,4,mucus,test
+18702,3,lymphocytes,test
+1145,7,cancer-associated stroma,test
+38073,4,mucus,test
+10211,2,debris,test
+39559,8,colorectal adenocarcinoma epithelium,test
+77364,6,normal colon mucosa,test
+1019,5,smooth muscle,test
+656,5,smooth muscle,test
+9188,8,colorectal adenocarcinoma epithelium,test
+67974,2,debris,test
+46751,1,background,test
+2533,6,normal colon mucosa,test
+41606,2,debris,test
+5240,8,colorectal adenocarcinoma epithelium,test
+5825,1,background,test
+57702,6,normal colon mucosa,test
+53995,6,normal colon mucosa,test
+12144,3,lymphocytes,test
+78643,8,colorectal adenocarcinoma epithelium,test
+28900,1,background,test
+9843,3,lymphocytes,test
+36378,8,colorectal adenocarcinoma epithelium,test
+56378,7,cancer-associated stroma,test
+5188,2,debris,test
+58013,7,cancer-associated stroma,test
+23562,7,cancer-associated stroma,test
+59582,7,cancer-associated stroma,test
+31724,5,smooth muscle,test
+25774,5,smooth muscle,test
+72204,7,cancer-associated stroma,test
+979,6,normal colon mucosa,test
+9607,0,adipose,test
+87157,1,background,test
+3549,5,smooth muscle,test
+13650,2,debris,test
+34414,3,lymphocytes,test
+6544,5,smooth muscle,test
+88800,8,colorectal adenocarcinoma epithelium,test
+78889,5,smooth muscle,test
+19848,2,debris,test
+58247,1,background,test
+10110,3,lymphocytes,test
+50828,3,lymphocytes,test
+39544,7,cancer-associated stroma,test
+68873,0,adipose,test
+50255,3,lymphocytes,test
+68353,5,smooth muscle,test
+46496,8,colorectal adenocarcinoma epithelium,test
+76968,3,lymphocytes,test
+70216,6,normal colon mucosa,test
+6304,5,smooth muscle,test
+13797,1,background,test
+67046,7,cancer-associated stroma,test
+923,2,debris,test
+17059,3,lymphocytes,test
+2364,5,smooth muscle,test
+39244,2,debris,test
+20065,7,cancer-associated stroma,test
+59550,8,colorectal adenocarcinoma epithelium,test
+7938,5,smooth muscle,test
+9232,2,debris,test
+73609,0,adipose,test
+4852,8,colorectal adenocarcinoma epithelium,test
+85864,2,debris,test
+41646,5,smooth muscle,test
+51701,7,cancer-associated stroma,test
+28722,5,smooth muscle,test
+52448,4,mucus,test
+543,0,adipose,test
+30720,0,adipose,test
+52617,4,mucus,test
+63430,0,adipose,test
+12438,0,adipose,test
+36733,4,mucus,test
+590,1,background,test
+64873,8,colorectal adenocarcinoma epithelium,test
+12064,8,colorectal adenocarcinoma epithelium,test
+64603,6,normal colon mucosa,test
+9442,2,debris,test
+82899,1,background,test
+4285,6,normal colon mucosa,test
+85946,3,lymphocytes,test
+43587,8,colorectal adenocarcinoma epithelium,test
+79087,0,adipose,test
+61803,6,normal colon mucosa,test
+3384,4,mucus,test
+84145,3,lymphocytes,test
+71986,4,mucus,test
+6657,8,colorectal adenocarcinoma epithelium,test
+27273,8,colorectal adenocarcinoma epithelium,test
+50736,7,cancer-associated stroma,test
+1679,8,colorectal adenocarcinoma epithelium,test
+7849,1,background,test
+10581,0,adipose,test
+63501,8,colorectal adenocarcinoma epithelium,test
+41618,2,debris,test
+43928,3,lymphocytes,test
+726,8,colorectal adenocarcinoma epithelium,test
+42676,3,lymphocytes,test
+60191,0,adipose,test
+5944,1,background,test
+2318,0,adipose,test
+24417,4,mucus,test
+19979,7,cancer-associated stroma,test
+31501,3,lymphocytes,test
+44971,8,colorectal adenocarcinoma epithelium,test
+45011,5,smooth muscle,test
+21608,8,colorectal adenocarcinoma epithelium,test
+71823,7,cancer-associated stroma,test
+69477,8,colorectal adenocarcinoma epithelium,test
+8952,5,smooth muscle,test
+67505,5,smooth muscle,test
+6538,4,mucus,test
+87269,8,colorectal adenocarcinoma epithelium,test
+86980,4,mucus,test
+72100,8,colorectal adenocarcinoma epithelium,test
+703,8,colorectal adenocarcinoma epithelium,test
+89752,8,colorectal adenocarcinoma epithelium,test
+39697,2,debris,test
+39676,3,lymphocytes,test
+52829,5,smooth muscle,test
+70115,5,smooth muscle,test
+41286,6,normal colon mucosa,test
+2941,5,smooth muscle,test
+41396,4,mucus,test
+60321,0,adipose,test
+66215,7,cancer-associated stroma,test
+75884,7,cancer-associated stroma,test
+41753,8,colorectal adenocarcinoma epithelium,test
+70778,8,colorectal adenocarcinoma epithelium,test
+78326,4,mucus,test
+38074,1,background,test
+35698,4,mucus,test
+23068,6,normal colon mucosa,test
+81564,1,background,test
+56770,8,colorectal adenocarcinoma epithelium,test
+4429,7,cancer-associated stroma,test
+5350,2,debris,test
+58688,4,mucus,test
+39935,2,debris,test
+51230,7,cancer-associated stroma,test
+2681,1,background,test
+64040,4,mucus,test
+40601,3,lymphocytes,test
+2756,4,mucus,test
+53354,2,debris,test
+54600,2,debris,test
+66309,3,lymphocytes,test
+3746,0,adipose,test
+6608,7,cancer-associated stroma,test
+2042,5,smooth muscle,test
+3622,0,adipose,test
+9578,3,lymphocytes,test
+5203,1,background,test
+50331,7,cancer-associated stroma,test
+303,8,colorectal adenocarcinoma epithelium,test
+2089,6,normal colon mucosa,test
+20163,3,lymphocytes,test
+31384,2,debris,test
+76379,2,debris,test
+63393,8,colorectal adenocarcinoma epithelium,test
+31256,4,mucus,test
+9299,7,cancer-associated stroma,test
+20641,3,lymphocytes,test
+1684,7,cancer-associated stroma,test
+21334,1,background,test
+34914,4,mucus,test
+4013,4,mucus,test
+31482,3,lymphocytes,test
+6273,8,colorectal adenocarcinoma epithelium,test
+3809,7,cancer-associated stroma,test
+47404,7,cancer-associated stroma,test
+33390,6,normal colon mucosa,test
+4437,5,smooth muscle,test
+51562,5,smooth muscle,test
+44924,7,cancer-associated stroma,test
+19160,2,debris,test
+4425,3,lymphocytes,test
+31832,2,debris,test
+50316,5,smooth muscle,test
+79683,2,debris,test
+67579,0,adipose,test
+38622,1,background,test
+1078,4,mucus,test
+5587,4,mucus,test
+58761,8,colorectal adenocarcinoma epithelium,test
+61996,1,background,test
+54644,2,debris,test
+9899,3,lymphocytes,test
+11862,1,background,test
+60390,3,lymphocytes,test
+31162,2,debris,test
+88805,3,lymphocytes,test
+31204,3,lymphocytes,test
+13741,7,cancer-associated stroma,test
+6377,5,smooth muscle,test
+26792,3,lymphocytes,test
+23775,7,cancer-associated stroma,test
+19917,0,adipose,test
+78701,7,cancer-associated stroma,test
+6578,0,adipose,test
+55714,7,cancer-associated stroma,test
+36557,6,normal colon mucosa,test
+50341,8,colorectal adenocarcinoma epithelium,test
+4555,3,lymphocytes,test
+4936,4,mucus,test
+29384,0,adipose,test
+52662,7,cancer-associated stroma,test
+76597,2,debris,test
+10371,1,background,test
+3881,2,debris,test
+72639,4,mucus,test
+58869,8,colorectal adenocarcinoma epithelium,test
+44037,1,background,test
+51794,7,cancer-associated stroma,test
+60923,0,adipose,test
+1092,5,smooth muscle,test
+9734,8,colorectal adenocarcinoma epithelium,test
+16295,1,background,test
+45364,7,cancer-associated stroma,test
+62716,3,lymphocytes,test
+59355,1,background,test
+24569,3,lymphocytes,test
+15972,8,colorectal adenocarcinoma epithelium,test
+27060,8,colorectal adenocarcinoma epithelium,test
+66506,6,normal colon mucosa,test
+32799,7,cancer-associated stroma,test
+36266,1,background,test
+27519,7,cancer-associated stroma,test
+45157,3,lymphocytes,test
+45558,0,adipose,test
+57882,1,background,test
+17800,2,debris,test
+32253,7,cancer-associated stroma,test
+1054,5,smooth muscle,test
+53154,8,colorectal adenocarcinoma epithelium,test
+55826,0,adipose,test
+3447,0,adipose,test
+1550,4,mucus,test
+30585,7,cancer-associated stroma,test
+13598,6,normal colon mucosa,test
+3940,4,mucus,test
+42863,6,normal colon mucosa,test
+1999,2,debris,test
+15334,2,debris,test
+26410,8,colorectal adenocarcinoma epithelium,test
+76199,1,background,test
+6504,4,mucus,test
+72829,5,smooth muscle,test
+23284,1,background,test
+53016,2,debris,test
+56604,0,adipose,test
+2382,4,mucus,test
+45327,7,cancer-associated stroma,test
+2743,6,normal colon mucosa,test
+87843,4,mucus,test
+39548,1,background,test
+44257,5,smooth muscle,test
+12208,2,debris,test
+37331,7,cancer-associated stroma,test
+13680,4,mucus,test
+27915,2,debris,test
+15822,5,smooth muscle,test
+56871,7,cancer-associated stroma,test
+18226,1,background,test
+32444,5,smooth muscle,test
+89031,7,cancer-associated stroma,test
+523,5,smooth muscle,test
+71417,3,lymphocytes,test
+4940,5,smooth muscle,test
+79585,5,smooth muscle,test
+28977,3,lymphocytes,test
+54550,5,smooth muscle,test
+2381,6,normal colon mucosa,test
+46120,5,smooth muscle,test
+9992,3,lymphocytes,test
+12681,3,lymphocytes,test
+44797,7,cancer-associated stroma,test
+52203,5,smooth muscle,test
+1372,1,background,test
+2386,4,mucus,test
+6757,5,smooth muscle,test
+43367,1,background,test
+87416,1,background,test
+9655,5,smooth muscle,test
+25815,5,smooth muscle,test
+40331,3,lymphocytes,test
+70735,1,background,test
+38808,7,cancer-associated stroma,test
+17508,1,background,test
+65663,4,mucus,test
+32740,1,background,test
+26168,5,smooth muscle,test
+4793,7,cancer-associated stroma,test
+51261,5,smooth muscle,test
+40301,8,colorectal adenocarcinoma epithelium,test
+54623,0,adipose,test
+15305,4,mucus,test
+3076,8,colorectal adenocarcinoma epithelium,test
+57191,3,lymphocytes,test
+2866,5,smooth muscle,test
+73264,1,background,test
+84412,8,colorectal adenocarcinoma epithelium,test
+59980,0,adipose,test
+57147,2,debris,test
+89075,0,adipose,test
+67676,7,cancer-associated stroma,test
+71787,7,cancer-associated stroma,test
+57246,5,smooth muscle,test
+46627,1,background,test
+4420,2,debris,test
+68927,1,background,test
+64893,5,smooth muscle,test
+8353,0,adipose,test
+56927,5,smooth muscle,test
+7362,1,background,test
+17316,3,lymphocytes,test
+62094,4,mucus,test
+29390,0,adipose,test
+51855,2,debris,test
+52783,5,smooth muscle,test
+643,6,normal colon mucosa,test
+5108,0,adipose,test
+22114,2,debris,test
+59454,1,background,test
+74802,0,adipose,test
+33631,5,smooth muscle,test
+80206,7,cancer-associated stroma,test
+7457,5,smooth muscle,test
+26743,2,debris,test
+4476,8,colorectal adenocarcinoma epithelium,test
+71315,8,colorectal adenocarcinoma epithelium,test
+3102,5,smooth muscle,test
+74068,0,adipose,test
+31683,2,debris,test
+73,8,colorectal adenocarcinoma epithelium,test
+53382,6,normal colon mucosa,test
+83391,4,mucus,test
+61453,6,normal colon mucosa,test
+6912,2,debris,test
+35813,1,background,test
+59640,8,colorectal adenocarcinoma epithelium,test
+69438,5,smooth muscle,test
+75749,3,lymphocytes,test
+31787,1,background,test
+2096,6,normal colon mucosa,test
+57856,1,background,test
+59951,5,smooth muscle,test
+81666,3,lymphocytes,test
+2141,0,adipose,test
+33846,3,lymphocytes,test
+2753,6,normal colon mucosa,test
+69981,6,normal colon mucosa,test
+17258,4,mucus,test
+36477,7,cancer-associated stroma,test
+38954,0,adipose,test
+57658,7,cancer-associated stroma,test
+82777,6,normal colon mucosa,test
+48363,1,background,test
+25718,5,smooth muscle,test
+86205,8,colorectal adenocarcinoma epithelium,test
+66250,7,cancer-associated stroma,test
+5025,2,debris,test
+77549,6,normal colon mucosa,test
+81916,7,cancer-associated stroma,test
+75791,8,colorectal adenocarcinoma epithelium,test
+12123,3,lymphocytes,test
+37037,7,cancer-associated stroma,test
+14898,8,colorectal adenocarcinoma epithelium,test
+3379,3,lymphocytes,test
+11159,4,mucus,test
+67966,6,normal colon mucosa,test
+10686,5,smooth muscle,test
+44986,2,debris,test
+77596,5,smooth muscle,test
+86189,4,mucus,test
+33134,8,colorectal adenocarcinoma epithelium,test
+50774,2,debris,test
+1707,1,background,test
+84429,1,background,test
+53883,2,debris,test
+66613,8,colorectal adenocarcinoma epithelium,test
+78864,0,adipose,test
+60253,5,smooth muscle,test
+54709,6,normal colon mucosa,test
+48573,5,smooth muscle,test
+34711,0,adipose,test
+16670,5,smooth muscle,test
+75522,8,colorectal adenocarcinoma epithelium,test
+68838,2,debris,test
+74263,4,mucus,test
+69302,0,adipose,test
+30802,7,cancer-associated stroma,test
+35177,6,normal colon mucosa,test
+68498,5,smooth muscle,test
+86319,0,adipose,test
+4857,6,normal colon mucosa,test
+45472,4,mucus,test
+15082,5,smooth muscle,test
+85106,8,colorectal adenocarcinoma epithelium,test
+2542,3,lymphocytes,test
+2856,6,normal colon mucosa,test
+76834,8,colorectal adenocarcinoma epithelium,test
+61419,0,adipose,test
+50955,3,lymphocytes,test
+6582,0,adipose,test
+23657,4,mucus,test
+6984,2,debris,test
+55997,6,normal colon mucosa,test
+50416,5,smooth muscle,test
+87817,3,lymphocytes,test
+60697,0,adipose,test
+2879,5,smooth muscle,test
+33412,4,mucus,test
+5644,5,smooth muscle,test
+6077,3,lymphocytes,test
+8500,2,debris,test
+42564,5,smooth muscle,test
+30559,4,mucus,test
+51293,3,lymphocytes,test
+43527,4,mucus,test
+85011,3,lymphocytes,test
+17598,3,lymphocytes,test
+57209,6,normal colon mucosa,test
+36431,7,cancer-associated stroma,test
+37712,2,debris,test
+68595,2,debris,test
+32558,6,normal colon mucosa,test
+46806,2,debris,test
+67750,5,smooth muscle,test
+3164,8,colorectal adenocarcinoma epithelium,test
+6309,8,colorectal adenocarcinoma epithelium,test
+1196,8,colorectal adenocarcinoma epithelium,test
+88029,4,mucus,test
+2792,0,adipose,test
+68360,4,mucus,test
+1369,2,debris,test
+56977,4,mucus,test
+13970,3,lymphocytes,test
+6423,0,adipose,test
+5098,1,background,test
+79493,0,adipose,test
+58555,2,debris,test
+4137,6,normal colon mucosa,test
+3301,6,normal colon mucosa,test
+68470,1,background,test
+44312,0,adipose,test
+25590,2,debris,test
+89071,0,adipose,test
+58053,5,smooth muscle,test
+9612,8,colorectal adenocarcinoma epithelium,test
+51774,0,adipose,test
+25244,0,adipose,test
+88336,2,debris,test
+8744,7,cancer-associated stroma,test
+13992,1,background,test
+37453,5,smooth muscle,test
+10808,5,smooth muscle,test
+39813,7,cancer-associated stroma,test
+37069,4,mucus,test
+53398,3,lymphocytes,test
+6974,0,adipose,test
+66046,7,cancer-associated stroma,test
+87426,5,smooth muscle,test
+77854,2,debris,test
+3592,3,lymphocytes,test
+62052,8,colorectal adenocarcinoma epithelium,test
+58731,6,normal colon mucosa,test
+42381,5,smooth muscle,test
+16934,4,mucus,test
+63385,6,normal colon mucosa,test
+62299,0,adipose,test
+44658,1,background,test
+41933,6,normal colon mucosa,test
+47468,7,cancer-associated stroma,test
+81908,0,adipose,test
+53129,2,debris,test
+23226,0,adipose,test
+3475,8,colorectal adenocarcinoma epithelium,test
+30859,0,adipose,test
+73684,5,smooth muscle,test
+22568,1,background,test
+20497,0,adipose,test
+76732,8,colorectal adenocarcinoma epithelium,test
+21830,3,lymphocytes,test
+83730,5,smooth muscle,test
+9679,3,lymphocytes,test
+58843,2,debris,test
+6483,3,lymphocytes,test
+72710,5,smooth muscle,test
+40174,8,colorectal adenocarcinoma epithelium,test
+45410,5,smooth muscle,test
+20884,5,smooth muscle,test
+36952,2,debris,test
+87722,5,smooth muscle,test
+414,0,adipose,test
+31616,2,debris,test
+5861,1,background,test
+6988,6,normal colon mucosa,test
+45652,5,smooth muscle,test
+82517,4,mucus,test
+73611,1,background,test
+50961,8,colorectal adenocarcinoma epithelium,test
+4587,3,lymphocytes,test
+64569,2,debris,test
+8965,7,cancer-associated stroma,test
+2023,2,debris,test
+6928,4,mucus,test
+67327,3,lymphocytes,test
+8189,5,smooth muscle,test
+37487,6,normal colon mucosa,test
+78917,8,colorectal adenocarcinoma epithelium,test
+43610,1,background,test
+12246,8,colorectal adenocarcinoma epithelium,test
+88837,7,cancer-associated stroma,test
+9251,7,cancer-associated stroma,test
+38114,1,background,test
+45120,0,adipose,test
+51215,4,mucus,test
+60631,7,cancer-associated stroma,test
+62607,3,lymphocytes,test
+22333,0,adipose,test
+57017,5,smooth muscle,test
+65977,8,colorectal adenocarcinoma epithelium,test
+1675,6,normal colon mucosa,test
+66471,2,debris,test
+3205,2,debris,test
+86621,7,cancer-associated stroma,test
+36049,0,adipose,test
+44819,6,normal colon mucosa,test
+70950,3,lymphocytes,test
+66406,6,normal colon mucosa,test
+358,6,normal colon mucosa,test
+49734,7,cancer-associated stroma,test
+53719,5,smooth muscle,test
+55195,0,adipose,test
+18013,2,debris,test
+16700,0,adipose,test
+921,1,background,test
+5677,2,debris,test
+2622,7,cancer-associated stroma,test
+76090,0,adipose,test
+4313,4,mucus,test
+53006,7,cancer-associated stroma,test
+4958,6,normal colon mucosa,test
+27188,6,normal colon mucosa,test
+27490,8,colorectal adenocarcinoma epithelium,test
+4652,4,mucus,test
+84068,6,normal colon mucosa,test
+60423,1,background,test
+88695,8,colorectal adenocarcinoma epithelium,test
+60973,6,normal colon mucosa,test
+9283,5,smooth muscle,test
+7126,0,adipose,test
+20076,5,smooth muscle,test
+36381,5,smooth muscle,test
+35487,7,cancer-associated stroma,test
+36759,2,debris,test
+40156,3,lymphocytes,test
+9800,1,background,test
+85182,5,smooth muscle,test
+57876,8,colorectal adenocarcinoma epithelium,test
+18606,3,lymphocytes,test
+2031,0,adipose,test
+9812,1,background,test
+83759,8,colorectal adenocarcinoma epithelium,test
+81085,8,colorectal adenocarcinoma epithelium,test
+74566,0,adipose,test
+25666,2,debris,test
+85355,7,cancer-associated stroma,test
+33234,4,mucus,test
+47129,5,smooth muscle,test
+50938,6,normal colon mucosa,test
+68542,0,adipose,test
+9932,8,colorectal adenocarcinoma epithelium,test
+84213,5,smooth muscle,test
+41586,6,normal colon mucosa,test
+83660,3,lymphocytes,test
+10121,5,smooth muscle,test
+4198,4,mucus,test
+6410,4,mucus,test
+7064,0,adipose,test
+45350,3,lymphocytes,test
+709,3,lymphocytes,test
+2414,1,background,test
+28769,1,background,test
+16424,8,colorectal adenocarcinoma epithelium,test
+2383,7,cancer-associated stroma,test
+1135,7,cancer-associated stroma,test
+78333,3,lymphocytes,test
+58345,6,normal colon mucosa,test
+4384,1,background,test
+41506,7,cancer-associated stroma,test
+27138,5,smooth muscle,test
+76228,3,lymphocytes,test
+52953,4,mucus,test
+53053,4,mucus,test
+27399,1,background,test
+34271,5,smooth muscle,test
+54834,6,normal colon mucosa,test
+49092,5,smooth muscle,test
+20679,3,lymphocytes,test
+76677,3,lymphocytes,test
+82023,4,mucus,test
+35998,2,debris,test
+54769,2,debris,test
+37620,3,lymphocytes,test
+80904,7,cancer-associated stroma,test
+59698,7,cancer-associated stroma,test
+66213,3,lymphocytes,test
+58154,1,background,test
+29531,6,normal colon mucosa,test
+73169,2,debris,test
+19515,0,adipose,test
+45638,2,debris,test
+67717,4,mucus,test
+48280,2,debris,test
+4721,5,smooth muscle,test
+5166,0,adipose,test
+1146,4,mucus,test
+9593,1,background,test
+23004,6,normal colon mucosa,test
+58919,8,colorectal adenocarcinoma epithelium,test
+54846,3,lymphocytes,test
+11278,6,normal colon mucosa,test
+2643,2,debris,test
+85719,7,cancer-associated stroma,test
+43760,1,background,test
+4326,8,colorectal adenocarcinoma epithelium,test
+6920,3,lymphocytes,test
+88989,4,mucus,test
+10305,5,smooth muscle,test
+14578,3,lymphocytes,test
+11090,1,background,test
+65341,6,normal colon mucosa,test
+5983,7,cancer-associated stroma,test
+35424,1,background,test
+65654,8,colorectal adenocarcinoma epithelium,test
+71108,4,mucus,test
+1308,6,normal colon mucosa,test
+83552,2,debris,test
+70069,3,lymphocytes,test
+12092,6,normal colon mucosa,test
+56207,1,background,test
+78229,1,background,test
+6461,0,adipose,test
+21844,6,normal colon mucosa,test
+41915,4,mucus,test
+68624,7,cancer-associated stroma,test
+69332,3,lymphocytes,test
+78221,3,lymphocytes,test
+52560,5,smooth muscle,test
+42259,6,normal colon mucosa,test
+21926,8,colorectal adenocarcinoma epithelium,test
+87692,8,colorectal adenocarcinoma epithelium,test
+41812,2,debris,test
+53323,6,normal colon mucosa,test
+74937,4,mucus,test
+8364,0,adipose,test
+21996,8,colorectal adenocarcinoma epithelium,test
+9415,8,colorectal adenocarcinoma epithelium,test
+46906,4,mucus,test
+7633,3,lymphocytes,test
+57097,0,adipose,test
+30833,4,mucus,test
+5030,5,smooth muscle,test
+8968,1,background,test
+5536,0,adipose,test
+54700,8,colorectal adenocarcinoma epithelium,test
+70901,4,mucus,test
+78399,4,mucus,test
+1857,4,mucus,test
+36203,7,cancer-associated stroma,test
+67273,1,background,test
+55990,0,adipose,test
+61420,5,smooth muscle,test
+32745,7,cancer-associated stroma,test
+491,8,colorectal adenocarcinoma epithelium,test
+1980,4,mucus,test
+65440,7,cancer-associated stroma,test
+25998,2,debris,test
+32937,7,cancer-associated stroma,test
+66322,3,lymphocytes,test
+23936,8,colorectal adenocarcinoma epithelium,test
+3907,4,mucus,test
+59503,5,smooth muscle,test
+3176,2,debris,test
+7677,5,smooth muscle,test
+48871,6,normal colon mucosa,test
+50060,5,smooth muscle,test
+59065,0,adipose,test
+84706,7,cancer-associated stroma,test
+53610,5,smooth muscle,test
+5686,4,mucus,test
+37913,3,lymphocytes,test
+3438,8,colorectal adenocarcinoma epithelium,test
+66735,5,smooth muscle,test
+41811,2,debris,test
+75542,1,background,test
+7138,3,lymphocytes,test
+63697,3,lymphocytes,test
+50708,8,colorectal adenocarcinoma epithelium,test
+7018,6,normal colon mucosa,test
+9372,6,normal colon mucosa,test
+7910,0,adipose,test
+15064,8,colorectal adenocarcinoma epithelium,test
+6658,3,lymphocytes,test
+11473,5,smooth muscle,test
+36255,8,colorectal adenocarcinoma epithelium,test
+72038,1,background,test
+9553,5,smooth muscle,test
+68370,5,smooth muscle,test
+22392,3,lymphocytes,test
+704,8,colorectal adenocarcinoma epithelium,test
+39238,7,cancer-associated stroma,test
+54091,1,background,test
+3582,1,background,test
+31043,2,debris,test
+66519,2,debris,test
+4147,7,cancer-associated stroma,test
+85831,1,background,test
+72621,5,smooth muscle,test
+2454,8,colorectal adenocarcinoma epithelium,test
+62499,0,adipose,test
+1786,1,background,test
+8054,8,colorectal adenocarcinoma epithelium,test
+46601,2,debris,test
+53740,4,mucus,test
+359,8,colorectal adenocarcinoma epithelium,test
+10566,5,smooth muscle,test
+45955,3,lymphocytes,test
+9912,0,adipose,test
+78085,4,mucus,test
+38991,2,debris,test
+61741,2,debris,test
+89029,4,mucus,test
+762,4,mucus,test
+1084,6,normal colon mucosa,test
+61037,7,cancer-associated stroma,test
+85416,7,cancer-associated stroma,test
+62272,2,debris,test
+51281,7,cancer-associated stroma,test
+53682,6,normal colon mucosa,test
+1122,4,mucus,test
+45295,8,colorectal adenocarcinoma epithelium,test
+7215,7,cancer-associated stroma,test
+40513,7,cancer-associated stroma,test
+1386,3,lymphocytes,test
+54889,7,cancer-associated stroma,test
+43486,5,smooth muscle,test
+78561,6,normal colon mucosa,test
+8031,3,lymphocytes,test
+55765,5,smooth muscle,test
+72640,4,mucus,test
+51421,2,debris,test
+680,0,adipose,test
+64297,5,smooth muscle,test
+63899,4,mucus,test
+52690,8,colorectal adenocarcinoma epithelium,test
+14873,8,colorectal adenocarcinoma epithelium,test
+41314,5,smooth muscle,test
+5283,7,cancer-associated stroma,test
+40933,5,smooth muscle,test
+44723,6,normal colon mucosa,test
+52689,8,colorectal adenocarcinoma epithelium,test
+40245,4,mucus,test
+12929,0,adipose,test
+25322,5,smooth muscle,test
+15489,2,debris,test
+28384,8,colorectal adenocarcinoma epithelium,test
+59753,8,colorectal adenocarcinoma epithelium,test
+82528,4,mucus,test
+29052,1,background,test
+59956,4,mucus,test
+47634,3,lymphocytes,test
+56609,7,cancer-associated stroma,test
+70750,3,lymphocytes,test
+70353,4,mucus,test
+35484,5,smooth muscle,test
+2271,0,adipose,test
+50247,3,lymphocytes,test
+70163,7,cancer-associated stroma,test
+56077,4,mucus,test
+5009,1,background,test
+51000,2,debris,test
+64196,5,smooth muscle,test
+47387,1,background,test
+6772,6,normal colon mucosa,test
+81778,5,smooth muscle,test
+87194,4,mucus,test
+39750,8,colorectal adenocarcinoma epithelium,test
+34961,4,mucus,test
+83181,0,adipose,test
+32419,0,adipose,test
+56064,5,smooth muscle,test
+6057,1,background,test
+17796,7,cancer-associated stroma,test
+62837,3,lymphocytes,test
+57586,5,smooth muscle,test
+9994,3,lymphocytes,test
+38787,8,colorectal adenocarcinoma epithelium,test
+9553,2,debris,test
+6114,1,background,test
+8790,8,colorectal adenocarcinoma epithelium,test
+36090,7,cancer-associated stroma,test
+22273,5,smooth muscle,test
+64271,3,lymphocytes,test
+54973,0,adipose,test
+50985,0,adipose,test
+56043,5,smooth muscle,test
+3324,2,debris,test
+57313,4,mucus,test
+9588,2,debris,test
+15452,1,background,test
+26785,5,smooth muscle,test
+14125,8,colorectal adenocarcinoma epithelium,test
+6008,0,adipose,test
+23172,3,lymphocytes,test
+42034,4,mucus,test
+61401,0,adipose,test
+66057,3,lymphocytes,test
+11539,7,cancer-associated stroma,test
+88513,6,normal colon mucosa,test
+58694,2,debris,test
+56104,8,colorectal adenocarcinoma epithelium,test
+78657,4,mucus,test
+75351,3,lymphocytes,test
+35055,2,debris,test
+10078,0,adipose,test
+86380,8,colorectal adenocarcinoma epithelium,test
+6171,6,normal colon mucosa,test
+43968,8,colorectal adenocarcinoma epithelium,test
+18272,3,lymphocytes,test
+20666,7,cancer-associated stroma,test
+12035,4,mucus,test
+85645,6,normal colon mucosa,test
+70595,7,cancer-associated stroma,test
+3479,8,colorectal adenocarcinoma epithelium,test
+82505,4,mucus,test
+7758,8,colorectal adenocarcinoma epithelium,test
+6304,1,background,test
+13462,1,background,test
+60160,4,mucus,test
+79603,7,cancer-associated stroma,test
+78322,8,colorectal adenocarcinoma epithelium,test
+76368,2,debris,test
+15302,4,mucus,test
+17040,2,debris,test
+75898,0,adipose,test
+77639,6,normal colon mucosa,test
+40178,2,debris,test
+77683,0,adipose,test
+42230,3,lymphocytes,test
+11922,0,adipose,test
+62503,6,normal colon mucosa,test
+89371,6,normal colon mucosa,test
+85201,3,lymphocytes,test
+4346,3,lymphocytes,test
+72390,6,normal colon mucosa,test
+8180,8,colorectal adenocarcinoma epithelium,test
+16965,5,smooth muscle,test
+68795,6,normal colon mucosa,test
+22422,1,background,test
+50360,2,debris,test
+67117,0,adipose,test
+45512,0,adipose,test
+87727,3,lymphocytes,test
+49485,7,cancer-associated stroma,test
+12082,6,normal colon mucosa,test
+25370,2,debris,test
+85142,3,lymphocytes,test
+64831,0,adipose,test
+88723,8,colorectal adenocarcinoma epithelium,test
+59179,6,normal colon mucosa,test
+8605,8,colorectal adenocarcinoma epithelium,test
+69606,6,normal colon mucosa,test
+294,5,smooth muscle,test
+70358,2,debris,test
+68910,3,lymphocytes,test
+69725,7,cancer-associated stroma,test
+36569,0,adipose,test
+71184,2,debris,test
+16583,6,normal colon mucosa,test
+71429,3,lymphocytes,test
+75971,2,debris,test
+19320,1,background,test
+28767,1,background,test
+83294,4,mucus,test
+14348,0,adipose,test
+32421,7,cancer-associated stroma,test
+38746,1,background,test
+65703,5,smooth muscle,test
+80151,7,cancer-associated stroma,test
+33831,0,adipose,test
+2411,0,adipose,test
+29049,2,debris,test
+20061,5,smooth muscle,test
+43726,4,mucus,test
+23227,5,smooth muscle,test
+49337,8,colorectal adenocarcinoma epithelium,test
+11369,1,background,test
+69849,2,debris,test
+47954,7,cancer-associated stroma,test
+781,1,background,test
+67242,8,colorectal adenocarcinoma epithelium,test
+39332,0,adipose,test
+12130,7,cancer-associated stroma,test
+58363,5,smooth muscle,test
+3864,6,normal colon mucosa,test
+33112,0,adipose,test
+59894,2,debris,test
+42437,3,lymphocytes,test
+69649,8,colorectal adenocarcinoma epithelium,test
+2540,2,debris,test
+56506,7,cancer-associated stroma,test
+49848,6,normal colon mucosa,test
+32312,1,background,test
+83249,3,lymphocytes,test
+3566,1,background,test
+1706,8,colorectal adenocarcinoma epithelium,test
+84840,8,colorectal adenocarcinoma epithelium,test
+70316,1,background,test
+10108,5,smooth muscle,test
+82067,8,colorectal adenocarcinoma epithelium,test
+87858,0,adipose,test
+11297,4,mucus,test
+81937,2,debris,test
+50717,1,background,test
+60565,5,smooth muscle,test
+48896,2,debris,test
+16606,1,background,test
+3972,7,cancer-associated stroma,test
+75925,1,background,test
+10174,0,adipose,test
+62214,5,smooth muscle,test
+30133,2,debris,test
+74176,5,smooth muscle,test
+17143,0,adipose,test
+10298,1,background,test
+902,6,normal colon mucosa,test
+42735,8,colorectal adenocarcinoma epithelium,test
+10145,3,lymphocytes,test
+60899,5,smooth muscle,test
+85408,0,adipose,test
+57708,5,smooth muscle,test
+26899,8,colorectal adenocarcinoma epithelium,test
+43557,7,cancer-associated stroma,test
+51921,3,lymphocytes,test
+44457,7,cancer-associated stroma,test
+49021,0,adipose,test
+36571,1,background,test
+35060,8,colorectal adenocarcinoma epithelium,test
+32457,8,colorectal adenocarcinoma epithelium,test
+29379,3,lymphocytes,test
+12023,3,lymphocytes,test
+34362,2,debris,test
+56090,8,colorectal adenocarcinoma epithelium,test
+74799,2,debris,test
+64154,5,smooth muscle,test
+45190,8,colorectal adenocarcinoma epithelium,test
+55379,8,colorectal adenocarcinoma epithelium,test
+56577,7,cancer-associated stroma,test
+41177,6,normal colon mucosa,test
+8170,1,background,test
+38741,7,cancer-associated stroma,test
+84315,6,normal colon mucosa,test
+85051,7,cancer-associated stroma,test
+12147,3,lymphocytes,test
+39705,6,normal colon mucosa,test
+76149,3,lymphocytes,test
+41946,5,smooth muscle,test
+6195,0,adipose,test
+67761,2,debris,test
+44813,7,cancer-associated stroma,test
+78213,4,mucus,test
+54783,3,lymphocytes,test
+5166,3,lymphocytes,test
+77122,2,debris,test
+7285,3,lymphocytes,test
+77198,5,smooth muscle,test
+50782,4,mucus,test
+83832,4,mucus,test
+59223,4,mucus,test
+84233,2,debris,test
+35903,0,adipose,test
+39763,2,debris,test
+26763,8,colorectal adenocarcinoma epithelium,test
+67620,6,normal colon mucosa,test
+44926,7,cancer-associated stroma,test
+3848,6,normal colon mucosa,test
+36941,1,background,test
+27816,6,normal colon mucosa,test
+32155,3,lymphocytes,test
+34243,3,lymphocytes,test
+64249,0,adipose,test
+19794,8,colorectal adenocarcinoma epithelium,test
+38891,6,normal colon mucosa,test
+2247,1,background,test
+61389,4,mucus,test
+2933,8,colorectal adenocarcinoma epithelium,test
+57003,3,lymphocytes,test
+76081,1,background,test
+13078,0,adipose,test
+50463,2,debris,test
+54589,3,lymphocytes,test
+39804,5,smooth muscle,test
+73691,7,cancer-associated stroma,test
+64107,2,debris,test
+39402,3,lymphocytes,test
+84522,4,mucus,test
+31626,3,lymphocytes,test
+72548,5,smooth muscle,test
+50224,1,background,test
+5312,8,colorectal adenocarcinoma epithelium,test
+48195,4,mucus,test
+42538,6,normal colon mucosa,test
+62594,3,lymphocytes,test
+57105,0,adipose,test
+2676,6,normal colon mucosa,test
+186,1,background,test
+2676,5,smooth muscle,test
+50353,8,colorectal adenocarcinoma epithelium,test
+61036,5,smooth muscle,test
+46069,3,lymphocytes,test
+38803,4,mucus,test
+85658,4,mucus,test
+2303,6,normal colon mucosa,test
+86652,5,smooth muscle,test
+1173,4,mucus,test
+16642,3,lymphocytes,test
+18513,5,smooth muscle,test
+25164,1,background,test
+6538,1,background,test
+12759,5,smooth muscle,test
+67248,0,adipose,test
+5973,3,lymphocytes,test
+77662,2,debris,test
+31651,4,mucus,test
+52069,3,lymphocytes,test
+87628,4,mucus,test
+48112,6,normal colon mucosa,test
+78603,5,smooth muscle,test
+49541,8,colorectal adenocarcinoma epithelium,test
+80449,1,background,test
+12243,6,normal colon mucosa,test
+72128,3,lymphocytes,test
+50844,5,smooth muscle,test
+59646,2,debris,test
+24047,1,background,test
+53025,6,normal colon mucosa,test
+76761,3,lymphocytes,test
+10427,6,normal colon mucosa,test
+3101,6,normal colon mucosa,test
+28860,1,background,test
+75385,0,adipose,test
+72515,1,background,test
+10606,6,normal colon mucosa,test
+3240,0,adipose,test
+34833,6,normal colon mucosa,test
+73349,2,debris,test
+63683,3,lymphocytes,test
+42576,0,adipose,test
+47678,7,cancer-associated stroma,test
+63001,3,lymphocytes,test
+49274,8,colorectal adenocarcinoma epithelium,test
+45013,2,debris,test
+34192,5,smooth muscle,test
+3694,1,background,test
+70572,8,colorectal adenocarcinoma epithelium,test
+1810,8,colorectal adenocarcinoma epithelium,test
+27015,7,cancer-associated stroma,test
+7847,7,cancer-associated stroma,test
+50667,3,lymphocytes,test
+59176,3,lymphocytes,test
+69004,8,colorectal adenocarcinoma epithelium,test
+24515,5,smooth muscle,test
+7689,2,debris,test
+43028,3,lymphocytes,test
+42696,3,lymphocytes,test
+67096,3,lymphocytes,test
+76740,1,background,test
+53988,3,lymphocytes,test
+9972,4,mucus,test
+5225,8,colorectal adenocarcinoma epithelium,test
+71381,1,background,test
+29273,0,adipose,test
+21685,2,debris,test
+78834,8,colorectal adenocarcinoma epithelium,test
+11497,1,background,test
+66844,3,lymphocytes,test
+52350,8,colorectal adenocarcinoma epithelium,test
+60308,4,mucus,test
+6834,7,cancer-associated stroma,test
+985,4,mucus,test
+29510,3,lymphocytes,test
+2294,6,normal colon mucosa,test
+76020,5,smooth muscle,test
+19700,6,normal colon mucosa,test
+11489,8,colorectal adenocarcinoma epithelium,test
+71740,0,adipose,test
+4627,5,smooth muscle,test
+67644,0,adipose,test
+57463,4,mucus,test
+15432,3,lymphocytes,test
+35275,1,background,test
+61963,6,normal colon mucosa,test
+36764,3,lymphocytes,test
+57184,2,debris,test
+65230,5,smooth muscle,test
+30255,5,smooth muscle,test
+53217,4,mucus,test
+4440,6,normal colon mucosa,test
+44753,8,colorectal adenocarcinoma epithelium,test
+21427,0,adipose,test
+75172,2,debris,test
+9448,3,lymphocytes,test
+72463,8,colorectal adenocarcinoma epithelium,test
+8482,5,smooth muscle,test
+33325,1,background,test
+86456,1,background,test
+19143,3,lymphocytes,test
+67119,8,colorectal adenocarcinoma epithelium,test
+75634,8,colorectal adenocarcinoma epithelium,test
+35299,5,smooth muscle,test
+34657,5,smooth muscle,test
+41137,8,colorectal adenocarcinoma epithelium,test
+83956,5,smooth muscle,test
+2909,5,smooth muscle,test
+85478,4,mucus,test
+411,8,colorectal adenocarcinoma epithelium,test
+10294,7,cancer-associated stroma,test
+34791,8,colorectal adenocarcinoma epithelium,test
+78658,5,smooth muscle,test
+80744,0,adipose,test
+79577,4,mucus,test
+34273,7,cancer-associated stroma,test
+1768,0,adipose,test
+56177,5,smooth muscle,test
+26052,7,cancer-associated stroma,test
+39061,8,colorectal adenocarcinoma epithelium,test
+65252,6,normal colon mucosa,test
+47877,5,smooth muscle,test
+7962,8,colorectal adenocarcinoma epithelium,test
+44688,2,debris,test
+70512,5,smooth muscle,test
+3233,3,lymphocytes,test
+51444,5,smooth muscle,test
+46184,2,debris,test
+4835,8,colorectal adenocarcinoma epithelium,test
+33558,7,cancer-associated stroma,test
+76356,5,smooth muscle,test
+49483,8,colorectal adenocarcinoma epithelium,test
+1788,4,mucus,test
+76203,5,smooth muscle,test
+302,2,debris,test
+76310,3,lymphocytes,test
+45367,7,cancer-associated stroma,test
+35226,5,smooth muscle,test
+3457,5,smooth muscle,test
+12503,8,colorectal adenocarcinoma epithelium,test
+68333,5,smooth muscle,test
+9360,4,mucus,test
+328,6,normal colon mucosa,test
+76028,2,debris,test
+38298,8,colorectal adenocarcinoma epithelium,test
+18053,0,adipose,test
+73457,8,colorectal adenocarcinoma epithelium,test
+45234,7,cancer-associated stroma,test
+72944,1,background,test
+68318,4,mucus,test
+16471,2,debris,test
+60918,6,normal colon mucosa,test
+84060,8,colorectal adenocarcinoma epithelium,test
+46235,3,lymphocytes,test
+29542,8,colorectal adenocarcinoma epithelium,test
+83456,6,normal colon mucosa,test
+40066,8,colorectal adenocarcinoma epithelium,test
+66787,3,lymphocytes,test
+74117,0,adipose,test
+40444,5,smooth muscle,test
+8600,1,background,test
+65821,1,background,test
+74190,1,background,test
+45688,2,debris,test
+570,7,cancer-associated stroma,test
+10003,7,cancer-associated stroma,test
+825,3,lymphocytes,test
+61478,3,lymphocytes,test
+74856,6,normal colon mucosa,test
+83350,8,colorectal adenocarcinoma epithelium,test
+51264,5,smooth muscle,test
+6451,6,normal colon mucosa,test
+70270,1,background,test
+9398,5,smooth muscle,test
+49681,7,cancer-associated stroma,test
+63018,0,adipose,test
+3483,7,cancer-associated stroma,test
+2518,3,lymphocytes,test
+58554,5,smooth muscle,test
+80472,5,smooth muscle,test
+2825,5,smooth muscle,test
+53454,0,adipose,test
+82791,1,background,test
+56920,5,smooth muscle,test
+74087,4,mucus,test
+7385,3,lymphocytes,test
+54931,5,smooth muscle,test
+76512,2,debris,test
+41657,5,smooth muscle,test
+28966,5,smooth muscle,test
+87862,7,cancer-associated stroma,test
+3778,1,background,test
+76858,1,background,test
+47784,1,background,test
+72468,2,debris,test
+44137,1,background,test
+46857,0,adipose,test
+39102,4,mucus,test
+39,1,background,test
+13670,7,cancer-associated stroma,test
+55381,8,colorectal adenocarcinoma epithelium,test
+63371,4,mucus,test
+85872,2,debris,test
+27858,8,colorectal adenocarcinoma epithelium,test
+78015,8,colorectal adenocarcinoma epithelium,test
+26223,0,adipose,test
+19358,4,mucus,test
+1100,0,adipose,test
+66775,2,debris,test
+503,0,adipose,test
+1381,0,adipose,test
+78601,4,mucus,test
+34774,8,colorectal adenocarcinoma epithelium,test
+3922,2,debris,test
+8368,4,mucus,test
+34240,8,colorectal adenocarcinoma epithelium,test
+50536,0,adipose,test
+16680,7,cancer-associated stroma,test
+70039,8,colorectal adenocarcinoma epithelium,test
+6327,3,lymphocytes,test
+2505,8,colorectal adenocarcinoma epithelium,test
+65383,3,lymphocytes,test
+50811,3,lymphocytes,test
+29842,8,colorectal adenocarcinoma epithelium,test
+705,7,cancer-associated stroma,test
+67031,6,normal colon mucosa,test
+593,5,smooth muscle,test
+49287,8,colorectal adenocarcinoma epithelium,test
+77308,1,background,test
+45001,7,cancer-associated stroma,test
+53896,3,lymphocytes,test
+9787,2,debris,test
+32487,6,normal colon mucosa,test
+7066,5,smooth muscle,test
+48327,5,smooth muscle,test
+64712,3,lymphocytes,test
+19965,5,smooth muscle,test
+52872,8,colorectal adenocarcinoma epithelium,test
+33904,6,normal colon mucosa,test
+15791,8,colorectal adenocarcinoma epithelium,test
+42621,2,debris,test
+75181,7,cancer-associated stroma,test
+72357,2,debris,test
+71744,5,smooth muscle,test
+18306,7,cancer-associated stroma,test
+6394,1,background,test
+48230,0,adipose,test
+15414,0,adipose,test
+452,7,cancer-associated stroma,test
+30126,3,lymphocytes,test
+76250,3,lymphocytes,test
+44626,1,background,test
+29123,0,adipose,test
+41994,7,cancer-associated stroma,test
+48512,5,smooth muscle,test
+6576,1,background,test
+6552,1,background,test
+60846,5,smooth muscle,test
+35852,1,background,test
+3490,8,colorectal adenocarcinoma epithelium,test
+68908,1,background,test
+40167,3,lymphocytes,test
+3044,1,background,test
+59473,8,colorectal adenocarcinoma epithelium,test
+78518,4,mucus,test
+7895,7,cancer-associated stroma,test
+43775,1,background,test
+71912,0,adipose,test
+30628,3,lymphocytes,test
+66306,5,smooth muscle,test
+59774,2,debris,test
+34358,1,background,test
+1942,0,adipose,test
+13159,0,adipose,test
+18229,4,mucus,test
+60186,0,adipose,test
+55973,8,colorectal adenocarcinoma epithelium,test
+37881,7,cancer-associated stroma,test
+58546,1,background,test
+58124,5,smooth muscle,test
+9348,1,background,test
+85387,3,lymphocytes,test
+63136,2,debris,test
+70904,8,colorectal adenocarcinoma epithelium,test
+70829,2,debris,test
+270,5,smooth muscle,test
+86357,5,smooth muscle,test
+2965,5,smooth muscle,test
+17224,5,smooth muscle,test
+47402,5,smooth muscle,test
+69251,1,background,test
+9220,8,colorectal adenocarcinoma epithelium,test
+1906,8,colorectal adenocarcinoma epithelium,test
+1287,0,adipose,test
+25669,2,debris,test
+55565,1,background,test
+9956,8,colorectal adenocarcinoma epithelium,test
+65426,2,debris,test
+47876,5,smooth muscle,test
+25547,4,mucus,test
+69130,2,debris,test
+24678,4,mucus,test
+67347,1,background,test
+37593,5,smooth muscle,test
+27266,3,lymphocytes,test
+56527,0,adipose,test
+11704,5,smooth muscle,test
+81146,8,colorectal adenocarcinoma epithelium,test
+12172,1,background,test
+73830,4,mucus,test
+70788,6,normal colon mucosa,test
+46376,4,mucus,test
+40126,5,smooth muscle,test
+47660,2,debris,test
+11395,2,debris,test
+62645,2,debris,test
+10251,2,debris,test
+87271,2,debris,test
+34733,8,colorectal adenocarcinoma epithelium,test
+66228,2,debris,test
+1826,8,colorectal adenocarcinoma epithelium,test
+73635,3,lymphocytes,test
+63726,8,colorectal adenocarcinoma epithelium,test
+58734,3,lymphocytes,test
+30174,0,adipose,test
+74707,5,smooth muscle,test
+66703,5,smooth muscle,test
+9949,3,lymphocytes,test
+44942,1,background,test
+24011,6,normal colon mucosa,test
+81551,2,debris,test
+1763,2,debris,test
+47524,7,cancer-associated stroma,test
+54247,5,smooth muscle,test
+29174,1,background,test
+17207,8,colorectal adenocarcinoma epithelium,test
+51783,7,cancer-associated stroma,test
+47474,7,cancer-associated stroma,test
+70369,5,smooth muscle,test
+28301,1,background,test
+66163,5,smooth muscle,test
+51023,1,background,test
+39614,2,debris,test
+33980,7,cancer-associated stroma,test
+29290,3,lymphocytes,test
+44515,3,lymphocytes,test
+61761,8,colorectal adenocarcinoma epithelium,test
+58388,1,background,test
+32553,5,smooth muscle,test
+3272,8,colorectal adenocarcinoma epithelium,test
+75639,0,adipose,test
+48388,0,adipose,test
+1529,7,cancer-associated stroma,test
+50027,5,smooth muscle,test
+4845,2,debris,test
+35713,2,debris,test
+49229,4,mucus,test
+72800,5,smooth muscle,test
+28564,1,background,test
+26105,4,mucus,test
+51722,0,adipose,test
+88263,7,cancer-associated stroma,test
+50707,3,lymphocytes,test
+61200,5,smooth muscle,test
+28647,5,smooth muscle,test
+24567,6,normal colon mucosa,test
+29602,1,background,test
+37456,4,mucus,test
+1630,1,background,test
+35013,6,normal colon mucosa,test
+57333,5,smooth muscle,test
+67865,2,debris,test
+73603,1,background,test
+51645,8,colorectal adenocarcinoma epithelium,test
+7111,1,background,test
+69945,7,cancer-associated stroma,test
+2061,5,smooth muscle,test
+54991,8,colorectal adenocarcinoma epithelium,test
+51580,5,smooth muscle,test
+34902,1,background,test
+41879,1,background,test
+78892,0,adipose,test
+75220,0,adipose,test
+2373,1,background,test
+70535,5,smooth muscle,test
+5391,7,cancer-associated stroma,test
+13864,6,normal colon mucosa,test
+70261,1,background,test
+30138,2,debris,test
+65681,2,debris,test
+46545,0,adipose,test
+76513,5,smooth muscle,test
+1979,3,lymphocytes,test
+14739,1,background,test
+28665,5,smooth muscle,test
+83049,6,normal colon mucosa,test
+54087,4,mucus,test
+70370,8,colorectal adenocarcinoma epithelium,test
+1804,0,adipose,test
+44727,5,smooth muscle,test
+30979,5,smooth muscle,test
+72783,1,background,test
+52547,0,adipose,test
+18549,1,background,test
+4152,1,background,test
+89184,7,cancer-associated stroma,test
+82983,8,colorectal adenocarcinoma epithelium,test
+80168,4,mucus,test
+85313,1,background,test
+22051,8,colorectal adenocarcinoma epithelium,test
+2047,2,debris,test
+77020,1,background,test
+62440,2,debris,test
+57614,8,colorectal adenocarcinoma epithelium,test
+3488,0,adipose,test
+53986,8,colorectal adenocarcinoma epithelium,test
+2699,1,background,test
+10884,6,normal colon mucosa,test
+13890,7,cancer-associated stroma,test
+14396,1,background,test
+25029,4,mucus,test
+317,8,colorectal adenocarcinoma epithelium,test
+70869,0,adipose,test
+63520,8,colorectal adenocarcinoma epithelium,test
+58230,8,colorectal adenocarcinoma epithelium,test
+51176,7,cancer-associated stroma,test
+576,0,adipose,test
+48497,8,colorectal adenocarcinoma epithelium,test
+38523,3,lymphocytes,test
+84707,3,lymphocytes,test
+57783,7,cancer-associated stroma,test
+74520,3,lymphocytes,test
+247,1,background,test
+45141,3,lymphocytes,test
+34745,7,cancer-associated stroma,test
+64550,3,lymphocytes,test
+33716,7,cancer-associated stroma,test
+63691,6,normal colon mucosa,test
+87140,2,debris,test
+30461,3,lymphocytes,test
+78632,8,colorectal adenocarcinoma epithelium,test
+67614,2,debris,test
+33906,5,smooth muscle,test
+37346,6,normal colon mucosa,test
+76000,6,normal colon mucosa,test
+64004,5,smooth muscle,test
+29721,0,adipose,test
+81105,4,mucus,test
+59670,4,mucus,test
+2580,6,normal colon mucosa,test
+81012,7,cancer-associated stroma,test
+28151,7,cancer-associated stroma,test
+5121,0,adipose,test
+85572,2,debris,test
+51374,5,smooth muscle,test
+857,8,colorectal adenocarcinoma epithelium,test
+46425,5,smooth muscle,test
+56337,7,cancer-associated stroma,test
+72809,4,mucus,test
+88599,0,adipose,test
+25446,6,normal colon mucosa,test
+539,3,lymphocytes,test
+21049,6,normal colon mucosa,test
+79763,1,background,test
+64170,1,background,test
+83017,2,debris,test
+66115,3,lymphocytes,test
+62223,2,debris,test
+77274,3,lymphocytes,test
+36164,4,mucus,test
+68928,2,debris,test
+79822,5,smooth muscle,test
+77497,8,colorectal adenocarcinoma epithelium,test
+27338,5,smooth muscle,test
+60474,3,lymphocytes,test
+2728,3,lymphocytes,test
+28894,5,smooth muscle,test
+15971,7,cancer-associated stroma,test
+46878,7,cancer-associated stroma,test
+89203,2,debris,test
+5910,0,adipose,test
+6019,5,smooth muscle,test
+4353,0,adipose,test
+1552,6,normal colon mucosa,test
+34470,5,smooth muscle,test
+56597,7,cancer-associated stroma,test
+3079,3,lymphocytes,test
+1144,8,colorectal adenocarcinoma epithelium,test
+21725,3,lymphocytes,test
+83323,7,cancer-associated stroma,test
+28712,7,cancer-associated stroma,test
+45237,8,colorectal adenocarcinoma epithelium,test
+87638,8,colorectal adenocarcinoma epithelium,test
+22291,7,cancer-associated stroma,test
+83420,7,cancer-associated stroma,test
+32372,3,lymphocytes,test
+36383,3,lymphocytes,test
+26776,8,colorectal adenocarcinoma epithelium,test
+85929,4,mucus,test
+79414,1,background,test
+6499,2,debris,test
+41149,4,mucus,test
+16155,7,cancer-associated stroma,test
+25038,6,normal colon mucosa,test
+31786,3,lymphocytes,test
+86303,8,colorectal adenocarcinoma epithelium,test
+71600,5,smooth muscle,test
+7663,4,mucus,test
+37771,8,colorectal adenocarcinoma epithelium,test
+18038,7,cancer-associated stroma,test
+18206,3,lymphocytes,test
+84686,3,lymphocytes,test
+79781,8,colorectal adenocarcinoma epithelium,test
+19409,1,background,test
+2665,3,lymphocytes,test
+31657,0,adipose,test
+73354,3,lymphocytes,test
+2498,1,background,test
+58220,8,colorectal adenocarcinoma epithelium,test
+37694,4,mucus,test
+28458,5,smooth muscle,test
+21706,8,colorectal adenocarcinoma epithelium,test
+4478,2,debris,test
+66896,2,debris,test
+76308,0,adipose,test
+68306,6,normal colon mucosa,test
+19682,1,background,test
+52919,7,cancer-associated stroma,test
+7679,6,normal colon mucosa,test
+8585,4,mucus,test
+34206,2,debris,test
+6312,1,background,test
+76501,8,colorectal adenocarcinoma epithelium,test
+685,5,smooth muscle,test
+1119,2,debris,test
+53358,3,lymphocytes,test
+16723,2,debris,test
+61712,2,debris,test
+14559,6,normal colon mucosa,test
+69077,5,smooth muscle,test
+86995,7,cancer-associated stroma,test
+52972,2,debris,test
+10714,7,cancer-associated stroma,test
+58484,8,colorectal adenocarcinoma epithelium,test
+84468,8,colorectal adenocarcinoma epithelium,test
+21797,8,colorectal adenocarcinoma epithelium,test
+57166,3,lymphocytes,test
+26711,4,mucus,test
+60972,8,colorectal adenocarcinoma epithelium,test
+40337,3,lymphocytes,test
+40323,4,mucus,test
+79956,0,adipose,test
+3990,3,lymphocytes,test
+78237,7,cancer-associated stroma,test
+59993,4,mucus,test
+27289,3,lymphocytes,test
+39268,2,debris,test
+13067,4,mucus,test
+25871,0,adipose,test
+80674,0,adipose,test
+423,8,colorectal adenocarcinoma epithelium,test
+4492,7,cancer-associated stroma,test
+5636,6,normal colon mucosa,test
+68895,2,debris,test
+73316,8,colorectal adenocarcinoma epithelium,test
+35211,6,normal colon mucosa,test
+61327,5,smooth muscle,test
+45241,4,mucus,test
+27291,8,colorectal adenocarcinoma epithelium,test
+38001,2,debris,test
+44286,3,lymphocytes,test
+57217,2,debris,test
+11538,8,colorectal adenocarcinoma epithelium,test
+7482,2,debris,test
+9756,4,mucus,test
+28261,2,debris,test
+62713,3,lymphocytes,test
+52848,8,colorectal adenocarcinoma epithelium,test
+41932,2,debris,test
+86738,7,cancer-associated stroma,test
+9312,8,colorectal adenocarcinoma epithelium,test
+7542,3,lymphocytes,test
+26136,6,normal colon mucosa,test
+6897,5,smooth muscle,test
+64234,4,mucus,test
+68754,3,lymphocytes,test
+72815,4,mucus,test
+37325,1,background,test
+66780,0,adipose,test
+64807,8,colorectal adenocarcinoma epithelium,test
+3593,8,colorectal adenocarcinoma epithelium,test
+41279,1,background,test
+50443,7,cancer-associated stroma,test
+5093,4,mucus,test
+61969,8,colorectal adenocarcinoma epithelium,test
+5002,7,cancer-associated stroma,test
+19193,8,colorectal adenocarcinoma epithelium,test
+4586,3,lymphocytes,test
+24984,3,lymphocytes,test
+24830,6,normal colon mucosa,test
+60171,5,smooth muscle,test
+11675,1,background,test
+79085,6,normal colon mucosa,test
+6375,7,cancer-associated stroma,test
+46800,1,background,test
+17008,8,colorectal adenocarcinoma epithelium,test
+87032,5,smooth muscle,test
+83532,8,colorectal adenocarcinoma epithelium,test
+50770,6,normal colon mucosa,test
+5615,8,colorectal adenocarcinoma epithelium,test
+15628,6,normal colon mucosa,test
+68662,5,smooth muscle,test
+9257,8,colorectal adenocarcinoma epithelium,test
+47676,6,normal colon mucosa,test
+48196,2,debris,test
+42151,3,lymphocytes,test
+53951,8,colorectal adenocarcinoma epithelium,test
+63432,3,lymphocytes,test
+5504,5,smooth muscle,test
+78486,2,debris,test
+4924,3,lymphocytes,test
+2242,5,smooth muscle,test
+4055,4,mucus,test
+71479,7,cancer-associated stroma,test
+72244,1,background,test
+51611,2,debris,test
+39956,3,lymphocytes,test
+1739,6,normal colon mucosa,test
+35939,1,background,test
+89544,3,lymphocytes,test
+8768,0,adipose,test
+66298,8,colorectal adenocarcinoma epithelium,test
+5998,0,adipose,test
+59732,1,background,test
+1828,7,cancer-associated stroma,test
+1195,5,smooth muscle,test
+4488,4,mucus,test
+43321,5,smooth muscle,test
+14459,7,cancer-associated stroma,test
+64781,8,colorectal adenocarcinoma epithelium,test
+26103,0,adipose,test
+42142,4,mucus,test
+63618,6,normal colon mucosa,test
+361,3,lymphocytes,test
+60856,4,mucus,test
+27529,0,adipose,test
+64731,1,background,test
+58460,6,normal colon mucosa,test
+51862,6,normal colon mucosa,test
+16984,4,mucus,test
+13852,1,background,test
+4996,2,debris,test
+63103,2,debris,test
+1455,4,mucus,test
+68813,4,mucus,test
+84029,1,background,test
+1342,0,adipose,test
+4392,8,colorectal adenocarcinoma epithelium,test
+253,3,lymphocytes,test
+43010,8,colorectal adenocarcinoma epithelium,test
+20371,8,colorectal adenocarcinoma epithelium,test
+17088,2,debris,test
+6812,1,background,test
+68937,1,background,test
+11103,5,smooth muscle,test
+14220,7,cancer-associated stroma,test
+25677,3,lymphocytes,test
+2234,4,mucus,test
+1304,2,debris,test
+6442,3,lymphocytes,test
+63486,2,debris,test
+64638,4,mucus,test
+49311,5,smooth muscle,test
+57116,8,colorectal adenocarcinoma epithelium,test
+6215,1,background,test
+18018,7,cancer-associated stroma,test
+88208,4,mucus,test
+48297,8,colorectal adenocarcinoma epithelium,test
+20324,1,background,test
+16020,2,debris,test
+7901,5,smooth muscle,test
+58865,2,debris,test
+69223,1,background,test
+61367,2,debris,test
+81389,8,colorectal adenocarcinoma epithelium,test
+1764,0,adipose,test
+13200,8,colorectal adenocarcinoma epithelium,test
+9285,6,normal colon mucosa,test
+31077,5,smooth muscle,test
+3279,0,adipose,test
+60742,8,colorectal adenocarcinoma epithelium,test
+1586,2,debris,test
+9767,3,lymphocytes,test
+52126,4,mucus,test
+49966,2,debris,test
+59628,7,cancer-associated stroma,test
+26722,8,colorectal adenocarcinoma epithelium,test
+33984,0,adipose,test
+89164,8,colorectal adenocarcinoma epithelium,test
+6807,5,smooth muscle,test
+73890,8,colorectal adenocarcinoma epithelium,test
+5267,6,normal colon mucosa,test
+58797,1,background,test
+18645,2,debris,test
+52375,8,colorectal adenocarcinoma epithelium,test
+39046,5,smooth muscle,test
+1798,4,mucus,test
+28083,5,smooth muscle,test
+59518,5,smooth muscle,test
+29298,0,adipose,test
+46636,3,lymphocytes,test
+37044,3,lymphocytes,test
+4179,6,normal colon mucosa,test
+86003,8,colorectal adenocarcinoma epithelium,test
+445,4,mucus,test
+3340,5,smooth muscle,test
+39909,0,adipose,test
+13180,7,cancer-associated stroma,test
+24208,6,normal colon mucosa,test
+34375,4,mucus,test
+58684,6,normal colon mucosa,test
+10688,4,mucus,test
+84201,2,debris,test
+60022,0,adipose,test
+50763,3,lymphocytes,test
+65422,6,normal colon mucosa,test
+7634,4,mucus,test
+30455,8,colorectal adenocarcinoma epithelium,test
+6398,6,normal colon mucosa,test
+720,7,cancer-associated stroma,test
+25295,8,colorectal adenocarcinoma epithelium,test
+78698,5,smooth muscle,test
+32599,7,cancer-associated stroma,test
+3414,0,adipose,test
+9284,8,colorectal adenocarcinoma epithelium,test
+46471,1,background,test
+64940,1,background,test
+57500,4,mucus,test
+76,8,colorectal adenocarcinoma epithelium,test
+86678,6,normal colon mucosa,test
+86704,4,mucus,test
+89364,1,background,test
+46997,0,adipose,test
+41187,3,lymphocytes,test
+18753,8,colorectal adenocarcinoma epithelium,test
+9821,0,adipose,test
+52901,3,lymphocytes,test
+7957,5,smooth muscle,test
+3077,4,mucus,test
+53735,3,lymphocytes,test
+33381,1,background,test
+86147,4,mucus,test
+4166,6,normal colon mucosa,test
+52643,8,colorectal adenocarcinoma epithelium,test
+85333,6,normal colon mucosa,test
+60541,1,background,test
+65918,6,normal colon mucosa,test
+28805,7,cancer-associated stroma,test
+80267,7,cancer-associated stroma,test
+40019,2,debris,test
+1409,6,normal colon mucosa,test
+43399,7,cancer-associated stroma,test
+82096,6,normal colon mucosa,test
+34968,0,adipose,test
+50801,2,debris,test
+86304,4,mucus,test
+6705,2,debris,test
+20871,3,lymphocytes,test
+69951,8,colorectal adenocarcinoma epithelium,test
+2582,2,debris,test
+9429,1,background,test
+6989,1,background,test
+83565,8,colorectal adenocarcinoma epithelium,test
+77857,5,smooth muscle,test
+21784,0,adipose,test
+29443,8,colorectal adenocarcinoma epithelium,test
+11079,3,lymphocytes,test
+52106,0,adipose,test
+29650,2,debris,test
+70630,2,debris,test
+67334,7,cancer-associated stroma,test
+8590,7,cancer-associated stroma,test
+52760,1,background,test
+58882,1,background,test
+40297,2,debris,test
+8374,5,smooth muscle,test
+12477,3,lymphocytes,test
+20842,1,background,test
+14988,7,cancer-associated stroma,test
+85290,5,smooth muscle,test
+6373,5,smooth muscle,test
+9281,3,lymphocytes,test
+58272,5,smooth muscle,test
+54426,2,debris,test
+7559,8,colorectal adenocarcinoma epithelium,test
+30749,1,background,test
+3769,3,lymphocytes,test
+57520,5,smooth muscle,test
+7699,1,background,test
+85234,3,lymphocytes,test
+778,6,normal colon mucosa,test
+14090,4,mucus,test
+53724,0,adipose,test
+43145,3,lymphocytes,test
+50320,2,debris,test
+26261,5,smooth muscle,test
+60548,1,background,test
+6233,6,normal colon mucosa,test
+1133,8,colorectal adenocarcinoma epithelium,test
+46694,5,smooth muscle,test
+86106,8,colorectal adenocarcinoma epithelium,test
+3175,0,adipose,test
+31264,5,smooth muscle,test
+14383,5,smooth muscle,test
+75601,8,colorectal adenocarcinoma epithelium,test
+17724,3,lymphocytes,test
+32538,0,adipose,test
+50168,5,smooth muscle,test
+53944,7,cancer-associated stroma,test
+61339,8,colorectal adenocarcinoma epithelium,test
+22870,4,mucus,test
+25227,5,smooth muscle,test
+22716,8,colorectal adenocarcinoma epithelium,test
+47198,3,lymphocytes,test
+85447,2,debris,test
+14063,7,cancer-associated stroma,test
+28374,3,lymphocytes,test
+11192,4,mucus,test
+74197,3,lymphocytes,test
+43072,5,smooth muscle,test
+41148,0,adipose,test
+78424,8,colorectal adenocarcinoma epithelium,test
+702,5,smooth muscle,test
+9365,2,debris,test
+47977,4,mucus,test
+20337,1,background,test
+74029,2,debris,test
+25297,3,lymphocytes,test
+43239,0,adipose,test
+64161,3,lymphocytes,test
+6543,1,background,test
+14177,5,smooth muscle,test
+57447,8,colorectal adenocarcinoma epithelium,test
+10002,5,smooth muscle,test
+42585,6,normal colon mucosa,test
+58059,6,normal colon mucosa,test
+58863,3,lymphocytes,test
+64865,4,mucus,test
+61343,1,background,test
+55904,2,debris,test
+72486,5,smooth muscle,test
+34118,4,mucus,test
+4720,6,normal colon mucosa,test
+88456,8,colorectal adenocarcinoma epithelium,test
+5576,3,lymphocytes,test
+6516,7,cancer-associated stroma,test
+56158,3,lymphocytes,test
+73698,3,lymphocytes,test
+40630,7,cancer-associated stroma,test
+49434,1,background,test
+34034,5,smooth muscle,test
+55252,6,normal colon mucosa,test
+643,2,debris,test
+33127,3,lymphocytes,test
+86804,6,normal colon mucosa,test
+7378,3,lymphocytes,test
+53693,3,lymphocytes,test
+51479,5,smooth muscle,test
+24381,4,mucus,test
+68990,1,background,test
+7747,3,lymphocytes,test
+3247,1,background,test
+62955,1,background,test
+35678,4,mucus,test
+39093,7,cancer-associated stroma,test
+19678,6,normal colon mucosa,test
+44829,8,colorectal adenocarcinoma epithelium,test
+45750,2,debris,test
+44764,7,cancer-associated stroma,test
+82626,5,smooth muscle,test
+32398,3,lymphocytes,test
+56784,5,smooth muscle,test
+80592,7,cancer-associated stroma,test
+1186,5,smooth muscle,test
+1915,6,normal colon mucosa,test
+6227,6,normal colon mucosa,test
+83064,3,lymphocytes,test
+37618,6,normal colon mucosa,test
+88621,1,background,test
+46951,8,colorectal adenocarcinoma epithelium,test
+5670,8,colorectal adenocarcinoma epithelium,test
+5422,7,cancer-associated stroma,test
+52285,8,colorectal adenocarcinoma epithelium,test
+38855,8,colorectal adenocarcinoma epithelium,test
+7456,3,lymphocytes,test
+34488,3,lymphocytes,test
+12653,5,smooth muscle,test
+63366,6,normal colon mucosa,test
+7180,4,mucus,test
+44928,1,background,test
+23683,3,lymphocytes,test
+5350,5,smooth muscle,test
+18373,5,smooth muscle,test
+69559,2,debris,test
+31236,6,normal colon mucosa,test
+9825,0,adipose,test
+58749,8,colorectal adenocarcinoma epithelium,test
+66042,4,mucus,test
+73725,7,cancer-associated stroma,test
+35016,6,normal colon mucosa,test
+44227,0,adipose,test
+18792,1,background,test
+68307,4,mucus,test
+19802,1,background,test
+4824,0,adipose,test
+6768,4,mucus,test
+14494,2,debris,test
+46419,8,colorectal adenocarcinoma epithelium,test
+17056,6,normal colon mucosa,test
+86889,7,cancer-associated stroma,test
+56937,8,colorectal adenocarcinoma epithelium,test
+52365,8,colorectal adenocarcinoma epithelium,test
+55095,4,mucus,test
+85415,3,lymphocytes,test
+12970,8,colorectal adenocarcinoma epithelium,test
+38519,1,background,test
+6701,8,colorectal adenocarcinoma epithelium,test
+85183,1,background,test
+42397,0,adipose,test
+5905,8,colorectal adenocarcinoma epithelium,test
+88702,5,smooth muscle,test
+70168,3,lymphocytes,test
+15659,1,background,test
+24595,1,background,test
+75900,0,adipose,test
+60297,6,normal colon mucosa,test
+75862,7,cancer-associated stroma,test
+47014,8,colorectal adenocarcinoma epithelium,test
+55052,5,smooth muscle,test
+57857,6,normal colon mucosa,test
+31258,8,colorectal adenocarcinoma epithelium,test
+15051,0,adipose,test
+23980,2,debris,test
+59020,5,smooth muscle,test
+62782,6,normal colon mucosa,test
+3616,0,adipose,test
+74730,0,adipose,test
+82403,1,background,test
+40730,2,debris,test
+87812,1,background,test
+1515,7,cancer-associated stroma,test
+69051,4,mucus,test
+67023,0,adipose,test
+5096,4,mucus,test
+37579,7,cancer-associated stroma,test
+8015,2,debris,test
+31296,1,background,test
+39933,3,lymphocytes,test
+2274,1,background,test
+1974,4,mucus,test
+49121,5,smooth muscle,test
+87134,2,debris,test
+35699,0,adipose,test
+72131,1,background,test
+76277,7,cancer-associated stroma,test
+15200,2,debris,test
+54002,6,normal colon mucosa,test
+37241,8,colorectal adenocarcinoma epithelium,test
+56552,3,lymphocytes,test
+5837,4,mucus,test
+1120,8,colorectal adenocarcinoma epithelium,test
+32257,2,debris,test
+561,7,cancer-associated stroma,test
+46074,5,smooth muscle,test
+6635,3,lymphocytes,test
+9237,0,adipose,test
+44413,2,debris,test
+50851,4,mucus,test
+29308,8,colorectal adenocarcinoma epithelium,test
+72877,7,cancer-associated stroma,test
+52403,7,cancer-associated stroma,test
+37230,8,colorectal adenocarcinoma epithelium,test
+62689,8,colorectal adenocarcinoma epithelium,test
+56995,5,smooth muscle,test
+49906,0,adipose,test
+58764,5,smooth muscle,test
+7074,5,smooth muscle,test
+9722,4,mucus,test
+10086,8,colorectal adenocarcinoma epithelium,test
+85606,6,normal colon mucosa,test
+71938,8,colorectal adenocarcinoma epithelium,test
+19396,4,mucus,test
+24791,2,debris,test
+69808,3,lymphocytes,test
+14893,3,lymphocytes,test
+80417,7,cancer-associated stroma,test
+36467,7,cancer-associated stroma,test
+39606,5,smooth muscle,test
+49135,1,background,test
+88790,8,colorectal adenocarcinoma epithelium,test
+52486,8,colorectal adenocarcinoma epithelium,test
+39905,0,adipose,test
+26922,5,smooth muscle,test
+89381,4,mucus,test
+54173,8,colorectal adenocarcinoma epithelium,test
+57314,5,smooth muscle,test
+29505,8,colorectal adenocarcinoma epithelium,test
+1937,7,cancer-associated stroma,test
+1522,0,adipose,test
+74274,8,colorectal adenocarcinoma epithelium,test
+78699,1,background,test
+59083,2,debris,test
+45768,3,lymphocytes,test
+32014,1,background,test
+21140,7,cancer-associated stroma,test
+14928,6,normal colon mucosa,test
+67728,6,normal colon mucosa,test
+9904,8,colorectal adenocarcinoma epithelium,test
+1684,8,colorectal adenocarcinoma epithelium,test
+48389,4,mucus,test
+6627,5,smooth muscle,test
+29428,0,adipose,test
+76779,8,colorectal adenocarcinoma epithelium,test
+9433,3,lymphocytes,test
+53664,3,lymphocytes,test
+8235,1,background,test
+72225,6,normal colon mucosa,test
+314,0,adipose,test
+3958,8,colorectal adenocarcinoma epithelium,test
+1472,2,debris,test
+46570,6,normal colon mucosa,test
+54043,6,normal colon mucosa,test
+85473,6,normal colon mucosa,test
+65630,4,mucus,test

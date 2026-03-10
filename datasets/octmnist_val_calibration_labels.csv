@@ -1,0 +1,1964 @@
+image_index,label_index,label_name,split
+150140,6,Proximal Tubule Segments,val
+13122,6,Proximal Tubule Segments,val
+131291,0,"Collecting Duct, Connecting Tubule",val
+6986,7,Thick Ascending Limb,val
+13729,0,"Collecting Duct, Connecting Tubule",val
+40519,2,Glomerular endothelial cells,val
+27904,0,"Collecting Duct, Connecting Tubule",val
+155998,6,Proximal Tubule Segments,val
+80024,7,Thick Ascending Limb,val
+37857,6,Proximal Tubule Segments,val
+21271,6,Proximal Tubule Segments,val
+158409,3,Interstitial endothelial cells,val
+18789,0,"Collecting Duct, Connecting Tubule",val
+2832,7,Thick Ascending Limb,val
+17275,0,"Collecting Duct, Connecting Tubule",val
+99782,6,Proximal Tubule Segments,val
+28916,0,"Collecting Duct, Connecting Tubule",val
+78212,4,Leukocytes,val
+65258,7,Thick Ascending Limb,val
+44895,0,"Collecting Duct, Connecting Tubule",val
+162976,0,"Collecting Duct, Connecting Tubule",val
+115039,6,Proximal Tubule Segments,val
+125758,3,Interstitial endothelial cells,val
+2875,4,Leukocytes,val
+84948,6,Proximal Tubule Segments,val
+77001,0,"Collecting Duct, Connecting Tubule",val
+91603,0,"Collecting Duct, Connecting Tubule",val
+527,6,Proximal Tubule Segments,val
+132061,4,Leukocytes,val
+53369,3,Interstitial endothelial cells,val
+16141,4,Leukocytes,val
+43116,4,Leukocytes,val
+164062,4,Leukocytes,val
+139518,0,"Collecting Duct, Connecting Tubule",val
+150951,1,Distal Convoluted Tubule,val
+44417,2,Glomerular endothelial cells,val
+84819,0,"Collecting Duct, Connecting Tubule",val
+23031,3,Interstitial endothelial cells,val
+118614,1,Distal Convoluted Tubule,val
+34298,6,Proximal Tubule Segments,val
+19275,7,Thick Ascending Limb,val
+2114,0,"Collecting Duct, Connecting Tubule",val
+146734,0,"Collecting Duct, Connecting Tubule",val
+19928,0,"Collecting Duct, Connecting Tubule",val
+24516,0,"Collecting Duct, Connecting Tubule",val
+47101,0,"Collecting Duct, Connecting Tubule",val
+48700,6,Proximal Tubule Segments,val
+23515,7,Thick Ascending Limb,val
+66107,0,"Collecting Duct, Connecting Tubule",val
+84809,0,"Collecting Duct, Connecting Tubule",val
+9091,6,Proximal Tubule Segments,val
+22780,3,Interstitial endothelial cells,val
+39905,5,Podocytes,val
+130875,0,"Collecting Duct, Connecting Tubule",val
+6452,3,Interstitial endothelial cells,val
+35800,0,"Collecting Duct, Connecting Tubule",val
+5339,6,Proximal Tubule Segments,val
+42978,0,"Collecting Duct, Connecting Tubule",val
+107581,3,Interstitial endothelial cells,val
+32917,0,"Collecting Duct, Connecting Tubule",val
+77144,0,"Collecting Duct, Connecting Tubule",val
+132473,6,Proximal Tubule Segments,val
+158206,2,Glomerular endothelial cells,val
+136682,5,Podocytes,val
+129677,0,"Collecting Duct, Connecting Tubule",val
+132618,2,Glomerular endothelial cells,val
+67179,0,"Collecting Duct, Connecting Tubule",val
+116950,5,Podocytes,val
+43292,6,Proximal Tubule Segments,val
+6679,7,Thick Ascending Limb,val
+19718,5,Podocytes,val
+142295,6,Proximal Tubule Segments,val
+35553,6,Proximal Tubule Segments,val
+22390,6,Proximal Tubule Segments,val
+9423,3,Interstitial endothelial cells,val
+5200,6,Proximal Tubule Segments,val
+126477,0,"Collecting Duct, Connecting Tubule",val
+7914,0,"Collecting Duct, Connecting Tubule",val
+74595,5,Podocytes,val
+165294,7,Thick Ascending Limb,val
+85503,0,"Collecting Duct, Connecting Tubule",val
+163574,0,"Collecting Duct, Connecting Tubule",val
+32417,6,Proximal Tubule Segments,val
+21158,0,"Collecting Duct, Connecting Tubule",val
+11345,4,Leukocytes,val
+5298,7,Thick Ascending Limb,val
+56333,0,"Collecting Duct, Connecting Tubule",val
+55735,6,Proximal Tubule Segments,val
+16583,4,Leukocytes,val
+22967,0,"Collecting Duct, Connecting Tubule",val
+64267,6,Proximal Tubule Segments,val
+26677,3,Interstitial endothelial cells,val
+155850,6,Proximal Tubule Segments,val
+28729,0,"Collecting Duct, Connecting Tubule",val
+9816,7,Thick Ascending Limb,val
+27927,3,Interstitial endothelial cells,val
+29222,0,"Collecting Duct, Connecting Tubule",val
+164939,1,Distal Convoluted Tubule,val
+132551,7,Thick Ascending Limb,val
+51872,4,Leukocytes,val
+92656,0,"Collecting Duct, Connecting Tubule",val
+115383,0,"Collecting Duct, Connecting Tubule",val
+13335,1,Distal Convoluted Tubule,val
+10115,0,"Collecting Duct, Connecting Tubule",val
+12706,4,Leukocytes,val
+3419,3,Interstitial endothelial cells,val
+14897,0,"Collecting Duct, Connecting Tubule",val
+102286,1,Distal Convoluted Tubule,val
+4675,6,Proximal Tubule Segments,val
+142379,0,"Collecting Duct, Connecting Tubule",val
+17008,0,"Collecting Duct, Connecting Tubule",val
+16370,4,Leukocytes,val
+151782,6,Proximal Tubule Segments,val
+108460,0,"Collecting Duct, Connecting Tubule",val
+46462,0,"Collecting Duct, Connecting Tubule",val
+110046,7,Thick Ascending Limb,val
+45267,0,"Collecting Duct, Connecting Tubule",val
+45786,7,Thick Ascending Limb,val
+89554,0,"Collecting Duct, Connecting Tubule",val
+20155,6,Proximal Tubule Segments,val
+58161,6,Proximal Tubule Segments,val
+155397,7,Thick Ascending Limb,val
+57287,7,Thick Ascending Limb,val
+17955,0,"Collecting Duct, Connecting Tubule",val
+106489,0,"Collecting Duct, Connecting Tubule",val
+41916,0,"Collecting Duct, Connecting Tubule",val
+20435,3,Interstitial endothelial cells,val
+42468,4,Leukocytes,val
+146587,0,"Collecting Duct, Connecting Tubule",val
+26176,7,Thick Ascending Limb,val
+40858,1,Distal Convoluted Tubule,val
+42676,0,"Collecting Duct, Connecting Tubule",val
+38325,3,Interstitial endothelial cells,val
+15830,0,"Collecting Duct, Connecting Tubule",val
+48802,0,"Collecting Duct, Connecting Tubule",val
+1804,4,Leukocytes,val
+63151,6,Proximal Tubule Segments,val
+7291,0,"Collecting Duct, Connecting Tubule",val
+153004,7,Thick Ascending Limb,val
+49205,2,Glomerular endothelial cells,val
+154930,0,"Collecting Duct, Connecting Tubule",val
+60338,0,"Collecting Duct, Connecting Tubule",val
+19846,3,Interstitial endothelial cells,val
+4492,0,"Collecting Duct, Connecting Tubule",val
+92924,6,Proximal Tubule Segments,val
+21583,6,Proximal Tubule Segments,val
+10478,6,Proximal Tubule Segments,val
+90879,0,"Collecting Duct, Connecting Tubule",val
+48391,7,Thick Ascending Limb,val
+46335,6,Proximal Tubule Segments,val
+102071,2,Glomerular endothelial cells,val
+34092,7,Thick Ascending Limb,val
+1510,0,"Collecting Duct, Connecting Tubule",val
+1906,0,"Collecting Duct, Connecting Tubule",val
+120916,4,Leukocytes,val
+1305,5,Podocytes,val
+82849,7,Thick Ascending Limb,val
+92425,6,Proximal Tubule Segments,val
+84153,0,"Collecting Duct, Connecting Tubule",val
+1120,2,Glomerular endothelial cells,val
+3428,0,"Collecting Duct, Connecting Tubule",val
+59264,0,"Collecting Duct, Connecting Tubule",val
+40114,4,Leukocytes,val
+147029,5,Podocytes,val
+86339,6,Proximal Tubule Segments,val
+38848,1,Distal Convoluted Tubule,val
+25381,0,"Collecting Duct, Connecting Tubule",val
+2381,6,Proximal Tubule Segments,val
+11275,0,"Collecting Duct, Connecting Tubule",val
+2589,6,Proximal Tubule Segments,val
+132353,0,"Collecting Duct, Connecting Tubule",val
+21791,3,Interstitial endothelial cells,val
+109183,7,Thick Ascending Limb,val
+74847,6,Proximal Tubule Segments,val
+142912,0,"Collecting Duct, Connecting Tubule",val
+53073,3,Interstitial endothelial cells,val
+31967,5,Podocytes,val
+139217,0,"Collecting Duct, Connecting Tubule",val
+60600,7,Thick Ascending Limb,val
+78465,0,"Collecting Duct, Connecting Tubule",val
+36563,0,"Collecting Duct, Connecting Tubule",val
+8451,7,Thick Ascending Limb,val
+4843,0,"Collecting Duct, Connecting Tubule",val
+21655,3,Interstitial endothelial cells,val
+23763,7,Thick Ascending Limb,val
+58449,5,Podocytes,val
+57484,7,Thick Ascending Limb,val
+29570,0,"Collecting Duct, Connecting Tubule",val
+135263,0,"Collecting Duct, Connecting Tubule",val
+21543,4,Leukocytes,val
+45950,3,Interstitial endothelial cells,val
+164563,0,"Collecting Duct, Connecting Tubule",val
+24183,2,Glomerular endothelial cells,val
+112367,0,"Collecting Duct, Connecting Tubule",val
+41237,6,Proximal Tubule Segments,val
+113273,2,Glomerular endothelial cells,val
+29853,4,Leukocytes,val
+19360,7,Thick Ascending Limb,val
+161278,7,Thick Ascending Limb,val
+124404,0,"Collecting Duct, Connecting Tubule",val
+39393,1,Distal Convoluted Tubule,val
+60855,0,"Collecting Duct, Connecting Tubule",val
+101011,0,"Collecting Duct, Connecting Tubule",val
+146806,6,Proximal Tubule Segments,val
+27010,5,Podocytes,val
+152099,0,"Collecting Duct, Connecting Tubule",val
+39257,7,Thick Ascending Limb,val
+82660,0,"Collecting Duct, Connecting Tubule",val
+9018,7,Thick Ascending Limb,val
+2876,7,Thick Ascending Limb,val
+67862,0,"Collecting Duct, Connecting Tubule",val
+20245,6,Proximal Tubule Segments,val
+17874,6,Proximal Tubule Segments,val
+138709,6,Proximal Tubule Segments,val
+128152,0,"Collecting Duct, Connecting Tubule",val
+64402,6,Proximal Tubule Segments,val
+139514,0,"Collecting Duct, Connecting Tubule",val
+151395,3,Interstitial endothelial cells,val
+165188,0,"Collecting Duct, Connecting Tubule",val
+160717,0,"Collecting Duct, Connecting Tubule",val
+77938,0,"Collecting Duct, Connecting Tubule",val
+123060,0,"Collecting Duct, Connecting Tubule",val
+93507,1,Distal Convoluted Tubule,val
+1873,7,Thick Ascending Limb,val
+161702,4,Leukocytes,val
+70252,7,Thick Ascending Limb,val
+11150,0,"Collecting Duct, Connecting Tubule",val
+127720,6,Proximal Tubule Segments,val
+12915,6,Proximal Tubule Segments,val
+16759,0,"Collecting Duct, Connecting Tubule",val
+92863,1,Distal Convoluted Tubule,val
+12728,0,"Collecting Duct, Connecting Tubule",val
+62517,0,"Collecting Duct, Connecting Tubule",val
+14319,3,Interstitial endothelial cells,val
+118635,0,"Collecting Duct, Connecting Tubule",val
+78969,5,Podocytes,val
+15662,7,Thick Ascending Limb,val
+122992,0,"Collecting Duct, Connecting Tubule",val
+120801,0,"Collecting Duct, Connecting Tubule",val
+160379,7,Thick Ascending Limb,val
+141968,6,Proximal Tubule Segments,val
+35536,6,Proximal Tubule Segments,val
+24257,1,Distal Convoluted Tubule,val
+8358,0,"Collecting Duct, Connecting Tubule",val
+72680,0,"Collecting Duct, Connecting Tubule",val
+7368,6,Proximal Tubule Segments,val
+15140,5,Podocytes,val
+18335,2,Glomerular endothelial cells,val
+117706,0,"Collecting Duct, Connecting Tubule",val
+72862,3,Interstitial endothelial cells,val
+145395,7,Thick Ascending Limb,val
+87903,0,"Collecting Duct, Connecting Tubule",val
+19278,1,Distal Convoluted Tubule,val
+150053,0,"Collecting Duct, Connecting Tubule",val
+18436,7,Thick Ascending Limb,val
+18814,7,Thick Ascending Limb,val
+24137,0,"Collecting Duct, Connecting Tubule",val
+37259,2,Glomerular endothelial cells,val
+8432,1,Distal Convoluted Tubule,val
+3459,4,Leukocytes,val
+24768,6,Proximal Tubule Segments,val
+18225,0,"Collecting Duct, Connecting Tubule",val
+29433,0,"Collecting Duct, Connecting Tubule",val
+33904,3,Interstitial endothelial cells,val
+74198,0,"Collecting Duct, Connecting Tubule",val
+22558,0,"Collecting Duct, Connecting Tubule",val
+148280,3,Interstitial endothelial cells,val
+67293,5,Podocytes,val
+6813,0,"Collecting Duct, Connecting Tubule",val
+26013,7,Thick Ascending Limb,val
+17000,6,Proximal Tubule Segments,val
+3459,6,Proximal Tubule Segments,val
+162146,0,"Collecting Duct, Connecting Tubule",val
+4299,6,Proximal Tubule Segments,val
+78707,1,Distal Convoluted Tubule,val
+93906,3,Interstitial endothelial cells,val
+115584,0,"Collecting Duct, Connecting Tubule",val
+34657,1,Distal Convoluted Tubule,val
+35589,5,Podocytes,val
+154288,0,"Collecting Duct, Connecting Tubule",val
+109194,0,"Collecting Duct, Connecting Tubule",val
+18124,0,"Collecting Duct, Connecting Tubule",val
+25146,6,Proximal Tubule Segments,val
+155071,6,Proximal Tubule Segments,val
+122879,0,"Collecting Duct, Connecting Tubule",val
+74857,5,Podocytes,val
+30220,0,"Collecting Duct, Connecting Tubule",val
+4789,6,Proximal Tubule Segments,val
+37625,6,Proximal Tubule Segments,val
+43986,0,"Collecting Duct, Connecting Tubule",val
+129308,7,Thick Ascending Limb,val
+24902,3,Interstitial endothelial cells,val
+10666,3,Interstitial endothelial cells,val
+11883,2,Glomerular endothelial cells,val
+162616,3,Interstitial endothelial cells,val
+7192,0,"Collecting Duct, Connecting Tubule",val
+41045,7,Thick Ascending Limb,val
+45786,0,"Collecting Duct, Connecting Tubule",val
+12817,6,Proximal Tubule Segments,val
+20899,0,"Collecting Duct, Connecting Tubule",val
+32811,1,Distal Convoluted Tubule,val
+36104,0,"Collecting Duct, Connecting Tubule",val
+103304,6,Proximal Tubule Segments,val
+40333,0,"Collecting Duct, Connecting Tubule",val
+37739,0,"Collecting Duct, Connecting Tubule",val
+108037,7,Thick Ascending Limb,val
+48796,6,Proximal Tubule Segments,val
+15725,7,Thick Ascending Limb,val
+149392,0,"Collecting Duct, Connecting Tubule",val
+9798,6,Proximal Tubule Segments,val
+96627,0,"Collecting Duct, Connecting Tubule",val
+46897,0,"Collecting Duct, Connecting Tubule",val
+21244,1,Distal Convoluted Tubule,val
+113000,0,"Collecting Duct, Connecting Tubule",val
+144095,6,Proximal Tubule Segments,val
+158911,6,Proximal Tubule Segments,val
+165324,0,"Collecting Duct, Connecting Tubule",val
+128356,3,Interstitial endothelial cells,val
+66287,0,"Collecting Duct, Connecting Tubule",val
+29971,2,Glomerular endothelial cells,val
+20081,2,Glomerular endothelial cells,val
+160614,1,Distal Convoluted Tubule,val
+124010,7,Thick Ascending Limb,val
+39283,0,"Collecting Duct, Connecting Tubule",val
+126210,3,Interstitial endothelial cells,val
+102615,0,"Collecting Duct, Connecting Tubule",val
+38204,6,Proximal Tubule Segments,val
+7846,0,"Collecting Duct, Connecting Tubule",val
+40036,0,"Collecting Duct, Connecting Tubule",val
+32492,6,Proximal Tubule Segments,val
+5791,6,Proximal Tubule Segments,val
+22779,6,Proximal Tubule Segments,val
+6101,0,"Collecting Duct, Connecting Tubule",val
+2780,0,"Collecting Duct, Connecting Tubule",val
+18503,0,"Collecting Duct, Connecting Tubule",val
+1513,4,Leukocytes,val
+11365,5,Podocytes,val
+82716,4,Leukocytes,val
+20281,0,"Collecting Duct, Connecting Tubule",val
+135616,7,Thick Ascending Limb,val
+160621,0,"Collecting Duct, Connecting Tubule",val
+37444,7,Thick Ascending Limb,val
+152976,0,"Collecting Duct, Connecting Tubule",val
+21653,7,Thick Ascending Limb,val
+15867,6,Proximal Tubule Segments,val
+58129,6,Proximal Tubule Segments,val
+8045,7,Thick Ascending Limb,val
+12303,6,Proximal Tubule Segments,val
+31510,7,Thick Ascending Limb,val
+39914,0,"Collecting Duct, Connecting Tubule",val
+26885,7,Thick Ascending Limb,val
+118722,6,Proximal Tubule Segments,val
+50044,3,Interstitial endothelial cells,val
+102616,3,Interstitial endothelial cells,val
+1988,1,Distal Convoluted Tubule,val
+7734,7,Thick Ascending Limb,val
+44495,3,Interstitial endothelial cells,val
+23826,3,Interstitial endothelial cells,val
+98483,3,Interstitial endothelial cells,val
+75804,3,Interstitial endothelial cells,val
+119409,7,Thick Ascending Limb,val
+34888,6,Proximal Tubule Segments,val
+101178,0,"Collecting Duct, Connecting Tubule",val
+87348,7,Thick Ascending Limb,val
+14313,5,Podocytes,val
+71797,6,Proximal Tubule Segments,val
+35033,0,"Collecting Duct, Connecting Tubule",val
+79748,6,Proximal Tubule Segments,val
+18058,0,"Collecting Duct, Connecting Tubule",val
+7637,6,Proximal Tubule Segments,val
+113416,6,Proximal Tubule Segments,val
+79539,2,Glomerular endothelial cells,val
+41129,7,Thick Ascending Limb,val
+5112,3,Interstitial endothelial cells,val
+138822,0,"Collecting Duct, Connecting Tubule",val
+4756,6,Proximal Tubule Segments,val
+72808,7,Thick Ascending Limb,val
+18994,4,Leukocytes,val
+133855,6,Proximal Tubule Segments,val
+1955,2,Glomerular endothelial cells,val
+28585,0,"Collecting Duct, Connecting Tubule",val
+15835,0,"Collecting Duct, Connecting Tubule",val
+3312,7,Thick Ascending Limb,val
+6833,0,"Collecting Duct, Connecting Tubule",val
+44601,0,"Collecting Duct, Connecting Tubule",val
+36060,6,Proximal Tubule Segments,val
+7532,2,Glomerular endothelial cells,val
+85606,6,Proximal Tubule Segments,val
+18364,0,"Collecting Duct, Connecting Tubule",val
+2529,7,Thick Ascending Limb,val
+23788,7,Thick Ascending Limb,val
+156403,0,"Collecting Duct, Connecting Tubule",val
+21932,0,"Collecting Duct, Connecting Tubule",val
+24208,6,Proximal Tubule Segments,val
+164381,5,Podocytes,val
+20763,6,Proximal Tubule Segments,val
+155048,1,Distal Convoluted Tubule,val
+160727,4,Leukocytes,val
+129958,0,"Collecting Duct, Connecting Tubule",val
+148651,4,Leukocytes,val
+6527,6,Proximal Tubule Segments,val
+37796,2,Glomerular endothelial cells,val
+16887,4,Leukocytes,val
+155426,6,Proximal Tubule Segments,val
+154308,0,"Collecting Duct, Connecting Tubule",val
+31809,0,"Collecting Duct, Connecting Tubule",val
+139864,0,"Collecting Duct, Connecting Tubule",val
+581,6,Proximal Tubule Segments,val
+84161,0,"Collecting Duct, Connecting Tubule",val
+19368,3,Interstitial endothelial cells,val
+47184,6,Proximal Tubule Segments,val
+109295,0,"Collecting Duct, Connecting Tubule",val
+16080,3,Interstitial endothelial cells,val
+25367,0,"Collecting Duct, Connecting Tubule",val
+123134,0,"Collecting Duct, Connecting Tubule",val
+14955,6,Proximal Tubule Segments,val
+35897,1,Distal Convoluted Tubule,val
+13224,4,Leukocytes,val
+133774,0,"Collecting Duct, Connecting Tubule",val
+93930,7,Thick Ascending Limb,val
+106909,7,Thick Ascending Limb,val
+71547,5,Podocytes,val
+101993,4,Leukocytes,val
+106781,6,Proximal Tubule Segments,val
+85535,6,Proximal Tubule Segments,val
+89530,6,Proximal Tubule Segments,val
+23356,0,"Collecting Duct, Connecting Tubule",val
+29866,0,"Collecting Duct, Connecting Tubule",val
+72257,6,Proximal Tubule Segments,val
+142905,0,"Collecting Duct, Connecting Tubule",val
+97060,6,Proximal Tubule Segments,val
+125507,6,Proximal Tubule Segments,val
+37128,6,Proximal Tubule Segments,val
+133594,7,Thick Ascending Limb,val
+1308,2,Glomerular endothelial cells,val
+39570,7,Thick Ascending Limb,val
+32733,6,Proximal Tubule Segments,val
+30532,0,"Collecting Duct, Connecting Tubule",val
+19475,0,"Collecting Duct, Connecting Tubule",val
+23040,6,Proximal Tubule Segments,val
+103743,5,Podocytes,val
+27855,4,Leukocytes,val
+27026,0,"Collecting Duct, Connecting Tubule",val
+44514,0,"Collecting Duct, Connecting Tubule",val
+38151,2,Glomerular endothelial cells,val
+123686,4,Leukocytes,val
+30801,1,Distal Convoluted Tubule,val
+53705,0,"Collecting Duct, Connecting Tubule",val
+13221,0,"Collecting Duct, Connecting Tubule",val
+20860,3,Interstitial endothelial cells,val
+133699,0,"Collecting Duct, Connecting Tubule",val
+149217,7,Thick Ascending Limb,val
+3533,6,Proximal Tubule Segments,val
+8613,7,Thick Ascending Limb,val
+9546,7,Thick Ascending Limb,val
+94452,0,"Collecting Duct, Connecting Tubule",val
+4273,7,Thick Ascending Limb,val
+20881,0,"Collecting Duct, Connecting Tubule",val
+100616,7,Thick Ascending Limb,val
+55753,6,Proximal Tubule Segments,val
+46911,3,Interstitial endothelial cells,val
+127982,0,"Collecting Duct, Connecting Tubule",val
+14928,0,"Collecting Duct, Connecting Tubule",val
+53064,6,Proximal Tubule Segments,val
+105041,0,"Collecting Duct, Connecting Tubule",val
+43983,0,"Collecting Duct, Connecting Tubule",val
+24735,4,Leukocytes,val
+80607,3,Interstitial endothelial cells,val
+126759,0,"Collecting Duct, Connecting Tubule",val
+61194,1,Distal Convoluted Tubule,val
+24152,6,Proximal Tubule Segments,val
+12409,3,Interstitial endothelial cells,val
+19173,6,Proximal Tubule Segments,val
+48058,2,Glomerular endothelial cells,val
+88437,0,"Collecting Duct, Connecting Tubule",val
+92518,7,Thick Ascending Limb,val
+126029,7,Thick Ascending Limb,val
+143210,3,Interstitial endothelial cells,val
+31363,0,"Collecting Duct, Connecting Tubule",val
+18071,0,"Collecting Duct, Connecting Tubule",val
+16050,0,"Collecting Duct, Connecting Tubule",val
+163217,4,Leukocytes,val
+35082,6,Proximal Tubule Segments,val
+35429,6,Proximal Tubule Segments,val
+125583,6,Proximal Tubule Segments,val
+118375,5,Podocytes,val
+7069,6,Proximal Tubule Segments,val
+109848,0,"Collecting Duct, Connecting Tubule",val
+127074,0,"Collecting Duct, Connecting Tubule",val
+145988,3,Interstitial endothelial cells,val
+69453,3,Interstitial endothelial cells,val
+82175,6,Proximal Tubule Segments,val
+100339,0,"Collecting Duct, Connecting Tubule",val
+12004,6,Proximal Tubule Segments,val
+9620,7,Thick Ascending Limb,val
+11923,7,Thick Ascending Limb,val
+154628,6,Proximal Tubule Segments,val
+38203,3,Interstitial endothelial cells,val
+159823,7,Thick Ascending Limb,val
+51733,7,Thick Ascending Limb,val
+110556,0,"Collecting Duct, Connecting Tubule",val
+2160,0,"Collecting Duct, Connecting Tubule",val
+124069,0,"Collecting Duct, Connecting Tubule",val
+114233,0,"Collecting Duct, Connecting Tubule",val
+900,4,Leukocytes,val
+7945,6,Proximal Tubule Segments,val
+112117,6,Proximal Tubule Segments,val
+101161,5,Podocytes,val
+47786,3,Interstitial endothelial cells,val
+105195,4,Leukocytes,val
+21674,0,"Collecting Duct, Connecting Tubule",val
+35401,4,Leukocytes,val
+2898,6,Proximal Tubule Segments,val
+86425,6,Proximal Tubule Segments,val
+25346,0,"Collecting Duct, Connecting Tubule",val
+144817,0,"Collecting Duct, Connecting Tubule",val
+22597,3,Interstitial endothelial cells,val
+1727,6,Proximal Tubule Segments,val
+137420,7,Thick Ascending Limb,val
+75452,7,Thick Ascending Limb,val
+86034,3,Interstitial endothelial cells,val
+126839,3,Interstitial endothelial cells,val
+117412,3,Interstitial endothelial cells,val
+8010,7,Thick Ascending Limb,val
+142731,6,Proximal Tubule Segments,val
+26955,7,Thick Ascending Limb,val
+14587,0,"Collecting Duct, Connecting Tubule",val
+35827,0,"Collecting Duct, Connecting Tubule",val
+158157,6,Proximal Tubule Segments,val
+86316,0,"Collecting Duct, Connecting Tubule",val
+51243,1,Distal Convoluted Tubule,val
+11278,3,Interstitial endothelial cells,val
+20296,6,Proximal Tubule Segments,val
+138346,0,"Collecting Duct, Connecting Tubule",val
+120062,3,Interstitial endothelial cells,val
+10254,0,"Collecting Duct, Connecting Tubule",val
+14264,2,Glomerular endothelial cells,val
+75426,6,Proximal Tubule Segments,val
+138172,7,Thick Ascending Limb,val
+165252,6,Proximal Tubule Segments,val
+21751,6,Proximal Tubule Segments,val
+123837,7,Thick Ascending Limb,val
+34146,0,"Collecting Duct, Connecting Tubule",val
+26193,3,Interstitial endothelial cells,val
+34902,0,"Collecting Duct, Connecting Tubule",val
+21853,6,Proximal Tubule Segments,val
+158509,7,Thick Ascending Limb,val
+161977,7,Thick Ascending Limb,val
+15159,6,Proximal Tubule Segments,val
+103537,0,"Collecting Duct, Connecting Tubule",val
+159603,7,Thick Ascending Limb,val
+127178,0,"Collecting Duct, Connecting Tubule",val
+84073,2,Glomerular endothelial cells,val
+8553,6,Proximal Tubule Segments,val
+33704,2,Glomerular endothelial cells,val
+85038,6,Proximal Tubule Segments,val
+98793,6,Proximal Tubule Segments,val
+20247,6,Proximal Tubule Segments,val
+21754,0,"Collecting Duct, Connecting Tubule",val
+8256,4,Leukocytes,val
+82883,0,"Collecting Duct, Connecting Tubule",val
+53708,5,Podocytes,val
+60469,7,Thick Ascending Limb,val
+80916,0,"Collecting Duct, Connecting Tubule",val
+71000,0,"Collecting Duct, Connecting Tubule",val
+18372,4,Leukocytes,val
+38065,6,Proximal Tubule Segments,val
+39399,3,Interstitial endothelial cells,val
+131437,4,Leukocytes,val
+146087,7,Thick Ascending Limb,val
+21676,0,"Collecting Duct, Connecting Tubule",val
+96626,6,Proximal Tubule Segments,val
+18328,3,Interstitial endothelial cells,val
+70722,3,Interstitial endothelial cells,val
+81145,7,Thick Ascending Limb,val
+10731,2,Glomerular endothelial cells,val
+135657,0,"Collecting Duct, Connecting Tubule",val
+75498,0,"Collecting Duct, Connecting Tubule",val
+46898,6,Proximal Tubule Segments,val
+82832,7,Thick Ascending Limb,val
+140081,7,Thick Ascending Limb,val
+21061,3,Interstitial endothelial cells,val
+40923,6,Proximal Tubule Segments,val
+148866,0,"Collecting Duct, Connecting Tubule",val
+161705,3,Interstitial endothelial cells,val
+90112,7,Thick Ascending Limb,val
+88250,6,Proximal Tubule Segments,val
+26743,3,Interstitial endothelial cells,val
+12715,3,Interstitial endothelial cells,val
+100031,7,Thick Ascending Limb,val
+28175,7,Thick Ascending Limb,val
+44274,5,Podocytes,val
+34278,6,Proximal Tubule Segments,val
+26968,6,Proximal Tubule Segments,val
+8741,7,Thick Ascending Limb,val
+150611,6,Proximal Tubule Segments,val
+83072,1,Distal Convoluted Tubule,val
+2616,6,Proximal Tubule Segments,val
+24782,5,Podocytes,val
+144664,6,Proximal Tubule Segments,val
+23736,0,"Collecting Duct, Connecting Tubule",val
+147047,7,Thick Ascending Limb,val
+2020,0,"Collecting Duct, Connecting Tubule",val
+120200,1,Distal Convoluted Tubule,val
+41146,0,"Collecting Duct, Connecting Tubule",val
+26258,6,Proximal Tubule Segments,val
+129821,0,"Collecting Duct, Connecting Tubule",val
+108510,0,"Collecting Duct, Connecting Tubule",val
+33387,1,Distal Convoluted Tubule,val
+42038,3,Interstitial endothelial cells,val
+34871,0,"Collecting Duct, Connecting Tubule",val
+2338,7,Thick Ascending Limb,val
+13084,3,Interstitial endothelial cells,val
+128276,0,"Collecting Duct, Connecting Tubule",val
+144843,3,Interstitial endothelial cells,val
+36801,1,Distal Convoluted Tubule,val
+163670,3,Interstitial endothelial cells,val
+125768,0,"Collecting Duct, Connecting Tubule",val
+15883,0,"Collecting Duct, Connecting Tubule",val
+6052,6,Proximal Tubule Segments,val
+67248,7,Thick Ascending Limb,val
+46049,3,Interstitial endothelial cells,val
+160891,7,Thick Ascending Limb,val
+5701,6,Proximal Tubule Segments,val
+121215,6,Proximal Tubule Segments,val
+28029,6,Proximal Tubule Segments,val
+27192,0,"Collecting Duct, Connecting Tubule",val
+81095,7,Thick Ascending Limb,val
+5561,6,Proximal Tubule Segments,val
+50847,0,"Collecting Duct, Connecting Tubule",val
+1328,0,"Collecting Duct, Connecting Tubule",val
+151700,0,"Collecting Duct, Connecting Tubule",val
+37642,6,Proximal Tubule Segments,val
+6458,6,Proximal Tubule Segments,val
+1850,0,"Collecting Duct, Connecting Tubule",val
+39141,5,Podocytes,val
+115688,3,Interstitial endothelial cells,val
+33020,0,"Collecting Duct, Connecting Tubule",val
+57164,3,Interstitial endothelial cells,val
+5453,0,"Collecting Duct, Connecting Tubule",val
+78580,0,"Collecting Duct, Connecting Tubule",val
+15075,6,Proximal Tubule Segments,val
+3850,7,Thick Ascending Limb,val
+26318,7,Thick Ascending Limb,val
+60734,6,Proximal Tubule Segments,val
+88007,0,"Collecting Duct, Connecting Tubule",val
+143510,0,"Collecting Duct, Connecting Tubule",val
+145901,5,Podocytes,val
+35923,0,"Collecting Duct, Connecting Tubule",val
+76137,3,Interstitial endothelial cells,val
+18751,2,Glomerular endothelial cells,val
+37066,7,Thick Ascending Limb,val
+83624,6,Proximal Tubule Segments,val
+94218,7,Thick Ascending Limb,val
+33220,5,Podocytes,val
+4353,4,Leukocytes,val
+1391,7,Thick Ascending Limb,val
+105084,2,Glomerular endothelial cells,val
+15200,6,Proximal Tubule Segments,val
+10804,6,Proximal Tubule Segments,val
+16450,3,Interstitial endothelial cells,val
+76962,0,"Collecting Duct, Connecting Tubule",val
+24238,6,Proximal Tubule Segments,val
+131484,6,Proximal Tubule Segments,val
+10069,4,Leukocytes,val
+71310,7,Thick Ascending Limb,val
+23932,6,Proximal Tubule Segments,val
+38951,0,"Collecting Duct, Connecting Tubule",val
+77334,6,Proximal Tubule Segments,val
+93588,7,Thick Ascending Limb,val
+44750,0,"Collecting Duct, Connecting Tubule",val
+117677,7,Thick Ascending Limb,val
+3112,1,Distal Convoluted Tubule,val
+102564,0,"Collecting Duct, Connecting Tubule",val
+94194,1,Distal Convoluted Tubule,val
+67510,0,"Collecting Duct, Connecting Tubule",val
+135243,5,Podocytes,val
+70471,6,Proximal Tubule Segments,val
+31308,6,Proximal Tubule Segments,val
+935,0,"Collecting Duct, Connecting Tubule",val
+53689,0,"Collecting Duct, Connecting Tubule",val
+14701,6,Proximal Tubule Segments,val
+3372,7,Thick Ascending Limb,val
+13015,7,Thick Ascending Limb,val
+163367,0,"Collecting Duct, Connecting Tubule",val
+3169,7,Thick Ascending Limb,val
+28827,0,"Collecting Duct, Connecting Tubule",val
+2924,3,Interstitial endothelial cells,val
+157482,0,"Collecting Duct, Connecting Tubule",val
+10319,0,"Collecting Duct, Connecting Tubule",val
+24159,7,Thick Ascending Limb,val
+20191,0,"Collecting Duct, Connecting Tubule",val
+42939,3,Interstitial endothelial cells,val
+10389,0,"Collecting Duct, Connecting Tubule",val
+35533,3,Interstitial endothelial cells,val
+120950,6,Proximal Tubule Segments,val
+4669,6,Proximal Tubule Segments,val
+76684,0,"Collecting Duct, Connecting Tubule",val
+95063,6,Proximal Tubule Segments,val
+81594,6,Proximal Tubule Segments,val
+26916,0,"Collecting Duct, Connecting Tubule",val
+146138,6,Proximal Tubule Segments,val
+123804,0,"Collecting Duct, Connecting Tubule",val
+18836,0,"Collecting Duct, Connecting Tubule",val
+67561,6,Proximal Tubule Segments,val
+152490,6,Proximal Tubule Segments,val
+64796,1,Distal Convoluted Tubule,val
+68497,1,Distal Convoluted Tubule,val
+133191,0,"Collecting Duct, Connecting Tubule",val
+2818,6,Proximal Tubule Segments,val
+18313,0,"Collecting Duct, Connecting Tubule",val
+22477,7,Thick Ascending Limb,val
+31635,0,"Collecting Duct, Connecting Tubule",val
+20830,0,"Collecting Duct, Connecting Tubule",val
+104844,0,"Collecting Duct, Connecting Tubule",val
+122677,0,"Collecting Duct, Connecting Tubule",val
+20757,0,"Collecting Duct, Connecting Tubule",val
+89637,4,Leukocytes,val
+38139,1,Distal Convoluted Tubule,val
+155643,7,Thick Ascending Limb,val
+60739,7,Thick Ascending Limb,val
+22784,7,Thick Ascending Limb,val
+50108,3,Interstitial endothelial cells,val
+24045,0,"Collecting Duct, Connecting Tubule",val
+121956,6,Proximal Tubule Segments,val
+35860,0,"Collecting Duct, Connecting Tubule",val
+141115,2,Glomerular endothelial cells,val
+48743,7,Thick Ascending Limb,val
+33387,1,Distal Convoluted Tubule,val
+97004,6,Proximal Tubule Segments,val
+124954,2,Glomerular endothelial cells,val
+4440,0,"Collecting Duct, Connecting Tubule",val
+55563,0,"Collecting Duct, Connecting Tubule",val
+38581,7,Thick Ascending Limb,val
+129403,2,Glomerular endothelial cells,val
+2114,5,Podocytes,val
+79861,2,Glomerular endothelial cells,val
+14288,7,Thick Ascending Limb,val
+134569,0,"Collecting Duct, Connecting Tubule",val
+27403,6,Proximal Tubule Segments,val
+124263,0,"Collecting Duct, Connecting Tubule",val
+29637,5,Podocytes,val
+123589,6,Proximal Tubule Segments,val
+41993,5,Podocytes,val
+32325,0,"Collecting Duct, Connecting Tubule",val
+10889,0,"Collecting Duct, Connecting Tubule",val
+21051,1,Distal Convoluted Tubule,val
+29324,6,Proximal Tubule Segments,val
+39047,0,"Collecting Duct, Connecting Tubule",val
+22401,0,"Collecting Duct, Connecting Tubule",val
+51516,6,Proximal Tubule Segments,val
+58044,0,"Collecting Duct, Connecting Tubule",val
+11086,0,"Collecting Duct, Connecting Tubule",val
+165101,6,Proximal Tubule Segments,val
+37188,0,"Collecting Duct, Connecting Tubule",val
+38300,7,Thick Ascending Limb,val
+34765,0,"Collecting Duct, Connecting Tubule",val
+66882,6,Proximal Tubule Segments,val
+155317,7,Thick Ascending Limb,val
+132023,6,Proximal Tubule Segments,val
+11940,1,Distal Convoluted Tubule,val
+3720,6,Proximal Tubule Segments,val
+20567,0,"Collecting Duct, Connecting Tubule",val
+1871,6,Proximal Tubule Segments,val
+17163,0,"Collecting Duct, Connecting Tubule",val
+4674,7,Thick Ascending Limb,val
+5929,3,Interstitial endothelial cells,val
+56643,0,"Collecting Duct, Connecting Tubule",val
+75490,4,Leukocytes,val
+81883,0,"Collecting Duct, Connecting Tubule",val
+13648,0,"Collecting Duct, Connecting Tubule",val
+31201,5,Podocytes,val
+270,3,Interstitial endothelial cells,val
+150608,0,"Collecting Duct, Connecting Tubule",val
+82136,3,Interstitial endothelial cells,val
+156616,6,Proximal Tubule Segments,val
+2446,1,Distal Convoluted Tubule,val
+22730,3,Interstitial endothelial cells,val
+33582,0,"Collecting Duct, Connecting Tubule",val
+1174,6,Proximal Tubule Segments,val
+81990,0,"Collecting Duct, Connecting Tubule",val
+54213,3,Interstitial endothelial cells,val
+362,3,Interstitial endothelial cells,val
+34067,5,Podocytes,val
+125756,3,Interstitial endothelial cells,val
+140137,6,Proximal Tubule Segments,val
+2714,3,Interstitial endothelial cells,val
+95125,6,Proximal Tubule Segments,val
+164228,7,Thick Ascending Limb,val
+26923,7,Thick Ascending Limb,val
+124728,3,Interstitial endothelial cells,val
+134936,0,"Collecting Duct, Connecting Tubule",val
+138632,4,Leukocytes,val
+154033,7,Thick Ascending Limb,val
+44292,0,"Collecting Duct, Connecting Tubule",val
+28675,1,Distal Convoluted Tubule,val
+107079,0,"Collecting Duct, Connecting Tubule",val
+30595,6,Proximal Tubule Segments,val
+18902,0,"Collecting Duct, Connecting Tubule",val
+6577,3,Interstitial endothelial cells,val
+38497,7,Thick Ascending Limb,val
+26792,0,"Collecting Duct, Connecting Tubule",val
+66533,4,Leukocytes,val
+97792,0,"Collecting Duct, Connecting Tubule",val
+119447,6,Proximal Tubule Segments,val
+77574,6,Proximal Tubule Segments,val
+159971,3,Interstitial endothelial cells,val
+22674,1,Distal Convoluted Tubule,val
+160233,6,Proximal Tubule Segments,val
+87895,6,Proximal Tubule Segments,val
+11796,6,Proximal Tubule Segments,val
+4091,0,"Collecting Duct, Connecting Tubule",val
+4175,6,Proximal Tubule Segments,val
+16079,0,"Collecting Duct, Connecting Tubule",val
+25939,4,Leukocytes,val
+35736,7,Thick Ascending Limb,val
+53228,6,Proximal Tubule Segments,val
+103947,0,"Collecting Duct, Connecting Tubule",val
+122226,4,Leukocytes,val
+26831,0,"Collecting Duct, Connecting Tubule",val
+25474,0,"Collecting Duct, Connecting Tubule",val
+71512,3,Interstitial endothelial cells,val
+136766,6,Proximal Tubule Segments,val
+14524,0,"Collecting Duct, Connecting Tubule",val
+141315,0,"Collecting Duct, Connecting Tubule",val
+48794,5,Podocytes,val
+160867,6,Proximal Tubule Segments,val
+153388,0,"Collecting Duct, Connecting Tubule",val
+80965,0,"Collecting Duct, Connecting Tubule",val
+114237,4,Leukocytes,val
+47794,0,"Collecting Duct, Connecting Tubule",val
+47211,6,Proximal Tubule Segments,val
+2787,6,Proximal Tubule Segments,val
+8803,7,Thick Ascending Limb,val
+44816,1,Distal Convoluted Tubule,val
+92786,7,Thick Ascending Limb,val
+12427,0,"Collecting Duct, Connecting Tubule",val
+27276,6,Proximal Tubule Segments,val
+56083,0,"Collecting Duct, Connecting Tubule",val
+110081,0,"Collecting Duct, Connecting Tubule",val
+71251,0,"Collecting Duct, Connecting Tubule",val
+27742,6,Proximal Tubule Segments,val
+121238,4,Leukocytes,val
+33243,4,Leukocytes,val
+6204,3,Interstitial endothelial cells,val
+31565,6,Proximal Tubule Segments,val
+52973,6,Proximal Tubule Segments,val
+4750,5,Podocytes,val
+2061,6,Proximal Tubule Segments,val
+16505,6,Proximal Tubule Segments,val
+3062,6,Proximal Tubule Segments,val
+44887,0,"Collecting Duct, Connecting Tubule",val
+141276,3,Interstitial endothelial cells,val
+466,5,Podocytes,val
+12109,0,"Collecting Duct, Connecting Tubule",val
+76179,6,Proximal Tubule Segments,val
+11702,7,Thick Ascending Limb,val
+9661,6,Proximal Tubule Segments,val
+162959,7,Thick Ascending Limb,val
+118381,0,"Collecting Duct, Connecting Tubule",val
+56511,0,"Collecting Duct, Connecting Tubule",val
+72601,5,Podocytes,val
+134164,6,Proximal Tubule Segments,val
+23564,1,Distal Convoluted Tubule,val
+114093,0,"Collecting Duct, Connecting Tubule",val
+43258,0,"Collecting Duct, Connecting Tubule",val
+23716,4,Leukocytes,val
+74423,2,Glomerular endothelial cells,val
+117349,0,"Collecting Duct, Connecting Tubule",val
+162368,4,Leukocytes,val
+108166,3,Interstitial endothelial cells,val
+37819,6,Proximal Tubule Segments,val
+21459,1,Distal Convoluted Tubule,val
+20793,7,Thick Ascending Limb,val
+97019,5,Podocytes,val
+95747,0,"Collecting Duct, Connecting Tubule",val
+148002,6,Proximal Tubule Segments,val
+35536,0,"Collecting Duct, Connecting Tubule",val
+71153,7,Thick Ascending Limb,val
+4983,3,Interstitial endothelial cells,val
+143065,1,Distal Convoluted Tubule,val
+8993,2,Glomerular endothelial cells,val
+48376,7,Thick Ascending Limb,val
+68563,6,Proximal Tubule Segments,val
+11282,6,Proximal Tubule Segments,val
+128487,0,"Collecting Duct, Connecting Tubule",val
+54061,2,Glomerular endothelial cells,val
+104053,0,"Collecting Duct, Connecting Tubule",val
+24564,4,Leukocytes,val
+63110,1,Distal Convoluted Tubule,val
+1087,5,Podocytes,val
+101244,3,Interstitial endothelial cells,val
+39270,7,Thick Ascending Limb,val
+120527,4,Leukocytes,val
+48785,0,"Collecting Duct, Connecting Tubule",val
+77381,0,"Collecting Duct, Connecting Tubule",val
+56438,7,Thick Ascending Limb,val
+116434,0,"Collecting Duct, Connecting Tubule",val
+4818,7,Thick Ascending Limb,val
+100281,4,Leukocytes,val
+81624,5,Podocytes,val
+46420,6,Proximal Tubule Segments,val
+13120,2,Glomerular endothelial cells,val
+91641,1,Distal Convoluted Tubule,val
+40729,1,Distal Convoluted Tubule,val
+146654,6,Proximal Tubule Segments,val
+13299,1,Distal Convoluted Tubule,val
+11377,4,Leukocytes,val
+122758,0,"Collecting Duct, Connecting Tubule",val
+70219,1,Distal Convoluted Tubule,val
+40668,0,"Collecting Duct, Connecting Tubule",val
+93423,3,Interstitial endothelial cells,val
+21819,7,Thick Ascending Limb,val
+15341,4,Leukocytes,val
+4360,0,"Collecting Duct, Connecting Tubule",val
+159309,0,"Collecting Duct, Connecting Tubule",val
+42414,1,Distal Convoluted Tubule,val
+47220,0,"Collecting Duct, Connecting Tubule",val
+16359,6,Proximal Tubule Segments,val
+117896,6,Proximal Tubule Segments,val
+123619,0,"Collecting Duct, Connecting Tubule",val
+17709,7,Thick Ascending Limb,val
+121645,7,Thick Ascending Limb,val
+161547,6,Proximal Tubule Segments,val
+100578,6,Proximal Tubule Segments,val
+57468,0,"Collecting Duct, Connecting Tubule",val
+31926,6,Proximal Tubule Segments,val
+147472,6,Proximal Tubule Segments,val
+104758,3,Interstitial endothelial cells,val
+24493,0,"Collecting Duct, Connecting Tubule",val
+13680,6,Proximal Tubule Segments,val
+34639,1,Distal Convoluted Tubule,val
+22423,0,"Collecting Duct, Connecting Tubule",val
+72214,6,Proximal Tubule Segments,val
+3231,3,Interstitial endothelial cells,val
+75773,5,Podocytes,val
+119439,7,Thick Ascending Limb,val
+110788,0,"Collecting Duct, Connecting Tubule",val
+12675,0,"Collecting Duct, Connecting Tubule",val
+16297,4,Leukocytes,val
+29513,0,"Collecting Duct, Connecting Tubule",val
+76558,0,"Collecting Duct, Connecting Tubule",val
+83604,6,Proximal Tubule Segments,val
+38404,6,Proximal Tubule Segments,val
+55820,4,Leukocytes,val
+66652,6,Proximal Tubule Segments,val
+109361,0,"Collecting Duct, Connecting Tubule",val
+46427,0,"Collecting Duct, Connecting Tubule",val
+22943,7,Thick Ascending Limb,val
+2469,0,"Collecting Duct, Connecting Tubule",val
+138170,7,Thick Ascending Limb,val
+46354,7,Thick Ascending Limb,val
+45391,0,"Collecting Duct, Connecting Tubule",val
+39814,1,Distal Convoluted Tubule,val
+5408,6,Proximal Tubule Segments,val
+26794,6,Proximal Tubule Segments,val
+12167,0,"Collecting Duct, Connecting Tubule",val
+126513,0,"Collecting Duct, Connecting Tubule",val
+10137,0,"Collecting Duct, Connecting Tubule",val
+27277,6,Proximal Tubule Segments,val
+10156,0,"Collecting Duct, Connecting Tubule",val
+74633,0,"Collecting Duct, Connecting Tubule",val
+14481,3,Interstitial endothelial cells,val
+36814,2,Glomerular endothelial cells,val
+154036,4,Leukocytes,val
+113277,6,Proximal Tubule Segments,val
+160886,0,"Collecting Duct, Connecting Tubule",val
+40752,3,Interstitial endothelial cells,val
+33653,3,Interstitial endothelial cells,val
+116276,0,"Collecting Duct, Connecting Tubule",val
+155772,0,"Collecting Duct, Connecting Tubule",val
+70211,0,"Collecting Duct, Connecting Tubule",val
+45739,0,"Collecting Duct, Connecting Tubule",val
+28249,2,Glomerular endothelial cells,val
+124641,0,"Collecting Duct, Connecting Tubule",val
+3128,0,"Collecting Duct, Connecting Tubule",val
+6628,0,"Collecting Duct, Connecting Tubule",val
+30233,0,"Collecting Duct, Connecting Tubule",val
+13439,0,"Collecting Duct, Connecting Tubule",val
+66569,6,Proximal Tubule Segments,val
+100340,7,Thick Ascending Limb,val
+22419,0,"Collecting Duct, Connecting Tubule",val
+151006,7,Thick Ascending Limb,val
+63859,4,Leukocytes,val
+120267,3,Interstitial endothelial cells,val
+21940,3,Interstitial endothelial cells,val
+80730,6,Proximal Tubule Segments,val
+51821,0,"Collecting Duct, Connecting Tubule",val
+112750,6,Proximal Tubule Segments,val
+65519,7,Thick Ascending Limb,val
+20888,1,Distal Convoluted Tubule,val
+21435,7,Thick Ascending Limb,val
+72936,4,Leukocytes,val
+4977,0,"Collecting Duct, Connecting Tubule",val
+120008,4,Leukocytes,val
+164002,2,Glomerular endothelial cells,val
+46272,6,Proximal Tubule Segments,val
+118985,0,"Collecting Duct, Connecting Tubule",val
+77936,1,Distal Convoluted Tubule,val
+10293,0,"Collecting Duct, Connecting Tubule",val
+6576,5,Podocytes,val
+80228,6,Proximal Tubule Segments,val
+16351,7,Thick Ascending Limb,val
+109839,0,"Collecting Duct, Connecting Tubule",val
+159175,4,Leukocytes,val
+34535,0,"Collecting Duct, Connecting Tubule",val
+80753,5,Podocytes,val
+112255,0,"Collecting Duct, Connecting Tubule",val
+22294,0,"Collecting Duct, Connecting Tubule",val
+137930,6,Proximal Tubule Segments,val
+48614,3,Interstitial endothelial cells,val
+31448,5,Podocytes,val
+153086,0,"Collecting Duct, Connecting Tubule",val
+18172,0,"Collecting Duct, Connecting Tubule",val
+69628,0,"Collecting Duct, Connecting Tubule",val
+31394,2,Glomerular endothelial cells,val
+43177,0,"Collecting Duct, Connecting Tubule",val
+124979,2,Glomerular endothelial cells,val
+30904,1,Distal Convoluted Tubule,val
+62405,0,"Collecting Duct, Connecting Tubule",val
+140586,3,Interstitial endothelial cells,val
+137292,1,Distal Convoluted Tubule,val
+87721,7,Thick Ascending Limb,val
+28018,0,"Collecting Duct, Connecting Tubule",val
+95749,7,Thick Ascending Limb,val
+150812,7,Thick Ascending Limb,val
+131661,5,Podocytes,val
+40167,0,"Collecting Duct, Connecting Tubule",val
+22184,0,"Collecting Duct, Connecting Tubule",val
+12028,0,"Collecting Duct, Connecting Tubule",val
+18318,0,"Collecting Duct, Connecting Tubule",val
+161697,6,Proximal Tubule Segments,val
+842,4,Leukocytes,val
+17496,0,"Collecting Duct, Connecting Tubule",val
+91234,7,Thick Ascending Limb,val
+100487,6,Proximal Tubule Segments,val
+125256,4,Leukocytes,val
+27634,7,Thick Ascending Limb,val
+35338,7,Thick Ascending Limb,val
+128821,0,"Collecting Duct, Connecting Tubule",val
+14586,3,Interstitial endothelial cells,val
+83916,2,Glomerular endothelial cells,val
+29336,6,Proximal Tubule Segments,val
+131964,6,Proximal Tubule Segments,val
+45669,4,Leukocytes,val
+45436,3,Interstitial endothelial cells,val
+14464,6,Proximal Tubule Segments,val
+91360,6,Proximal Tubule Segments,val
+16819,0,"Collecting Duct, Connecting Tubule",val
+29273,0,"Collecting Duct, Connecting Tubule",val
+13889,0,"Collecting Duct, Connecting Tubule",val
+11392,4,Leukocytes,val
+18082,0,"Collecting Duct, Connecting Tubule",val
+3839,1,Distal Convoluted Tubule,val
+116567,0,"Collecting Duct, Connecting Tubule",val
+5708,6,Proximal Tubule Segments,val
+95521,0,"Collecting Duct, Connecting Tubule",val
+95911,6,Proximal Tubule Segments,val
+35038,0,"Collecting Duct, Connecting Tubule",val
+9712,0,"Collecting Duct, Connecting Tubule",val
+3278,6,Proximal Tubule Segments,val
+3011,6,Proximal Tubule Segments,val
+32316,0,"Collecting Duct, Connecting Tubule",val
+125489,0,"Collecting Duct, Connecting Tubule",val
+3046,1,Distal Convoluted Tubule,val
+6069,0,"Collecting Duct, Connecting Tubule",val
+37584,0,"Collecting Duct, Connecting Tubule",val
+70241,0,"Collecting Duct, Connecting Tubule",val
+70831,0,"Collecting Duct, Connecting Tubule",val
+100817,7,Thick Ascending Limb,val
+33609,7,Thick Ascending Limb,val
+66242,6,Proximal Tubule Segments,val
+6999,7,Thick Ascending Limb,val
+80582,3,Interstitial endothelial cells,val
+67044,3,Interstitial endothelial cells,val
+33371,0,"Collecting Duct, Connecting Tubule",val
+108964,0,"Collecting Duct, Connecting Tubule",val
+78380,6,Proximal Tubule Segments,val
+13878,4,Leukocytes,val
+47805,0,"Collecting Duct, Connecting Tubule",val
+95208,3,Interstitial endothelial cells,val
+65850,0,"Collecting Duct, Connecting Tubule",val
+35842,5,Podocytes,val
+5485,6,Proximal Tubule Segments,val
+95277,7,Thick Ascending Limb,val
+21180,0,"Collecting Duct, Connecting Tubule",val
+102827,7,Thick Ascending Limb,val
+24750,0,"Collecting Duct, Connecting Tubule",val
+18728,6,Proximal Tubule Segments,val
+40031,0,"Collecting Duct, Connecting Tubule",val
+164132,7,Thick Ascending Limb,val
+143064,0,"Collecting Duct, Connecting Tubule",val
+45061,7,Thick Ascending Limb,val
+124220,4,Leukocytes,val
+137912,6,Proximal Tubule Segments,val
+11782,4,Leukocytes,val
+28955,0,"Collecting Duct, Connecting Tubule",val
+18454,0,"Collecting Duct, Connecting Tubule",val
+21757,0,"Collecting Duct, Connecting Tubule",val
+78093,0,"Collecting Duct, Connecting Tubule",val
+18468,0,"Collecting Duct, Connecting Tubule",val
+131658,0,"Collecting Duct, Connecting Tubule",val
+111199,0,"Collecting Duct, Connecting Tubule",val
+38114,7,Thick Ascending Limb,val
+61574,3,Interstitial endothelial cells,val
+122583,0,"Collecting Duct, Connecting Tubule",val
+8298,0,"Collecting Duct, Connecting Tubule",val
+3515,6,Proximal Tubule Segments,val
+59256,6,Proximal Tubule Segments,val
+17937,0,"Collecting Duct, Connecting Tubule",val
+24486,0,"Collecting Duct, Connecting Tubule",val
+3046,3,Interstitial endothelial cells,val
+79749,0,"Collecting Duct, Connecting Tubule",val
+41701,3,Interstitial endothelial cells,val
+40840,6,Proximal Tubule Segments,val
+131483,0,"Collecting Duct, Connecting Tubule",val
+14598,0,"Collecting Duct, Connecting Tubule",val
+61061,0,"Collecting Duct, Connecting Tubule",val
+28776,5,Podocytes,val
+90857,6,Proximal Tubule Segments,val
+121693,7,Thick Ascending Limb,val
+13751,0,"Collecting Duct, Connecting Tubule",val
+156614,2,Glomerular endothelial cells,val
+82283,6,Proximal Tubule Segments,val
+33236,7,Thick Ascending Limb,val
+14527,0,"Collecting Duct, Connecting Tubule",val
+13339,0,"Collecting Duct, Connecting Tubule",val
+39007,0,"Collecting Duct, Connecting Tubule",val
+43220,4,Leukocytes,val
+63693,7,Thick Ascending Limb,val
+71959,6,Proximal Tubule Segments,val
+157388,4,Leukocytes,val
+147595,3,Interstitial endothelial cells,val
+14046,3,Interstitial endothelial cells,val
+139556,6,Proximal Tubule Segments,val
+27590,6,Proximal Tubule Segments,val
+26116,0,"Collecting Duct, Connecting Tubule",val
+123830,0,"Collecting Duct, Connecting Tubule",val
+84231,1,Distal Convoluted Tubule,val
+89590,0,"Collecting Duct, Connecting Tubule",val
+150354,7,Thick Ascending Limb,val
+66604,0,"Collecting Duct, Connecting Tubule",val
+150141,4,Leukocytes,val
+12297,6,Proximal Tubule Segments,val
+37963,0,"Collecting Duct, Connecting Tubule",val
+78338,5,Podocytes,val
+62652,2,Glomerular endothelial cells,val
+396,0,"Collecting Duct, Connecting Tubule",val
+18955,0,"Collecting Duct, Connecting Tubule",val
+63222,5,Podocytes,val
+147362,3,Interstitial endothelial cells,val
+45929,0,"Collecting Duct, Connecting Tubule",val
+43376,6,Proximal Tubule Segments,val
+108994,7,Thick Ascending Limb,val
+93657,3,Interstitial endothelial cells,val
+98132,0,"Collecting Duct, Connecting Tubule",val
+42869,7,Thick Ascending Limb,val
+50666,7,Thick Ascending Limb,val
+112473,7,Thick Ascending Limb,val
+119817,0,"Collecting Duct, Connecting Tubule",val
+62865,7,Thick Ascending Limb,val
+6273,6,Proximal Tubule Segments,val
+25347,5,Podocytes,val
+15342,6,Proximal Tubule Segments,val
+64755,6,Proximal Tubule Segments,val
+61546,7,Thick Ascending Limb,val
+66079,4,Leukocytes,val
+159627,3,Interstitial endothelial cells,val
+7754,5,Podocytes,val
+26743,0,"Collecting Duct, Connecting Tubule",val
+134931,4,Leukocytes,val
+148479,7,Thick Ascending Limb,val
+23494,5,Podocytes,val
+717,0,"Collecting Duct, Connecting Tubule",val
+25690,6,Proximal Tubule Segments,val
+14288,5,Podocytes,val
+10251,6,Proximal Tubule Segments,val
+8622,0,"Collecting Duct, Connecting Tubule",val
+7152,6,Proximal Tubule Segments,val
+31832,4,Leukocytes,val
+23140,0,"Collecting Duct, Connecting Tubule",val
+8939,0,"Collecting Duct, Connecting Tubule",val
+135139,6,Proximal Tubule Segments,val
+25882,0,"Collecting Duct, Connecting Tubule",val
+140780,5,Podocytes,val
+96991,7,Thick Ascending Limb,val
+19898,4,Leukocytes,val
+1380,5,Podocytes,val
+41554,3,Interstitial endothelial cells,val
+71824,7,Thick Ascending Limb,val
+78827,0,"Collecting Duct, Connecting Tubule",val
+109227,0,"Collecting Duct, Connecting Tubule",val
+5813,6,Proximal Tubule Segments,val
+42594,0,"Collecting Duct, Connecting Tubule",val
+25188,6,Proximal Tubule Segments,val
+42299,0,"Collecting Duct, Connecting Tubule",val
+1482,6,Proximal Tubule Segments,val
+3210,6,Proximal Tubule Segments,val
+57831,4,Leukocytes,val
+143773,7,Thick Ascending Limb,val
+55787,0,"Collecting Duct, Connecting Tubule",val
+24189,7,Thick Ascending Limb,val
+82040,7,Thick Ascending Limb,val
+19725,6,Proximal Tubule Segments,val
+101548,0,"Collecting Duct, Connecting Tubule",val
+160448,6,Proximal Tubule Segments,val
+84284,1,Distal Convoluted Tubule,val
+45176,6,Proximal Tubule Segments,val
+59717,6,Proximal Tubule Segments,val
+113499,0,"Collecting Duct, Connecting Tubule",val
+134436,7,Thick Ascending Limb,val
+13276,6,Proximal Tubule Segments,val
+62471,7,Thick Ascending Limb,val
+17000,5,Podocytes,val
+22901,7,Thick Ascending Limb,val
+12604,6,Proximal Tubule Segments,val
+5980,0,"Collecting Duct, Connecting Tubule",val
+16895,6,Proximal Tubule Segments,val
+18361,3,Interstitial endothelial cells,val
+119241,0,"Collecting Duct, Connecting Tubule",val
+8387,6,Proximal Tubule Segments,val
+21835,6,Proximal Tubule Segments,val
+1026,6,Proximal Tubule Segments,val
+94064,6,Proximal Tubule Segments,val
+29031,6,Proximal Tubule Segments,val
+52005,3,Interstitial endothelial cells,val
+20597,5,Podocytes,val
+145434,4,Leukocytes,val
+57296,2,Glomerular endothelial cells,val
+12280,4,Leukocytes,val
+71031,4,Leukocytes,val
+103267,6,Proximal Tubule Segments,val
+13409,0,"Collecting Duct, Connecting Tubule",val
+16819,7,Thick Ascending Limb,val
+3329,6,Proximal Tubule Segments,val
+20282,7,Thick Ascending Limb,val
+71263,6,Proximal Tubule Segments,val
+14175,3,Interstitial endothelial cells,val
+153043,0,"Collecting Duct, Connecting Tubule",val
+28178,0,"Collecting Duct, Connecting Tubule",val
+99585,7,Thick Ascending Limb,val
+19935,6,Proximal Tubule Segments,val
+36698,3,Interstitial endothelial cells,val
+40672,6,Proximal Tubule Segments,val
+37261,7,Thick Ascending Limb,val
+30262,0,"Collecting Duct, Connecting Tubule",val
+20095,4,Leukocytes,val
+15552,0,"Collecting Duct, Connecting Tubule",val
+131128,0,"Collecting Duct, Connecting Tubule",val
+32127,6,Proximal Tubule Segments,val
+84710,6,Proximal Tubule Segments,val
+21881,6,Proximal Tubule Segments,val
+21499,1,Distal Convoluted Tubule,val
+43162,0,"Collecting Duct, Connecting Tubule",val
+31240,5,Podocytes,val
+4884,5,Podocytes,val
+139674,7,Thick Ascending Limb,val
+41110,6,Proximal Tubule Segments,val
+153443,0,"Collecting Duct, Connecting Tubule",val
+12300,7,Thick Ascending Limb,val
+85976,0,"Collecting Duct, Connecting Tubule",val
+10395,6,Proximal Tubule Segments,val
+59248,0,"Collecting Duct, Connecting Tubule",val
+21677,2,Glomerular endothelial cells,val
+53077,7,Thick Ascending Limb,val
+164638,6,Proximal Tubule Segments,val
+29185,7,Thick Ascending Limb,val
+144117,6,Proximal Tubule Segments,val
+36636,7,Thick Ascending Limb,val
+100385,7,Thick Ascending Limb,val
+68617,2,Glomerular endothelial cells,val
+142582,0,"Collecting Duct, Connecting Tubule",val
+155460,0,"Collecting Duct, Connecting Tubule",val
+21264,7,Thick Ascending Limb,val
+44687,0,"Collecting Duct, Connecting Tubule",val
+7075,7,Thick Ascending Limb,val
+14863,2,Glomerular endothelial cells,val
+70102,4,Leukocytes,val
+4841,6,Proximal Tubule Segments,val
+132943,0,"Collecting Duct, Connecting Tubule",val
+9242,7,Thick Ascending Limb,val
+18767,7,Thick Ascending Limb,val
+5294,7,Thick Ascending Limb,val
+4473,7,Thick Ascending Limb,val
+26918,6,Proximal Tubule Segments,val
+72969,0,"Collecting Duct, Connecting Tubule",val
+70339,6,Proximal Tubule Segments,val
+27816,7,Thick Ascending Limb,val
+74890,6,Proximal Tubule Segments,val
+52181,0,"Collecting Duct, Connecting Tubule",val
+19025,6,Proximal Tubule Segments,val
+36111,6,Proximal Tubule Segments,val
+107962,0,"Collecting Duct, Connecting Tubule",val
+28518,6,Proximal Tubule Segments,val
+133731,2,Glomerular endothelial cells,val
+22209,3,Interstitial endothelial cells,val
+64349,7,Thick Ascending Limb,val
+101049,5,Podocytes,val
+43176,3,Interstitial endothelial cells,val
+110770,4,Leukocytes,val
+4373,6,Proximal Tubule Segments,val
+9006,7,Thick Ascending Limb,val
+119293,6,Proximal Tubule Segments,val
+17795,0,"Collecting Duct, Connecting Tubule",val
+35882,1,Distal Convoluted Tubule,val
+5097,0,"Collecting Duct, Connecting Tubule",val
+73749,7,Thick Ascending Limb,val
+440,7,Thick Ascending Limb,val
+135566,6,Proximal Tubule Segments,val
+17619,6,Proximal Tubule Segments,val
+11407,6,Proximal Tubule Segments,val
+33870,7,Thick Ascending Limb,val
+88005,7,Thick Ascending Limb,val
+84245,5,Podocytes,val
+4886,6,Proximal Tubule Segments,val
+155556,3,Interstitial endothelial cells,val
+96486,6,Proximal Tubule Segments,val
+81466,6,Proximal Tubule Segments,val
+102624,6,Proximal Tubule Segments,val
+103296,0,"Collecting Duct, Connecting Tubule",val
+40103,0,"Collecting Duct, Connecting Tubule",val
+86696,0,"Collecting Duct, Connecting Tubule",val
+20807,3,Interstitial endothelial cells,val
+21805,0,"Collecting Duct, Connecting Tubule",val
+60726,0,"Collecting Duct, Connecting Tubule",val
+41189,0,"Collecting Duct, Connecting Tubule",val
+17370,6,Proximal Tubule Segments,val
+47104,4,Leukocytes,val
+12765,5,Podocytes,val
+17528,7,Thick Ascending Limb,val
+118723,0,"Collecting Duct, Connecting Tubule",val
+132982,0,"Collecting Duct, Connecting Tubule",val
+162284,7,Thick Ascending Limb,val
+93816,6,Proximal Tubule Segments,val
+125264,5,Podocytes,val
+17521,1,Distal Convoluted Tubule,val
+244,0,"Collecting Duct, Connecting Tubule",val
+118499,0,"Collecting Duct, Connecting Tubule",val
+20561,3,Interstitial endothelial cells,val
+20412,6,Proximal Tubule Segments,val
+30889,4,Leukocytes,val
+91672,5,Podocytes,val
+54054,6,Proximal Tubule Segments,val
+149905,3,Interstitial endothelial cells,val
+12784,6,Proximal Tubule Segments,val
+33342,0,"Collecting Duct, Connecting Tubule",val
+46312,6,Proximal Tubule Segments,val
+51836,0,"Collecting Duct, Connecting Tubule",val
+127937,6,Proximal Tubule Segments,val
+46719,6,Proximal Tubule Segments,val
+32052,4,Leukocytes,val
+47748,3,Interstitial endothelial cells,val
+126326,6,Proximal Tubule Segments,val
+25602,0,"Collecting Duct, Connecting Tubule",val
+25865,7,Thick Ascending Limb,val
+93360,6,Proximal Tubule Segments,val
+14296,5,Podocytes,val
+24904,0,"Collecting Duct, Connecting Tubule",val
+34318,0,"Collecting Duct, Connecting Tubule",val
+126329,0,"Collecting Duct, Connecting Tubule",val
+54109,1,Distal Convoluted Tubule,val
+45948,6,Proximal Tubule Segments,val
+88014,0,"Collecting Duct, Connecting Tubule",val
+70566,1,Distal Convoluted Tubule,val
+21818,0,"Collecting Duct, Connecting Tubule",val
+102527,6,Proximal Tubule Segments,val
+22453,3,Interstitial endothelial cells,val
+15039,1,Distal Convoluted Tubule,val
+32960,6,Proximal Tubule Segments,val
+37116,0,"Collecting Duct, Connecting Tubule",val
+6922,7,Thick Ascending Limb,val
+94316,7,Thick Ascending Limb,val
+163970,0,"Collecting Duct, Connecting Tubule",val
+64869,0,"Collecting Duct, Connecting Tubule",val
+3595,0,"Collecting Duct, Connecting Tubule",val
+151350,6,Proximal Tubule Segments,val
+14453,7,Thick Ascending Limb,val
+128717,4,Leukocytes,val
+2639,6,Proximal Tubule Segments,val
+22017,3,Interstitial endothelial cells,val
+47091,1,Distal Convoluted Tubule,val
+6721,6,Proximal Tubule Segments,val
+68764,6,Proximal Tubule Segments,val
+15161,0,"Collecting Duct, Connecting Tubule",val
+139816,6,Proximal Tubule Segments,val
+101109,3,Interstitial endothelial cells,val
+83885,0,"Collecting Duct, Connecting Tubule",val
+143678,0,"Collecting Duct, Connecting Tubule",val
+19716,1,Distal Convoluted Tubule,val
+24638,6,Proximal Tubule Segments,val
+3497,0,"Collecting Duct, Connecting Tubule",val
+35226,7,Thick Ascending Limb,val
+139584,6,Proximal Tubule Segments,val
+128571,6,Proximal Tubule Segments,val
+22066,4,Leukocytes,val
+112631,6,Proximal Tubule Segments,val
+536,7,Thick Ascending Limb,val
+8640,7,Thick Ascending Limb,val
+7213,4,Leukocytes,val
+80621,2,Glomerular endothelial cells,val
+41450,0,"Collecting Duct, Connecting Tubule",val
+5339,0,"Collecting Duct, Connecting Tubule",val
+61205,0,"Collecting Duct, Connecting Tubule",val
+13663,7,Thick Ascending Limb,val
+11847,7,Thick Ascending Limb,val
+55774,3,Interstitial endothelial cells,val
+50615,0,"Collecting Duct, Connecting Tubule",val
+38446,0,"Collecting Duct, Connecting Tubule",val
+136690,0,"Collecting Duct, Connecting Tubule",val
+22560,0,"Collecting Duct, Connecting Tubule",val
+43700,6,Proximal Tubule Segments,val
+67407,7,Thick Ascending Limb,val
+159714,3,Interstitial endothelial cells,val
+150530,6,Proximal Tubule Segments,val
+28332,2,Glomerular endothelial cells,val
+139392,0,"Collecting Duct, Connecting Tubule",val
+98233,6,Proximal Tubule Segments,val
+149909,6,Proximal Tubule Segments,val
+12625,6,Proximal Tubule Segments,val
+13922,3,Interstitial endothelial cells,val
+10984,7,Thick Ascending Limb,val
+36250,6,Proximal Tubule Segments,val
+11185,4,Leukocytes,val
+163715,6,Proximal Tubule Segments,val
+149582,0,"Collecting Duct, Connecting Tubule",val
+149682,7,Thick Ascending Limb,val
+8962,2,Glomerular endothelial cells,val
+91276,2,Glomerular endothelial cells,val
+111276,6,Proximal Tubule Segments,val
+22216,0,"Collecting Duct, Connecting Tubule",val
+157063,6,Proximal Tubule Segments,val
+58334,7,Thick Ascending Limb,val
+11296,7,Thick Ascending Limb,val
+75547,3,Interstitial endothelial cells,val
+32288,7,Thick Ascending Limb,val
+139111,0,"Collecting Duct, Connecting Tubule",val
+32450,0,"Collecting Duct, Connecting Tubule",val
+111204,7,Thick Ascending Limb,val
+13474,7,Thick Ascending Limb,val
+73380,6,Proximal Tubule Segments,val
+15445,0,"Collecting Duct, Connecting Tubule",val
+79536,6,Proximal Tubule Segments,val
+161253,5,Podocytes,val
+62752,4,Leukocytes,val
+16923,3,Interstitial endothelial cells,val
+21118,7,Thick Ascending Limb,val
+19942,6,Proximal Tubule Segments,val
+100425,0,"Collecting Duct, Connecting Tubule",val
+78058,6,Proximal Tubule Segments,val
+13429,3,Interstitial endothelial cells,val
+916,6,Proximal Tubule Segments,val
+52592,6,Proximal Tubule Segments,val
+14039,0,"Collecting Duct, Connecting Tubule",val
+37336,6,Proximal Tubule Segments,val
+1767,1,Distal Convoluted Tubule,val
+40569,6,Proximal Tubule Segments,val
+42961,0,"Collecting Duct, Connecting Tubule",val
+8517,0,"Collecting Duct, Connecting Tubule",val
+41760,6,Proximal Tubule Segments,val
+23554,6,Proximal Tubule Segments,val
+21656,6,Proximal Tubule Segments,val
+147621,6,Proximal Tubule Segments,val
+106775,0,"Collecting Duct, Connecting Tubule",val
+31958,7,Thick Ascending Limb,val
+44974,4,Leukocytes,val
+133238,6,Proximal Tubule Segments,val
+33218,6,Proximal Tubule Segments,val
+46373,6,Proximal Tubule Segments,val
+36937,7,Thick Ascending Limb,val
+89988,2,Glomerular endothelial cells,val
+119754,0,"Collecting Duct, Connecting Tubule",val
+162905,6,Proximal Tubule Segments,val
+80637,4,Leukocytes,val
+104588,0,"Collecting Duct, Connecting Tubule",val
+28671,3,Interstitial endothelial cells,val
+143367,4,Leukocytes,val
+132706,0,"Collecting Duct, Connecting Tubule",val
+22049,6,Proximal Tubule Segments,val
+20035,6,Proximal Tubule Segments,val
+26978,6,Proximal Tubule Segments,val
+126076,1,Distal Convoluted Tubule,val
+53918,0,"Collecting Duct, Connecting Tubule",val
+61318,7,Thick Ascending Limb,val
+36595,2,Glomerular endothelial cells,val
+28103,0,"Collecting Duct, Connecting Tubule",val
+102859,0,"Collecting Duct, Connecting Tubule",val
+57386,7,Thick Ascending Limb,val
+157402,7,Thick Ascending Limb,val
+129761,0,"Collecting Duct, Connecting Tubule",val
+1205,0,"Collecting Duct, Connecting Tubule",val
+8867,3,Interstitial endothelial cells,val
+43666,6,Proximal Tubule Segments,val
+128170,6,Proximal Tubule Segments,val
+12154,7,Thick Ascending Limb,val
+3098,7,Thick Ascending Limb,val
+57208,7,Thick Ascending Limb,val
+102240,0,"Collecting Duct, Connecting Tubule",val
+69728,6,Proximal Tubule Segments,val
+6016,6,Proximal Tubule Segments,val
+137311,0,"Collecting Duct, Connecting Tubule",val
+145535,0,"Collecting Duct, Connecting Tubule",val
+129934,0,"Collecting Duct, Connecting Tubule",val
+99506,0,"Collecting Duct, Connecting Tubule",val
+111427,6,Proximal Tubule Segments,val
+4548,0,"Collecting Duct, Connecting Tubule",val
+15163,6,Proximal Tubule Segments,val
+138112,6,Proximal Tubule Segments,val
+32813,4,Leukocytes,val
+46468,0,"Collecting Duct, Connecting Tubule",val
+40591,6,Proximal Tubule Segments,val
+119930,0,"Collecting Duct, Connecting Tubule",val
+28612,6,Proximal Tubule Segments,val
+102007,1,Distal Convoluted Tubule,val
+21466,6,Proximal Tubule Segments,val
+996,7,Thick Ascending Limb,val
+155132,0,"Collecting Duct, Connecting Tubule",val
+618,5,Podocytes,val
+109431,7,Thick Ascending Limb,val
+11205,6,Proximal Tubule Segments,val
+93973,4,Leukocytes,val
+44852,0,"Collecting Duct, Connecting Tubule",val
+27891,0,"Collecting Duct, Connecting Tubule",val
+45694,6,Proximal Tubule Segments,val
+146159,6,Proximal Tubule Segments,val
+44153,7,Thick Ascending Limb,val
+98236,0,"Collecting Duct, Connecting Tubule",val
+40100,6,Proximal Tubule Segments,val
+29458,3,Interstitial endothelial cells,val
+68345,0,"Collecting Duct, Connecting Tubule",val
+134547,1,Distal Convoluted Tubule,val
+134555,0,"Collecting Duct, Connecting Tubule",val
+138149,0,"Collecting Duct, Connecting Tubule",val
+163001,7,Thick Ascending Limb,val
+33599,7,Thick Ascending Limb,val
+31612,2,Glomerular endothelial cells,val
+91348,6,Proximal Tubule Segments,val
+4944,6,Proximal Tubule Segments,val
+111251,2,Glomerular endothelial cells,val
+7442,0,"Collecting Duct, Connecting Tubule",val
+101834,7,Thick Ascending Limb,val
+13253,6,Proximal Tubule Segments,val
+9831,2,Glomerular endothelial cells,val
+80369,3,Interstitial endothelial cells,val
+4087,0,"Collecting Duct, Connecting Tubule",val
+4293,0,"Collecting Duct, Connecting Tubule",val
+161641,0,"Collecting Duct, Connecting Tubule",val
+80495,0,"Collecting Duct, Connecting Tubule",val
+96174,4,Leukocytes,val
+6904,4,Leukocytes,val
+5689,4,Leukocytes,val
+100920,3,Interstitial endothelial cells,val
+18821,0,"Collecting Duct, Connecting Tubule",val
+124189,2,Glomerular endothelial cells,val
+16226,6,Proximal Tubule Segments,val
+10959,0,"Collecting Duct, Connecting Tubule",val
+40707,0,"Collecting Duct, Connecting Tubule",val
+36314,7,Thick Ascending Limb,val
+134538,7,Thick Ascending Limb,val
+10933,0,"Collecting Duct, Connecting Tubule",val
+52280,3,Interstitial endothelial cells,val
+51075,6,Proximal Tubule Segments,val
+81033,2,Glomerular endothelial cells,val
+30265,0,"Collecting Duct, Connecting Tubule",val
+11466,3,Interstitial endothelial cells,val
+26467,6,Proximal Tubule Segments,val
+6656,3,Interstitial endothelial cells,val
+114509,6,Proximal Tubule Segments,val
+24983,3,Interstitial endothelial cells,val
+17120,3,Interstitial endothelial cells,val
+18562,6,Proximal Tubule Segments,val
+27275,1,Distal Convoluted Tubule,val
+7251,0,"Collecting Duct, Connecting Tubule",val
+12008,6,Proximal Tubule Segments,val
+15059,4,Leukocytes,val
+155899,0,"Collecting Duct, Connecting Tubule",val
+81528,0,"Collecting Duct, Connecting Tubule",val
+33021,4,Leukocytes,val
+29356,0,"Collecting Duct, Connecting Tubule",val
+28213,2,Glomerular endothelial cells,val
+112961,5,Podocytes,val
+19160,0,"Collecting Duct, Connecting Tubule",val
+18547,0,"Collecting Duct, Connecting Tubule",val
+109559,6,Proximal Tubule Segments,val
+113596,6,Proximal Tubule Segments,val
+99681,5,Podocytes,val
+36965,0,"Collecting Duct, Connecting Tubule",val
+28388,4,Leukocytes,val
+66609,2,Glomerular endothelial cells,val
+42874,6,Proximal Tubule Segments,val
+22109,1,Distal Convoluted Tubule,val
+126732,6,Proximal Tubule Segments,val
+56630,4,Leukocytes,val
+119467,7,Thick Ascending Limb,val
+34853,7,Thick Ascending Limb,val
+24349,5,Podocytes,val
+22660,3,Interstitial endothelial cells,val
+84726,3,Interstitial endothelial cells,val
+46731,7,Thick Ascending Limb,val
+114833,4,Leukocytes,val
+21367,6,Proximal Tubule Segments,val
+36127,0,"Collecting Duct, Connecting Tubule",val
+18473,6,Proximal Tubule Segments,val
+27069,7,Thick Ascending Limb,val
+10741,6,Proximal Tubule Segments,val
+38852,3,Interstitial endothelial cells,val
+13372,6,Proximal Tubule Segments,val
+15721,6,Proximal Tubule Segments,val
+134732,0,"Collecting Duct, Connecting Tubule",val
+27326,1,Distal Convoluted Tubule,val
+31202,4,Leukocytes,val
+36462,0,"Collecting Duct, Connecting Tubule",val
+9667,7,Thick Ascending Limb,val
+81843,7,Thick Ascending Limb,val
+84957,4,Leukocytes,val
+22070,0,"Collecting Duct, Connecting Tubule",val
+54169,5,Podocytes,val
+64459,5,Podocytes,val
+136746,0,"Collecting Duct, Connecting Tubule",val
+319,4,Leukocytes,val
+39457,7,Thick Ascending Limb,val
+98662,0,"Collecting Duct, Connecting Tubule",val
+43888,0,"Collecting Duct, Connecting Tubule",val
+30133,0,"Collecting Duct, Connecting Tubule",val
+15450,2,Glomerular endothelial cells,val
+21402,0,"Collecting Duct, Connecting Tubule",val
+108539,1,Distal Convoluted Tubule,val
+21173,7,Thick Ascending Limb,val
+4404,4,Leukocytes,val
+31834,0,"Collecting Duct, Connecting Tubule",val
+44113,6,Proximal Tubule Segments,val
+86354,4,Leukocytes,val
+42569,6,Proximal Tubule Segments,val
+138508,0,"Collecting Duct, Connecting Tubule",val
+102776,0,"Collecting Duct, Connecting Tubule",val
+64321,7,Thick Ascending Limb,val
+152627,6,Proximal Tubule Segments,val
+30790,4,Leukocytes,val
+19332,6,Proximal Tubule Segments,val
+7937,3,Interstitial endothelial cells,val
+91305,1,Distal Convoluted Tubule,val
+51948,0,"Collecting Duct, Connecting Tubule",val
+19154,0,"Collecting Duct, Connecting Tubule",val
+68810,4,Leukocytes,val
+7228,0,"Collecting Duct, Connecting Tubule",val
+101205,3,Interstitial endothelial cells,val
+127702,7,Thick Ascending Limb,val
+2349,5,Podocytes,val
+46409,0,"Collecting Duct, Connecting Tubule",val
+22564,0,"Collecting Duct, Connecting Tubule",val
+17044,6,Proximal Tubule Segments,val
+39894,2,Glomerular endothelial cells,val
+67816,1,Distal Convoluted Tubule,val
+3777,0,"Collecting Duct, Connecting Tubule",val
+1184,6,Proximal Tubule Segments,val
+114944,0,"Collecting Duct, Connecting Tubule",val
+59401,4,Leukocytes,val
+17422,7,Thick Ascending Limb,val
+40716,0,"Collecting Duct, Connecting Tubule",val
+14893,4,Leukocytes,val
+72959,1,Distal Convoluted Tubule,val
+26429,0,"Collecting Duct, Connecting Tubule",val
+68098,6,Proximal Tubule Segments,val
+9124,2,Glomerular endothelial cells,val
+116180,6,Proximal Tubule Segments,val
+125749,7,Thick Ascending Limb,val
+126749,0,"Collecting Duct, Connecting Tubule",val
+28564,7,Thick Ascending Limb,val
+73266,0,"Collecting Duct, Connecting Tubule",val
+13353,7,Thick Ascending Limb,val
+88114,7,Thick Ascending Limb,val
+85295,0,"Collecting Duct, Connecting Tubule",val
+809,0,"Collecting Duct, Connecting Tubule",val
+131078,6,Proximal Tubule Segments,val
+77263,3,Interstitial endothelial cells,val
+32558,6,Proximal Tubule Segments,val
+96281,0,"Collecting Duct, Connecting Tubule",val
+111695,3,Interstitial endothelial cells,val
+68326,6,Proximal Tubule Segments,val
+16644,0,"Collecting Duct, Connecting Tubule",val
+115512,0,"Collecting Duct, Connecting Tubule",val
+138642,4,Leukocytes,val
+84172,0,"Collecting Duct, Connecting Tubule",val
+119304,0,"Collecting Duct, Connecting Tubule",val
+39459,7,Thick Ascending Limb,val
+22874,0,"Collecting Duct, Connecting Tubule",val
+82946,5,Podocytes,val
+8786,6,Proximal Tubule Segments,val
+88066,0,"Collecting Duct, Connecting Tubule",val
+25744,5,Podocytes,val
+127440,1,Distal Convoluted Tubule,val
+35235,1,Distal Convoluted Tubule,val
+20456,7,Thick Ascending Limb,val
+69482,4,Leukocytes,val
+122222,5,Podocytes,val
+149093,0,"Collecting Duct, Connecting Tubule",val
+19554,1,Distal Convoluted Tubule,val
+117790,6,Proximal Tubule Segments,val
+22142,3,Interstitial endothelial cells,val
+9441,0,"Collecting Duct, Connecting Tubule",val
+157260,6,Proximal Tubule Segments,val
+39506,0,"Collecting Duct, Connecting Tubule",val
+21161,0,"Collecting Duct, Connecting Tubule",val
+85456,6,Proximal Tubule Segments,val
+100166,1,Distal Convoluted Tubule,val
+42317,6,Proximal Tubule Segments,val
+73314,3,Interstitial endothelial cells,val
+38160,3,Interstitial endothelial cells,val
+62091,4,Leukocytes,val
+17247,5,Podocytes,val
+35419,5,Podocytes,val
+120524,3,Interstitial endothelial cells,val
+135238,7,Thick Ascending Limb,val
+7528,4,Leukocytes,val
+103269,0,"Collecting Duct, Connecting Tubule",val
+25021,3,Interstitial endothelial cells,val
+14455,7,Thick Ascending Limb,val
+34532,4,Leukocytes,val
+28134,7,Thick Ascending Limb,val
+123253,1,Distal Convoluted Tubule,val
+49592,3,Interstitial endothelial cells,val
+85509,4,Leukocytes,val
+66492,5,Podocytes,val
+98300,6,Proximal Tubule Segments,val
+2077,1,Distal Convoluted Tubule,val
+50153,7,Thick Ascending Limb,val
+23310,4,Leukocytes,val
+146321,4,Leukocytes,val
+74577,0,"Collecting Duct, Connecting Tubule",val
+21711,6,Proximal Tubule Segments,val
+1002,5,Podocytes,val
+64089,3,Interstitial endothelial cells,val
+21300,6,Proximal Tubule Segments,val
+2952,7,Thick Ascending Limb,val
+86443,7,Thick Ascending Limb,val
+14935,6,Proximal Tubule Segments,val
+137622,0,"Collecting Duct, Connecting Tubule",val
+122384,6,Proximal Tubule Segments,val
+101987,7,Thick Ascending Limb,val
+89039,5,Podocytes,val
+117448,5,Podocytes,val
+20636,7,Thick Ascending Limb,val
+24310,2,Glomerular endothelial cells,val
+26125,7,Thick Ascending Limb,val
+107756,3,Interstitial endothelial cells,val
+137646,7,Thick Ascending Limb,val
+140358,3,Interstitial endothelial cells,val
+58177,4,Leukocytes,val
+98080,7,Thick Ascending Limb,val
+164740,1,Distal Convoluted Tubule,val
+157575,1,Distal Convoluted Tubule,val
+21875,3,Interstitial endothelial cells,val
+76642,1,Distal Convoluted Tubule,val
+32956,6,Proximal Tubule Segments,val
+94122,6,Proximal Tubule Segments,val
+47824,6,Proximal Tubule Segments,val
+159319,2,Glomerular endothelial cells,val
+41688,0,"Collecting Duct, Connecting Tubule",val
+17883,6,Proximal Tubule Segments,val
+53637,0,"Collecting Duct, Connecting Tubule",val
+1402,7,Thick Ascending Limb,val
+98485,7,Thick Ascending Limb,val
+1526,4,Leukocytes,val
+110014,7,Thick Ascending Limb,val
+39465,0,"Collecting Duct, Connecting Tubule",val
+12336,6,Proximal Tubule Segments,val
+22940,0,"Collecting Duct, Connecting Tubule",val
+122974,7,Thick Ascending Limb,val
+17783,4,Leukocytes,val
+119972,6,Proximal Tubule Segments,val
+38083,1,Distal Convoluted Tubule,val
+5416,5,Podocytes,val
+66228,0,"Collecting Duct, Connecting Tubule",val
+118522,4,Leukocytes,val
+62810,0,"Collecting Duct, Connecting Tubule",val
+46194,6,Proximal Tubule Segments,val
+142479,0,"Collecting Duct, Connecting Tubule",val
+43287,7,Thick Ascending Limb,val
+121884,6,Proximal Tubule Segments,val
+28558,6,Proximal Tubule Segments,val
+40892,3,Interstitial endothelial cells,val
+136429,4,Leukocytes,val
+90812,3,Interstitial endothelial cells,val
+20699,6,Proximal Tubule Segments,val
+45498,3,Interstitial endothelial cells,val
+121835,6,Proximal Tubule Segments,val
+31949,0,"Collecting Duct, Connecting Tubule",val
+150787,0,"Collecting Duct, Connecting Tubule",val
+67104,6,Proximal Tubule Segments,val
+46382,6,Proximal Tubule Segments,val
+145638,0,"Collecting Duct, Connecting Tubule",val
+146419,6,Proximal Tubule Segments,val
+36131,1,Distal Convoluted Tubule,val
+36354,7,Thick Ascending Limb,val
+42598,6,Proximal Tubule Segments,val
+42996,4,Leukocytes,val
+90395,6,Proximal Tubule Segments,val
+80713,1,Distal Convoluted Tubule,val
+71008,0,"Collecting Duct, Connecting Tubule",val
+22149,4,Leukocytes,val
+10691,6,Proximal Tubule Segments,val
+8698,3,Interstitial endothelial cells,val
+21739,6,Proximal Tubule Segments,val
+99512,6,Proximal Tubule Segments,val
+83662,0,"Collecting Duct, Connecting Tubule",val
+134079,6,Proximal Tubule Segments,val
+124291,4,Leukocytes,val
+31537,3,Interstitial endothelial cells,val
+22995,0,"Collecting Duct, Connecting Tubule",val
+29318,0,"Collecting Duct, Connecting Tubule",val
+149229,6,Proximal Tubule Segments,val
+8221,6,Proximal Tubule Segments,val
+42877,6,Proximal Tubule Segments,val
+44306,6,Proximal Tubule Segments,val
+133320,0,"Collecting Duct, Connecting Tubule",val
+10838,0,"Collecting Duct, Connecting Tubule",val
+13633,6,Proximal Tubule Segments,val
+92355,0,"Collecting Duct, Connecting Tubule",val
+53109,6,Proximal Tubule Segments,val
+47206,0,"Collecting Duct, Connecting Tubule",val
+79798,3,Interstitial endothelial cells,val
+31866,4,Leukocytes,val
+3350,0,"Collecting Duct, Connecting Tubule",val
+146792,0,"Collecting Duct, Connecting Tubule",val
+49517,0,"Collecting Duct, Connecting Tubule",val
+23136,4,Leukocytes,val
+161227,0,"Collecting Duct, Connecting Tubule",val
+23487,0,"Collecting Duct, Connecting Tubule",val
+158067,3,Interstitial endothelial cells,val
+37371,7,Thick Ascending Limb,val
+140357,6,Proximal Tubule Segments,val
+126751,3,Interstitial endothelial cells,val
+152565,6,Proximal Tubule Segments,val
+145894,7,Thick Ascending Limb,val
+2378,7,Thick Ascending Limb,val
+91658,0,"Collecting Duct, Connecting Tubule",val
+47619,0,"Collecting Duct, Connecting Tubule",val
+40808,0,"Collecting Duct, Connecting Tubule",val
+16197,7,Thick Ascending Limb,val
+11731,6,Proximal Tubule Segments,val
+113091,0,"Collecting Duct, Connecting Tubule",val
+159903,0,"Collecting Duct, Connecting Tubule",val
+76617,0,"Collecting Duct, Connecting Tubule",val
+144248,6,Proximal Tubule Segments,val
+42122,0,"Collecting Duct, Connecting Tubule",val
+127755,6,Proximal Tubule Segments,val
+37818,6,Proximal Tubule Segments,val
+46043,6,Proximal Tubule Segments,val
+78227,0,"Collecting Duct, Connecting Tubule",val
+48661,4,Leukocytes,val
+157925,6,Proximal Tubule Segments,val
+11306,4,Leukocytes,val
+104536,0,"Collecting Duct, Connecting Tubule",val
+6300,4,Leukocytes,val
+892,6,Proximal Tubule Segments,val
+9696,7,Thick Ascending Limb,val
+43055,4,Leukocytes,val
+15088,3,Interstitial endothelial cells,val
+10723,0,"Collecting Duct, Connecting Tubule",val
+85564,2,Glomerular endothelial cells,val
+24122,6,Proximal Tubule Segments,val
+93548,0,"Collecting Duct, Connecting Tubule",val
+20638,6,Proximal Tubule Segments,val
+39595,0,"Collecting Duct, Connecting Tubule",val
+67868,0,"Collecting Duct, Connecting Tubule",val
+34015,3,Interstitial endothelial cells,val
+55398,6,Proximal Tubule Segments,val
+13086,0,"Collecting Duct, Connecting Tubule",val
+51089,6,Proximal Tubule Segments,val
+127284,3,Interstitial endothelial cells,val
+153430,1,Distal Convoluted Tubule,val
+62298,4,Leukocytes,val
+22639,7,Thick Ascending Limb,val
+107549,0,"Collecting Duct, Connecting Tubule",val
+137316,5,Podocytes,val
+9110,6,Proximal Tubule Segments,val
+15657,6,Proximal Tubule Segments,val
+145023,5,Podocytes,val
+30557,3,Interstitial endothelial cells,val
+145228,7,Thick Ascending Limb,val
+84085,0,"Collecting Duct, Connecting Tubule",val
+16983,0,"Collecting Duct, Connecting Tubule",val
+93765,6,Proximal Tubule Segments,val
+160162,0,"Collecting Duct, Connecting Tubule",val
+20134,5,Podocytes,val
+53240,3,Interstitial endothelial cells,val
+130445,2,Glomerular endothelial cells,val
+720,5,Podocytes,val
+25819,0,"Collecting Duct, Connecting Tubule",val
+72468,7,Thick Ascending Limb,val
+74945,6,Proximal Tubule Segments,val
+39362,0,"Collecting Duct, Connecting Tubule",val
+68335,7,Thick Ascending Limb,val
+74046,6,Proximal Tubule Segments,val
+11307,0,"Collecting Duct, Connecting Tubule",val
+70506,0,"Collecting Duct, Connecting Tubule",val
+103873,0,"Collecting Duct, Connecting Tubule",val
+851,0,"Collecting Duct, Connecting Tubule",val
+26854,0,"Collecting Duct, Connecting Tubule",val
+6656,7,Thick Ascending Limb,val
+93512,0,"Collecting Duct, Connecting Tubule",val
+80708,6,Proximal Tubule Segments,val
+24025,0,"Collecting Duct, Connecting Tubule",val
+2783,6,Proximal Tubule Segments,val
+104145,1,Distal Convoluted Tubule,val
+11422,3,Interstitial endothelial cells,val
+19133,7,Thick Ascending Limb,val
+46971,3,Interstitial endothelial cells,val
+120292,6,Proximal Tubule Segments,val
+71730,7,Thick Ascending Limb,val
+85748,3,Interstitial endothelial cells,val
+128905,2,Glomerular endothelial cells,val
+122040,0,"Collecting Duct, Connecting Tubule",val
+2177,2,Glomerular endothelial cells,val
+120771,6,Proximal Tubule Segments,val
+127771,6,Proximal Tubule Segments,val
+34629,0,"Collecting Duct, Connecting Tubule",val
+6694,1,Distal Convoluted Tubule,val
+25111,6,Proximal Tubule Segments,val
+142725,6,Proximal Tubule Segments,val
+113020,3,Interstitial endothelial cells,val
+127234,4,Leukocytes,val
+19329,0,"Collecting Duct, Connecting Tubule",val
+41123,6,Proximal Tubule Segments,val
+2569,0,"Collecting Duct, Connecting Tubule",val
+81576,3,Interstitial endothelial cells,val
+23520,6,Proximal Tubule Segments,val
+93014,6,Proximal Tubule Segments,val
+162700,0,"Collecting Duct, Connecting Tubule",val
+41398,0,"Collecting Duct, Connecting Tubule",val
+122848,7,Thick Ascending Limb,val
+23519,0,"Collecting Duct, Connecting Tubule",val
+24677,7,Thick Ascending Limb,val
+111799,0,"Collecting Duct, Connecting Tubule",val
+102378,6,Proximal Tubule Segments,val
+6359,7,Thick Ascending Limb,val
+108205,0,"Collecting Duct, Connecting Tubule",val
+119628,6,Proximal Tubule Segments,val
+3509,5,Podocytes,val
+73869,3,Interstitial endothelial cells,val
+23390,0,"Collecting Duct, Connecting Tubule",val
+5959,6,Proximal Tubule Segments,val
+45100,7,Thick Ascending Limb,val
+44978,4,Leukocytes,val
+150217,0,"Collecting Duct, Connecting Tubule",val
+116239,4,Leukocytes,val
+73507,6,Proximal Tubule Segments,val
+150685,7,Thick Ascending Limb,val
+16055,5,Podocytes,val
+36829,0,"Collecting Duct, Connecting Tubule",val
+42271,3,Interstitial endothelial cells,val
+2703,0,"Collecting Duct, Connecting Tubule",val
+55755,7,Thick Ascending Limb,val
+81226,0,"Collecting Duct, Connecting Tubule",val
+157205,0,"Collecting Duct, Connecting Tubule",val
+72096,3,Interstitial endothelial cells,val
+22330,6,Proximal Tubule Segments,val
+64695,4,Leukocytes,val
+141956,7,Thick Ascending Limb,val
+26285,7,Thick Ascending Limb,val
+159605,7,Thick Ascending Limb,val
+126947,6,Proximal Tubule Segments,val
+105835,5,Podocytes,val
+21812,7,Thick Ascending Limb,val
