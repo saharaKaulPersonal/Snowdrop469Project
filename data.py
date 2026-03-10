@@ -124,7 +124,6 @@ print()
 print("PathMNIST Validation Percentages")
 print(f"{(df3.label_name.value_counts()/df3.shape[0]) * 100}")
 
-
 """PathMNIST PreProcessing"""
 
 path_dict = {}
@@ -140,10 +139,11 @@ train_percentage = (df1.shape[0] / dataset_size)
 test_percentage = (df2.shape[0] / dataset_size)
 val_percentage = (df3.shape[0] / dataset_size)
 calibration_size = 9812
+evaluation_size = 1000
 calibration_percentage = (calibration_size / dataset_size)
-train_new_size = int((dataset_size - calibration_size) * train_percentage)
-test_new_size = int((dataset_size - calibration_size) * test_percentage)
-val_new_size = int((dataset_size - calibration_size) * val_percentage)
+train_new_size = int((dataset_size - calibration_size - evaluation_size) * train_percentage)
+test_new_size = int((dataset_size - calibration_size - evaluation_size) * test_percentage)
+val_new_size = int((dataset_size - calibration_size - evaluation_size) * val_percentage)
 
 print(f"Original Size: {dataset_size}")
 print(f"Train New Size: {train_new_size}, Test New Size {test_new_size}, Val New Size {val_new_size}")
@@ -162,15 +162,17 @@ for label in path_dict:
   print(map[label])
   print()
 
-"""Create Equal Weight Train, Test, Validation and Calibration Datasets"""
+"""Create Equal Weight Train, Test, Validation, Calibration and Evaulation Datasets"""
 
 os.makedirs('datasets', exist_ok=True)
 
 ratios = {
     'calibration' : calibration_size,
+    'evaluation'  : evaluation_size,
     'train'       : train_new_size,
     'val'         : val_new_size,
     'test'        : test_new_size
+
 }
 
 last_subset = list(ratios.keys())[-1]
@@ -214,70 +216,12 @@ print()
 df4 = pd.read_csv(f'datasets/pathmnist_val_labels.csv')
 print(f"{(df4.label_name.value_counts()/df4.shape[0]) * 100}")
 print()
+df5 = pd.read_csv(f'datasets/pathmnist_evaluation_labels.csv')
+print(f"{(df5.label_name.value_counts()/df5.shape[0]) * 100}")
+print()
 
 total = df1.shape[0] + df2.shape[0] + df3.shape[0] + df4.shape[0]
-print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}, Calibration Percentage: {(df4.shape[0] / total) * 100}")
-
-"""Create Test, Train, Validation for Calibration Set"""
-
-calibration_ratios = {
-    'train'       : train_percentage,
-    'val'         : val_percentage,
-    'test'        : test_percentage
-}
-
-last_cal_subset = list(calibration_ratios.keys())[-1]
-calibration_df  = final_sets['calibration']
-
-calibration_map = {
-    label: calibration_df[calibration_df.label_name == label]
-    for label in calibration_df.label_name.unique()
-}
-
-cal_dfs = {subset: [] for subset in calibration_ratios}
-
-for label, label_df in calibration_map.items():
-    label_fraction = percentage_of_set[label]
-    used_indices = set()
-
-    for subset, subset_size in calibration_ratios.items():
-        available = label_df[~label_df.image_index.isin(used_indices)]
-
-        if subset == last_cal_subset:
-            sampled = available.copy()
-        else:
-            n_samples = round(subset_size * label_fraction * calibration_size)
-            n_samples = min(n_samples, len(available))
-            sampled   = available.sample(n=n_samples, random_state=42).copy()
-
-        sampled['split'] = subset
-        cal_dfs[subset].append(sampled)
-        used_indices.update(sampled.image_index)
-
-cal_final_sets = {}
-for subset, df in cal_dfs.items():
-    final_df = pd.concat(df, ignore_index=True)
-    final_df = final_df.sample(frac=1, random_state=42).reset_index(drop=True)
-    cal_final_sets[subset] = final_df
-    final_df.to_csv(f'datasets/pathmnist_{subset}_calibration_labels.csv', index=False)
-    print(f"Saved {subset} calibration set to datasets/pathmnist_{subset}_calibration_labels.csv")
-    print(f"{subset} calibration size: {len(final_df)}")
-
-
-df1 = pd.read_csv(f'datasets/pathmnist_train_calibration_labels.csv')
-print(f"{(df1.label_name.value_counts()/df1.shape[0]) * 100}")
-print()
-df2 = pd.read_csv(f'datasets/pathmnist_test_calibration_labels.csv')
-print(f"{(df2.label_name.value_counts()/df2.shape[0]) * 100}")
-print()
-df4 = pd.read_csv(f'datasets/pathmnist_calibration_labels.csv')
-print()
-df3 = pd.read_csv(f'datasets/pathmnist_val_calibration_labels.csv')
-print(f"{(df4.label_name.value_counts()/df4.shape[0]) * 100}")
-print()
-
-total = df4.shape[0]
-print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}")
+print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}, Calibration Percentage: {(df4.shape[0] / total) * 100}, Evaluation Percentage: {(df5.shape[0] / total) * 100}")
 
 """OCTMNIST Data Summary:"""
 
@@ -323,10 +267,11 @@ train_percentage = (df1.shape[0] / dataset_size)
 test_percentage = (df2.shape[0] / dataset_size)
 val_percentage = (df3.shape[0] / dataset_size)
 calibration_size = 9812
+evaluation_size = 1000
 calibration_percentage = (calibration_size / dataset_size)
-train_new_size = int((dataset_size - calibration_size) * train_percentage)
-test_new_size = int((dataset_size - calibration_size) * test_percentage)
-val_new_size = int((dataset_size - calibration_size) * val_percentage)
+train_new_size = int((dataset_size - calibration_size - evaluation_size) * train_percentage)
+test_new_size = int((dataset_size - calibration_size - evaluation_size) * test_percentage)
+val_new_size = int((dataset_size - calibration_size - evaluation_size) * val_percentage)
 
 print(f"Original Size: {dataset_size}")
 print(f"Train New Size: {train_new_size}, Test New Size {test_new_size}, Val New Size {val_new_size}")
@@ -345,10 +290,11 @@ for label in path_dict:
   print(map[label])
   print()
 
-"""Create Equal Weight Train, Test, Validation and Calibration Datasets"""
+"""Create Equal Weight Train, Test, Validation, Calibration and Evaluation Datasets"""
 
 ratios = {
     'calibration' : calibration_size,
+    'evaluation'  : evaluation_size,
     'test'        : test_new_size,
     'train'       : train_new_size,
     'val'         : val_new_size
@@ -396,70 +342,12 @@ print()
 df4 = pd.read_csv(f'datasets/octmnist_val_labels.csv')
 print(f"{(df4.label_name.value_counts()/df4.shape[0]) * 100}")
 print()
+df5 = pd.read_csv(f'datasets/octmnist_evaluation_labels.csv')
+print(f"{(df5.label_name.value_counts()/df5.shape[0]) * 100}")
+print()
 
 total = df1.shape[0] + df2.shape[0] + df3.shape[0] + df4.shape[0]
-print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}, Calibration Percentage: {(df4.shape[0] / total) * 100}")
-
-"""Create Test, Train, Validation for Calibration Set"""
-
-calibration_ratios = {
-    'train'       : train_percentage,
-    'val'         : val_percentage,
-    'test'        : test_percentage
-}
-
-last_cal_subset = list(calibration_ratios.keys())[-1]
-calibration_df  = final_sets['calibration']
-
-calibration_map = {
-    label: calibration_df[calibration_df.label_name == label]
-    for label in calibration_df.label_name.unique()
-}
-
-cal_dfs = {subset: [] for subset in calibration_ratios}
-
-for label, label_df in calibration_map.items():
-    label_fraction = percentage_of_set[label]
-    used_indices = set()
-
-    for subset, subset_size in calibration_ratios.items():
-        available = label_df[~label_df.image_index.isin(used_indices)]
-
-        if subset == last_cal_subset:
-            sampled = available.copy()
-        else:
-            n_samples = round(subset_size * label_fraction * calibration_size)
-            n_samples = min(n_samples, len(available))
-            sampled   = available.sample(n=n_samples, random_state=42).copy()
-
-        sampled['split'] = subset
-        cal_dfs[subset].append(sampled)
-        used_indices.update(sampled.image_index)
-
-cal_final_sets = {}
-for subset, df in cal_dfs.items():
-    final_df = pd.concat(df, ignore_index=True)
-    final_df = final_df.sample(frac=1, random_state=42).reset_index(drop=True)
-    cal_final_sets[subset] = final_df
-    final_df.to_csv(f'datasets/octmnist_{subset}_calibration_labels.csv', index=False)
-    print(f"Saved {subset} calibration set to datasets/octmnist_{subset}_calibration_labels.csv")
-    print(f"{subset} calibration size: {len(final_df)}")
-
-
-df1 = pd.read_csv(f'datasets/octmnist_train_calibration_labels.csv')
-print(f"{(df1.label_name.value_counts()/df1.shape[0]) * 100}")
-print()
-df2 = pd.read_csv(f'datasets/octmnist_test_calibration_labels.csv')
-print(f"{(df2.label_name.value_counts()/df2.shape[0]) * 100}")
-print()
-df4 = pd.read_csv(f'datasets/octmnist_calibration_labels.csv')
-print()
-df3 = pd.read_csv(f'datasets/octmnist_val_calibration_labels.csv')
-print(f"{(df4.label_name.value_counts()/df4.shape[0]) * 100}")
-print()
-
-total = df4.shape[0]
-print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}")
+print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}, Calibration Percentage: {(df4.shape[0] / total) * 100}, Evaluation Percentage: {(df5.shape[0] / total)}")
 
 """TissueMNIST Data Summary:"""
 
@@ -505,10 +393,12 @@ train_percentage = (df1.shape[0] / dataset_size)
 test_percentage = (df2.shape[0] / dataset_size)
 val_percentage = (df3.shape[0] / dataset_size)
 calibration_size = 9812
+evaluation_size = 1000
 calibration_percentage = (calibration_size / dataset_size)
-train_new_size = int((dataset_size - calibration_size) * train_percentage)
-test_new_size = int((dataset_size - calibration_size) * test_percentage)
-val_new_size = int((dataset_size - calibration_size) * val_percentage)
+train_new_size = int((dataset_size - calibration_size - evaluation_size) * train_percentage)
+test_new_size = int((dataset_size - calibration_size - evaluation_size) * test_percentage)
+val_new_size = int((dataset_size - calibration_size - evaluation_size) * val_percentage)
+
 
 print(f"Original Size: {dataset_size}")
 print(f"Train New Size: {train_new_size}, Test New Size {test_new_size}, Val New Size {val_new_size}")
@@ -531,9 +421,10 @@ for label in path_dict:
 
 ratios = {
     'calibration' : calibration_size,
-    'train'       : train_new_size,
+    'evaluation'  : evaluation_size,
+    'test'        : test_new_size,
     'val'         : val_new_size,
-    'test'        : test_new_size
+    'train'       : train_new_size,
 }
 
 last_subset = list(ratios.keys())[-1]
@@ -577,71 +468,12 @@ print()
 df4 = pd.read_csv(f'datasets/tissuemnist_val_labels.csv')
 print(f"{(df4.label_name.value_counts()/df4.shape[0]) * 100}")
 print()
+df5 = pd.read_csv(f'datasets/tissuemnist_evaluation_labels.csv')
+print(f"{(df5.label_name.value_counts()/df5.shape[0]) * 100}")
+print()
 
 total = df1.shape[0] + df2.shape[0] + df3.shape[0] + df4.shape[0]
-print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}, Calibration Percentage: {(df4.shape[0] / total) * 100}")
-
-"""Create Test, Train, Validation for Calibration Set"""
-
-calibration_ratios = {
-    'val'        : test_percentage,
-    'test'         : val_percentage,
-    'train'       : train_percentage,
-
-}
-
-last_cal_subset = list(calibration_ratios.keys())[-1]
-calibration_df  = final_sets['calibration']
-
-calibration_map = {
-    label: calibration_df[calibration_df.label_name == label]
-    for label in calibration_df.label_name.unique()
-}
-
-cal_dfs = {subset: [] for subset in calibration_ratios}
-
-for label, label_df in calibration_map.items():
-    label_fraction = percentage_of_set[label]
-    used_indices = set()
-
-    for subset, subset_size in calibration_ratios.items():
-        available = label_df[~label_df.image_index.isin(used_indices)]
-
-        if subset == last_cal_subset:
-            sampled = available.copy()
-        else:
-            n_samples = round(subset_size * label_fraction * calibration_size)
-            n_samples = min(n_samples, len(available))
-            sampled   = available.sample(n=n_samples, random_state=42).copy()
-
-        sampled['split'] = subset
-        cal_dfs[subset].append(sampled)
-        used_indices.update(sampled.image_index)
-
-cal_final_sets = {}
-for subset, df in cal_dfs.items():
-    final_df = pd.concat(df, ignore_index=True)
-    final_df = final_df.sample(frac=1, random_state=42).reset_index(drop=True)
-    cal_final_sets[subset] = final_df
-    final_df.to_csv(f'datasets/octmnist_{subset}_calibration_labels.csv', index=False)
-    print(f"Saved {subset} calibration set to datasets/octmnist_{subset}_calibration_labels.csv")
-    print(f"{subset} calibration size: {len(final_df)}")
-
-
-df1 = pd.read_csv(f'datasets/octmnist_train_calibration_labels.csv')
-print(f"{(df1.label_name.value_counts()/df1.shape[0]) * 100}")
-print()
-df2 = pd.read_csv(f'datasets/octmnist_test_calibration_labels.csv')
-print(f"{(df2.label_name.value_counts()/df2.shape[0]) * 100}")
-print()
-df4 = pd.read_csv(f'datasets/octmnist_calibration_labels.csv')
-print()
-df3 = pd.read_csv(f'datasets/octmnist_val_calibration_labels.csv')
-print(f"{(df4.label_name.value_counts()/df4.shape[0]) * 100}")
-print()
-
-total = df4.shape[0]
-print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}")
+print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test Percentage: {(df2.shape[0] / total) * 100}, Validation Percentage: {(df3.shape[0] / total) * 100}, Calibration Percentage: {(df4.shape[0] / total) * 100}, Evaluation Percentage: {(df5.shape[0] / total) * 100}")
 
 """Data Planning:
 
@@ -680,4 +512,3 @@ print(f"Total: {total},  Train Percentage: {(df1.shape[0] / total) * 100}, Test 
 
 Fetch Image
 """
-
