@@ -1,0 +1,1001 @@
+image_index,label_index,label_name,original_split,split
+46875,6,Proximal Tubule Segments,train,evaluation
+174190,3,Interstitial endothelial cells,val,evaluation
+37403,3,Interstitial endothelial cells,train,evaluation
+211957,7,Thick Ascending Limb,test,evaluation
+138387,6,Proximal Tubule Segments,train,evaluation
+73461,7,Thick Ascending Limb,train,evaluation
+87980,7,Thick Ascending Limb,train,evaluation
+72254,6,Proximal Tubule Segments,train,evaluation
+42013,4,Leukocytes,train,evaluation
+118421,0,"Collecting Duct, Connecting Tubule",train,evaluation
+88988,4,Leukocytes,train,evaluation
+128683,0,"Collecting Duct, Connecting Tubule",train,evaluation
+87574,7,Thick Ascending Limb,train,evaluation
+116107,2,Glomerular endothelial cells,train,evaluation
+44219,5,Podocytes,train,evaluation
+175479,1,Distal Convoluted Tubule,val,evaluation
+173799,0,"Collecting Duct, Connecting Tubule",val,evaluation
+228330,1,Distal Convoluted Tubule,test,evaluation
+229599,3,Interstitial endothelial cells,test,evaluation
+216451,0,"Collecting Duct, Connecting Tubule",test,evaluation
+156745,6,Proximal Tubule Segments,train,evaluation
+91765,0,"Collecting Duct, Connecting Tubule",train,evaluation
+104566,6,Proximal Tubule Segments,train,evaluation
+143118,6,Proximal Tubule Segments,train,evaluation
+138495,0,"Collecting Duct, Connecting Tubule",train,evaluation
+68083,0,"Collecting Duct, Connecting Tubule",train,evaluation
+130827,0,"Collecting Duct, Connecting Tubule",train,evaluation
+142172,2,Glomerular endothelial cells,train,evaluation
+123792,1,Distal Convoluted Tubule,train,evaluation
+234496,5,Podocytes,test,evaluation
+152377,6,Proximal Tubule Segments,train,evaluation
+4554,0,"Collecting Duct, Connecting Tubule",train,evaluation
+157187,7,Thick Ascending Limb,train,evaluation
+7910,6,Proximal Tubule Segments,train,evaluation
+126883,6,Proximal Tubule Segments,train,evaluation
+189122,0,"Collecting Duct, Connecting Tubule",test,evaluation
+189614,7,Thick Ascending Limb,test,evaluation
+226431,7,Thick Ascending Limb,test,evaluation
+158720,1,Distal Convoluted Tubule,train,evaluation
+93571,0,"Collecting Duct, Connecting Tubule",train,evaluation
+104947,6,Proximal Tubule Segments,train,evaluation
+216157,0,"Collecting Duct, Connecting Tubule",test,evaluation
+48460,0,"Collecting Duct, Connecting Tubule",train,evaluation
+213824,2,Glomerular endothelial cells,test,evaluation
+181201,0,"Collecting Duct, Connecting Tubule",val,evaluation
+162860,0,"Collecting Duct, Connecting Tubule",train,evaluation
+230657,5,Podocytes,test,evaluation
+199325,7,Thick Ascending Limb,test,evaluation
+227686,6,Proximal Tubule Segments,test,evaluation
+70068,4,Leukocytes,train,evaluation
+113382,7,Thick Ascending Limb,train,evaluation
+29814,1,Distal Convoluted Tubule,train,evaluation
+184634,0,"Collecting Duct, Connecting Tubule",val,evaluation
+165082,7,Thick Ascending Limb,train,evaluation
+19694,0,"Collecting Duct, Connecting Tubule",train,evaluation
+208611,0,"Collecting Duct, Connecting Tubule",test,evaluation
+59394,7,Thick Ascending Limb,train,evaluation
+217717,0,"Collecting Duct, Connecting Tubule",test,evaluation
+3217,0,"Collecting Duct, Connecting Tubule",train,evaluation
+120878,4,Leukocytes,train,evaluation
+127551,0,"Collecting Duct, Connecting Tubule",train,evaluation
+52514,0,"Collecting Duct, Connecting Tubule",train,evaluation
+162484,6,Proximal Tubule Segments,train,evaluation
+67231,0,"Collecting Duct, Connecting Tubule",train,evaluation
+95170,7,Thick Ascending Limb,train,evaluation
+7855,7,Thick Ascending Limb,train,evaluation
+214409,7,Thick Ascending Limb,test,evaluation
+212820,4,Leukocytes,test,evaluation
+138914,0,"Collecting Duct, Connecting Tubule",train,evaluation
+149970,6,Proximal Tubule Segments,train,evaluation
+191920,0,"Collecting Duct, Connecting Tubule",test,evaluation
+102168,6,Proximal Tubule Segments,train,evaluation
+20192,7,Thick Ascending Limb,train,evaluation
+11920,3,Interstitial endothelial cells,train,evaluation
+94146,0,"Collecting Duct, Connecting Tubule",train,evaluation
+170822,0,"Collecting Duct, Connecting Tubule",val,evaluation
+170358,7,Thick Ascending Limb,val,evaluation
+143171,0,"Collecting Duct, Connecting Tubule",train,evaluation
+113795,7,Thick Ascending Limb,train,evaluation
+126677,0,"Collecting Duct, Connecting Tubule",train,evaluation
+71896,7,Thick Ascending Limb,train,evaluation
+116016,0,"Collecting Duct, Connecting Tubule",train,evaluation
+102137,0,"Collecting Duct, Connecting Tubule",train,evaluation
+46528,0,"Collecting Duct, Connecting Tubule",train,evaluation
+36492,0,"Collecting Duct, Connecting Tubule",train,evaluation
+173947,6,Proximal Tubule Segments,val,evaluation
+71665,2,Glomerular endothelial cells,train,evaluation
+67920,3,Interstitial endothelial cells,train,evaluation
+55366,3,Interstitial endothelial cells,train,evaluation
+224103,6,Proximal Tubule Segments,test,evaluation
+174585,6,Proximal Tubule Segments,val,evaluation
+164395,6,Proximal Tubule Segments,train,evaluation
+72056,6,Proximal Tubule Segments,train,evaluation
+191810,0,"Collecting Duct, Connecting Tubule",test,evaluation
+16659,3,Interstitial endothelial cells,train,evaluation
+152537,6,Proximal Tubule Segments,train,evaluation
+220153,3,Interstitial endothelial cells,test,evaluation
+216796,0,"Collecting Duct, Connecting Tubule",test,evaluation
+12030,0,"Collecting Duct, Connecting Tubule",train,evaluation
+115282,4,Leukocytes,train,evaluation
+27529,3,Interstitial endothelial cells,train,evaluation
+145305,6,Proximal Tubule Segments,train,evaluation
+85179,5,Podocytes,train,evaluation
+84983,0,"Collecting Duct, Connecting Tubule",train,evaluation
+24630,7,Thick Ascending Limb,train,evaluation
+195069,7,Thick Ascending Limb,test,evaluation
+115176,6,Proximal Tubule Segments,train,evaluation
+160116,5,Podocytes,train,evaluation
+148689,0,"Collecting Duct, Connecting Tubule",train,evaluation
+112448,1,Distal Convoluted Tubule,train,evaluation
+209835,6,Proximal Tubule Segments,test,evaluation
+111212,4,Leukocytes,train,evaluation
+191569,2,Glomerular endothelial cells,test,evaluation
+47141,4,Leukocytes,train,evaluation
+209104,0,"Collecting Duct, Connecting Tubule",test,evaluation
+141222,6,Proximal Tubule Segments,train,evaluation
+113598,0,"Collecting Duct, Connecting Tubule",train,evaluation
+234901,2,Glomerular endothelial cells,test,evaluation
+78923,6,Proximal Tubule Segments,train,evaluation
+163584,0,"Collecting Duct, Connecting Tubule",train,evaluation
+97012,1,Distal Convoluted Tubule,train,evaluation
+112607,6,Proximal Tubule Segments,train,evaluation
+157193,3,Interstitial endothelial cells,train,evaluation
+60354,0,"Collecting Duct, Connecting Tubule",train,evaluation
+131717,0,"Collecting Duct, Connecting Tubule",train,evaluation
+19147,7,Thick Ascending Limb,train,evaluation
+141624,7,Thick Ascending Limb,train,evaluation
+203559,6,Proximal Tubule Segments,test,evaluation
+31115,4,Leukocytes,train,evaluation
+209935,4,Leukocytes,test,evaluation
+76887,7,Thick Ascending Limb,train,evaluation
+93114,4,Leukocytes,train,evaluation
+224676,0,"Collecting Duct, Connecting Tubule",test,evaluation
+59465,2,Glomerular endothelial cells,train,evaluation
+231065,6,Proximal Tubule Segments,test,evaluation
+200173,0,"Collecting Duct, Connecting Tubule",test,evaluation
+47813,0,"Collecting Duct, Connecting Tubule",train,evaluation
+215205,0,"Collecting Duct, Connecting Tubule",test,evaluation
+43269,0,"Collecting Duct, Connecting Tubule",train,evaluation
+33718,0,"Collecting Duct, Connecting Tubule",train,evaluation
+69659,0,"Collecting Duct, Connecting Tubule",train,evaluation
+21156,0,"Collecting Duct, Connecting Tubule",train,evaluation
+100787,3,Interstitial endothelial cells,train,evaluation
+130067,0,"Collecting Duct, Connecting Tubule",train,evaluation
+28582,1,Distal Convoluted Tubule,train,evaluation
+74775,1,Distal Convoluted Tubule,train,evaluation
+158978,4,Leukocytes,train,evaluation
+146201,0,"Collecting Duct, Connecting Tubule",train,evaluation
+50336,4,Leukocytes,train,evaluation
+134470,6,Proximal Tubule Segments,train,evaluation
+146857,7,Thick Ascending Limb,train,evaluation
+37840,0,"Collecting Duct, Connecting Tubule",train,evaluation
+206991,2,Glomerular endothelial cells,test,evaluation
+213343,6,Proximal Tubule Segments,test,evaluation
+230376,5,Podocytes,test,evaluation
+135317,6,Proximal Tubule Segments,train,evaluation
+174222,0,"Collecting Duct, Connecting Tubule",val,evaluation
+186914,7,Thick Ascending Limb,val,evaluation
+85414,0,"Collecting Duct, Connecting Tubule",train,evaluation
+74448,1,Distal Convoluted Tubule,train,evaluation
+125595,7,Thick Ascending Limb,train,evaluation
+84654,3,Interstitial endothelial cells,train,evaluation
+8366,7,Thick Ascending Limb,train,evaluation
+7742,7,Thick Ascending Limb,train,evaluation
+78462,4,Leukocytes,train,evaluation
+185935,7,Thick Ascending Limb,val,evaluation
+222562,0,"Collecting Duct, Connecting Tubule",test,evaluation
+227228,7,Thick Ascending Limb,test,evaluation
+99938,0,"Collecting Duct, Connecting Tubule",train,evaluation
+212636,0,"Collecting Duct, Connecting Tubule",test,evaluation
+74887,6,Proximal Tubule Segments,train,evaluation
+51917,6,Proximal Tubule Segments,train,evaluation
+133961,0,"Collecting Duct, Connecting Tubule",train,evaluation
+196740,2,Glomerular endothelial cells,test,evaluation
+198720,6,Proximal Tubule Segments,test,evaluation
+83164,6,Proximal Tubule Segments,train,evaluation
+124670,0,"Collecting Duct, Connecting Tubule",train,evaluation
+29653,0,"Collecting Duct, Connecting Tubule",train,evaluation
+29118,4,Leukocytes,train,evaluation
+154151,7,Thick Ascending Limb,train,evaluation
+92615,6,Proximal Tubule Segments,train,evaluation
+165068,7,Thick Ascending Limb,train,evaluation
+200144,6,Proximal Tubule Segments,test,evaluation
+17169,6,Proximal Tubule Segments,train,evaluation
+12795,4,Leukocytes,train,evaluation
+124643,0,"Collecting Duct, Connecting Tubule",train,evaluation
+97446,6,Proximal Tubule Segments,train,evaluation
+200870,6,Proximal Tubule Segments,test,evaluation
+87433,5,Podocytes,train,evaluation
+69299,3,Interstitial endothelial cells,train,evaluation
+68159,5,Podocytes,train,evaluation
+61572,4,Leukocytes,train,evaluation
+218083,7,Thick Ascending Limb,test,evaluation
+27338,0,"Collecting Duct, Connecting Tubule",train,evaluation
+113205,0,"Collecting Duct, Connecting Tubule",train,evaluation
+212646,6,Proximal Tubule Segments,test,evaluation
+81737,6,Proximal Tubule Segments,train,evaluation
+223784,0,"Collecting Duct, Connecting Tubule",test,evaluation
+99835,7,Thick Ascending Limb,train,evaluation
+16791,0,"Collecting Duct, Connecting Tubule",train,evaluation
+179980,0,"Collecting Duct, Connecting Tubule",val,evaluation
+204450,6,Proximal Tubule Segments,test,evaluation
+142364,7,Thick Ascending Limb,train,evaluation
+182331,6,Proximal Tubule Segments,val,evaluation
+116726,4,Leukocytes,train,evaluation
+181674,7,Thick Ascending Limb,val,evaluation
+60466,0,"Collecting Duct, Connecting Tubule",train,evaluation
+57891,5,Podocytes,train,evaluation
+69061,6,Proximal Tubule Segments,train,evaluation
+1478,4,Leukocytes,train,evaluation
+180893,0,"Collecting Duct, Connecting Tubule",val,evaluation
+13141,0,"Collecting Duct, Connecting Tubule",train,evaluation
+8036,5,Podocytes,train,evaluation
+157695,4,Leukocytes,train,evaluation
+27048,7,Thick Ascending Limb,train,evaluation
+219629,6,Proximal Tubule Segments,test,evaluation
+44589,7,Thick Ascending Limb,train,evaluation
+9385,0,"Collecting Duct, Connecting Tubule",train,evaluation
+87880,1,Distal Convoluted Tubule,train,evaluation
+57519,3,Interstitial endothelial cells,train,evaluation
+110154,0,"Collecting Duct, Connecting Tubule",train,evaluation
+69996,3,Interstitial endothelial cells,train,evaluation
+99698,2,Glomerular endothelial cells,train,evaluation
+23624,0,"Collecting Duct, Connecting Tubule",train,evaluation
+197679,1,Distal Convoluted Tubule,test,evaluation
+45856,0,"Collecting Duct, Connecting Tubule",train,evaluation
+81676,6,Proximal Tubule Segments,train,evaluation
+78397,6,Proximal Tubule Segments,train,evaluation
+109047,1,Distal Convoluted Tubule,train,evaluation
+8043,6,Proximal Tubule Segments,train,evaluation
+211520,6,Proximal Tubule Segments,test,evaluation
+29338,2,Glomerular endothelial cells,train,evaluation
+91047,6,Proximal Tubule Segments,train,evaluation
+46838,7,Thick Ascending Limb,train,evaluation
+199436,0,"Collecting Duct, Connecting Tubule",test,evaluation
+186519,0,"Collecting Duct, Connecting Tubule",val,evaluation
+204565,0,"Collecting Duct, Connecting Tubule",test,evaluation
+151032,5,Podocytes,train,evaluation
+232079,0,"Collecting Duct, Connecting Tubule",test,evaluation
+164625,6,Proximal Tubule Segments,train,evaluation
+143526,0,"Collecting Duct, Connecting Tubule",train,evaluation
+222442,0,"Collecting Duct, Connecting Tubule",test,evaluation
+137921,6,Proximal Tubule Segments,train,evaluation
+139066,3,Interstitial endothelial cells,train,evaluation
+146516,0,"Collecting Duct, Connecting Tubule",train,evaluation
+155649,0,"Collecting Duct, Connecting Tubule",train,evaluation
+160583,6,Proximal Tubule Segments,train,evaluation
+217260,0,"Collecting Duct, Connecting Tubule",test,evaluation
+4092,0,"Collecting Duct, Connecting Tubule",train,evaluation
+174976,0,"Collecting Duct, Connecting Tubule",val,evaluation
+210478,0,"Collecting Duct, Connecting Tubule",test,evaluation
+196813,2,Glomerular endothelial cells,test,evaluation
+30189,3,Interstitial endothelial cells,train,evaluation
+194733,1,Distal Convoluted Tubule,test,evaluation
+131397,6,Proximal Tubule Segments,train,evaluation
+219861,6,Proximal Tubule Segments,test,evaluation
+92951,6,Proximal Tubule Segments,train,evaluation
+52789,1,Distal Convoluted Tubule,train,evaluation
+179640,5,Podocytes,val,evaluation
+184065,0,"Collecting Duct, Connecting Tubule",val,evaluation
+77198,3,Interstitial endothelial cells,train,evaluation
+130385,6,Proximal Tubule Segments,train,evaluation
+219084,0,"Collecting Duct, Connecting Tubule",test,evaluation
+69059,0,"Collecting Duct, Connecting Tubule",train,evaluation
+178177,6,Proximal Tubule Segments,val,evaluation
+158782,4,Leukocytes,train,evaluation
+150852,3,Interstitial endothelial cells,train,evaluation
+128221,6,Proximal Tubule Segments,train,evaluation
+21439,7,Thick Ascending Limb,train,evaluation
+31250,6,Proximal Tubule Segments,train,evaluation
+69631,6,Proximal Tubule Segments,train,evaluation
+132886,0,"Collecting Duct, Connecting Tubule",train,evaluation
+208584,1,Distal Convoluted Tubule,test,evaluation
+175981,0,"Collecting Duct, Connecting Tubule",val,evaluation
+230159,6,Proximal Tubule Segments,test,evaluation
+39907,0,"Collecting Duct, Connecting Tubule",train,evaluation
+207917,0,"Collecting Duct, Connecting Tubule",test,evaluation
+110026,7,Thick Ascending Limb,train,evaluation
+122873,0,"Collecting Duct, Connecting Tubule",train,evaluation
+114137,3,Interstitial endothelial cells,train,evaluation
+162251,7,Thick Ascending Limb,train,evaluation
+52899,3,Interstitial endothelial cells,train,evaluation
+33486,0,"Collecting Duct, Connecting Tubule",train,evaluation
+211308,0,"Collecting Duct, Connecting Tubule",test,evaluation
+167574,0,"Collecting Duct, Connecting Tubule",val,evaluation
+200472,3,Interstitial endothelial cells,test,evaluation
+96522,6,Proximal Tubule Segments,train,evaluation
+171299,6,Proximal Tubule Segments,val,evaluation
+40782,0,"Collecting Duct, Connecting Tubule",train,evaluation
+171347,5,Podocytes,val,evaluation
+163312,5,Podocytes,train,evaluation
+227385,3,Interstitial endothelial cells,test,evaluation
+110235,6,Proximal Tubule Segments,train,evaluation
+180617,6,Proximal Tubule Segments,val,evaluation
+81513,6,Proximal Tubule Segments,train,evaluation
+40685,6,Proximal Tubule Segments,train,evaluation
+22243,5,Podocytes,train,evaluation
+154581,6,Proximal Tubule Segments,train,evaluation
+53269,0,"Collecting Duct, Connecting Tubule",train,evaluation
+160809,0,"Collecting Duct, Connecting Tubule",train,evaluation
+62468,6,Proximal Tubule Segments,train,evaluation
+31458,6,Proximal Tubule Segments,train,evaluation
+169965,6,Proximal Tubule Segments,val,evaluation
+165033,6,Proximal Tubule Segments,train,evaluation
+190773,3,Interstitial endothelial cells,test,evaluation
+83437,5,Podocytes,train,evaluation
+52847,6,Proximal Tubule Segments,train,evaluation
+79815,7,Thick Ascending Limb,train,evaluation
+225302,5,Podocytes,test,evaluation
+141131,7,Thick Ascending Limb,train,evaluation
+63502,7,Thick Ascending Limb,train,evaluation
+27819,6,Proximal Tubule Segments,train,evaluation
+65087,7,Thick Ascending Limb,train,evaluation
+50955,3,Interstitial endothelial cells,train,evaluation
+165493,6,Proximal Tubule Segments,val,evaluation
+31970,6,Proximal Tubule Segments,train,evaluation
+195177,0,"Collecting Duct, Connecting Tubule",test,evaluation
+159395,6,Proximal Tubule Segments,train,evaluation
+115455,3,Interstitial endothelial cells,train,evaluation
+38188,0,"Collecting Duct, Connecting Tubule",train,evaluation
+21872,0,"Collecting Duct, Connecting Tubule",train,evaluation
+186226,0,"Collecting Duct, Connecting Tubule",val,evaluation
+15944,0,"Collecting Duct, Connecting Tubule",train,evaluation
+62363,7,Thick Ascending Limb,train,evaluation
+44712,3,Interstitial endothelial cells,train,evaluation
+128657,6,Proximal Tubule Segments,train,evaluation
+137936,6,Proximal Tubule Segments,train,evaluation
+78079,6,Proximal Tubule Segments,train,evaluation
+83169,3,Interstitial endothelial cells,train,evaluation
+85047,0,"Collecting Duct, Connecting Tubule",train,evaluation
+104857,7,Thick Ascending Limb,train,evaluation
+146949,0,"Collecting Duct, Connecting Tubule",train,evaluation
+86765,3,Interstitial endothelial cells,train,evaluation
+219872,7,Thick Ascending Limb,test,evaluation
+18139,0,"Collecting Duct, Connecting Tubule",train,evaluation
+19973,0,"Collecting Duct, Connecting Tubule",train,evaluation
+161030,7,Thick Ascending Limb,train,evaluation
+162632,6,Proximal Tubule Segments,train,evaluation
+234588,1,Distal Convoluted Tubule,test,evaluation
+172991,6,Proximal Tubule Segments,val,evaluation
+215868,6,Proximal Tubule Segments,test,evaluation
+145223,6,Proximal Tubule Segments,train,evaluation
+57188,0,"Collecting Duct, Connecting Tubule",train,evaluation
+94482,0,"Collecting Duct, Connecting Tubule",train,evaluation
+136082,6,Proximal Tubule Segments,train,evaluation
+184006,6,Proximal Tubule Segments,val,evaluation
+87807,6,Proximal Tubule Segments,train,evaluation
+232316,1,Distal Convoluted Tubule,test,evaluation
+138290,0,"Collecting Duct, Connecting Tubule",train,evaluation
+98200,5,Podocytes,train,evaluation
+77188,0,"Collecting Duct, Connecting Tubule",train,evaluation
+50530,0,"Collecting Duct, Connecting Tubule",train,evaluation
+226183,1,Distal Convoluted Tubule,test,evaluation
+60706,0,"Collecting Duct, Connecting Tubule",train,evaluation
+32324,0,"Collecting Duct, Connecting Tubule",train,evaluation
+140957,0,"Collecting Duct, Connecting Tubule",train,evaluation
+97887,0,"Collecting Duct, Connecting Tubule",train,evaluation
+133944,6,Proximal Tubule Segments,train,evaluation
+156898,6,Proximal Tubule Segments,train,evaluation
+199797,0,"Collecting Duct, Connecting Tubule",test,evaluation
+227276,6,Proximal Tubule Segments,test,evaluation
+226477,7,Thick Ascending Limb,test,evaluation
+154298,0,"Collecting Duct, Connecting Tubule",train,evaluation
+91569,6,Proximal Tubule Segments,train,evaluation
+196676,0,"Collecting Duct, Connecting Tubule",test,evaluation
+125526,0,"Collecting Duct, Connecting Tubule",train,evaluation
+215958,3,Interstitial endothelial cells,test,evaluation
+227113,0,"Collecting Duct, Connecting Tubule",test,evaluation
+121457,6,Proximal Tubule Segments,train,evaluation
+34977,4,Leukocytes,train,evaluation
+71098,0,"Collecting Duct, Connecting Tubule",train,evaluation
+226190,7,Thick Ascending Limb,test,evaluation
+73198,0,"Collecting Duct, Connecting Tubule",train,evaluation
+135460,0,"Collecting Duct, Connecting Tubule",train,evaluation
+236186,0,"Collecting Duct, Connecting Tubule",test,evaluation
+229046,3,Interstitial endothelial cells,test,evaluation
+155406,6,Proximal Tubule Segments,train,evaluation
+219668,0,"Collecting Duct, Connecting Tubule",test,evaluation
+38354,1,Distal Convoluted Tubule,train,evaluation
+163676,4,Leukocytes,train,evaluation
+156121,0,"Collecting Duct, Connecting Tubule",train,evaluation
+117599,0,"Collecting Duct, Connecting Tubule",train,evaluation
+83097,3,Interstitial endothelial cells,train,evaluation
+213669,0,"Collecting Duct, Connecting Tubule",test,evaluation
+38820,0,"Collecting Duct, Connecting Tubule",train,evaluation
+686,5,Podocytes,train,evaluation
+178159,6,Proximal Tubule Segments,val,evaluation
+56592,0,"Collecting Duct, Connecting Tubule",train,evaluation
+42645,2,Glomerular endothelial cells,train,evaluation
+233555,3,Interstitial endothelial cells,test,evaluation
+44780,0,"Collecting Duct, Connecting Tubule",train,evaluation
+29811,0,"Collecting Duct, Connecting Tubule",train,evaluation
+4572,7,Thick Ascending Limb,train,evaluation
+68632,0,"Collecting Duct, Connecting Tubule",train,evaluation
+123443,7,Thick Ascending Limb,train,evaluation
+79208,0,"Collecting Duct, Connecting Tubule",train,evaluation
+106547,6,Proximal Tubule Segments,train,evaluation
+168055,6,Proximal Tubule Segments,val,evaluation
+74958,3,Interstitial endothelial cells,train,evaluation
+78082,2,Glomerular endothelial cells,train,evaluation
+109648,0,"Collecting Duct, Connecting Tubule",train,evaluation
+45399,6,Proximal Tubule Segments,train,evaluation
+112891,6,Proximal Tubule Segments,train,evaluation
+85161,6,Proximal Tubule Segments,train,evaluation
+118134,7,Thick Ascending Limb,train,evaluation
+112401,7,Thick Ascending Limb,train,evaluation
+210450,5,Podocytes,test,evaluation
+123049,6,Proximal Tubule Segments,train,evaluation
+211260,0,"Collecting Duct, Connecting Tubule",test,evaluation
+207047,6,Proximal Tubule Segments,test,evaluation
+188937,6,Proximal Tubule Segments,val,evaluation
+233589,5,Podocytes,test,evaluation
+175519,3,Interstitial endothelial cells,val,evaluation
+122064,0,"Collecting Duct, Connecting Tubule",train,evaluation
+5235,4,Leukocytes,train,evaluation
+219209,3,Interstitial endothelial cells,test,evaluation
+193863,7,Thick Ascending Limb,test,evaluation
+169308,4,Leukocytes,val,evaluation
+41449,6,Proximal Tubule Segments,train,evaluation
+131539,6,Proximal Tubule Segments,train,evaluation
+223663,0,"Collecting Duct, Connecting Tubule",test,evaluation
+98532,3,Interstitial endothelial cells,train,evaluation
+201730,6,Proximal Tubule Segments,test,evaluation
+200986,7,Thick Ascending Limb,test,evaluation
+44678,6,Proximal Tubule Segments,train,evaluation
+150431,6,Proximal Tubule Segments,train,evaluation
+125099,0,"Collecting Duct, Connecting Tubule",train,evaluation
+73233,0,"Collecting Duct, Connecting Tubule",train,evaluation
+6503,7,Thick Ascending Limb,train,evaluation
+153060,0,"Collecting Duct, Connecting Tubule",train,evaluation
+102554,0,"Collecting Duct, Connecting Tubule",train,evaluation
+90035,6,Proximal Tubule Segments,train,evaluation
+131574,6,Proximal Tubule Segments,train,evaluation
+215431,6,Proximal Tubule Segments,test,evaluation
+215007,0,"Collecting Duct, Connecting Tubule",test,evaluation
+49842,0,"Collecting Duct, Connecting Tubule",train,evaluation
+97602,0,"Collecting Duct, Connecting Tubule",train,evaluation
+102803,6,Proximal Tubule Segments,train,evaluation
+45148,1,Distal Convoluted Tubule,train,evaluation
+210617,7,Thick Ascending Limb,test,evaluation
+56292,0,"Collecting Duct, Connecting Tubule",train,evaluation
+207884,7,Thick Ascending Limb,test,evaluation
+135267,2,Glomerular endothelial cells,train,evaluation
+189452,7,Thick Ascending Limb,test,evaluation
+68686,6,Proximal Tubule Segments,train,evaluation
+156800,7,Thick Ascending Limb,train,evaluation
+183443,7,Thick Ascending Limb,val,evaluation
+102424,0,"Collecting Duct, Connecting Tubule",train,evaluation
+29947,7,Thick Ascending Limb,train,evaluation
+5501,7,Thick Ascending Limb,train,evaluation
+27978,7,Thick Ascending Limb,train,evaluation
+6541,1,Distal Convoluted Tubule,train,evaluation
+181619,6,Proximal Tubule Segments,val,evaluation
+101010,0,"Collecting Duct, Connecting Tubule",train,evaluation
+152558,0,"Collecting Duct, Connecting Tubule",train,evaluation
+14037,7,Thick Ascending Limb,train,evaluation
+57547,1,Distal Convoluted Tubule,train,evaluation
+178255,7,Thick Ascending Limb,val,evaluation
+134232,6,Proximal Tubule Segments,train,evaluation
+174186,6,Proximal Tubule Segments,val,evaluation
+203467,0,"Collecting Duct, Connecting Tubule",test,evaluation
+34661,0,"Collecting Duct, Connecting Tubule",train,evaluation
+102499,7,Thick Ascending Limb,train,evaluation
+36671,5,Podocytes,train,evaluation
+76904,6,Proximal Tubule Segments,train,evaluation
+116966,0,"Collecting Duct, Connecting Tubule",train,evaluation
+145103,0,"Collecting Duct, Connecting Tubule",train,evaluation
+87633,6,Proximal Tubule Segments,train,evaluation
+10744,6,Proximal Tubule Segments,train,evaluation
+160466,6,Proximal Tubule Segments,train,evaluation
+54777,6,Proximal Tubule Segments,train,evaluation
+139162,0,"Collecting Duct, Connecting Tubule",train,evaluation
+232950,5,Podocytes,test,evaluation
+186585,0,"Collecting Duct, Connecting Tubule",val,evaluation
+150988,6,Proximal Tubule Segments,train,evaluation
+62171,2,Glomerular endothelial cells,train,evaluation
+216892,5,Podocytes,test,evaluation
+34910,5,Podocytes,train,evaluation
+214438,7,Thick Ascending Limb,test,evaluation
+104466,7,Thick Ascending Limb,train,evaluation
+54271,7,Thick Ascending Limb,train,evaluation
+169296,0,"Collecting Duct, Connecting Tubule",val,evaluation
+77487,0,"Collecting Duct, Connecting Tubule",train,evaluation
+201726,6,Proximal Tubule Segments,test,evaluation
+31564,6,Proximal Tubule Segments,train,evaluation
+191545,0,"Collecting Duct, Connecting Tubule",test,evaluation
+233542,0,"Collecting Duct, Connecting Tubule",test,evaluation
+56902,6,Proximal Tubule Segments,train,evaluation
+90468,0,"Collecting Duct, Connecting Tubule",train,evaluation
+209185,6,Proximal Tubule Segments,test,evaluation
+134917,1,Distal Convoluted Tubule,train,evaluation
+210660,7,Thick Ascending Limb,test,evaluation
+70170,3,Interstitial endothelial cells,train,evaluation
+103731,0,"Collecting Duct, Connecting Tubule",train,evaluation
+135216,6,Proximal Tubule Segments,train,evaluation
+222691,0,"Collecting Duct, Connecting Tubule",test,evaluation
+150014,6,Proximal Tubule Segments,train,evaluation
+14970,6,Proximal Tubule Segments,train,evaluation
+138150,4,Leukocytes,train,evaluation
+2311,1,Distal Convoluted Tubule,train,evaluation
+30276,7,Thick Ascending Limb,train,evaluation
+143623,0,"Collecting Duct, Connecting Tubule",train,evaluation
+219513,6,Proximal Tubule Segments,test,evaluation
+121463,1,Distal Convoluted Tubule,train,evaluation
+7118,3,Interstitial endothelial cells,train,evaluation
+23415,5,Podocytes,train,evaluation
+168561,7,Thick Ascending Limb,val,evaluation
+123041,6,Proximal Tubule Segments,train,evaluation
+163685,5,Podocytes,train,evaluation
+95329,3,Interstitial endothelial cells,train,evaluation
+4274,0,"Collecting Duct, Connecting Tubule",train,evaluation
+104225,6,Proximal Tubule Segments,train,evaluation
+49537,6,Proximal Tubule Segments,train,evaluation
+60516,0,"Collecting Duct, Connecting Tubule",train,evaluation
+17849,6,Proximal Tubule Segments,train,evaluation
+77419,3,Interstitial endothelial cells,train,evaluation
+147283,0,"Collecting Duct, Connecting Tubule",train,evaluation
+217425,0,"Collecting Duct, Connecting Tubule",test,evaluation
+98207,2,Glomerular endothelial cells,train,evaluation
+59830,0,"Collecting Duct, Connecting Tubule",train,evaluation
+23096,6,Proximal Tubule Segments,train,evaluation
+6273,7,Thick Ascending Limb,train,evaluation
+120605,4,Leukocytes,train,evaluation
+118694,6,Proximal Tubule Segments,train,evaluation
+103670,6,Proximal Tubule Segments,train,evaluation
+64249,6,Proximal Tubule Segments,train,evaluation
+103713,4,Leukocytes,train,evaluation
+4699,0,"Collecting Duct, Connecting Tubule",train,evaluation
+85002,7,Thick Ascending Limb,train,evaluation
+167740,0,"Collecting Duct, Connecting Tubule",val,evaluation
+99060,7,Thick Ascending Limb,train,evaluation
+18248,0,"Collecting Duct, Connecting Tubule",train,evaluation
+197423,7,Thick Ascending Limb,test,evaluation
+97720,0,"Collecting Duct, Connecting Tubule",train,evaluation
+110022,4,Leukocytes,train,evaluation
+176021,6,Proximal Tubule Segments,val,evaluation
+220213,0,"Collecting Duct, Connecting Tubule",test,evaluation
+229996,0,"Collecting Duct, Connecting Tubule",test,evaluation
+117163,3,Interstitial endothelial cells,train,evaluation
+151179,6,Proximal Tubule Segments,train,evaluation
+159474,0,"Collecting Duct, Connecting Tubule",train,evaluation
+150740,0,"Collecting Duct, Connecting Tubule",train,evaluation
+204194,0,"Collecting Duct, Connecting Tubule",test,evaluation
+87383,6,Proximal Tubule Segments,train,evaluation
+121523,0,"Collecting Duct, Connecting Tubule",train,evaluation
+88620,5,Podocytes,train,evaluation
+178823,6,Proximal Tubule Segments,val,evaluation
+42700,4,Leukocytes,train,evaluation
+225565,7,Thick Ascending Limb,test,evaluation
+31521,0,"Collecting Duct, Connecting Tubule",train,evaluation
+202902,0,"Collecting Duct, Connecting Tubule",test,evaluation
+166872,6,Proximal Tubule Segments,val,evaluation
+72154,7,Thick Ascending Limb,train,evaluation
+14818,0,"Collecting Duct, Connecting Tubule",train,evaluation
+11921,4,Leukocytes,train,evaluation
+154603,1,Distal Convoluted Tubule,train,evaluation
+66174,6,Proximal Tubule Segments,train,evaluation
+195374,0,"Collecting Duct, Connecting Tubule",test,evaluation
+27577,0,"Collecting Duct, Connecting Tubule",train,evaluation
+167493,6,Proximal Tubule Segments,val,evaluation
+2606,0,"Collecting Duct, Connecting Tubule",train,evaluation
+216054,2,Glomerular endothelial cells,test,evaluation
+157673,4,Leukocytes,train,evaluation
+101224,3,Interstitial endothelial cells,train,evaluation
+217401,0,"Collecting Duct, Connecting Tubule",test,evaluation
+75877,6,Proximal Tubule Segments,train,evaluation
+113662,7,Thick Ascending Limb,train,evaluation
+70643,0,"Collecting Duct, Connecting Tubule",train,evaluation
+208055,6,Proximal Tubule Segments,test,evaluation
+120936,2,Glomerular endothelial cells,train,evaluation
+174947,0,"Collecting Duct, Connecting Tubule",val,evaluation
+68727,0,"Collecting Duct, Connecting Tubule",train,evaluation
+204616,3,Interstitial endothelial cells,test,evaluation
+150609,0,"Collecting Duct, Connecting Tubule",train,evaluation
+195714,6,Proximal Tubule Segments,test,evaluation
+90804,5,Podocytes,train,evaluation
+10764,0,"Collecting Duct, Connecting Tubule",train,evaluation
+172399,6,Proximal Tubule Segments,val,evaluation
+93171,6,Proximal Tubule Segments,train,evaluation
+149341,7,Thick Ascending Limb,train,evaluation
+136786,0,"Collecting Duct, Connecting Tubule",train,evaluation
+63636,0,"Collecting Duct, Connecting Tubule",train,evaluation
+193626,4,Leukocytes,test,evaluation
+57928,3,Interstitial endothelial cells,train,evaluation
+91192,4,Leukocytes,train,evaluation
+57912,6,Proximal Tubule Segments,train,evaluation
+12949,6,Proximal Tubule Segments,train,evaluation
+221895,7,Thick Ascending Limb,test,evaluation
+53562,0,"Collecting Duct, Connecting Tubule",train,evaluation
+187339,0,"Collecting Duct, Connecting Tubule",val,evaluation
+235395,0,"Collecting Duct, Connecting Tubule",test,evaluation
+159302,4,Leukocytes,train,evaluation
+70713,7,Thick Ascending Limb,train,evaluation
+125059,3,Interstitial endothelial cells,train,evaluation
+190138,4,Leukocytes,test,evaluation
+223368,0,"Collecting Duct, Connecting Tubule",test,evaluation
+199849,0,"Collecting Duct, Connecting Tubule",test,evaluation
+67777,7,Thick Ascending Limb,train,evaluation
+11260,7,Thick Ascending Limb,train,evaluation
+24961,3,Interstitial endothelial cells,train,evaluation
+113978,0,"Collecting Duct, Connecting Tubule",train,evaluation
+98249,0,"Collecting Duct, Connecting Tubule",train,evaluation
+76279,6,Proximal Tubule Segments,train,evaluation
+221070,0,"Collecting Duct, Connecting Tubule",test,evaluation
+207015,7,Thick Ascending Limb,test,evaluation
+180313,5,Podocytes,val,evaluation
+144271,0,"Collecting Duct, Connecting Tubule",train,evaluation
+229498,0,"Collecting Duct, Connecting Tubule",test,evaluation
+5121,7,Thick Ascending Limb,train,evaluation
+44556,7,Thick Ascending Limb,train,evaluation
+120704,0,"Collecting Duct, Connecting Tubule",train,evaluation
+56359,0,"Collecting Duct, Connecting Tubule",train,evaluation
+220176,3,Interstitial endothelial cells,test,evaluation
+197774,3,Interstitial endothelial cells,test,evaluation
+38337,3,Interstitial endothelial cells,train,evaluation
+55172,7,Thick Ascending Limb,train,evaluation
+123546,2,Glomerular endothelial cells,train,evaluation
+228951,6,Proximal Tubule Segments,test,evaluation
+135223,2,Glomerular endothelial cells,train,evaluation
+99312,0,"Collecting Duct, Connecting Tubule",train,evaluation
+114715,1,Distal Convoluted Tubule,train,evaluation
+204643,0,"Collecting Duct, Connecting Tubule",test,evaluation
+66034,4,Leukocytes,train,evaluation
+195569,0,"Collecting Duct, Connecting Tubule",test,evaluation
+100808,0,"Collecting Duct, Connecting Tubule",train,evaluation
+71520,6,Proximal Tubule Segments,train,evaluation
+126083,0,"Collecting Duct, Connecting Tubule",train,evaluation
+97943,2,Glomerular endothelial cells,train,evaluation
+113295,5,Podocytes,train,evaluation
+144614,6,Proximal Tubule Segments,train,evaluation
+171206,5,Podocytes,val,evaluation
+157888,6,Proximal Tubule Segments,train,evaluation
+91321,0,"Collecting Duct, Connecting Tubule",train,evaluation
+38165,3,Interstitial endothelial cells,train,evaluation
+48659,1,Distal Convoluted Tubule,train,evaluation
+63526,0,"Collecting Duct, Connecting Tubule",train,evaluation
+92919,0,"Collecting Duct, Connecting Tubule",train,evaluation
+142006,5,Podocytes,train,evaluation
+179483,6,Proximal Tubule Segments,val,evaluation
+23445,5,Podocytes,train,evaluation
+126086,6,Proximal Tubule Segments,train,evaluation
+155011,0,"Collecting Duct, Connecting Tubule",train,evaluation
+136858,0,"Collecting Duct, Connecting Tubule",train,evaluation
+218329,2,Glomerular endothelial cells,test,evaluation
+32378,6,Proximal Tubule Segments,train,evaluation
+203000,6,Proximal Tubule Segments,test,evaluation
+88218,2,Glomerular endothelial cells,train,evaluation
+192012,4,Leukocytes,test,evaluation
+38836,7,Thick Ascending Limb,train,evaluation
+50030,4,Leukocytes,train,evaluation
+147554,0,"Collecting Duct, Connecting Tubule",train,evaluation
+1953,4,Leukocytes,train,evaluation
+99518,4,Leukocytes,train,evaluation
+14366,6,Proximal Tubule Segments,train,evaluation
+9248,2,Glomerular endothelial cells,train,evaluation
+167624,4,Leukocytes,val,evaluation
+95450,7,Thick Ascending Limb,train,evaluation
+110760,2,Glomerular endothelial cells,train,evaluation
+56373,0,"Collecting Duct, Connecting Tubule",train,evaluation
+131603,1,Distal Convoluted Tubule,train,evaluation
+213115,0,"Collecting Duct, Connecting Tubule",test,evaluation
+59363,4,Leukocytes,train,evaluation
+95062,2,Glomerular endothelial cells,train,evaluation
+186830,3,Interstitial endothelial cells,val,evaluation
+12423,0,"Collecting Duct, Connecting Tubule",train,evaluation
+10279,0,"Collecting Duct, Connecting Tubule",train,evaluation
+156082,7,Thick Ascending Limb,train,evaluation
+125747,0,"Collecting Duct, Connecting Tubule",train,evaluation
+112711,6,Proximal Tubule Segments,train,evaluation
+93699,6,Proximal Tubule Segments,train,evaluation
+131178,3,Interstitial endothelial cells,train,evaluation
+22311,7,Thick Ascending Limb,train,evaluation
+14845,3,Interstitial endothelial cells,train,evaluation
+34023,7,Thick Ascending Limb,train,evaluation
+174399,0,"Collecting Duct, Connecting Tubule",val,evaluation
+6693,0,"Collecting Duct, Connecting Tubule",train,evaluation
+25505,0,"Collecting Duct, Connecting Tubule",train,evaluation
+11546,6,Proximal Tubule Segments,train,evaluation
+54172,5,Podocytes,train,evaluation
+82939,0,"Collecting Duct, Connecting Tubule",train,evaluation
+103879,7,Thick Ascending Limb,train,evaluation
+63061,4,Leukocytes,train,evaluation
+131761,3,Interstitial endothelial cells,train,evaluation
+228176,0,"Collecting Duct, Connecting Tubule",test,evaluation
+92521,4,Leukocytes,train,evaluation
+83051,0,"Collecting Duct, Connecting Tubule",train,evaluation
+121070,6,Proximal Tubule Segments,train,evaluation
+11346,7,Thick Ascending Limb,train,evaluation
+187723,0,"Collecting Duct, Connecting Tubule",val,evaluation
+184476,0,"Collecting Duct, Connecting Tubule",val,evaluation
+216937,3,Interstitial endothelial cells,test,evaluation
+30122,7,Thick Ascending Limb,train,evaluation
+165510,7,Thick Ascending Limb,val,evaluation
+84261,3,Interstitial endothelial cells,train,evaluation
+152280,1,Distal Convoluted Tubule,train,evaluation
+219848,0,"Collecting Duct, Connecting Tubule",test,evaluation
+193628,7,Thick Ascending Limb,test,evaluation
+113757,0,"Collecting Duct, Connecting Tubule",train,evaluation
+120151,6,Proximal Tubule Segments,train,evaluation
+179279,0,"Collecting Duct, Connecting Tubule",val,evaluation
+176480,3,Interstitial endothelial cells,val,evaluation
+77400,7,Thick Ascending Limb,train,evaluation
+153470,1,Distal Convoluted Tubule,train,evaluation
+151561,6,Proximal Tubule Segments,train,evaluation
+56053,1,Distal Convoluted Tubule,train,evaluation
+235720,6,Proximal Tubule Segments,test,evaluation
+204644,0,"Collecting Duct, Connecting Tubule",test,evaluation
+56301,0,"Collecting Duct, Connecting Tubule",train,evaluation
+68545,3,Interstitial endothelial cells,train,evaluation
+56701,5,Podocytes,train,evaluation
+106715,3,Interstitial endothelial cells,train,evaluation
+126120,7,Thick Ascending Limb,train,evaluation
+12368,6,Proximal Tubule Segments,train,evaluation
+226250,6,Proximal Tubule Segments,test,evaluation
+25475,6,Proximal Tubule Segments,train,evaluation
+150328,0,"Collecting Duct, Connecting Tubule",train,evaluation
+181852,0,"Collecting Duct, Connecting Tubule",val,evaluation
+78594,4,Leukocytes,train,evaluation
+146300,7,Thick Ascending Limb,train,evaluation
+62048,0,"Collecting Duct, Connecting Tubule",train,evaluation
+90194,5,Podocytes,train,evaluation
+133060,0,"Collecting Duct, Connecting Tubule",train,evaluation
+74492,7,Thick Ascending Limb,train,evaluation
+44594,0,"Collecting Duct, Connecting Tubule",train,evaluation
+201103,0,"Collecting Duct, Connecting Tubule",test,evaluation
+143793,6,Proximal Tubule Segments,train,evaluation
+174407,0,"Collecting Duct, Connecting Tubule",val,evaluation
+82696,0,"Collecting Duct, Connecting Tubule",train,evaluation
+219608,0,"Collecting Duct, Connecting Tubule",test,evaluation
+201648,6,Proximal Tubule Segments,test,evaluation
+204468,0,"Collecting Duct, Connecting Tubule",test,evaluation
+100773,6,Proximal Tubule Segments,train,evaluation
+39459,5,Podocytes,train,evaluation
+156892,3,Interstitial endothelial cells,train,evaluation
+86195,1,Distal Convoluted Tubule,train,evaluation
+26455,4,Leukocytes,train,evaluation
+114465,1,Distal Convoluted Tubule,train,evaluation
+61643,0,"Collecting Duct, Connecting Tubule",train,evaluation
+82774,7,Thick Ascending Limb,train,evaluation
+168043,6,Proximal Tubule Segments,val,evaluation
+185349,3,Interstitial endothelial cells,val,evaluation
+191455,3,Interstitial endothelial cells,test,evaluation
+234418,3,Interstitial endothelial cells,test,evaluation
+76149,1,Distal Convoluted Tubule,train,evaluation
+11312,0,"Collecting Duct, Connecting Tubule",train,evaluation
+40196,7,Thick Ascending Limb,train,evaluation
+68119,1,Distal Convoluted Tubule,train,evaluation
+91812,3,Interstitial endothelial cells,train,evaluation
+70408,4,Leukocytes,train,evaluation
+202785,5,Podocytes,test,evaluation
+231925,7,Thick Ascending Limb,test,evaluation
+126263,1,Distal Convoluted Tubule,train,evaluation
+184443,3,Interstitial endothelial cells,val,evaluation
+86792,6,Proximal Tubule Segments,train,evaluation
+232743,2,Glomerular endothelial cells,test,evaluation
+45907,6,Proximal Tubule Segments,train,evaluation
+43774,0,"Collecting Duct, Connecting Tubule",train,evaluation
+1715,4,Leukocytes,train,evaluation
+196584,6,Proximal Tubule Segments,test,evaluation
+63329,6,Proximal Tubule Segments,train,evaluation
+89424,0,"Collecting Duct, Connecting Tubule",train,evaluation
+138392,7,Thick Ascending Limb,train,evaluation
+170268,0,"Collecting Duct, Connecting Tubule",val,evaluation
+5876,4,Leukocytes,train,evaluation
+186220,7,Thick Ascending Limb,val,evaluation
+94626,7,Thick Ascending Limb,train,evaluation
+102417,6,Proximal Tubule Segments,train,evaluation
+230470,2,Glomerular endothelial cells,test,evaluation
+148582,4,Leukocytes,train,evaluation
+151948,0,"Collecting Duct, Connecting Tubule",train,evaluation
+186582,3,Interstitial endothelial cells,val,evaluation
+83447,7,Thick Ascending Limb,train,evaluation
+75243,0,"Collecting Duct, Connecting Tubule",train,evaluation
+66635,7,Thick Ascending Limb,train,evaluation
+140585,6,Proximal Tubule Segments,train,evaluation
+75897,1,Distal Convoluted Tubule,train,evaluation
+72360,3,Interstitial endothelial cells,train,evaluation
+222864,6,Proximal Tubule Segments,test,evaluation
+56343,0,"Collecting Duct, Connecting Tubule",train,evaluation
+123484,3,Interstitial endothelial cells,train,evaluation
+199386,7,Thick Ascending Limb,test,evaluation
+112642,7,Thick Ascending Limb,train,evaluation
+36963,0,"Collecting Duct, Connecting Tubule",train,evaluation
+139285,6,Proximal Tubule Segments,train,evaluation
+191297,6,Proximal Tubule Segments,test,evaluation
+51700,0,"Collecting Duct, Connecting Tubule",train,evaluation
+153507,5,Podocytes,train,evaluation
+47671,4,Leukocytes,train,evaluation
+225897,6,Proximal Tubule Segments,test,evaluation
+124812,6,Proximal Tubule Segments,train,evaluation
+105662,6,Proximal Tubule Segments,train,evaluation
+186311,7,Thick Ascending Limb,val,evaluation
+188212,2,Glomerular endothelial cells,val,evaluation
+82695,5,Podocytes,train,evaluation
+199411,1,Distal Convoluted Tubule,test,evaluation
+135308,7,Thick Ascending Limb,train,evaluation
+149708,4,Leukocytes,train,evaluation
+188801,4,Leukocytes,val,evaluation
+52850,7,Thick Ascending Limb,train,evaluation
+61827,4,Leukocytes,train,evaluation
+174159,6,Proximal Tubule Segments,val,evaluation
+229011,5,Podocytes,test,evaluation
+98601,7,Thick Ascending Limb,train,evaluation
+234503,3,Interstitial endothelial cells,test,evaluation
+79071,0,"Collecting Duct, Connecting Tubule",train,evaluation
+30065,0,"Collecting Duct, Connecting Tubule",train,evaluation
+98604,7,Thick Ascending Limb,train,evaluation
+192165,0,"Collecting Duct, Connecting Tubule",test,evaluation
+13198,6,Proximal Tubule Segments,train,evaluation
+14070,0,"Collecting Duct, Connecting Tubule",train,evaluation
+89484,6,Proximal Tubule Segments,train,evaluation
+70372,0,"Collecting Duct, Connecting Tubule",train,evaluation
+159212,7,Thick Ascending Limb,train,evaluation
+7705,1,Distal Convoluted Tubule,train,evaluation
+30836,4,Leukocytes,train,evaluation
+213654,4,Leukocytes,test,evaluation
+151260,5,Podocytes,train,evaluation
+29066,3,Interstitial endothelial cells,train,evaluation
+103300,0,"Collecting Duct, Connecting Tubule",train,evaluation
+226432,7,Thick Ascending Limb,test,evaluation
+66776,0,"Collecting Duct, Connecting Tubule",train,evaluation
+88197,3,Interstitial endothelial cells,train,evaluation
+127837,7,Thick Ascending Limb,train,evaluation
+211675,7,Thick Ascending Limb,test,evaluation
+167982,6,Proximal Tubule Segments,val,evaluation
+69222,6,Proximal Tubule Segments,train,evaluation
+176828,1,Distal Convoluted Tubule,val,evaluation
+232644,0,"Collecting Duct, Connecting Tubule",test,evaluation
+44583,6,Proximal Tubule Segments,train,evaluation
+74044,3,Interstitial endothelial cells,train,evaluation
+169100,6,Proximal Tubule Segments,val,evaluation
+147631,3,Interstitial endothelial cells,train,evaluation
+215041,4,Leukocytes,test,evaluation
+15582,0,"Collecting Duct, Connecting Tubule",train,evaluation
+176507,0,"Collecting Duct, Connecting Tubule",val,evaluation
+185482,3,Interstitial endothelial cells,val,evaluation
+29148,7,Thick Ascending Limb,train,evaluation
+145013,5,Podocytes,train,evaluation
+144554,7,Thick Ascending Limb,train,evaluation
+104624,3,Interstitial endothelial cells,train,evaluation
+198153,6,Proximal Tubule Segments,test,evaluation
+220080,3,Interstitial endothelial cells,test,evaluation
+37871,7,Thick Ascending Limb,train,evaluation
+232212,0,"Collecting Duct, Connecting Tubule",test,evaluation
+139910,4,Leukocytes,train,evaluation
+126347,3,Interstitial endothelial cells,train,evaluation
+230071,7,Thick Ascending Limb,test,evaluation
+55584,6,Proximal Tubule Segments,train,evaluation
+85604,6,Proximal Tubule Segments,train,evaluation
+83320,0,"Collecting Duct, Connecting Tubule",train,evaluation
+28438,0,"Collecting Duct, Connecting Tubule",train,evaluation
+168180,3,Interstitial endothelial cells,val,evaluation
+185958,4,Leukocytes,val,evaluation
+43637,0,"Collecting Duct, Connecting Tubule",train,evaluation
+41305,0,"Collecting Duct, Connecting Tubule",train,evaluation
+232864,0,"Collecting Duct, Connecting Tubule",test,evaluation
+225254,1,Distal Convoluted Tubule,test,evaluation
+218879,0,"Collecting Duct, Connecting Tubule",test,evaluation
+202801,6,Proximal Tubule Segments,test,evaluation
+103131,3,Interstitial endothelial cells,train,evaluation
+155956,6,Proximal Tubule Segments,train,evaluation
+69271,0,"Collecting Duct, Connecting Tubule",train,evaluation
+7109,6,Proximal Tubule Segments,train,evaluation
+223900,7,Thick Ascending Limb,test,evaluation
+139634,6,Proximal Tubule Segments,train,evaluation
+85463,7,Thick Ascending Limb,train,evaluation
+23019,6,Proximal Tubule Segments,train,evaluation
+136532,0,"Collecting Duct, Connecting Tubule",train,evaluation
+92237,0,"Collecting Duct, Connecting Tubule",train,evaluation
+98693,6,Proximal Tubule Segments,train,evaluation
+92413,7,Thick Ascending Limb,train,evaluation
+432,0,"Collecting Duct, Connecting Tubule",train,evaluation
+184773,2,Glomerular endothelial cells,val,evaluation
+26114,6,Proximal Tubule Segments,train,evaluation
+189742,4,Leukocytes,test,evaluation
+66541,5,Podocytes,train,evaluation
+103302,0,"Collecting Duct, Connecting Tubule",train,evaluation
+4709,4,Leukocytes,train,evaluation
+113649,0,"Collecting Duct, Connecting Tubule",train,evaluation
+122422,0,"Collecting Duct, Connecting Tubule",train,evaluation
+188797,0,"Collecting Duct, Connecting Tubule",val,evaluation
+154969,6,Proximal Tubule Segments,train,evaluation
+86957,6,Proximal Tubule Segments,train,evaluation
+190268,0,"Collecting Duct, Connecting Tubule",test,evaluation
+198328,3,Interstitial endothelial cells,test,evaluation
+183379,0,"Collecting Duct, Connecting Tubule",val,evaluation
+232008,3,Interstitial endothelial cells,test,evaluation
+159567,0,"Collecting Duct, Connecting Tubule",train,evaluation
+86704,1,Distal Convoluted Tubule,train,evaluation
+75084,6,Proximal Tubule Segments,train,evaluation
+66897,3,Interstitial endothelial cells,train,evaluation
+169943,3,Interstitial endothelial cells,val,evaluation
+97990,3,Interstitial endothelial cells,train,evaluation
+53490,0,"Collecting Duct, Connecting Tubule",train,evaluation
+186862,7,Thick Ascending Limb,val,evaluation
+7361,0,"Collecting Duct, Connecting Tubule",train,evaluation
+147474,3,Interstitial endothelial cells,train,evaluation
+105624,6,Proximal Tubule Segments,train,evaluation
+94036,6,Proximal Tubule Segments,train,evaluation
+212335,2,Glomerular endothelial cells,test,evaluation
+223314,4,Leukocytes,test,evaluation
+192851,4,Leukocytes,test,evaluation
+135444,0,"Collecting Duct, Connecting Tubule",train,evaluation
+163385,0,"Collecting Duct, Connecting Tubule",train,evaluation
+187312,0,"Collecting Duct, Connecting Tubule",val,evaluation
+75849,6,Proximal Tubule Segments,train,evaluation
+177998,3,Interstitial endothelial cells,val,evaluation
+39666,6,Proximal Tubule Segments,train,evaluation
+168526,7,Thick Ascending Limb,val,evaluation
+91076,6,Proximal Tubule Segments,train,evaluation
+129,4,Leukocytes,train,evaluation
+85844,3,Interstitial endothelial cells,train,evaluation
+115017,0,"Collecting Duct, Connecting Tubule",train,evaluation
+110697,7,Thick Ascending Limb,train,evaluation
+231024,6,Proximal Tubule Segments,test,evaluation
+14505,0,"Collecting Duct, Connecting Tubule",train,evaluation
+49297,5,Podocytes,train,evaluation
+133494,2,Glomerular endothelial cells,train,evaluation
+10894,7,Thick Ascending Limb,train,evaluation
+84339,0,"Collecting Duct, Connecting Tubule",train,evaluation
+99845,0,"Collecting Duct, Connecting Tubule",train,evaluation
+183901,0,"Collecting Duct, Connecting Tubule",val,evaluation
+96427,3,Interstitial endothelial cells,train,evaluation
+206737,6,Proximal Tubule Segments,test,evaluation
+10617,6,Proximal Tubule Segments,train,evaluation
+117915,6,Proximal Tubule Segments,train,evaluation
+29919,6,Proximal Tubule Segments,train,evaluation
+120038,0,"Collecting Duct, Connecting Tubule",train,evaluation
+26995,6,Proximal Tubule Segments,train,evaluation
+221266,1,Distal Convoluted Tubule,test,evaluation
+227167,7,Thick Ascending Limb,test,evaluation
+112564,6,Proximal Tubule Segments,train,evaluation
+24224,3,Interstitial endothelial cells,train,evaluation
+144781,0,"Collecting Duct, Connecting Tubule",train,evaluation
+83602,0,"Collecting Duct, Connecting Tubule",train,evaluation
+31865,0,"Collecting Duct, Connecting Tubule",train,evaluation
+180226,7,Thick Ascending Limb,val,evaluation
+122638,6,Proximal Tubule Segments,train,evaluation
+102665,0,"Collecting Duct, Connecting Tubule",train,evaluation
+185571,0,"Collecting Duct, Connecting Tubule",val,evaluation
+127759,4,Leukocytes,train,evaluation
+224497,2,Glomerular endothelial cells,test,evaluation
+78383,7,Thick Ascending Limb,train,evaluation
+127914,4,Leukocytes,train,evaluation
+135504,6,Proximal Tubule Segments,train,evaluation
+30473,2,Glomerular endothelial cells,train,evaluation
+116142,6,Proximal Tubule Segments,train,evaluation
+229847,4,Leukocytes,test,evaluation
+105207,0,"Collecting Duct, Connecting Tubule",train,evaluation
+220901,7,Thick Ascending Limb,test,evaluation
+33745,1,Distal Convoluted Tubule,train,evaluation
+215403,7,Thick Ascending Limb,test,evaluation
+230262,7,Thick Ascending Limb,test,evaluation
+200497,0,"Collecting Duct, Connecting Tubule",test,evaluation
+14471,3,Interstitial endothelial cells,train,evaluation
+201361,7,Thick Ascending Limb,test,evaluation
+54264,6,Proximal Tubule Segments,train,evaluation
+3108,7,Thick Ascending Limb,train,evaluation
+46811,6,Proximal Tubule Segments,train,evaluation
+215627,0,"Collecting Duct, Connecting Tubule",test,evaluation
+17711,6,Proximal Tubule Segments,train,evaluation
+185921,7,Thick Ascending Limb,val,evaluation
+98398,4,Leukocytes,train,evaluation
+209192,3,Interstitial endothelial cells,test,evaluation
+89063,0,"Collecting Duct, Connecting Tubule",train,evaluation
+111613,0,"Collecting Duct, Connecting Tubule",train,evaluation
+47565,0,"Collecting Duct, Connecting Tubule",train,evaluation
+201326,6,Proximal Tubule Segments,test,evaluation
+39259,0,"Collecting Duct, Connecting Tubule",train,evaluation
+203509,0,"Collecting Duct, Connecting Tubule",test,evaluation
+210683,5,Podocytes,test,evaluation
+74851,0,"Collecting Duct, Connecting Tubule",train,evaluation
+80785,6,Proximal Tubule Segments,train,evaluation
+166161,4,Leukocytes,val,evaluation
+12535,6,Proximal Tubule Segments,train,evaluation
+86319,6,Proximal Tubule Segments,train,evaluation
+192575,6,Proximal Tubule Segments,test,evaluation
+22245,3,Interstitial endothelial cells,train,evaluation
+147829,0,"Collecting Duct, Connecting Tubule",train,evaluation
+154799,7,Thick Ascending Limb,train,evaluation
+76370,0,"Collecting Duct, Connecting Tubule",train,evaluation
+20587,7,Thick Ascending Limb,train,evaluation
+122816,1,Distal Convoluted Tubule,train,evaluation
+141634,0,"Collecting Duct, Connecting Tubule",train,evaluation
+4349,6,Proximal Tubule Segments,train,evaluation
+223957,0,"Collecting Duct, Connecting Tubule",test,evaluation
+113894,6,Proximal Tubule Segments,train,evaluation
+198486,6,Proximal Tubule Segments,test,evaluation
+165948,0,"Collecting Duct, Connecting Tubule",val,evaluation
+72574,6,Proximal Tubule Segments,train,evaluation
+84533,0,"Collecting Duct, Connecting Tubule",train,evaluation
+232943,7,Thick Ascending Limb,test,evaluation
+232155,0,"Collecting Duct, Connecting Tubule",test,evaluation
+156059,7,Thick Ascending Limb,train,evaluation
+170417,0,"Collecting Duct, Connecting Tubule",val,evaluation
+54852,0,"Collecting Duct, Connecting Tubule",train,evaluation
+217992,0,"Collecting Duct, Connecting Tubule",test,evaluation
+87257,4,Leukocytes,train,evaluation
+155349,6,Proximal Tubule Segments,train,evaluation
+18465,0,"Collecting Duct, Connecting Tubule",train,evaluation

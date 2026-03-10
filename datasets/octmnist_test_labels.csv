@@ -1,0 +1,902 @@
+image_index,label_index,label_name,original_split,split
+20711,3,normal,train,test
+62183,3,normal,train,test
+3529,0,choroidal neovascularization,train,test
+106696,3,normal,val,test
+12557,3,normal,train,test
+88328,0,choroidal neovascularization,train,test
+2542,1,diabetic macular edema,train,test
+30747,3,normal,train,test
+20811,3,normal,train,test
+23330,3,normal,train,test
+4292,1,diabetic macular edema,train,test
+102943,0,choroidal neovascularization,val,test
+48317,3,normal,train,test
+79082,3,normal,train,test
+30974,0,choroidal neovascularization,train,test
+45369,0,choroidal neovascularization,train,test
+37564,0,choroidal neovascularization,train,test
+86818,3,normal,train,test
+11990,0,choroidal neovascularization,train,test
+19015,3,normal,train,test
+73137,2,drusen,train,test
+68781,1,diabetic macular edema,train,test
+61506,0,choroidal neovascularization,train,test
+105022,3,normal,val,test
+45831,0,choroidal neovascularization,train,test
+88351,3,normal,train,test
+10867,3,normal,train,test
+75142,1,diabetic macular edema,train,test
+96706,0,choroidal neovascularization,train,test
+65191,3,normal,train,test
+76188,0,choroidal neovascularization,train,test
+66727,3,normal,train,test
+75898,3,normal,train,test
+23764,0,choroidal neovascularization,train,test
+57585,3,normal,train,test
+74574,0,choroidal neovascularization,train,test
+6208,3,normal,train,test
+83873,0,choroidal neovascularization,train,test
+93042,0,choroidal neovascularization,train,test
+106293,3,normal,val,test
+18626,3,normal,train,test
+26237,0,choroidal neovascularization,train,test
+3259,2,drusen,train,test
+13864,1,diabetic macular edema,train,test
+103555,0,choroidal neovascularization,val,test
+14981,0,choroidal neovascularization,train,test
+73286,3,normal,train,test
+91394,3,normal,train,test
+94952,0,choroidal neovascularization,train,test
+66630,3,normal,train,test
+15005,0,choroidal neovascularization,train,test
+29653,0,choroidal neovascularization,train,test
+87375,0,choroidal neovascularization,train,test
+58533,3,normal,train,test
+81878,1,diabetic macular edema,train,test
+36677,3,normal,train,test
+51586,1,diabetic macular edema,train,test
+35823,0,choroidal neovascularization,train,test
+35817,0,choroidal neovascularization,train,test
+108457,0,choroidal neovascularization,test,test
+13268,3,normal,train,test
+95364,0,choroidal neovascularization,train,test
+37052,2,drusen,train,test
+63882,3,normal,train,test
+57661,3,normal,train,test
+105240,3,normal,val,test
+37538,3,normal,train,test
+54978,0,choroidal neovascularization,train,test
+99616,3,normal,val,test
+56518,1,diabetic macular edema,train,test
+78008,3,normal,train,test
+59111,0,choroidal neovascularization,train,test
+80348,3,normal,train,test
+80750,3,normal,train,test
+37006,3,normal,train,test
+25247,2,drusen,train,test
+43056,2,drusen,train,test
+3278,2,drusen,train,test
+18057,3,normal,train,test
+70757,0,choroidal neovascularization,train,test
+88182,0,choroidal neovascularization,train,test
+44677,0,choroidal neovascularization,train,test
+44889,0,choroidal neovascularization,train,test
+18916,3,normal,train,test
+106067,3,normal,val,test
+62041,0,choroidal neovascularization,train,test
+37363,3,normal,train,test
+56045,0,choroidal neovascularization,train,test
+29,0,choroidal neovascularization,train,test
+515,0,choroidal neovascularization,train,test
+74740,3,normal,train,test
+80826,0,choroidal neovascularization,train,test
+44843,3,normal,train,test
+79841,3,normal,train,test
+60377,3,normal,train,test
+44962,0,choroidal neovascularization,train,test
+21488,3,normal,train,test
+61870,0,choroidal neovascularization,train,test
+83539,1,diabetic macular edema,train,test
+101056,0,choroidal neovascularization,val,test
+99185,1,diabetic macular edema,val,test
+82726,3,normal,train,test
+84989,0,choroidal neovascularization,train,test
+3190,0,choroidal neovascularization,train,test
+101400,2,drusen,val,test
+102792,0,choroidal neovascularization,val,test
+37202,2,drusen,train,test
+57521,3,normal,train,test
+53765,3,normal,train,test
+89296,0,choroidal neovascularization,train,test
+73328,3,normal,train,test
+12458,0,choroidal neovascularization,train,test
+89985,0,choroidal neovascularization,train,test
+51385,0,choroidal neovascularization,train,test
+26028,0,choroidal neovascularization,train,test
+45886,0,choroidal neovascularization,train,test
+76581,0,choroidal neovascularization,train,test
+85300,2,drusen,train,test
+25073,3,normal,train,test
+72026,3,normal,train,test
+33486,3,normal,train,test
+83400,3,normal,train,test
+87189,0,choroidal neovascularization,train,test
+19931,0,choroidal neovascularization,train,test
+57486,3,normal,train,test
+70674,3,normal,train,test
+22045,3,normal,train,test
+70905,0,choroidal neovascularization,train,test
+55058,3,normal,train,test
+75718,3,normal,train,test
+77464,1,diabetic macular edema,train,test
+58461,0,choroidal neovascularization,train,test
+32219,0,choroidal neovascularization,train,test
+95700,3,normal,train,test
+18714,3,normal,train,test
+17036,2,drusen,train,test
+96650,3,normal,train,test
+66697,0,choroidal neovascularization,train,test
+41160,0,choroidal neovascularization,train,test
+44702,3,normal,train,test
+78042,3,normal,train,test
+61279,3,normal,train,test
+14419,3,normal,train,test
+84809,0,choroidal neovascularization,train,test
+58820,3,normal,train,test
+58556,3,normal,train,test
+11815,0,choroidal neovascularization,train,test
+100662,2,drusen,val,test
+71153,3,normal,train,test
+87587,3,normal,train,test
+11366,3,normal,train,test
+10940,3,normal,train,test
+108463,1,diabetic macular edema,test,test
+42688,0,choroidal neovascularization,train,test
+38520,0,choroidal neovascularization,train,test
+9335,1,diabetic macular edema,train,test
+29897,3,normal,train,test
+21616,3,normal,train,test
+94286,0,choroidal neovascularization,train,test
+17909,1,diabetic macular edema,train,test
+22510,3,normal,train,test
+82375,3,normal,train,test
+108999,3,normal,test,test
+100572,2,drusen,val,test
+65813,3,normal,train,test
+79946,3,normal,train,test
+99753,3,normal,val,test
+2556,3,normal,train,test
+16403,3,normal,train,test
+91798,1,diabetic macular edema,train,test
+89781,2,drusen,train,test
+25354,2,drusen,train,test
+26272,0,choroidal neovascularization,train,test
+25394,3,normal,train,test
+56081,3,normal,train,test
+74725,1,diabetic macular edema,train,test
+45788,2,drusen,train,test
+6848,0,choroidal neovascularization,train,test
+51740,1,diabetic macular edema,train,test
+7215,3,normal,train,test
+23134,3,normal,train,test
+3300,3,normal,train,test
+98490,3,normal,val,test
+65025,3,normal,train,test
+100903,3,normal,val,test
+5342,0,choroidal neovascularization,train,test
+63446,2,drusen,train,test
+32581,3,normal,train,test
+73355,3,normal,train,test
+109092,1,diabetic macular edema,test,test
+10535,3,normal,train,test
+16467,3,normal,train,test
+108594,3,normal,test,test
+84581,0,choroidal neovascularization,train,test
+14255,2,drusen,train,test
+96946,2,drusen,train,test
+54528,3,normal,train,test
+97152,3,normal,train,test
+22167,3,normal,train,test
+85213,3,normal,train,test
+98640,3,normal,val,test
+102880,1,diabetic macular edema,val,test
+84602,3,normal,train,test
+63557,1,diabetic macular edema,train,test
+46207,0,choroidal neovascularization,train,test
+82559,0,choroidal neovascularization,train,test
+855,0,choroidal neovascularization,train,test
+67576,3,normal,train,test
+107512,0,choroidal neovascularization,val,test
+93500,3,normal,train,test
+66434,2,drusen,train,test
+50383,1,diabetic macular edema,train,test
+74597,1,diabetic macular edema,train,test
+103030,3,normal,val,test
+42050,0,choroidal neovascularization,train,test
+13920,2,drusen,train,test
+107362,3,normal,val,test
+50016,0,choroidal neovascularization,train,test
+76475,3,normal,train,test
+23126,0,choroidal neovascularization,train,test
+73728,3,normal,train,test
+2706,3,normal,train,test
+63124,3,normal,train,test
+42368,3,normal,train,test
+58894,1,diabetic macular edema,train,test
+4676,0,choroidal neovascularization,train,test
+26980,3,normal,train,test
+55075,3,normal,train,test
+2330,1,diabetic macular edema,train,test
+88963,3,normal,train,test
+97571,0,choroidal neovascularization,val,test
+99981,3,normal,val,test
+53893,0,choroidal neovascularization,train,test
+94560,3,normal,train,test
+66855,1,diabetic macular edema,train,test
+81299,3,normal,train,test
+661,3,normal,train,test
+86127,2,drusen,train,test
+35736,0,choroidal neovascularization,train,test
+67436,3,normal,train,test
+78691,0,choroidal neovascularization,train,test
+43051,3,normal,train,test
+39119,0,choroidal neovascularization,train,test
+13583,2,drusen,train,test
+53575,0,choroidal neovascularization,train,test
+85679,3,normal,train,test
+108961,2,drusen,test,test
+40752,0,choroidal neovascularization,train,test
+5861,0,choroidal neovascularization,train,test
+41356,0,choroidal neovascularization,train,test
+106584,3,normal,val,test
+76145,1,diabetic macular edema,train,test
+94295,3,normal,train,test
+46650,2,drusen,train,test
+88789,1,diabetic macular edema,train,test
+85313,0,choroidal neovascularization,train,test
+58493,3,normal,train,test
+22080,3,normal,train,test
+39995,3,normal,train,test
+31801,0,choroidal neovascularization,train,test
+60640,0,choroidal neovascularization,train,test
+69926,3,normal,train,test
+14123,0,choroidal neovascularization,train,test
+80225,1,diabetic macular edema,train,test
+36315,3,normal,train,test
+65836,0,choroidal neovascularization,train,test
+47691,0,choroidal neovascularization,train,test
+89017,3,normal,train,test
+104457,0,choroidal neovascularization,val,test
+103209,0,choroidal neovascularization,val,test
+19261,0,choroidal neovascularization,train,test
+95056,3,normal,train,test
+62526,0,choroidal neovascularization,train,test
+43404,1,diabetic macular edema,train,test
+74980,3,normal,train,test
+47376,3,normal,train,test
+59883,0,choroidal neovascularization,train,test
+80992,3,normal,train,test
+64967,0,choroidal neovascularization,train,test
+82573,1,diabetic macular edema,train,test
+23738,3,normal,train,test
+21842,2,drusen,train,test
+51179,3,normal,train,test
+31029,0,choroidal neovascularization,train,test
+77122,1,diabetic macular edema,train,test
+19397,3,normal,train,test
+36245,3,normal,train,test
+4179,0,choroidal neovascularization,train,test
+24057,0,choroidal neovascularization,train,test
+36541,3,normal,train,test
+44507,3,normal,train,test
+10407,3,normal,train,test
+20534,1,diabetic macular edema,train,test
+53858,3,normal,train,test
+96529,3,normal,train,test
+56377,0,choroidal neovascularization,train,test
+44940,3,normal,train,test
+100037,1,diabetic macular edema,val,test
+37516,3,normal,train,test
+47653,3,normal,train,test
+2604,3,normal,train,test
+58127,0,choroidal neovascularization,train,test
+102672,3,normal,val,test
+21129,3,normal,train,test
+104241,0,choroidal neovascularization,val,test
+85620,3,normal,train,test
+17895,0,choroidal neovascularization,train,test
+39248,3,normal,train,test
+61978,3,normal,train,test
+59540,3,normal,train,test
+102063,0,choroidal neovascularization,val,test
+62325,0,choroidal neovascularization,train,test
+36268,3,normal,train,test
+19187,0,choroidal neovascularization,train,test
+91877,0,choroidal neovascularization,train,test
+52610,3,normal,train,test
+12743,3,normal,train,test
+48469,0,choroidal neovascularization,train,test
+28980,3,normal,train,test
+2510,0,choroidal neovascularization,train,test
+16618,3,normal,train,test
+83269,3,normal,train,test
+89909,3,normal,train,test
+34482,0,choroidal neovascularization,train,test
+7110,3,normal,train,test
+93821,3,normal,train,test
+5725,0,choroidal neovascularization,train,test
+9176,0,choroidal neovascularization,train,test
+15277,3,normal,train,test
+77185,0,choroidal neovascularization,train,test
+106020,1,diabetic macular edema,val,test
+9837,1,diabetic macular edema,train,test
+67318,3,normal,train,test
+9917,0,choroidal neovascularization,train,test
+71195,0,choroidal neovascularization,train,test
+107610,3,normal,val,test
+92037,3,normal,train,test
+4332,3,normal,train,test
+48515,2,drusen,train,test
+88035,3,normal,train,test
+22900,3,normal,train,test
+18576,3,normal,train,test
+68776,3,normal,train,test
+71808,3,normal,train,test
+51214,1,diabetic macular edema,train,test
+39213,0,choroidal neovascularization,train,test
+3490,3,normal,train,test
+51275,3,normal,train,test
+102326,3,normal,val,test
+50817,0,choroidal neovascularization,train,test
+59891,3,normal,train,test
+38259,0,choroidal neovascularization,train,test
+77446,0,choroidal neovascularization,train,test
+104062,3,normal,val,test
+42199,2,drusen,train,test
+41391,0,choroidal neovascularization,train,test
+48232,0,choroidal neovascularization,train,test
+48978,3,normal,train,test
+67387,0,choroidal neovascularization,train,test
+12082,0,choroidal neovascularization,train,test
+33499,2,drusen,train,test
+44467,3,normal,train,test
+65044,3,normal,train,test
+55379,0,choroidal neovascularization,train,test
+70769,1,diabetic macular edema,train,test
+21199,3,normal,train,test
+31444,3,normal,train,test
+74585,0,choroidal neovascularization,train,test
+32101,0,choroidal neovascularization,train,test
+27543,3,normal,train,test
+31758,3,normal,train,test
+59288,0,choroidal neovascularization,train,test
+24870,3,normal,train,test
+34616,0,choroidal neovascularization,train,test
+23732,3,normal,train,test
+85956,3,normal,train,test
+88866,2,drusen,train,test
+107609,1,diabetic macular edema,val,test
+12618,2,drusen,train,test
+47402,0,choroidal neovascularization,train,test
+13263,1,diabetic macular edema,train,test
+24905,3,normal,train,test
+3443,3,normal,train,test
+43405,0,choroidal neovascularization,train,test
+13234,3,normal,train,test
+13140,3,normal,train,test
+84000,3,normal,train,test
+44810,3,normal,train,test
+59168,1,diabetic macular edema,train,test
+45754,0,choroidal neovascularization,train,test
+92732,0,choroidal neovascularization,train,test
+66280,0,choroidal neovascularization,train,test
+49629,3,normal,train,test
+60180,0,choroidal neovascularization,train,test
+71240,1,diabetic macular edema,train,test
+64832,0,choroidal neovascularization,train,test
+49174,3,normal,train,test
+19476,0,choroidal neovascularization,train,test
+70183,0,choroidal neovascularization,train,test
+103749,0,choroidal neovascularization,val,test
+72545,0,choroidal neovascularization,train,test
+100564,3,normal,val,test
+66121,3,normal,train,test
+11226,0,choroidal neovascularization,train,test
+85871,3,normal,train,test
+105060,0,choroidal neovascularization,val,test
+4042,3,normal,train,test
+1445,3,normal,train,test
+47149,1,diabetic macular edema,train,test
+66113,3,normal,train,test
+12293,1,diabetic macular edema,train,test
+24477,0,choroidal neovascularization,train,test
+82619,0,choroidal neovascularization,train,test
+102664,3,normal,val,test
+59638,3,normal,train,test
+49706,3,normal,train,test
+22795,1,diabetic macular edema,train,test
+2520,2,drusen,train,test
+82466,3,normal,train,test
+44679,0,choroidal neovascularization,train,test
+3146,3,normal,train,test
+65141,3,normal,train,test
+5435,3,normal,train,test
+91949,3,normal,train,test
+59566,3,normal,train,test
+68354,0,choroidal neovascularization,train,test
+46971,1,diabetic macular edema,train,test
+79463,2,drusen,train,test
+43641,0,choroidal neovascularization,train,test
+87438,3,normal,train,test
+21395,1,diabetic macular edema,train,test
+42545,0,choroidal neovascularization,train,test
+56060,3,normal,train,test
+62541,3,normal,train,test
+24882,3,normal,train,test
+30224,0,choroidal neovascularization,train,test
+11830,0,choroidal neovascularization,train,test
+10414,2,drusen,train,test
+71508,3,normal,train,test
+51659,3,normal,train,test
+29118,1,diabetic macular edema,train,test
+5451,0,choroidal neovascularization,train,test
+45320,0,choroidal neovascularization,train,test
+41821,3,normal,train,test
+21256,3,normal,train,test
+86139,0,choroidal neovascularization,train,test
+104090,0,choroidal neovascularization,val,test
+70214,3,normal,train,test
+19033,3,normal,train,test
+11234,0,choroidal neovascularization,train,test
+53628,0,choroidal neovascularization,train,test
+52800,3,normal,train,test
+68736,3,normal,train,test
+87979,0,choroidal neovascularization,train,test
+48052,2,drusen,train,test
+62371,3,normal,train,test
+23653,3,normal,train,test
+36119,1,diabetic macular edema,train,test
+32566,3,normal,train,test
+35365,3,normal,train,test
+26380,1,diabetic macular edema,train,test
+73017,3,normal,train,test
+62913,3,normal,train,test
+185,3,normal,train,test
+89877,2,drusen,train,test
+22989,0,choroidal neovascularization,train,test
+56480,1,diabetic macular edema,train,test
+102856,3,normal,val,test
+44867,0,choroidal neovascularization,train,test
+35548,3,normal,train,test
+70470,3,normal,train,test
+98303,0,choroidal neovascularization,val,test
+32550,3,normal,train,test
+21206,0,choroidal neovascularization,train,test
+60700,3,normal,train,test
+75575,0,choroidal neovascularization,train,test
+73386,2,drusen,train,test
+16870,3,normal,train,test
+38970,0,choroidal neovascularization,train,test
+69182,3,normal,train,test
+80914,3,normal,train,test
+69585,0,choroidal neovascularization,train,test
+39170,3,normal,train,test
+79120,0,choroidal neovascularization,train,test
+96033,0,choroidal neovascularization,train,test
+96849,1,diabetic macular edema,train,test
+30912,1,diabetic macular edema,train,test
+97091,3,normal,train,test
+68178,3,normal,train,test
+76032,0,choroidal neovascularization,train,test
+78634,3,normal,train,test
+109027,3,normal,test,test
+79724,3,normal,train,test
+90626,3,normal,train,test
+13665,3,normal,train,test
+88782,3,normal,train,test
+97276,3,normal,train,test
+23212,0,choroidal neovascularization,train,test
+57308,0,choroidal neovascularization,train,test
+66887,3,normal,train,test
+54351,3,normal,train,test
+109167,2,drusen,test,test
+21440,1,diabetic macular edema,train,test
+28879,3,normal,train,test
+65724,2,drusen,train,test
+17551,3,normal,train,test
+86897,0,choroidal neovascularization,train,test
+67267,3,normal,train,test
+104824,0,choroidal neovascularization,val,test
+26814,3,normal,train,test
+9686,0,choroidal neovascularization,train,test
+29288,0,choroidal neovascularization,train,test
+90764,0,choroidal neovascularization,train,test
+77668,3,normal,train,test
+87484,3,normal,train,test
+57567,2,drusen,train,test
+40198,3,normal,train,test
+35361,3,normal,train,test
+102414,0,choroidal neovascularization,val,test
+15256,3,normal,train,test
+90151,3,normal,train,test
+34385,2,drusen,train,test
+38194,3,normal,train,test
+20613,0,choroidal neovascularization,train,test
+104083,3,normal,val,test
+53361,0,choroidal neovascularization,train,test
+81201,3,normal,train,test
+4669,3,normal,train,test
+107390,0,choroidal neovascularization,val,test
+103158,0,choroidal neovascularization,val,test
+85395,1,diabetic macular edema,train,test
+105963,3,normal,val,test
+57229,0,choroidal neovascularization,train,test
+12394,3,normal,train,test
+48647,3,normal,train,test
+63973,3,normal,train,test
+51679,2,drusen,train,test
+94639,0,choroidal neovascularization,train,test
+92074,0,choroidal neovascularization,train,test
+94236,1,diabetic macular edema,train,test
+42297,3,normal,train,test
+72129,3,normal,train,test
+46021,0,choroidal neovascularization,train,test
+4252,3,normal,train,test
+35852,3,normal,train,test
+82277,3,normal,train,test
+65876,3,normal,train,test
+63335,0,choroidal neovascularization,train,test
+54333,2,drusen,train,test
+53066,3,normal,train,test
+31842,3,normal,train,test
+50847,0,choroidal neovascularization,train,test
+50465,3,normal,train,test
+75982,3,normal,train,test
+93241,0,choroidal neovascularization,train,test
+80906,0,choroidal neovascularization,train,test
+84384,0,choroidal neovascularization,train,test
+72656,0,choroidal neovascularization,train,test
+65393,0,choroidal neovascularization,train,test
+38083,0,choroidal neovascularization,train,test
+82877,2,drusen,train,test
+13482,3,normal,train,test
+92045,1,diabetic macular edema,train,test
+42984,3,normal,train,test
+10177,1,diabetic macular edema,train,test
+46626,3,normal,train,test
+4182,3,normal,train,test
+35165,0,choroidal neovascularization,train,test
+14376,3,normal,train,test
+61328,2,drusen,train,test
+27494,1,diabetic macular edema,train,test
+36826,0,choroidal neovascularization,train,test
+74044,0,choroidal neovascularization,train,test
+23553,0,choroidal neovascularization,train,test
+71435,3,normal,train,test
+62307,0,choroidal neovascularization,train,test
+60125,3,normal,train,test
+8213,3,normal,train,test
+101223,0,choroidal neovascularization,val,test
+5744,0,choroidal neovascularization,train,test
+37645,2,drusen,train,test
+95400,3,normal,train,test
+60722,3,normal,train,test
+12384,3,normal,train,test
+55427,2,drusen,train,test
+97755,3,normal,val,test
+19995,0,choroidal neovascularization,train,test
+58429,2,drusen,train,test
+38573,1,diabetic macular edema,train,test
+84627,0,choroidal neovascularization,train,test
+53940,3,normal,train,test
+39200,1,diabetic macular edema,train,test
+11924,2,drusen,train,test
+32978,0,choroidal neovascularization,train,test
+77953,2,drusen,train,test
+74134,1,diabetic macular edema,train,test
+56766,0,choroidal neovascularization,train,test
+58693,2,drusen,train,test
+44372,3,normal,train,test
+78488,0,choroidal neovascularization,train,test
+41812,3,normal,train,test
+71072,0,choroidal neovascularization,train,test
+77512,0,choroidal neovascularization,train,test
+105431,0,choroidal neovascularization,val,test
+31180,3,normal,train,test
+60230,3,normal,train,test
+99995,0,choroidal neovascularization,val,test
+27235,3,normal,train,test
+108649,3,normal,test,test
+107788,3,normal,val,test
+59525,0,choroidal neovascularization,train,test
+33397,3,normal,train,test
+15945,3,normal,train,test
+41218,3,normal,train,test
+104931,3,normal,val,test
+33382,2,drusen,train,test
+57149,3,normal,train,test
+30368,1,diabetic macular edema,train,test
+94218,0,choroidal neovascularization,train,test
+2763,3,normal,train,test
+106553,0,choroidal neovascularization,val,test
+12362,3,normal,train,test
+13852,0,choroidal neovascularization,train,test
+65716,3,normal,train,test
+76483,3,normal,train,test
+89774,0,choroidal neovascularization,train,test
+54877,0,choroidal neovascularization,train,test
+74049,0,choroidal neovascularization,train,test
+21571,1,diabetic macular edema,train,test
+82996,0,choroidal neovascularization,train,test
+67263,3,normal,train,test
+69314,0,choroidal neovascularization,train,test
+74836,3,normal,train,test
+106957,3,normal,val,test
+41103,3,normal,train,test
+102886,0,choroidal neovascularization,val,test
+73799,1,diabetic macular edema,train,test
+47943,0,choroidal neovascularization,train,test
+26530,0,choroidal neovascularization,train,test
+39972,3,normal,train,test
+39449,3,normal,train,test
+83673,0,choroidal neovascularization,train,test
+11395,2,drusen,train,test
+87608,0,choroidal neovascularization,train,test
+88512,3,normal,train,test
+18211,0,choroidal neovascularization,train,test
+82523,3,normal,train,test
+52636,3,normal,train,test
+35221,3,normal,train,test
+38628,1,diabetic macular edema,train,test
+68865,0,choroidal neovascularization,train,test
+38981,3,normal,train,test
+108644,2,drusen,test,test
+54692,3,normal,train,test
+69188,0,choroidal neovascularization,train,test
+70667,3,normal,train,test
+73566,3,normal,train,test
+104151,3,normal,val,test
+34192,3,normal,train,test
+51554,3,normal,train,test
+55261,3,normal,train,test
+5751,0,choroidal neovascularization,train,test
+64814,3,normal,train,test
+107234,3,normal,val,test
+72924,1,diabetic macular edema,train,test
+36168,3,normal,train,test
+78554,0,choroidal neovascularization,train,test
+104655,3,normal,val,test
+102142,0,choroidal neovascularization,val,test
+97046,0,choroidal neovascularization,train,test
+27576,2,drusen,train,test
+58853,3,normal,train,test
+79563,0,choroidal neovascularization,train,test
+99711,1,diabetic macular edema,val,test
+91678,0,choroidal neovascularization,train,test
+105024,1,diabetic macular edema,val,test
+74104,0,choroidal neovascularization,train,test
+23893,1,diabetic macular edema,train,test
+40346,2,drusen,train,test
+100807,3,normal,val,test
+61514,2,drusen,train,test
+34986,0,choroidal neovascularization,train,test
+67771,3,normal,train,test
+7773,1,diabetic macular edema,train,test
+8357,0,choroidal neovascularization,train,test
+31021,0,choroidal neovascularization,train,test
+31368,3,normal,train,test
+61633,3,normal,train,test
+52640,1,diabetic macular edema,train,test
+68415,0,choroidal neovascularization,train,test
+89214,0,choroidal neovascularization,train,test
+97343,3,normal,train,test
+73797,2,drusen,train,test
+29484,1,diabetic macular edema,train,test
+61948,3,normal,train,test
+102256,0,choroidal neovascularization,val,test
+90072,0,choroidal neovascularization,train,test
+80892,3,normal,train,test
+82518,0,choroidal neovascularization,train,test
+106359,3,normal,val,test
+79862,1,diabetic macular edema,train,test
+92359,3,normal,train,test
+66227,3,normal,train,test
+74818,0,choroidal neovascularization,train,test
+77154,0,choroidal neovascularization,train,test
+71199,3,normal,train,test
+98568,3,normal,val,test
+100657,3,normal,val,test
+60029,3,normal,train,test
+40631,2,drusen,train,test
+1765,1,diabetic macular edema,train,test
+21033,0,choroidal neovascularization,train,test
+88496,3,normal,train,test
+34470,0,choroidal neovascularization,train,test
+78800,0,choroidal neovascularization,train,test
+88222,2,drusen,train,test
+8844,2,drusen,train,test
+84250,1,diabetic macular edema,train,test
+72064,0,choroidal neovascularization,train,test
+39411,1,diabetic macular edema,train,test
+81127,0,choroidal neovascularization,train,test
+33081,1,diabetic macular edema,train,test
+50226,0,choroidal neovascularization,train,test
+43338,2,drusen,train,test
+56208,0,choroidal neovascularization,train,test
+23161,3,normal,train,test
+63316,3,normal,train,test
+98527,0,choroidal neovascularization,val,test
+43362,3,normal,train,test
+39457,0,choroidal neovascularization,train,test
+11858,3,normal,train,test
+45326,0,choroidal neovascularization,train,test
+46277,3,normal,train,test
+83938,0,choroidal neovascularization,train,test
+40904,1,diabetic macular edema,train,test
+34980,1,diabetic macular edema,train,test
+28479,2,drusen,train,test
+1583,1,diabetic macular edema,train,test
+24925,3,normal,train,test
+52186,0,choroidal neovascularization,train,test
+63143,3,normal,train,test
+55152,0,choroidal neovascularization,train,test
+94663,0,choroidal neovascularization,train,test
+16954,0,choroidal neovascularization,train,test
+49882,0,choroidal neovascularization,train,test
+63546,1,diabetic macular edema,train,test
+56921,3,normal,train,test
+102598,3,normal,val,test
+103721,3,normal,val,test
+70173,1,diabetic macular edema,train,test
+58681,3,normal,train,test
+2128,3,normal,train,test
+80449,0,choroidal neovascularization,train,test
+62204,2,drusen,train,test
+69946,0,choroidal neovascularization,train,test
+5070,1,diabetic macular edema,train,test
+46024,0,choroidal neovascularization,train,test
+105960,0,choroidal neovascularization,val,test
+92828,0,choroidal neovascularization,train,test
+25910,3,normal,train,test
+106526,0,choroidal neovascularization,val,test
+55129,0,choroidal neovascularization,train,test
+105704,3,normal,val,test
+32810,0,choroidal neovascularization,train,test
+13993,3,normal,train,test
+11192,3,normal,train,test
+55109,3,normal,train,test
+36347,3,normal,train,test
+8506,3,normal,train,test
+66631,1,diabetic macular edema,train,test
+60894,3,normal,train,test
+26823,0,choroidal neovascularization,train,test
+98888,3,normal,val,test
+72586,3,normal,train,test
+107630,3,normal,val,test
+89969,0,choroidal neovascularization,train,test
+102596,3,normal,val,test
+61964,0,choroidal neovascularization,train,test
+31423,0,choroidal neovascularization,train,test
+37169,3,normal,train,test
+18593,3,normal,train,test
+20893,0,choroidal neovascularization,train,test
+81297,0,choroidal neovascularization,train,test
+35871,3,normal,train,test
+65953,2,drusen,train,test
+38648,0,choroidal neovascularization,train,test
+18672,3,normal,train,test
+3946,3,normal,train,test
+42965,3,normal,train,test
+12681,3,normal,train,test
+29640,0,choroidal neovascularization,train,test
+99408,3,normal,val,test
+52642,3,normal,train,test
+35674,1,diabetic macular edema,train,test
+58602,3,normal,train,test
+68438,1,diabetic macular edema,train,test
+15432,3,normal,train,test
+86296,3,normal,train,test
+20183,1,diabetic macular edema,train,test
+104273,0,choroidal neovascularization,val,test
+105645,0,choroidal neovascularization,val,test
+74100,3,normal,train,test
+99051,0,choroidal neovascularization,val,test
+65548,3,normal,train,test
+106135,0,choroidal neovascularization,val,test
+16961,0,choroidal neovascularization,train,test
+14612,0,choroidal neovascularization,train,test
+104777,2,drusen,val,test
+68520,3,normal,train,test
+55239,3,normal,train,test
+44316,3,normal,train,test
+50046,0,choroidal neovascularization,train,test
+106971,0,choroidal neovascularization,val,test
+104208,3,normal,val,test
+99095,0,choroidal neovascularization,val,test
+22926,0,choroidal neovascularization,train,test
+41619,1,diabetic macular edema,train,test
+27649,3,normal,train,test
+53043,0,choroidal neovascularization,train,test
+101342,3,normal,val,test
+339,3,normal,train,test
+22844,2,drusen,train,test
+52028,0,choroidal neovascularization,train,test
+22110,3,normal,train,test
+56218,3,normal,train,test
+11631,3,normal,train,test
+47750,1,diabetic macular edema,train,test
+34895,0,choroidal neovascularization,train,test
+1666,0,choroidal neovascularization,train,test
+14418,0,choroidal neovascularization,train,test
+96099,3,normal,train,test
+24770,3,normal,train,test
+87192,3,normal,train,test
+52656,0,choroidal neovascularization,train,test
+88180,3,normal,train,test
+48358,1,diabetic macular edema,train,test
+63306,3,normal,train,test
+3916,3,normal,train,test
+80418,3,normal,train,test
+65107,0,choroidal neovascularization,train,test
+100896,3,normal,val,test
+68897,3,normal,train,test
+44766,3,normal,train,test
+15781,2,drusen,train,test
+99917,2,drusen,val,test
+81212,0,choroidal neovascularization,train,test
+99136,1,diabetic macular edema,val,test
+25454,0,choroidal neovascularization,train,test
+73436,2,drusen,train,test
+33255,0,choroidal neovascularization,train,test
+6703,2,drusen,train,test
+63814,3,normal,train,test
+53053,0,choroidal neovascularization,train,test
+52074,0,choroidal neovascularization,train,test
+93686,0,choroidal neovascularization,train,test
+53063,3,normal,train,test
+56458,1,diabetic macular edema,train,test
+98706,0,choroidal neovascularization,val,test
+22889,0,choroidal neovascularization,train,test
+92604,0,choroidal neovascularization,train,test
+34996,0,choroidal neovascularization,train,test
+17253,3,normal,train,test
+22329,0,choroidal neovascularization,train,test
+51683,0,choroidal neovascularization,train,test
+40816,2,drusen,train,test
+18164,1,diabetic macular edema,train,test
+65645,3,normal,train,test
+5139,3,normal,train,test
+80227,3,normal,train,test
+16344,0,choroidal neovascularization,train,test
+44026,3,normal,train,test
+70013,3,normal,train,test
+53591,3,normal,train,test
+100743,3,normal,val,test
+78265,1,diabetic macular edema,train,test
+106802,3,normal,val,test
+29330,0,choroidal neovascularization,train,test
+87619,3,normal,train,test
+39770,1,diabetic macular edema,train,test
+78710,3,normal,train,test
+85857,0,choroidal neovascularization,train,test
+36192,3,normal,train,test
+86663,0,choroidal neovascularization,train,test
+59589,2,drusen,train,test
+26372,3,normal,train,test
+97322,3,normal,train,test
+23485,3,normal,train,test
+15226,0,choroidal neovascularization,train,test
+84291,3,normal,train,test
+58555,3,normal,train,test
+19421,0,choroidal neovascularization,train,test
+33851,3,normal,train,test
+70578,0,choroidal neovascularization,train,test
+4946,3,normal,train,test
+98753,0,choroidal neovascularization,val,test
+20752,3,normal,train,test
+28518,3,normal,train,test
+68674,3,normal,train,test
+43771,2,drusen,train,test
+5650,0,choroidal neovascularization,train,test
+27127,3,normal,train,test
