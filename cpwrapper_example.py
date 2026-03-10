@@ -85,7 +85,6 @@ wrapper = CPWrapper(model, alpha=alpha, scoring_fn=oneminussoftmax, device=devic
 
 print("\nCalibrating on held-out calibration set (unseen during training)...")
 wrapper.fit(calib_set)   # Dataset passed directly — no manual DataLoader needed
-print(f"  qhat (threshold) = {wrapper.threshold:.4f}")
 
 
 # ── 6. Evaluate coverage on the test set ─────────────────────────────────────
