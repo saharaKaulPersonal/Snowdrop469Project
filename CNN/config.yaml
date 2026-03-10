@@ -1,0 +1,31 @@
+seed: 42
+device: auto
+
+train_csv: data/train.csv
+val_csv: data/val.csv
+image_root: data/images
+
+image_size: 224
+batch_size: 32
+num_workers: 4
+pin_memory: true
+persistent_workers: true
+prefetch_factor: 4
+
+learning_rate: 0.0003
+weight_decay: 0.0001
+epochs: 15
+threshold: 0.5
+amp: true
+cudnn_benchmark: true
+resume_checkpoint: null
+save_last_checkpoint: true
+last_model_name: last_model.pt
+
+model:
+  num_classes: 5
+  base_channels: 32
+
+early_stopping_patience: 5
+save_dir: checkpoints
+best_model_name: best_model.pt
