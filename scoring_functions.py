@@ -10,11 +10,12 @@ def oneminussoftmax(model_output, true_label):
         model_output (torch.Tensor): The output of the model (logits).
         true_label (int): The index of the true label.
     Returns:
-        torch.Tensor: The computed 1 - softmax value for the true label.
+        Tensor: The computed 1 - softmax value for the true label.
     """
   
     # This is assuming the model output is not already passed through softmax
     #model_output = list(F.softmax(model_output, dim=0))
+    
     # Get the softmax value for the true label
     true_label_softmax = model_output[true_label]
 
@@ -31,7 +32,7 @@ def APS(model_output, true_label):
         model_output (torch.Tensor): The output of the model
         true_label (int): The index of the true label
     Returns:
-        torch.Tensor: The computed Average Precision Score for the true label.
+        Tensor: The computed Average Precision Score for the true label.
     """
     
     # uncomment if model output is not softmax
@@ -54,5 +55,25 @@ def APS(model_output, true_label):
         
     
     return float(aps_score)
+
+
+def margin(model_output, true_label):
+    """
+    Compares the best true class with the true label 
+
+    Args:
+        model_output (torch.Tensor): The output of the model
+        true_label (int): The index of the true label
+    Returns:
+        Tensor: The computed margin score for the true label .
+    """
+    
+    batch_size = model_output.shape[0]
+    true_values = model_output[torch.arange(batch_size), true_label]
+    mo = model_output.clone()
+    mo[torch.arange(batch_size), true_label] = float('-inf')
+    max_val = mo.max(dim=1).values
+
+    return max_val - true_values
 
 
