@@ -17,7 +17,7 @@ from torch.utils.data import DataLoader, random_split
 import numpy as np
 
 from CPWrapper import CPWrapper
-from scoring_functions import oneminussoftmax, APS
+from scoring_functions import oneminussoftmax, APS, margin
 
 
 # ── 1. Data ──────────────────────────────────────────────────────────────────
@@ -27,11 +27,11 @@ transform = transforms.Compose([
     transforms.Normalize((0.1307,), (0.3081,))
 ])
 
-full_train = torchvision.datasets.MNIST(root='./data', train=True,  download=True, transform=transform)
-test_set   = torchvision.datasets.MNIST(root='./data', train=False, download=True, transform=transform)
+full_train = torchvision.datasets.CIFAR10(root='./data', train=True,  download=True, transform=transform)
+test_set   = torchvision.datasets.CIFAR10(root='./data', train=False, download=True, transform=transform)
 
 # Reserve 10 000 training samples for calibration — never seen by the model
-train_set, calib_set = random_split(full_train, [50_000, 10_000])
+train_set, calib_set = random_split(full_train, [40_000, 10_000])
 
 train_loader = DataLoader(train_set, batch_size=128, shuffle=True)
 test_loader  = DataLoader(test_set,  batch_size=256, shuffle=False)
@@ -43,10 +43,10 @@ class SmallCNN(nn.Module):
     def __init__(self):
         super().__init__()
         self.net = nn.Sequential(
-            nn.Conv2d(1, 16, 3, padding=1), nn.ReLU(), nn.MaxPool2d(2),
+            nn.Conv2d(3, 16, 3, padding=1), nn.ReLU(), nn.MaxPool2d(2),
             nn.Conv2d(16, 32, 3, padding=1), nn.ReLU(), nn.MaxPool2d(2),
             nn.Flatten(),
-            nn.Linear(32 * 7 * 7, 128), nn.ReLU(),
+            nn.Linear(32 * 8 * 8, 128), nn.ReLU(),
             nn.Linear(128, 10),
             nn.Softmax(dim=1)   # wrapper contract: model outputs softmax vector
         )
@@ -81,11 +81,10 @@ for epoch in range(3):
 
 
 alpha   = 0.1   # target error rate → we want ≥ 90 % coverage
-wrapper = CPWrapper(model, alpha=alpha, scoring_fn=oneminussoftmax, device=device)
+wrapper = CPWrapper(model, alpha=alpha, scoring_fn=margin, device=device)
 
 print("\nCalibrating on held-out calibration set (unseen during training)...")
 wrapper.fit(calib_set)   # Dataset passed directly — no manual DataLoader needed
-print(f"  qhat (threshold) = {wrapper.threshold:.4f}")
 
 
 # ── 6. Evaluate coverage on the test set ─────────────────────────────────────
