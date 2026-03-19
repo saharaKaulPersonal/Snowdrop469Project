@@ -52,7 +52,12 @@ class CPWrapper:
 
         pred_sets = []
         for p in probs:
-            included = np.where(p >= (1 - self.threshold))[0]
+            scores = np.array([
+                self.scoring_fn(p.reshape(1, -1), np.array([k]))[0]
+                for k in range(len(p))
+            ])
+
+            included = np.where(scores <= self.threshold)[0]
             pred_sets.append(included.tolist())
 
         return pred_sets
