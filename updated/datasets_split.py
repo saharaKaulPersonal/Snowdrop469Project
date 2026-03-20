@@ -1,8 +1,9 @@
 from pathlib import Path
 import numpy as np
-from torch.utils.data import Dataset
+from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms
 from PIL import Image
+
 
 # ====================
 # Transform configs
@@ -42,48 +43,94 @@ class MedMNISTNpzDataset(Dataset):
             img = self.transform(img)
         return img, label
 
+# === Dataset loader ===
+def make_dataloaders(npz_file, dataset_name):
+    data = np.load(npz_file)
+    num_classes = int(np.max(data["train_labels"]) + 1)
+
+    datasets = create_splits(npz_file)
+    batch_size = 256
+    num_workers = 4
+
+    loaders = {
+        split: DataLoader(datasets[split], batch_size=batch_size,
+                          shuffle=(split == "train"), num_workers=num_workers)
+        for split in ["train", "val", "test", "calib", "eval"]
+    }
+
+    # pathmnist is RGB, everything else is grayscale
+    in_channels = 3 if dataset_name == "pathmnist" else 1
+
+    return loaders, num_classes, in_channels
+
 # ====================
 # Create splits function
 # ====================
 def create_splits(npz_file, test_fraction=0.25, calib_fraction=0.6, seed=42):
     """
-    Splits dataset into train/val/test, with calibration data drawn only from test set.
-    - test_fraction: fraction of total data used for test+calibration
-    - calib_fraction: fraction of the test set used as calibration
+    Splits dataset into train/val/test/calib/eval.
+    Split indices are saved alongside the .npz file on first run and
+    reloaded on every subsequent run â€” so the split is always identical.
+
+    Cache file: <npz_stem>_split_indices.npz  (next to the dataset file)
     """
+    npz_path = Path(npz_file)
+    cache_path = npz_path.with_name(npz_path.stem + "_split_indices.npz")
+
     data = np.load(npz_file)
-    # combine all data into one pool
     images = np.concatenate([data["train_images"], data["val_images"], data["test_images"]], axis=0)
-    labels = np.concatenate([data["train_labels"].flatten(),
-                             data["val_labels"].flatten(),
-                             data["test_labels"].flatten()])
+    labels = np.concatenate([
+        data["train_labels"].flatten(),
+        data["val_labels"].flatten(),
+        data["test_labels"].flatten()
+    ])
 
-    rng = np.random.default_rng(seed)
-    total_idx = np.arange(len(images))
-    rng.shuffle(total_idx)
+    
+    if cache_path.exists():
+        print(f"[create_splits] Loading cached split indices from {cache_path}")
+        cached = np.load(cache_path)
+        train_idx = cached["train_idx"]
+        val_idx   = cached["val_idx"]
+        test_idx  = cached["test_idx"]
+        calib_idx = cached["calib_idx"]
 
-    # --- Split off test pool ---
-    n_test_total = int(test_fraction * len(total_idx))
-    test_pool_idx = total_idx[:n_test_total]
-    remaining_idx = total_idx[n_test_total:]
+    
+    else:
+        print(f"[create_splits] Computing splits and saving indices to {cache_path}")
+        rng = np.random.default_rng(seed)
+        total_idx = np.arange(len(images))
+        rng.shuffle(total_idx)
 
-    # --- Split test pool into calibration + actual test ---
-    n_calib = int(calib_fraction * len(test_pool_idx))
-    calib_idx = test_pool_idx[:n_calib]
-    test_idx = test_pool_idx[n_calib:]
+        # Split off test pool
+        n_test_total = int(test_fraction * len(total_idx))
+        test_pool_idx = total_idx[:n_test_total]
+        remaining_idx = total_idx[n_test_total:]
 
-    # --- Split remaining data into train/val ---
-    n_val = int(0.15 * len(remaining_idx))  # 15% of remaining for val
-    val_idx = remaining_idx[:n_val]
-    train_idx = remaining_idx[n_val:]
+        # Split test pool â†’ calibration + actual test
+        n_calib   = int(calib_fraction * len(test_pool_idx))
+        calib_idx = test_pool_idx[:n_calib]
+        test_idx  = test_pool_idx[n_calib:]
 
-    # --- Build datasets ---
+        # Split remaining â†’ train / val
+        n_val      = int(0.15 * len(remaining_idx))
+        val_idx    = remaining_idx[:n_val]
+        train_idx  = remaining_idx[n_val:]
+
+        np.savez(
+            cache_path,
+            train_idx=train_idx,
+            val_idx=val_idx,
+            test_idx=test_idx,
+            calib_idx=calib_idx,
+        )
+
+    
     datasets = {
         "train": MedMNISTNpzDataset(images[train_idx], labels[train_idx], transform=train_transform),
-        "val": MedMNISTNpzDataset(images[val_idx], labels[val_idx], transform=eval_transform),
-        "test": MedMNISTNpzDataset(images[test_idx], labels[test_idx], transform=eval_transform),
+        "val":   MedMNISTNpzDataset(images[val_idx],   labels[val_idx],   transform=eval_transform),
+        "test":  MedMNISTNpzDataset(images[test_idx],  labels[test_idx],  transform=eval_transform),
         "calib": MedMNISTNpzDataset(images[calib_idx], labels[calib_idx], transform=eval_transform),
-        "eval": MedMNISTNpzDataset(images[test_idx], labels[test_idx], transform=eval_transform)
+        "eval":  MedMNISTNpzDataset(images[test_idx],  labels[test_idx],  transform=eval_transform),
     }
 
     return datasets
