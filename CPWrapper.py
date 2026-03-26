@@ -58,6 +58,8 @@ class CPWrapper:
             ])
 
             included = np.where(scores <= self.threshold)[0]
+            if len(included) == 0:
+                included = np.array([np.argmax(p)])
             pred_sets.append(included.tolist())
 
         return pred_sets
